@@ -1,0 +1,60 @@
+alias,location,provincia,url,geocode,geometry
+AMARO,AMARO LOCALITA' DAUR DE GLESIE,Friuli,https://www.cafcspa.com/solud/analisi/D702.pdf,,
+AMARO,AMARO LOCALITA' RONC,Friuli,https://www.cafcspa.com/solud/analisi/D702.pdf,,
+AMARO,AMARO LOCALITA' TOUF,Friuli,https://www.cafcspa.com/solud/analisi/D702.pdf,,
+AMARO,AMARO PIAZZA CENTA,Friuli,https://www.cafcspa.com/solud/analisi/D702.pdf,"Piazza Centa, Amaro, UTI della Carnia, Friuli Venezia Giulia, Italia","{'type': 'Point', 'coordinates': [13.095616, 46.3751656]}"
+AMARO,AMARO PIAZZA FONTANA,Friuli,https://www.cafcspa.com/solud/analisi/D702.pdf,,
+AMARO,AMARO PIAZZA MAGGIORE,Friuli,https://www.cafcspa.com/solud/analisi/D702.pdf,"Piazza Maggiore, Amaro, UTI della Carnia, Friuli Venezia Giulia, Italia","{'type': 'Point', 'coordinates': [13.0963233, 46.3738335]}"
+AMARO,AMARO SS 52 CARNICA KM 5-906,Friuli,https://www.cafcspa.com/solud/analisi/D702.pdf,,
+AMARO,AMARO VIA ALESSANDRO MANZONI,Friuli,https://www.cafcspa.com/solud/analisi/D702.pdf,"Via Alessandro Manzoni, Amaro, UTI della Carnia, Friuli Venezia Giulia, Italia","{'type': 'Point', 'coordinates': [13.0949223, 46.3749448]}"
+AMARO,AMARO VIA ALPINA,Friuli,https://www.cafcspa.com/solud/analisi/D702.pdf,"Via Alpina, Amaro, UTI della Carnia, Friuli Venezia Giulia, Italia","{'type': 'Point', 'coordinates': [13.0944842, 46.376077]}"
+AMARO,AMARO VIA BEARZI,Friuli,https://www.cafcspa.com/solud/analisi/D702.pdf,"Via Bearzi, Amaro, UTI della Carnia, Friuli Venezia Giulia, Italia","{'type': 'Point', 'coordinates': [13.0953597, 46.3732238]}"
+AMARO,AMARO VIA CARMIGNANO DI BRENTA,Friuli,https://www.cafcspa.com/solud/analisi/D702.pdf,"via Carmignano di Brenta, Amaro, UTI della Carnia, Friuli Venezia Giulia, Italia","{'type': 'Point', 'coordinates': [13.0992841, 46.3754568]}"
+AMARO,AMARO VIA CASE SPARSE,Friuli,https://www.cafcspa.com/solud/analisi/D702.pdf,"Via Case Sparse, Amaro, UTI della Carnia, Friuli Venezia Giulia, Italia","{'type': 'Point', 'coordinates': [13.0882054, 46.3768217]}"
+AMARO,AMARO VIA CASTELLO,Friuli,https://www.cafcspa.com/solud/analisi/D702.pdf,"Via Castello, Amaro, UTI della Carnia, Friuli Venezia Giulia, Italia","{'type': 'Point', 'coordinates': [13.0935785, 46.3742489]}"
+AMARO,AMARO VIA CENTA,Friuli,https://www.cafcspa.com/solud/analisi/D702.pdf,"Via Centa, Amaro, UTI della Carnia, Friuli Venezia Giulia, Italia","{'type': 'Point', 'coordinates': [13.0959307, 46.3745532]}"
+AMARO,AMARO VIA CENTRO STUDI,Friuli,https://www.cafcspa.com/solud/analisi/D702.pdf,"Via Centro Studi, Amaro, UTI della Carnia, Friuli Venezia Giulia, Italia","{'type': 'Point', 'coordinates': [13.0968046, 46.3750926]}"
+AMARO,AMARO VIA CHIUSA,Friuli,https://www.cafcspa.com/solud/analisi/D702.pdf,"Via Chiusa, Amaro, UTI della Carnia, Friuli Venezia Giulia, Italia","{'type': 'Point', 'coordinates': [13.0941341, 46.3729573]}"
+AMARO,AMARO VIA CITTA' DI ALBA,Friuli,https://www.cafcspa.com/solud/analisi/D702.pdf,"Via Città di Alba, Amaro, UTI della Carnia, Friuli Venezia Giulia, Italia","{'type': 'Point', 'coordinates': [13.0988057, 46.3747584]}"
+AMARO,AMARO VIA CITTA DI ALBA,Friuli,https://www.cafcspa.com/solud/analisi/D702.pdf,"Via Città di Alba, Amaro, UTI della Carnia, Friuli Venezia Giulia, Italia","{'type': 'Point', 'coordinates': [13.0988057, 46.3747584]}"
+AMARO,AMARO VIA COOPERATIVA CARNICA,Friuli,https://www.cafcspa.com/solud/analisi/D702.pdf,"Via Cooperativa Carnica, Amaro, UTI della Carnia, Friuli Venezia Giulia, Italia","{'type': 'Point', 'coordinates': [13.0665758, 46.370417]}"
+AMARO,AMARO VIA DELLA FABBRICA,Friuli,https://www.cafcspa.com/solud/analisi/D702.pdf,"Via della Fabbrica, Amaro, UTI della Carnia, Friuli Venezia Giulia, Italia","{'type': 'Point', 'coordinates': [13.0889336, 46.3711873]}"
+AMARO,AMARO VIA DELLA FONTANA,Friuli,https://www.cafcspa.com/solud/analisi/D702.pdf,,
+AMARO,AMARO VIA DELLE CASE SPARSE,Friuli,https://www.cafcspa.com/solud/analisi/D702.pdf,,
+AMARO,AMARO VIA DI MEZZO,Friuli,https://www.cafcspa.com/solud/analisi/D702.pdf,"Via di Mezzo, Amaro, UTI della Carnia, Friuli Venezia Giulia, Italia","{'type': 'Point', 'coordinates': [13.0952819, 46.3747838]}"
+AMARO,AMARO VIA EUGENIO MONTALE,Friuli,https://www.cafcspa.com/solud/analisi/D702.pdf,"Via Eugenio Montale, Amaro, UTI della Carnia, Friuli Venezia Giulia, Italia","{'type': 'Point', 'coordinates': [13.0894347, 46.3723799]}"
+AMARO,AMARO VIA FONTANA,Friuli,https://www.cafcspa.com/solud/analisi/D702.pdf,"Via Fontana, Amaro, UTI della Carnia, Friuli Venezia Giulia, Italia","{'type': 'Point', 'coordinates': [13.0949442, 46.374132]}"
+AMARO,AMARO VIA FOSCOLO,Friuli,https://www.cafcspa.com/solud/analisi/D702.pdf,"Via Ugo Foscolo, Amaro, UTI della Carnia, Friuli Venezia Giulia, Italia","{'type': 'Point', 'coordinates': [13.086085, 46.3715893]}"
+AMARO,AMARO VIA FRATELLI SOLARI,Friuli,https://www.cafcspa.com/solud/analisi/D702.pdf,"Via fratelli Solari, Amaro, UTI della Carnia, Friuli Venezia Giulia, Italia","{'type': 'Point', 'coordinates': [13.0744202, 46.3704851]}"
+AMARO,AMARO VIA GIACOMO LEOPARDI,Friuli,https://www.cafcspa.com/solud/analisi/D702.pdf,"Via Giacomo Leopardi, Amaro, UTI della Carnia, Friuli Venezia Giulia, Italia","{'type': 'Point', 'coordinates': [13.0921542, 46.3736995]}"
+AMARO,AMARO VIA J. LINUSSIO,Friuli,https://www.cafcspa.com/solud/analisi/D702.pdf,,
+AMARO,AMARO VIA JACOPO LINUSSIO,Friuli,https://www.cafcspa.com/solud/analisi/D702.pdf,"Via Jacopo Linussio, Amaro, UTI della Carnia, Friuli Venezia Giulia, Italia","{'type': 'Point', 'coordinates': [13.0776598, 46.3708727]}"
+AMARO,AMARO VIA LATTERIA,Friuli,https://www.cafcspa.com/solud/analisi/D702.pdf,"Via della Latteria, Amaro, UTI della Carnia, Friuli Venezia Giulia, Italia","{'type': 'Point', 'coordinates': [13.0949937, 46.374517]}"
+AMARO,AMARO VIA MANSIONARIO,Friuli,https://www.cafcspa.com/solud/analisi/D702.pdf,"Via Mansionario, Amaro, UTI della Carnia, Friuli Venezia Giulia, Italia","{'type': 'Point', 'coordinates': [13.0944347, 46.3743862]}"
+AMARO,AMARO VIA MANZONI,Friuli,https://www.cafcspa.com/solud/analisi/D702.pdf,"Via Alessandro Manzoni, Amaro, UTI della Carnia, Friuli Venezia Giulia, Italia","{'type': 'Point', 'coordinates': [13.0949223, 46.3749448]}"
+AMARO,AMARO VIA NAZIONALE,Friuli,https://www.cafcspa.com/solud/analisi/D702.pdf,"Via Nazionale, Amaro, UTI della Carnia, Friuli Venezia Giulia, Italia","{'type': 'Point', 'coordinates': [13.1001219, 46.3733632]}"
+AMARO,AMARO VIA NUOVA,Friuli,https://www.cafcspa.com/solud/analisi/D702.pdf,"Via Nuova, Amaro, UTI della Carnia, Friuli Venezia Giulia, Italia","{'type': 'Point', 'coordinates': [13.097873, 46.3738104]}"
+AMARO,AMARO VIA OSCURA,Friuli,https://www.cafcspa.com/solud/analisi/D702.pdf,"Via Oscura, Amaro, UTI della Carnia, Friuli Venezia Giulia, Italia","{'type': 'Point', 'coordinates': [13.0948335, 46.3735535]}"
+AMARO,AMARO VIA PALE DAL TOUF,Friuli,https://www.cafcspa.com/solud/analisi/D702.pdf,,
+AMARO,AMARO VIA P.CANDONI,Friuli,https://www.cafcspa.com/solud/analisi/D702.pdf,"Via Prometeo Candoni, Amaro, UTI della Carnia, Friuli Venezia Giulia, Italia","{'type': 'Point', 'coordinates': [13.0726036, 46.370204]}"
+AMARO,AMARO VIA PROMETEO CANDONI,Friuli,https://www.cafcspa.com/solud/analisi/D702.pdf,"Via Prometeo Candoni, Amaro, UTI della Carnia, Friuli Venezia Giulia, Italia","{'type': 'Point', 'coordinates': [13.0726036, 46.370204]}"
+AMARO,AMARO VIA ROMA,Friuli,https://www.cafcspa.com/solud/analisi/D702.pdf,"Via Roma, Amaro, UTI della Carnia, Friuli Venezia Giulia, Italia","{'type': 'Point', 'coordinates': [13.1013047, 46.3740159]}"
+AMARO,AMARO VIA ROSTA DELLA MAINA,Friuli,https://www.cafcspa.com/solud/analisi/D702.pdf,,
+AMARO,AMARO VIA S. FRANCESCO,Friuli,https://www.cafcspa.com/solud/analisi/D702.pdf,"Via San Francesco, Amaro, UTI della Carnia, Friuli Venezia Giulia, Italia","{'type': 'Point', 'coordinates': [13.0912793, 46.3722914]}"
+AMARO,AMARO VIA S. VALENTINO,Friuli,https://www.cafcspa.com/solud/analisi/D702.pdf,"Via San Valentino, Amaro, UTI della Carnia, Friuli Venezia Giulia, Italia","{'type': 'Point', 'coordinates': [13.1005653, 46.3731351]}"
+AMARO,AMARO VIA SAN FRANCESCO,Friuli,https://www.cafcspa.com/solud/analisi/D702.pdf,"Via San Francesco, Amaro, UTI della Carnia, Friuli Venezia Giulia, Italia","{'type': 'Point', 'coordinates': [13.0912793, 46.3722914]}"
+AMARO,AMARO VIA SAN NICOLO',Friuli,https://www.cafcspa.com/solud/analisi/D702.pdf,"Via San Nicolò, Amaro, UTI della Carnia, Friuli Venezia Giulia, Italia","{'type': 'Point', 'coordinates': [13.095593, 46.3757522]}"
+AMARO,AMARO VIA SAN VALENTINO,Friuli,https://www.cafcspa.com/solud/analisi/D702.pdf,"Via San Valentino, Amaro, UTI della Carnia, Friuli Venezia Giulia, Italia","{'type': 'Point', 'coordinates': [13.1005653, 46.3731351]}"
+AMARO,AMARO VIA SELET,Friuli,https://www.cafcspa.com/solud/analisi/D702.pdf,"Via Selet, Amaro, UTI della Carnia, Friuli Venezia Giulia, Italia","{'type': 'Point', 'coordinates': [13.0732969, 46.371705]}"
+AMARO,"AMARO VIA SELET, 5",Friuli,https://www.cafcspa.com/solud/analisi/D702.pdf,"5, Via Selet, Amaro, UTI della Carnia, Friuli Venezia Giulia, 33020, Italia","{'type': 'Point', 'coordinates': [13.0743034, 46.3719756]}"
+AMARO,AMARO VIA SERBATOIO,Friuli,https://www.cafcspa.com/solud/analisi/D702.pdf,"Via Serbatoio, Amaro, UTI della Carnia, Friuli Venezia Giulia, Italia","{'type': 'Point', 'coordinates': [13.0929958, 46.3762611]}"
+AMARO,AMARO VIA SILVIO PELLICO,Friuli,https://www.cafcspa.com/solud/analisi/D702.pdf,"Via Silvio Pellico, Amaro, UTI della Carnia, Friuli Venezia Giulia, Italia","{'type': 'Point', 'coordinates': [13.0939466, 46.3747228]}"
+AMARO,AMARO VIA STAZIONE,Friuli,https://www.cafcspa.com/solud/analisi/D702.pdf,"Via della Stazione, Amaro, UTI della Carnia, Friuli Venezia Giulia, Italia","{'type': 'Point', 'coordinates': [13.0952173, 46.3714693]}"
+AMARO,AMARO VIA U FOSCOLO,Friuli,https://www.cafcspa.com/solud/analisi/D702.pdf,,
+AMARO,AMARO VIA UGO FOSCOLO,Friuli,https://www.cafcspa.com/solud/analisi/D702.pdf,"Via Ugo Foscolo, Amaro, UTI della Carnia, Friuli Venezia Giulia, Italia","{'type': 'Point', 'coordinates': [13.086085, 46.3715893]}"
+AMARO,AMARO VIA VIOLA,Friuli,https://www.cafcspa.com/solud/analisi/D702.pdf,"Via Viola, Amaro, UTI della Carnia, Friuli Venezia Giulia, Italia","{'type': 'Point', 'coordinates': [13.0966872, 46.3742397]}"
+AMARO,AMARO VIALE VALLI DI CARNIA,Friuli,https://www.cafcspa.com/solud/analisi/D702.pdf,"Via Valli di Carnia, Amaro, UTI della Carnia, Friuli Venezia Giulia, Italia","{'type': 'Point', 'coordinates': [13.0725401, 46.3687836]}"
+AMARO,AMARO VICOLO COSTANTINIS,Friuli,https://www.cafcspa.com/solud/analisi/D702.pdf,"Vicolo Costantinis, Amaro, UTI della Carnia, Friuli Venezia Giulia, Italia","{'type': 'Point', 'coordinates': [13.0941571, 46.3744789]}"
+AMARO,AMARO VILLAGGIO LINUSSIO,Friuli,https://www.cafcspa.com/solud/analisi/D702.pdf,"Via Jacopo Linussio, Amaro, UTI della Carnia, Friuli Venezia Giulia, Italia","{'type': 'Point', 'coordinates': [13.0776598, 46.3708727]}"
+AMARO,AMARO VILLAGGIO RUBNER,Friuli,https://www.cafcspa.com/solud/analisi/D702.pdf,"Villaggio Rubner, UTI della Carnia, Friuli Venezia Giulia, Italia","{'type': 'Point', 'coordinates': [13.0914248, 46.3724842]}"
+AMARO,AMARO ZONA INDUSTRIALE,Friuli,https://www.cafcspa.com/solud/analisi/D702.pdf,"Zona Industriale Carnia, Venzone, UTI del Gemonese, Friuli Venezia Giulia, Italia","{'type': 'Point', 'coordinates': [13.1342454780086, 46.3844057]}"

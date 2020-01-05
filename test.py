@@ -1,13 +1,10 @@
 import pandas as pd
-import tabula
-file = "filename.pdf"
-path = 'enter your directory path here'  + file
-df = tabula.read_pdf(path, pages = '1', multiple_tables = True)
-print(df)
+datiGeo = pd.read_csv('Definitions/GeoReferencedLocationsList.csv')
+datiGeo = datiGeo.set_index('name')
+datiGeo = datiGeo.to_dict(orient='index')
+#Recupera dati geo di tipo Point
+label,name
 
-
-LocationlistAlias = ["Isola\rMorosini","Gorizia","Farra","Cormons","Dolegna","Monfalcone","Ronchi dei\rLegionari","Grado","San Pier\rd'Isonzo"]
-
-im = 'Isola \nMorosini'
-n
-im.replace('/n',' ')
+geocode = datiGeo['alias']['geocode']
+latitude = datiGeo[label.getAlias()]['latitude']
+longitude = datiGeo[label.getAlias()]['longitude']
