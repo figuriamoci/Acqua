@@ -6,10 +6,10 @@ DescrizioneParametro = {'RESIDUO_FISSO': 'Residuo fisso', 'DUREZZA': 'Durezza', 
                         'MANGANESE': 'Manganese', 'ARSENICO': 'Arsenico', 'BICARBONATO': 'bicarbonato',
                         'CLORO_RESIDUO': 'cloro residuo libero'}
 # UnitÃ  di misura parametri
-UMParametro = {'RESIDUO_FISSO': 'mg/l', 'DUREZZA': 'F', 'PH': "unità pH", 'CALCIO': 'mg/l Ca', 'SODIO': 'mg/l Na',
-               'MAGNESIO': 'mg/l Mg', 'POTASSIO': 'mg/l K', 'SOLFATO': 'mg/l SO4', 'NITRATO': 'mg/l NO3',
-               'NITRITO': 'mg/l NO2', 'CLORURO': 'mg/l Cl', 'CONDUCIBILITA': 'µS/cm 20°C', 'FLUORURI': 'mg/L F',
-               'AMMONIACA': 'mg/L NH4', 'MANGANESE': 'µg/L Mn', 'ARSENICO': 'µg/L As', 'BICARBONATO': 'mg/L',
+UMParametro = {'RESIDUO_FISSO': 'mg/l', 'DUREZZA': '°F', 'PH': "unità pH", 'CALCIO': 'mg/l', 'SODIO': 'mg/l',
+               'MAGNESIO': 'mg/l Mg', 'POTASSIO': 'mg/l K', 'SOLFATO': 'mg/l SO4', 'NITRATO': 'mg/l',
+               'NITRITO': 'mg/l', 'CLORURO': 'mg/l Cl', 'CONDUCIBILITA': 'µS/cm', 'FLUORURI': 'mg/L',
+               'AMMONIACA': 'mg/L', 'MANGANESE': 'µg/L', 'ARSENICO': 'µg/L', 'BICARBONATO': 'mg/L',
                'CLORO_RESIDUO': 'mg/l'}
 # Limiti di legge (D.lgs 31/01)
 VLParametro = {'RESIDUO_FISSO': '1500', 'DUREZZA': '15-50 valori consigliati', 'PH': '6,5-9,5',
@@ -23,7 +23,9 @@ VLParametro = {'RESIDUO_FISSO': '1500', 'DUREZZA': '15-50 valori consigliati', '
 SinonimiParametro = {}
 
 import csv
-with open('SynParametri.csv', newline='', mode='r', encoding='utf-8') as csv_file:
+import os
+print(os.path.abspath("Definitions/SynParametri.csv"))
+with open('Definitions/SynParametri.csv', newline='', mode='r', encoding='utf-8') as csv_file:
     reader = csv.DictReader(csv_file)
     for row in reader:
         for col in ('syn0', 'syn1', 'syn2', 'syn3', 'syn4', 'syn5', 'syn6', 'syn7', 'syn8', 'syn9'):

@@ -9,6 +9,7 @@ import acqua.label as al
 import acqua.labelCollection as coll
 import pandas as pd
 import tabula
+import os
 
 
 idGestore = 12816
@@ -18,9 +19,9 @@ data_report = 'settembre 2919'
 listParameters = ['Concentrazione di ioni idrogeno','Conduttività a 20° C','* Calcio (Ca)','* Magnesio (Mg)','Durezza (da calcolo)','Fluoruro','Nitrato','Cloruro','Solfati','*  Sodio (Na)','*  Potassio (K)','Manganese (Mn)','Nitrito','Ammonio','Arsenico (As)','* Residuo fisso a 180 °C']
 listLabels = {}
 
-df = pd.read_csv('Definitions/LocationList.csv')
+print(os.path.abspath("Definitions/FoundReportList.csv"))
+df = pd.read_csv('Definitions/FoundReportList.csv')
 ll=[]
-
 
 dx = df.pivot(index='url', columns='location')
 listReports = dx.index
@@ -41,5 +42,20 @@ for location in df['location']:
     print(location)
     
 fc = coll.to_geojson(ll)
+mdb = coll.to_MDBCollection(ll)
+
+
+#file = open('forMongDB.json', 'w')
+#file.write(glb)
+#file.close()
+print(glb)
+
+#import pymongo as py
+#conn = py.MongoClient("mongodb+srv://Acqua:nato1968@principal-4g7w8.mongodb.net/test?retryWrites=true&w=majority")
+#db = conn.Acqua
+#collection = db.etichette
+#collection.insert_many(ll)
+
+
 print(fc)
 coll.display(fc)

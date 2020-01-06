@@ -20,5 +20,15 @@ def to_geojson(geoLabel):
             if f != '': feature = feature + ','+ f
     return geojson+feature+']}'
 
+def to_MDBCollection(geoLabel):
+    json = '['
+    for i in geoLabel:
+        if json == '[':
+            json = json + al.to_geojson(i)
+        else:
+            f = al.to_geojson(i)
+            if f != '': json = json + ','+ f
+    return json+']'
+
 def display(geoLabel):
     geojsonio.display(geoLabel)

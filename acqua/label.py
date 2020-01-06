@@ -8,7 +8,7 @@ def create_label (id_gestore,data_report,parms):
     data['data_report'] = data_report
     
     parameters = {}
-    parameters = {sp.getSTDParm(k): v for k, v in parms.items()}
+    parameters = {sp.getSTDParm(k): str(v).replace(' ','') for k, v in parms.items()}
     data['parameters'] = parameters
     
     return data
@@ -35,7 +35,6 @@ def addGeocodeData(label,location):
             
 
 def to_geojson(geoLabel):
-  
     try:
         geometry = geoLabel['geometry']
         geojson = '{"type":"Feature","geometry": '+geometry.replace("'",'"')+','

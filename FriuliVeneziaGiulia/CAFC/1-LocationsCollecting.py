@@ -16,7 +16,7 @@ driver.get("https://www.cafcspa.com/solud/it-_qualita_acqua.cfm")
 soup = BeautifulSoup(driver.page_source, 'html.parser')
 listaComuni = soup.find(id="comuni").findAll('option')
 listaComuni = [comune.get_text() for comune in listaComuni]
-listaComuni = ['UDINE']#,'AMARO']
+listaComuni = ['FAGAGNA']#,'AMARO']
 
 print('Start: ',datetime.datetime.now())
 locationList = pd.DataFrame()
@@ -35,34 +35,19 @@ for comune in listaComuni:
     listaIndirizzi = [indirizzo.get_text() for indirizzo in listaIndirizzi]
     nComuni = nComuni+1
     print('Comune:',comune,'(',nComuni,'/',totComuni,')')
-    
+    i=0
     for indirizzo in listaIndirizzi:
-        #indirizzo = listaIndirizzi[1]
+        i=i+1
+        print('indirizzo:', indirizzo, '(', i, '/', len(listaIndirizzi), ')')
         if str(indirizzo).strip() != '':
             control_indirizzi = Select(driver.find_element_by_id('indirizzi'))  
             control_indirizzi.select_by_visible_text(indirizzo)
-            soup = BeautifulSoup(driver.page_source, 'html.parser')
-            #print(soup.prettify())
-            ###tipologia fonte
-            #fonte = soup.find("td", text="Fonte :")
-            #tipo_fonte = fonte.parent.find('h5').get_text()
-            #nome = soup.find("td", text="Nome:")
-            #nome_fonte = nome.parent.find('h5').get_text()
-            ##url documento analisi
-            ##Scarica il certificato di analisi dell'acqua: 
-            urlassoluto=''
-            a = soup.find('a')
-            urlrelativo = a.attrs['href']
-            urlassoluto = 'https://www.cafcspa.com/solud/'+urlrelativo
-                
+            soup = BeautifulSoup(driver.page_source, 'html.parser')             
             locationList_row = {}
             locationList_row['location'] = comune+' '+indirizzo
-            #locationList_row['indirizzo'] = indirizzo
-            locationList_row['provincia'] = 'Friuli'
-            #locationList_row['nome_fonte'] = nome_fonte
-            #locationList_row['tipo_fonte'] = tipo_fonte
-            locationList_row['alias'] = comune
-            locationList_row['url'] = urlassoluto
+            locationList_row['region'] = 'Friuli'
+            locationList_row['alias_city'] = comune
+            locationList_row['alias_address'] = indirizzo
             locationList = locationList.append(locationList_row,ignore_index=True)
             
 locationList.to_csv('Definitions/LocationList.csv',index=False)
