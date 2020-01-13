@@ -32,3 +32,9 @@ def to_MDBCollection(geoLabel):
 
 def display(geoLabel):
     geojsonio.display(geoLabel)
+
+def to_file(feature, fileName):
+    file = open(fileName, 'w')
+    file.write(feature)
+    file.close()
+    return fileName

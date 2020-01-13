@@ -1,5 +1,5 @@
 parametro,syn0,syn1,syn2,syn3,syn4,syn5,syn6,syn7,syn8,syn9
-residuo_fisso,residuo fisso,residuo fisso totale,* residuo fisso a 180 °c
+residuo_fisso,residuo fisso,residuo fisso totale,* residuo fisso a 180 Â°c,residuo fisso a 180°,resid. fisso 180°
 durezza,durezza,durezza totale,durezza (da calcolo)
 ph,ph,concentrazione di ioni idrogeno
 calcio,calcio,* calcio (ca)
@@ -10,7 +10,7 @@ solfato,solfato,solfati
 nitrato,nitrato,nitrati
 nitrito,nitrito,nitriti
 cloruro,cloruro,cloruri
-conducibilita,conducibilita,conducibilità,conduttività a 20° c
+conducibilita,conducibilita,conducibilità,conducibilità  a 20Â° c
 fluoruri,fluoruri,fluoruro
 ammoniaca,ammoniaca,ammonio
 manganese,manganese,manganese (mn)

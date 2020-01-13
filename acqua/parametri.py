@@ -19,21 +19,24 @@ VLParametro = {'RESIDUO_FISSO': '1500', 'DUREZZA': '15-50 valori consigliati', '
                'BICARBONATO': 'non previsto', 'CLORO_RESIDUO': 'non previsto'}
 
 # TODO: Implement Nested Dictionaries
-
-SinonimiParametro = {}
-
 import csv
 import os
-print(os.path.abspath("Definitions/SynParametri.csv"))
-with open('Definitions/SynParametri.csv', newline='', mode='r', encoding='utf-8') as csv_file:
-    reader = csv.DictReader(csv_file)
-    for row in reader:
-        for col in ('syn0', 'syn1', 'syn2', 'syn3', 'syn4', 'syn5', 'syn6', 'syn7', 'syn8', 'syn9'):
-            if row[col] is not None:
-                SinonimiParametro[row[col]] = row['parametro'].lower()
+sinonimiParametro = {}
+    
+def crea_dizionario(SynParametrifile):
+    print(os.path.abspath(SynParametrifile))
+    with open(SynParametrifile, newline='', mode='r', encoding='utf-8') as csv_file:
+        reader = csv.DictReader(csv_file)
+        for row in reader:
+            for col in ('syn0', 'syn1', 'syn2', 'syn3', 'syn4', 'syn5', 'syn6', 'syn7', 'syn8', 'syn9'):
+                if row[col] is not None:
+                    sinonimiParametro[row[col]] = row['parametro'].lower()
+    return sinonimiParametro
+
+#def crea_dizionario():     return crea_dizionario_parametri('Definitions/SynParametri.csv')
 
 def getSTDParm(parm):
-    return SinonimiParametro[parm.lower()]
+    return sinonimiParametro[parm.lower()]
 
 def getDescrizione(key):
     v = DescrizioneParametro[key.upper()]

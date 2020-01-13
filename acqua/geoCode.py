@@ -9,10 +9,10 @@ def geoJson(location):
     else:
         return {"type": "Point", "coordinates": [location.longitude, location.latitude] if location else None}
 
-def apply():
-    os.path.abspath("Definitions/LocationList.csv")
+def apply(locationListFile,geoReferencedLocationsListFile):
+    os.path.abspath(locationListFile)
     # df = pd.read_csv('D:\Python\WebScraping\FriuliVeneziaGiulia\CAFC\Definitions\LocationList.csv')
-    df = pd.read_csv('Definitions/LocationList.csv')
+    df = pd.read_csv(locationListFile)
     geolocator = Nominatim(user_agent="water")
 
     geocode = RateLimiter(geolocator.geocode, min_delay_seconds=1)
@@ -20,5 +20,5 @@ def apply():
     df['geometry'] = df['geocode'].apply(geoJson)
 
     # df.to_csv('D:\Python\WebScraping\FriuliVeneziaGiulia\CAFC\Definitions\GeoReferencedLocationsList.csv',index=False)
-    df.to_csv('Definitions/GeoReferencedLocationsList.csv', index=False)
+    df.to_csv(geoReferencedLocationsListFile, index=False)
     return len(df)

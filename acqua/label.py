@@ -13,10 +13,10 @@ def create_label (id_gestore,data_report,parms):
     
     return data
 
-def addGeocodeData(label,location):
+def addGeocodeData(label,location,geoReferencedLocationsFile):
         emptyDict = {}
-        datiGeo = pd.read_csv('Definitions/GeoReferencedLocationsList.csv')
-        datiGeo = datiGeo.set_index('location')
+        datiGeo = pd.read_csv(geoReferencedLocationsFile)
+        datiGeo = datiGeo.set_index(['alias_city','alias_address'])
         datiGeo = datiGeo.to_dict(orient='index')
         #Recupera dati geo di tipo Poin
         try:
@@ -38,7 +38,10 @@ def to_geojson(geoLabel):
     try:
         geometry = geoLabel['geometry']
         geojson = '{"type":"Feature","geometry": '+geometry.replace("'",'"')+','
-        properties = '"properties": { "name": "'+geoLabel['location']+'"'
+        location = geoLabel['location']
+        separator = ', '
+        location_ = separator.join(location)
+        properties = '"properties": { "name": "'+location_+'"'
         parms = geoLabel['parameters']
         for k in parms: properties = properties + ', "'+str(k)+'": "'+str(parms[k])+' '+par.getUM(str(k))+'"'
         return geojson+properties+'}}'
