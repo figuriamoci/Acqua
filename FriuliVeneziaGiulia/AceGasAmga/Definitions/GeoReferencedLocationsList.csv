@@ -1,0 +1,8 @@
+alias_address,alias_city,georeferencingString,geocode,geometry
+Via Italo Svevo Trieste,Trieste,Via Italo Svevo Trieste,"Via Italo Svevo, Servola-Chiarbola-Valmaura-Borgo San Sergio, Trieste / Trst, UTI Giuliana / Julijska MTU, Friuli Venezia Giulia, 34146, Italia","{'type': 'Point', 'coordinates': [13.7812662, 45.6277797]}"
+Trieste,Muggia,Muggia,"Muggia, UTI Giuliana / Julijska MTU, Friuli Venezia Giulia, 34015, Italia","{'type': 'Point', 'coordinates': [13.7828563829059, 45.59584785]}"
+Trieste,Duino,Duino,"Duino / Devin, UTI Giuliana / Julijska MTU, Friuli Venezia Giulia, 34011, Italia","{'type': 'Point', 'coordinates': [13.6044847, 45.7733917]}"
+Trieste,San Dorligo della Valle,san dorligo della valle,"San Dorligo della Valle / Dolina, UTI Giuliana / Julijska MTU, Friuli Venezia Giulia, 34018, Italia","{'type': 'Point', 'coordinates': [13.853505094432684, 45.61260135]}"
+Trieste,Duino-Aurisina,Duino-Aurisina,"Duino Aurisina / Devin Nabrežina, UTI Giuliana / Julijska MTU, Friuli Venezia Giulia, 34011, Italia","{'type': 'Point', 'coordinates': [13.67535827542578, 45.7703551]}"
+Trieste,Monrupino,Monrupino,"Monrupino / Repentabor, UTI Giuliana / Julijska MTU, Friuli Venezia Giulia, 34016, Italia","{'type': 'Point', 'coordinates': [13.797445058824698, 45.7178121]}"
+Trieste,Sgonico,Sgonico,"Sgonico / Zgonik, UTI Giuliana / Julijska MTU, Friuli Venezia Giulia, 34010, Italia","{'type': 'Point', 'coordinates': [13.7482449, 45.7360238]}"
