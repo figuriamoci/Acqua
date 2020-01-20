@@ -15,9 +15,7 @@ import os
 import logging
 #os.chdir('D:/Python/Acqua/')
 os.chdir('/Users/andrea/PycharmProjects/Acqua')
-idGestore = 000
-gestoreAcqua = 'HydroGEA'
-sito_internet = 'https://www.hydrogea-pn.it'
+idGestore = 13146
 parm.crea_dizionario('FriuliVeneziaGiulia/HydroGEA/Definitions/SynParametri.csv')
 data_report = '30-02-1900'
 ##
@@ -39,7 +37,7 @@ def estractLabelFromRawTable(address,rawTable):
     logging.info('Searcing for address... %s.', address)
     boolMatrix = table_.apply(lambda x: x.str.contains(address, na=False))
     alias_coordinates_ = np.where(boolMatrix)
-    if len(alias_coordinates_[0])==0 or len(alias_coordinates_[1])==0: raise Exception("%s not found.",address)
+    if len(alias_coordinates_[0])==0 or len(alias_coordinates_[1])==0: raise AddressNotFound("%s not found.",address)
     alias_coordinates = [x[0] for x in alias_coordinates_]
     alias_address = table_.iloc[alias_coordinates]
     rowFound = alias_coordinates[0]
@@ -75,12 +73,13 @@ for location in locationList:
     logging.info('Ricerca etichetta per %s. (Progress %s/%s)', location,i,len(locationList))
     address = location[1]
     city = location[0]
-    urlReport = df.loc[location]['urlReport'].replace('%20',' ')
+    urlReport_ = df.loc[location,'urlReport']
+    urlReport = urlReport_.replace('%20',' ')
     rawTable = get_rawTable(urlReport)
     try:
         rawLabel = estractLabelFromRawTable(address,rawTable)
         label = rawLabel['label']
-        lb = al.create_label(gestoreAcqua,data_report,label)
+        lb = al.create_label(idGestore,data_report,label)
         glb = al.addGeocodeData(lb,location,'FriuliVeneziaGiulia/HydroGEA/Definitions/GeoReferencedLocationsList.csv')
         ll.append(glb)
     except:

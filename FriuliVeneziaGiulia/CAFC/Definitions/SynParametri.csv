@@ -1,17 +1,17 @@
 parametro,syn0,syn1,syn2,syn3,syn4,syn5,syn6,syn7,syn8,syn9
 residuo_fisso,residuo fisso,residuo fisso totale,* residuo fisso a 180 °c
-durezza,durezza,durezza totale,durezza (da calcolo)
-ph,ph,concentrazione di ioni idrogeno
-calcio,calcio,* calcio (ca)
-sodio,sodio,*  sodio (na)
-magnesio,magnesio,* magnesio (mg)
-potassio,potassio,*  potassio (k)
-solfato,solfato,solfati
-nitrato,nitrato,nitrati
+durezza,durezza,durezza totale,durezza (da calcolo),durezza (da calcolo) °f
+ph,ph,concentrazione di ioni idrogeno,concentrazione di ioni idrogeno ph
+calcio,calcio,* calcio (ca),calcio (ca) mg/l
+sodio,sodio,*  sodio (na),sodio (na) mg/l
+magnesio,magnesio,* magnesio (mg),magnesio (mg) mg/l
+potassio,potassio,*  potassio (k),potassio (k)
+solfato,solfato,solfati,solfati mg/l
+nitrato,nitrato,nitrati,niftrato mg/l
 nitrito,nitrito,nitriti
-cloruro,cloruro,cloruri
-conducibilita,conducibilita,conducibilità,conduttività a 20° c
-fluoruri,fluoruri,fluoruro
+cloruro,cloruro,cloruri,cloruro mg/l
+conducibilita,conducibilita,conducibilità,conduttività a 20° c,conduttività a 20° c μs/cm
+fluoruri,fluoruri,fluoruro,fluoruro mg/l
 ammoniaca,ammoniaca,ammonio
 manganese,manganese,manganese (mn)
 arsenico,arsenico,arsenico (as)

@@ -24,7 +24,6 @@ import os
 sinonimiParametro = {}
     
 def crea_dizionario(SynParametrifile):
-    print(os.path.abspath(SynParametrifile))
     with open(SynParametrifile, newline='', mode='r', encoding='utf-8') as csv_file:
         reader = csv.DictReader(csv_file)
         for row in reader:
@@ -49,3 +48,14 @@ def getUM(key):
 def getVL(key):
     v = VLParametro[key.upper()]
     return v
+
+def getListSynonyms(SynParametrifile):
+    with open(SynParametrifile, newline='', mode='r', encoding='utf-8') as csv_file:
+        lines = csv_file.read().replace('\n',',')
+        items = lines.split(',')
+    #Disticinct
+    output = []
+    for x in items:
+        if x not in output and x not in ['parametro', 'syn0', 'syn1', 'syn2', 'syn3', 'syn4', 'syn5', 'syn6', 'syn7', 'syn8', 'syn9']:
+            output.append( x )
+    return output

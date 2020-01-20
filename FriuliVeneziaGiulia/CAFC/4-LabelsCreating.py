@@ -5,57 +5,71 @@ Created on Fri Jan  3 23:52:40 2020
 
 @author: andrea
 """
+##
 import acqua.label as al
 import acqua.labelCollection as coll
+import acqua.parametri as parm
 import pandas as pd
-import tabula
-import os
+import numpy as np
+import tabula,os,logging
 
-
+os.chdir('/Users/andrea/PycharmProjects/Acqua')
+logging.basicConfig(level=logging.DEBUG)
 idGestore = 12816
-gestoreAcqua = 'CAFC S.P.A.'
-sito_internet = 'https://www.cafcspa.com'
 data_report = 'settembre 2919'
-listParameters = ['Concentrazione di ioni idrogeno','Conduttività a 20° C','* Calcio (Ca)','* Magnesio (Mg)','Durezza (da calcolo)','Fluoruro','Nitrato','Cloruro','Solfati','*  Sodio (Na)','*  Potassio (K)','Manganese (Mn)','Nitrito','Ammonio','Arsenico (As)','* Residuo fisso a 180 °C']
+listParameters = parm.getListSynonyms('FriuliVeneziaGiulia/CAFC/Definitions/SynParametri.csv')
+parm.crea_dizionario('FriuliVeneziaGiulia/CAFC/Definitions/SynParametri.csv')
 listLabels = {}
-
-print(os.path.abspath("Definitions/FoundReportList.csv"))
-df = pd.read_csv('Definitions/FoundReportList.csv')
 ll=[]
+urlAndLocationList = {}
+df = pd.read_csv('FriuliVeneziaGiulia/CAFC/Definitions/FoundReportList.csv')
+urlList = [url for url in df['url'].drop_duplicates()]
+##Creazione del dizionario dei report e la lista di location associate.
+for i,url in enumerate(urlList):
+    locationList = df[df['url']==url].reindex(columns=['alias_city','alias_address'])
+    locationListDict = locationList.to_dict(orient='records')
+    urlAndLocationList[url]=locationListDict
 
-dx = df.pivot(index='url', columns='location')
-listReports = dx.index
-url_report = listReports[0]
-#report = 'https://www.cafcspa.com/solud/analisi/D702.pdf'
-    
-table = tabula.read_pdf(url_report, stream=True,pages="all")
-onlyTheseColumns = table[['Prova','Risultato']]
-cleaned_table = onlyTheseColumns.dropna(subset=['Risultato'])
-onlyTheseParameters = cleaned_table.set_index('Prova').loc[listParameters]
-label = onlyTheseParameters['Risultato'].to_dict()
-  
-lb = al.create_label(gestoreAcqua,data_report,label)
-    
-for location in df['location']:
-    glb = al.addGeocodeData(lb,location)
-    ll.append(glb)
-    print(location)
-    
+##Conversione dei report in label
+for url_report in urlList:
+
+    if url_report is np.nan:
+        label = {}
+        data_report = 'Parametri non disponinili'
+
+    else:
+        try:
+            table_ = tabula.read_pdf(url_report, stream=True,pages="all")
+            table = table_.apply(lambda x: x.str.lower())
+
+            try:
+                onlyTheseColumns = table[['Prova','Risultato']]
+            except KeyError:
+                onlyTheseColumns = table[['Prova U.M.', 'Risultato']]
+
+            cleaned_table = onlyTheseColumns.dropna(subset=['Risultato'])
+
+            try:
+                onlyTheseParameters = cleaned_table.set_index('Prova').loc[listParameters].dropna()
+            except KeyError:
+                onlyTheseParameters = cleaned_table.set_index( 'Prova U.M.' ).loc[listParameters].dropna()
+
+            label = onlyTheseParameters['Risultato'].to_dict()
+            data_report = ''
+
+            lb = al.create_label(idGestore,data_report,label)
+            locationList = urlAndLocationList[url_report]
+
+            for location in locationList:
+                x = location['alias_address']
+                y = location['alias_city']
+                location_ = (y,x)
+                glb = al.addGeocodeData(lb,location_,'FriuliVeneziaGiulia/CAFC/Definitions/GeoReferencedLocationsList.csv')
+                ll.append(glb)
+
+        except:
+            logging.critical("The report '%s' was not readeble. Skipped!",url_report)
+##
 fc = coll.to_geojson(ll)
-mdb = coll.to_MDBCollection(ll)
-
-
-#file = open('forMongDB.json', 'w')
-#file.write(glb)
-#file.close()
-print(glb)
-
-#import pymongo as py
-#conn = py.MongoClient("mongodb+srv://Acqua:nato1968@principal-4g7w8.mongodb.net/test?retryWrites=true&w=majority")
-#db = conn.Acqua
-#collection = db.etichette
-#collection.insert_many(ll)
-
-
-print(fc)
+coll.to_file(fc,'FriuliVeneziaGiulia/CAFC/CAFC.geojson')
 coll.display(fc)

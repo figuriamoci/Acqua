@@ -1,4 +1,13 @@
+import os
 import acqua.geoCode as gc
+import logging
+logging.basicConfig(level=logging.INFO)
 
-gc.apply()
+os.chdir('/Users/andrea/PycharmProjects/Acqua/FriuliVeneziaGiulia/CAFC')
+print(os.getcwd())
+gc.apply('Definitions/LocationList.csv','Definitions/GeoReferencedLocationsList.csv')
+
+#gc.retry('FriuliVeneziaGiulia/CAFC/Definitions/GeoReferencedLocationsList.csv')
+
+
 

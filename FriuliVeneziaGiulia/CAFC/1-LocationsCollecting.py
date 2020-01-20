@@ -1,24 +1,30 @@
+##
 from selenium import webdriver
 from bs4 import BeautifulSoup
 from selenium.webdriver.support.ui import Select
 import pandas as pd
 import datetime
+import os
+import logging
+
+os.chdir('/Users/andrea/PycharmProjects/Acqua/')
+logging.basicConfig(level=logging.INFO)
 
 options = webdriver.ChromeOptions()
 options.add_argument('--ignore-certificate-errors')
 options.add_argument('--incognito')
 options.add_argument('--headless')
 #driver = webdriver.Chrome("D:\EmporioADV\chromedriver", chrome_options=options)
-driver = webdriver.Chrome("chromedriver", chrome_options=options)
+driver = webdriver.Chrome("chromedriver", options=options)
 driver.get("https://www.cafcspa.com/solud/it-_qualita_acqua.cfm")
 #print('Http status: ',page.status_code)
-
+##
 soup = BeautifulSoup(driver.page_source, 'html.parser')
 listaComuni = soup.find(id="comuni").findAll('option')
 listaComuni = [comune.get_text() for comune in listaComuni]
-listaComuni = ['FAGAGNA']#,'AMARO']
-
-print('Start: ',datetime.datetime.now())
+##
+listaComuni = ['PALMANOVA']
+logging.info('Start: %s',datetime.datetime.now())
 locationList = pd.DataFrame()
 
 nComuni=0
@@ -34,21 +40,21 @@ for comune in listaComuni:
     listaIndirizzi = soup.find('select',id="indirizzi").findAll('option')
     listaIndirizzi = [indirizzo.get_text() for indirizzo in listaIndirizzi]
     nComuni = nComuni+1
-    print('Comune:',comune,'(',nComuni,'/',totComuni,')')
+    logging.info('Comune: %s (%s/%s)',comune,nComuni,totComuni)
     i=0
     for indirizzo in listaIndirizzi:
         i=i+1
-        print('indirizzo:', indirizzo, '(', i, '/', len(listaIndirizzi), ')')
+        logging.info('indirizzo: %s %s (%s/%s)',comune,indirizzo,i,len(listaIndirizzi))
         if str(indirizzo).strip() != '':
             control_indirizzi = Select(driver.find_element_by_id('indirizzi'))  
             control_indirizzi.select_by_visible_text(indirizzo)
             soup = BeautifulSoup(driver.page_source, 'html.parser')             
             locationList_row = {}
-            locationList_row['location'] = comune+' '+indirizzo
-            locationList_row['region'] = 'Friuli'
+            locationList_row['georeferencingString'] = comune+' '+indirizzo
             locationList_row['alias_city'] = comune
             locationList_row['alias_address'] = indirizzo
             locationList = locationList.append(locationList_row,ignore_index=True)
             
-locationList.to_csv('Definitions/LocationList.csv',index=False)
-print('Finish: ',datetime.datetime.now())
+locationList.to_csv('FriuliVeneziaGiulia/CAFC/Definitions/LocationList.csv',index=False)
+
+logging.info('Finish: %s',datetime.datetime.now())

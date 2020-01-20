@@ -1,53 +1,86 @@
-alias_city,alias_address,location,region,urlReport
-Andreis,Bosplans,Andreis Bosplans,,https://www.hydrogea-pn.it/download/mappa/Andreis%20-%20caratteristiche%20acqua%20HYDROGEA.pdf
-Andreis,Montisel,Andreis,,https://www.hydrogea-pn.it/download/mappa/Andreis%20-%20caratteristiche%20acqua%20HYDROGEA.pdf
-Andreis,Alcheda,Andreis Alcheda,,https://www.hydrogea-pn.it/download/mappa/Andreis%20-%20caratteristiche%20acqua%20HYDROGEA.pdf
-Arba,Colle di Arba,Colle di Arba,,https://www.hydrogea-pn.it/download/mappa/Arba%20-%20caratteristiche%20acqua%20HYDROGEA.pdf
-Aviano,Fornel,Aviano,,https://www.hydrogea-pn.it/download/mappa/Aviano%20-%20caratteristiche%20acqua%20HYDROGEA.pdf
-Aviano,Clap Pisul,Aviano Clap del Pissol,,https://www.hydrogea-pn.it/download/mappa/Aviano%20-%20caratteristiche%20acqua%20HYDROGEA.pdf
-Aviano,Valdaga,Aviano Val D'aga,,https://www.hydrogea-pn.it/download/mappa/Aviano%20-%20caratteristiche%20acqua%20HYDROGEA.pdf
-Aviano,Mandra,Aviano,,https://www.hydrogea-pn.it/download/mappa/Aviano%20-%20caratteristiche%20acqua%20HYDROGEA.pdf
-Aviano,Pedemonte,Aviano Pedemonte,,https://www.hydrogea-pn.it/download/mappa/Aviano%20-%20caratteristiche%20acqua%20HYDROGEA.pdf
-Aviano,Marsure,Aviano Marsure,,https://www.hydrogea-pn.it/download/mappa/Aviano%20-%20caratteristiche%20acqua%20HYDROGEA.pdf
-Aviano,V. Cima Manera,Aviano V. Cima Manera,,https://www.hydrogea-pn.it/download/mappa/Aviano%20-%20caratteristiche%20acqua%20HYDROGEA.pdf
-Barcis,Cuol Basso,Località Losie Barcis,,https://www.hydrogea-pn.it/download/mappa/Barcis%20-%20caratteristiche%20acqua%20HYDROGEA.pdf
-Barcis,Molassa,Barcis Molassa,,https://www.hydrogea-pn.it/download/mappa/Barcis%20-%20caratteristiche%20acqua%20HYDROGEA.pdf
-Barcis,Arcola,Barcis Arcola,,https://www.hydrogea-pn.it/download/mappa/Barcis%20-%20caratteristiche%20acqua%20HYDROGEA.pdf
-Barcis,località Dardago,Località Dardago,,https://www.hydrogea-pn.it/download/mappa/Budoia%20-%20caratteristiche%20acqua%20HYDROGEA.pdf
-Budoia,Pozzi Santa Lucia,Colli di Santa Lucia Polcenigo,,https://www.hydrogea-pn.it/download/mappa/Budoia%20-%20caratteristiche%20acqua%20HYDROGEA.pdf
-Caneva,Sinistra Piave Serbatoio Valbona,Via Valbona Caneva,,https://www.hydrogea-pn.it/download/mappa/Caneva%20-%20caratteristiche%20acqua%20HYDROGEA.pdf
-Castelnovo del Friuli,Castello,Località Castello di Castelnovo del Friuli,,https://www.hydrogea-pn.it/download/mappa/Castelnovo%20d%20F.%20-%20caratteristiche%20acqua%20HYDROGEA.pdf
-Castelnovo del Friuli,Mocenigo,Località Mocenigo Castelnovo del Friuli,,https://www.hydrogea-pn.it/download/mappa/Castelnovo%20d%20F.%20-%20caratteristiche%20acqua%20HYDROGEA.pdf
-Castelnovo del Friuli,Sottocolli,Località Sottocolli Castelnovo del Friuli,,https://www.hydrogea-pn.it/download/mappa/Castelnovo%20d%20F.%20-%20caratteristiche%20acqua%20HYDROGEA.pdf
-Castelnovo del Friuli,Menis,Località Menis Castelnovo del Friuli,,https://www.hydrogea-pn.it/download/mappa/Castelnovo%20d%20F.%20-%20caratteristiche%20acqua%20HYDROGEA.pdf
-Castelnovo del Friuli,Almadis,Località Almadis Castelnovo del Friuli,,https://www.hydrogea-pn.it/download/mappa/Castelnovo%20d%20F.%20-%20caratteristiche%20acqua%20HYDROGEA.pdf
-Castelnovo del Friuli,Paludea,Località Paludea Castelnovo del Friuli,,https://www.hydrogea-pn.it/download/mappa/Castelnovo%20d%20F.%20-%20caratteristiche%20acqua%20HYDROGEA.pdf
-Castelnovo del Friuli,Forca,Località Forca Castelnovo del Friuli,,https://www.hydrogea-pn.it/download/mappa/Castelnovo%20d%20F.%20-%20caratteristiche%20acqua%20HYDROGEA.pdf
-Castelnovo del Friuli,Pale Rosse,Colle Pale Rosse Castelnovo,,https://www.hydrogea-pn.it/download/mappa/Castelnovo%20d%20F.%20-%20caratteristiche%20acqua%20HYDROGEA.pdf
-Castelnovo del Friuli,Vidunza,Vidunza Castelnovo del Friuli,,https://www.hydrogea-pn.it/download/mappa/Castelnovo%20d%20F.%20-%20caratteristiche%20acqua%20HYDROGEA.pdf
-Cimolais,Colonia,Colonia Cimolais,,https://www.hydrogea-pn.it/download/mappa/Cimolais%20-%20caratteristiche%20acqua%20HYDROGEA.pdf
-Claut,Ciafurle,Località Colderon Claut,,https://www.hydrogea-pn.it/download/mappa/Claut%20-%20caratteristiche%20acqua%20HYDROGEA.pdf
-Claut,Pinedo,Località Pinedo Claut,,https://www.hydrogea-pn.it/download/mappa/Claut%20-%20caratteristiche%20acqua%20HYDROGEA.pdf
-Claut,Masut,Località Masut Claut,,https://www.hydrogea-pn.it/download/mappa/Claut%20-%20caratteristiche%20acqua%20HYDROGEA.pdf
-Claut,Contron,Località Contron Claut,,https://www.hydrogea-pn.it/download/mappa/Claut%20-%20caratteristiche%20acqua%20HYDROGEA.pdf
-Claut,Cellino,Località Cellino Claut,,https://www.hydrogea-pn.it/download/mappa/Claut%20-%20caratteristiche%20acqua%20HYDROGEA.pdf
-Clauzetto,Celante,Località Celante Clauzetto,,https://www.hydrogea-pn.it/download/mappa/Clauzetto%20-%20caratteristiche%20acqua%20HYDROGEA.pdf
-Clauzetto,Rope,Località Rope Clauzetto,,https://www.hydrogea-pn.it/download/mappa/Clauzetto%20-%20caratteristiche%20acqua%20HYDROGEA.pdf
-Clauzetto,Orton,Località Orton Clauzetto,,https://www.hydrogea-pn.it/download/mappa/Clauzetto%20-%20caratteristiche%20acqua%20HYDROGEA.pdf
-Clauzetto,Fraspedane,Località Fraspedane Clauzetto,,https://www.hydrogea-pn.it/download/mappa/Clauzetto%20-%20caratteristiche%20acqua%20HYDROGEA.pdf
-Clauzetto,Tunulins,Località Tunulins Clauzetto,,https://www.hydrogea-pn.it/download/mappa/Clauzetto%20-%20caratteristiche%20acqua%20HYDROGEA.pdf
-Clauzetto,Paludon,Località Paludon Clauzetto,,https://www.hydrogea-pn.it/download/mappa/Clauzetto%20-%20caratteristiche%20acqua%20HYDROGEA.pdf
-Clauzetto,Raunia,Località Raunia Clauzetto,,https://www.hydrogea-pn.it/download/mappa/Clauzetto%20-%20caratteristiche%20acqua%20HYDROGEA.pdf
-Erto e Casso,Stei de Conte,Casera di Conte Erto,,https://www.hydrogea-pn.it/download/mappa/Erto%20Casso%20-%20caratteristiche%20acqua%20HYDROGEA.pdf
-Erto e Casso,Casso,Casso Erto e Casso,,https://www.hydrogea-pn.it/download/mappa/Erto%20Casso%20-%20caratteristiche%20acqua%20HYDROGEA.pdf
-Erto e Casso,Prada,Casera Prada Erto,,https://www.hydrogea-pn.it/download/mappa/Erto%20Casso%20-%20caratteristiche%20acqua%20HYDROGEA.pdf
-Erto e Casso,Pineda,Località Pineda Erto,,https://www.hydrogea-pn.it/download/mappa/Erto%20Casso%20-%20caratteristiche%20acqua%20HYDROGEA.pdf
-Monterale Valcellina,Ravedis,Lago di Ravedis,,https://www.hydrogea-pn.it/download/mappa/Montereale%20-%20caratteristiche%20acqua%20HYDROGEA.pdf
-Monterale Valcellina,Monte Spia,Monte Spia,,https://www.hydrogea-pn.it/download/mappa/Montereale%20-%20caratteristiche%20acqua%20HYDROGEA.pdf
-Monterale Valcellina,San Leonardo,San Leonardo Valcellina,,https://www.hydrogea-pn.it/download/mappa/Montereale%20-%20caratteristiche%20acqua%20HYDROGEA.pdf
-Pinzano al Tagliamento,Capoluogo,Pinzano al Tagliamento,,https://www.hydrogea-pn.it/download/mappa/Pinzano%20-%20caratteristiche%20acqua%20HYDROGEA.pdf
-Pinzano al Tagliamento,Valeriano,Valeriano Pinzano al Tagliamento,,https://www.hydrogea-pn.it/download/mappa/Pinzano%20-%20caratteristiche%20acqua%20HYDROGEA.pdf
-Pinzano al Tagliamento,Manazzons,Manazzons Pinzano al Tagliamento,,https://www.hydrogea-pn.it/download/mappa/Pinzano%20-%20caratteristiche%20acqua%20HYDROGEA.pdf
-Pinzano al Tagliamento,Pradaldon,Pradaldon Pinzano al Tagliamento,,https://www.hydrogea-pn.it/download/mappa/Pinzano%20-%20caratteristiche%20acqua%20HYDROGEA.pdf
-Pinzano al Tagliamento,Colle,Colle Pinzano al Tagliamento,,https://www.hydrogea-pn.it/download/mappa/Pinzano%20-%20caratteristiche%20acqua%20HYDROGEA.pdf
-Pinzano al Tagliamento,Costabeorchia,Costabeorchia Pinzano al Tagliamento,,https://www.hydrogea-pn.it/download/mappa/Pinzano%20-%20caratteristiche%20acqua%20HYDROGEA.pdf
+alias_city,alias_address,georeferencingString,urlReport
+Andreis,Bosplans,Andreis Bosplans,https://www.hydrogea-pn.it/download/mappa/Andreis%20-%20caratteristiche%20acqua%20HYDROGEA.pdf
+Andreis,Montisel,Andreis,https://www.hydrogea-pn.it/download/mappa/Andreis%20-%20caratteristiche%20acqua%20HYDROGEA.pdf
+Andreis,Alcheda,Andreis Alcheda,https://www.hydrogea-pn.it/download/mappa/Andreis%20-%20caratteristiche%20acqua%20HYDROGEA.pdf
+Arba,Colle di Arba,Colle di Arba,https://www.hydrogea-pn.it/download/mappa/Arba%20-%20caratteristiche%20acqua%20HYDROGEA.pdf
+Aviano,Fornel,Aviano,https://www.hydrogea-pn.it/download/mappa/Aviano%20-%20caratteristiche%20acqua%20HYDROGEA.pdf
+Aviano,Clap Pisul,Aviano Clap del Pissol,https://www.hydrogea-pn.it/download/mappa/Aviano%20-%20caratteristiche%20acqua%20HYDROGEA.pdf
+Aviano,Valdaga,Aviano Val D'aga,https://www.hydrogea-pn.it/download/mappa/Aviano%20-%20caratteristiche%20acqua%20HYDROGEA.pdf
+Aviano,Mandra,Aviano,https://www.hydrogea-pn.it/download/mappa/Aviano%20-%20caratteristiche%20acqua%20HYDROGEA.pdf
+Aviano,Pedemonte,Aviano Pedemonte,https://www.hydrogea-pn.it/download/mappa/Aviano%20-%20caratteristiche%20acqua%20HYDROGEA.pdf
+Aviano,Marsure,Aviano Marsure,https://www.hydrogea-pn.it/download/mappa/Aviano%20-%20caratteristiche%20acqua%20HYDROGEA.pdf
+Aviano,V. Cima Manera,Aviano V. Cima Manera,https://www.hydrogea-pn.it/download/mappa/Aviano%20-%20caratteristiche%20acqua%20HYDROGEA.pdf
+Barcis,Molassa,Barcis Molassa,https://www.hydrogea-pn.it/download/mappa/Barcis%20-%20caratteristiche%20acqua%20HYDROGEA.pdf
+Barcis,località Dardago,Località Dardago,https://www.hydrogea-pn.it/download/mappa/Budoia%20-%20caratteristiche%20acqua%20HYDROGEA.pdf
+Barcis,Cuol Basso,Località Losie Barcis,https://www.hydrogea-pn.it/download/mappa/Barcis%20-%20caratteristiche%20acqua%20HYDROGEA.pdf
+Barcis,Arcola,Barcis Arcola,https://www.hydrogea-pn.it/download/mappa/Barcis%20-%20caratteristiche%20acqua%20HYDROGEA.pdf
+Budoia,Pozzi Santa Lucia,Colli di Santa Lucia Polcenigo,https://www.hydrogea-pn.it/download/mappa/Budoia%20-%20caratteristiche%20acqua%20HYDROGEA.pdf
+Caneva,Sinistra Piave Serbatoio Valbona,Via Valbona Caneva,https://www.hydrogea-pn.it/download/mappa/Caneva%20-%20caratteristiche%20acqua%20HYDROGEA.pdf
+Castelnovo del Friuli,Castello,Località Castello di Castelnovo del Friuli,https://www.hydrogea-pn.it/download/mappa/Castelnovo%20d%20F.%20-%20caratteristiche%20acqua%20HYDROGEA.pdf
+Castelnovo del Friuli,Mocenigo,Località Mocenigo Castelnovo del Friuli,https://www.hydrogea-pn.it/download/mappa/Castelnovo%20d%20F.%20-%20caratteristiche%20acqua%20HYDROGEA.pdf
+Castelnovo del Friuli,Sottocolli,Località Sottocolli Castelnovo del Friuli,https://www.hydrogea-pn.it/download/mappa/Castelnovo%20d%20F.%20-%20caratteristiche%20acqua%20HYDROGEA.pdf
+Castelnovo del Friuli,Menis,Località Menis Castelnovo del Friuli,https://www.hydrogea-pn.it/download/mappa/Castelnovo%20d%20F.%20-%20caratteristiche%20acqua%20HYDROGEA.pdf
+Castelnovo del Friuli,Almadis,Località Almadis Castelnovo del Friuli,https://www.hydrogea-pn.it/download/mappa/Castelnovo%20d%20F.%20-%20caratteristiche%20acqua%20HYDROGEA.pdf
+Castelnovo del Friuli,Paludea,Località Paludea Castelnovo del Friuli,https://www.hydrogea-pn.it/download/mappa/Castelnovo%20d%20F.%20-%20caratteristiche%20acqua%20HYDROGEA.pdf
+Castelnovo del Friuli,Forca,Località Forca Castelnovo del Friuli,https://www.hydrogea-pn.it/download/mappa/Castelnovo%20d%20F.%20-%20caratteristiche%20acqua%20HYDROGEA.pdf
+Castelnovo del Friuli,Palle Rosse,Colle Pale Rosse Castelnovo,https://www.hydrogea-pn.it/download/mappa/Castelnovo%20d%20F.%20-%20caratteristiche%20acqua%20HYDROGEA.pdf
+Castelnovo del Friuli,Vidunza,Vidunza Castelnovo del Friuli,https://www.hydrogea-pn.it/download/mappa/Castelnovo%20d%20F.%20-%20caratteristiche%20acqua%20HYDROGEA.pdf
+Cimolais,Colonia,Colonia Cimolais,https://www.hydrogea-pn.it/download/mappa/Cimolais%20-%20caratteristiche%20acqua%20HYDROGEA.pdf
+Claut,Ciafurle,Località Colderon Claut,https://www.hydrogea-pn.it/download/mappa/Claut%20-%20caratteristiche%20acqua%20HYDROGEA.pdf
+Claut,Pinedo,Località Pinedo Claut,https://www.hydrogea-pn.it/download/mappa/Claut%20-%20caratteristiche%20acqua%20HYDROGEA.pdf
+Claut,Masut,Località Masut Claut,https://www.hydrogea-pn.it/download/mappa/Claut%20-%20caratteristiche%20acqua%20HYDROGEA.pdf
+Claut,Contron,Località Contron Claut,https://www.hydrogea-pn.it/download/mappa/Claut%20-%20caratteristiche%20acqua%20HYDROGEA.pdf
+Claut,Cellino,Località Cellino Claut,https://www.hydrogea-pn.it/download/mappa/Claut%20-%20caratteristiche%20acqua%20HYDROGEA.pdf
+Clauzetto,Celante,Località Celante Clauzetto,https://www.hydrogea-pn.it/download/mappa/Clauzetto%20-%20caratteristiche%20acqua%20HYDROGEA.pdf
+Clauzetto,Rope,Località Rope Clauzetto,https://www.hydrogea-pn.it/download/mappa/Clauzetto%20-%20caratteristiche%20acqua%20HYDROGEA.pdf
+Clauzetto,Orton,Località Orton Clauzetto,https://www.hydrogea-pn.it/download/mappa/Clauzetto%20-%20caratteristiche%20acqua%20HYDROGEA.pdf
+Clauzetto,Fraspedane,Località Fraspedane Clauzetto,https://www.hydrogea-pn.it/download/mappa/Clauzetto%20-%20caratteristiche%20acqua%20HYDROGEA.pdf
+Clauzetto,Tunulins,Località Tunulins Clauzetto,https://www.hydrogea-pn.it/download/mappa/Clauzetto%20-%20caratteristiche%20acqua%20HYDROGEA.pdf
+Clauzetto,Paludon,Località Paludon Clauzetto,https://www.hydrogea-pn.it/download/mappa/Clauzetto%20-%20caratteristiche%20acqua%20HYDROGEA.pdf
+Clauzetto,Raunia,Località Raunia Clauzetto,https://www.hydrogea-pn.it/download/mappa/Clauzetto%20-%20caratteristiche%20acqua%20HYDROGEA.pdf
+Erto e Casso,Stei de Conte,Casera di Conte Erto,https://www.hydrogea-pn.it/download/mappa/Erto%20Casso%20-%20caratteristiche%20acqua%20HYDROGEA.pdf
+Erto e Casso,Prada,Casera Prada Erto,https://www.hydrogea-pn.it/download/mappa/Erto%20Casso%20-%20caratteristiche%20acqua%20HYDROGEA.pdf
+Erto e Casso,Pineda,Località Pineda Erto,https://www.hydrogea-pn.it/download/mappa/Erto%20Casso%20-%20caratteristiche%20acqua%20HYDROGEA.pdf
+Erto e Casso,#Casso,Casso Erto e Casso,https://www.hydrogea-pn.it/download/mappa/Erto%20Casso%20-%20caratteristiche%20acqua%20HYDROGEA.pdf
+Monterale Valcellina,Ravedis,Lago di Ravedis,https://www.hydrogea-pn.it/download/mappa/Montereale%20-%20caratteristiche%20acqua%20HYDROGEA.pdf
+Monterale Valcellina,Monte Spia,Monte Spia,https://www.hydrogea-pn.it/download/mappa/Montereale%20-%20caratteristiche%20acqua%20HYDROGEA.pdf
+Monterale Valcellina,San Leonardo,San Leonardo Valcellina,https://www.hydrogea-pn.it/download/mappa/Montereale%20-%20caratteristiche%20acqua%20HYDROGEA.pdf
+Pinzano al Tagliamento,Capoluogo,Pinzano al Tagliamento,https://www.hydrogea-pn.it/download/mappa/Pinzano%20-%20caratteristiche%20acqua%20HYDROGEA.pdf
+Pinzano al Tagliamento,Valeriano,Valeriano Pinzano al Tagliamento,https://www.hydrogea-pn.it/download/mappa/Pinzano%20-%20caratteristiche%20acqua%20HYDROGEA.pdf
+Pinzano al Tagliamento,Manazzons,Manazzons Pinzano al Tagliamento,https://www.hydrogea-pn.it/download/mappa/Pinzano%20-%20caratteristiche%20acqua%20HYDROGEA.pdf
+Pinzano al Tagliamento,#Pradaldon,Pradaldon Pinzano al Tagliamento,https://www.hydrogea-pn.it/download/mappa/Pinzano%20-%20caratteristiche%20acqua%20HYDROGEA.pdf
+Pinzano al Tagliamento,#Colle,Colle Pinzano al Tagliamento,https://www.hydrogea-pn.it/download/mappa/Pinzano%20-%20caratteristiche%20acqua%20HYDROGEA.pdf
+Pinzano al Tagliamento,#Costabeorchia,Costabeorchia Pinzano al Tagliamento,https://www.hydrogea-pn.it/download/mappa/Pinzano%20-%20caratteristiche%20acqua%20HYDROGEA.pdf
+Polcenigo,Santissima,Santissima Polcenigo,https://www.hydrogea-pn.it/download/mappa/Polcenigo%20-%20caratteristiche%20acqua%20HYDROGEA.pdf
+Pordenone,Canaletto,Via Canaletto Pordenone,https://www.hydrogea-pn.it/download/mappa/Pordenone%20-%20caratteristiche%20acqua%20HYDROGEA.pdf
+Pordenone,Via San Daniele,Via San Daniele Pordenone,https://www.hydrogea-pn.it/download/mappa/Pordenone%20-%20caratteristiche%20acqua%20HYDROGEA.pdf
+Roveredo in Piano,Centrale Via Brentella,Via Brentella Roveredo in Piano,https://www.hydrogea-pn.it/download/mappa/Roveredo%20in%20Piano%20-%20caratteristiche%20acqua%20HYDROGEA.pdf
+Sequals,Palis Vecchio,Col Palis Sequals,https://www.hydrogea-pn.it/download/mappa/Sequals-%20caratteristiche%20acqua%20HYDROGEA.pdf
+Sequals,Lestans,Lestans Sequals,https://www.hydrogea-pn.it/download/mappa/Sequals-%20caratteristiche%20acqua%20HYDROGEA.pdf
+Spilimbergo,Baseglia,Baseglia Spilimbergo,https://www.hydrogea-pn.it/download/mappa/Spilimbergo%20-%20caratteristiche%20acqua%20HYDROGEA.pdf
+Spilimbergo,Vacile,Vacile Spilimbergo,https://www.hydrogea-pn.it/download/mappa/Spilimbergo%20-%20caratteristiche%20acqua%20HYDROGEA.pdf
+Spilimbergo,Ciriani,Ciriani Spilimbergo,https://www.hydrogea-pn.it/download/mappa/Spilimbergo%20-%20caratteristiche%20acqua%20HYDROGEA.pdf
+Spilimbergo,Tauriano,Tauriano Spilimbergo,https://www.hydrogea-pn.it/download/mappa/Spilimbergo%20-%20caratteristiche%20acqua%20HYDROGEA.pdf
+Spilimbergo,Favorita,Favorita Spilimbergo,https://www.hydrogea-pn.it/download/mappa/Spilimbergo%20-%20caratteristiche%20acqua%20HYDROGEA.pdf
+Spilimbergo,Todesch,Todesch Spilimbergo,https://www.hydrogea-pn.it/download/mappa/Spilimbergo%20-%20caratteristiche%20acqua%20HYDROGEA.pdf
+Travesio,Toppo Alto,Frazione Toppo Travesio,https://www.hydrogea-pn.it/download/mappa/Travesio%20-%20caratteristiche%20acqua%20HYDROGEA.pdf
+Travesio,Breli,Via Breli Travesio,https://www.hydrogea-pn.it/download/mappa/Travesio%20-%20caratteristiche%20acqua%20HYDROGEA.pdf
+Travesio,Castello,Via Castello Travesio,https://www.hydrogea-pn.it/download/mappa/Travesio%20-%20caratteristiche%20acqua%20HYDROGEA.pdf
+Vito d’Asio,Bolzon,Via Bolzon Vito d’Asio,https://www.hydrogea-pn.it/download/mappa/Vito%20-%20caratteristiche%20acqua%20HYDROGEA.pdf
+Vito d’Asio,Marins,Marins Vito d’Asio,https://www.hydrogea-pn.it/download/mappa/Vito%20-%20caratteristiche%20acqua%20HYDROGEA.pdf
+Vito d’Asio,Borgo di sopra,Borgo di sopra Vito d’Asio,https://www.hydrogea-pn.it/download/mappa/Vito%20-%20caratteristiche%20acqua%20HYDROGEA.pdf
+Vito d’Asio,Cuel di For,Cuel di For Clauzetto,https://www.hydrogea-pn.it/download/mappa/Vito%20-%20caratteristiche%20acqua%20HYDROGEA.pdf
+Vito d’Asio,#Cosoi,Cosoi Vito d’Asio,https://www.hydrogea-pn.it/download/mappa/Vito%20-%20caratteristiche%20acqua%20HYDROGEA.pdf
+Vito d’Asio,#Carniolet,Carniolet Vito d’Asio,https://www.hydrogea-pn.it/download/mappa/Vito%20-%20caratteristiche%20acqua%20HYDROGEA.pdf
+Vito d’Asio,Fratta,La Fratta Vito d'Asio,https://www.hydrogea-pn.it/download/mappa/Vito%20-%20caratteristiche%20acqua%20HYDROGEA.pdf
+Vito d’Asio,Fruins,Fruinz Vito D'Asio,https://www.hydrogea-pn.it/download/mappa/Vito%20-%20caratteristiche%20acqua%20HYDROGEA.pdf
+Vito d’Asio,Taviela,Cuel della Tivana Vito D'Asio,https://www.hydrogea-pn.it/download/mappa/Vito%20-%20caratteristiche%20acqua%20HYDROGEA.pdf
+Vito d’Asio,Strada di Mont,Mont di Anduins Vito D'Asio,https://www.hydrogea-pn.it/download/mappa/Vito%20-%20caratteristiche%20acqua%20HYDROGEA.pdf
+Vito d’Asio,Chiamp,Chiamp Vito D'Asio,https://www.hydrogea-pn.it/download/mappa/Vito%20-%20caratteristiche%20acqua%20HYDROGEA.pdf
+Vito d’Asio,Marcuz,Salita Marcuz Vito D'Asio,https://www.hydrogea-pn.it/download/mappa/Vito%20-%20caratteristiche%20acqua%20HYDROGEA.pdf
+Vito d’Asio,Denda,Via Casale Denda Vito D'Asio,https://www.hydrogea-pn.it/download/mappa/Vito%20-%20caratteristiche%20acqua%20HYDROGEA.pdf
+Vito d’Asio,Castello,Via Castello Vito D'Asio,https://www.hydrogea-pn.it/download/mappa/Vito%20-%20caratteristiche%20acqua%20HYDROGEA.pdf
+Vito d’Asio,Val,La Val Vito D'Asio,https://www.hydrogea-pn.it/download/mappa/Vito%20-%20caratteristiche%20acqua%20HYDROGEA.pdf
+Vito d’Asio,#Cuel di rose,Cuel di Rose Clauzetto,https://www.hydrogea-pn.it/download/mappa/Vito%20-%20caratteristiche%20acqua%20HYDROGEA.pdf
+Vito d’Asio,Celante,Celante Clauzetto,https://www.hydrogea-pn.it/download/mappa/Vito%20-%20caratteristiche%20acqua%20HYDROGEA.pdf
+Vito d’Asio,Fonti Solforose,Fonti solforose Vito d'Asio,https://www.hydrogea-pn.it/download/mappa/Vito%20-%20caratteristiche%20acqua%20HYDROGEA.pdf
