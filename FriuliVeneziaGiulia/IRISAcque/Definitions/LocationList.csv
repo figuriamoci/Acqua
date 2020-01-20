@@ -1,10 +1,10 @@
-name,provincia,alias
-Isola Morosini,Friuli,Isola Morosini
-Gorizia,Friuli,Gorizia
-Farra,Friuli,Farra
-Cormons,Friuli,Cormons
-Dolegna del Collio,Friuli,Dolegna,{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"name":"","description":""},"geometry":{"type":"Polygon","coordinates":[[[13.496704,45.984797],[13.487778,45.995173],[13.477135,46.006501],[13.481426,46.009482],[13.479538,46.011866],[13.483315,46.012939],[13.488636,46.014489],[13.494987,46.015085],[13.500824,46.022357],[13.505459,46.031057],[13.508377,46.034156],[13.510437,46.042259],[13.508549,46.04357],[13.50872,46.045714],[13.497219,46.048574],[13.497562,46.051076],[13.493958,46.048693],[13.486748,46.048336],[13.486061,46.044165],[13.482628,46.04357],[13.482113,46.038088],[13.477135,46.03356],[13.475246,46.025456],[13.4725,46.020926],[13.470955,46.01282],[13.460484,46.005189],[13.460827,46.000062],[13.466492,45.998393],[13.467007,45.994338],[13.464088,45.989687],[13.464603,45.985989],[13.471985,45.984797],[13.477135,45.98754],[13.480396,45.985751],[13.486919,45.985274],[13.490524,45.983604],[13.490353,45.982292],[13.496704,45.984797]]]}}],"webtools":{"translatable":["name","description"],"lang":"en"}}
-Monfalcone,Friuli,Monfalcone
-Ronchi dei Legionari,Friuli,Ronchi dei Legionari
-Grado,Friuli,Grado
-San Pier d'Isonzo,Friuli,San Pier d'Isonzo
+alias_address,alias_city,georeferencingString,polygon_area
+Isola Morosini,Friuli,,SAN CANZIAN D'ISONZO
+Gorizia,Friuli,,GORIZIA
+Farra,Friuli,,SAVOGNA D'ISONZO;DOBERD' DEL LAGO;FOGLIANO REDIPUGLIA;VILLESSE;ROMANS D'ISONZO;MARIANO DEL FRIULI;SAN LORENZO ISONTINO;MORARO;CAPRIVA DEL FRIULO;MOSSA
+Cormons,Friuli,,CORMONS;MEDEA
+Dolegna del Collio,Friuli,,DOLEGNA DEL COLLIO
+Monfalcone,Friuli,,MONFALCONE
+Ronchi dei Legionari,Friuli,,RONCI DEI LEGIONARI;TURRICACCO;STARANZANO
+Grado,Friuli,,GRADO
+San Pier d'Isonzo,Friuli,,SAN PIER D'ISONZO

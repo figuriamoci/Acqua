@@ -6,11 +6,11 @@ Created on Mon Jan 20 16:01:36 2020
 """
 import os
 import geojson as json
-os.chdir('D:/Python/Acqua/FriuliVeneziaGiulia')
+os.chdir('/Users/andrea/PycharmProjects/Acqua/FriuliVeneziaGiulia')
 
 listComuni = ["CAPRIVA DEL FRIULI","CORMONS","DOBERDO' DEL LAGO","DOLEGNA DEL COLLIO","FARRA D'ISONZO","FOGLIANO REDIPUGLIA","GORIZIA","GRADISCA D'ISONZO","GRADO","MARIANO DEL FRIULI","MEDEA","MONFALCONE","MORARO","MOSSA","ROMANS D'ISONZO","RONCHI DEI LEGIONARI","SAGRADO","SAN CANZIAN D'ISONZO","SAN FLORIANO DEL COLLIO","SAN LORENZO ISONTINO","SAN PIER D'ISONZO","SAVOGNA D'ISONZO","STARANZANO","TURRIACO","VILLESSE"]
 
-with open('ConfiniComuniFVG.geojson') as data_file: data = json.load(data_file)
+with open('resource/ConfiniComuniFVG.geojson') as data_file: data = json.load(data_file)
 feature_collection = json.FeatureCollection(data)
 ListFeatures = feature_collection['features']
 comune = 'AIELLO DEL FRIULI'
