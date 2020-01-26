@@ -13,16 +13,17 @@ import pandas as pd
 import numpy as np
 import tabula,os,logging
 
-os.chdir('/Users/andrea/PycharmProjects/Acqua')
+os.chdir('/Users/andrea/PycharmProjects/Acqua/FriuliVeneziaGiulia/CAFC')
 logging.basicConfig(level=logging.DEBUG)
 idGestore = 12816
 data_report = 'settembre 2919'
-listParameters = parm.getListSynonyms('FriuliVeneziaGiulia/CAFC/Definitions/SynParametri.csv')
-parm.crea_dizionario('FriuliVeneziaGiulia/CAFC/Definitions/SynParametri.csv')
+listParameters = parm.getListSynonyms('Definitions/SynParametri.csv')
+parm.crea_dizionario('Definitions/SynParametri.csv')
 listLabels = {}
 ll=[]
 urlAndLocationList = {}
-df = pd.read_csv('FriuliVeneziaGiulia/CAFC/Definitions/FoundReportList.csv')
+df = pd.read_csv('Definitions/FoundReportList.csv')
+####
 urlList = [url for url in df['url'].drop_duplicates()]
 ##Creazione del dizionario dei report e la lista di location associate.
 for i,url in enumerate(urlList):
