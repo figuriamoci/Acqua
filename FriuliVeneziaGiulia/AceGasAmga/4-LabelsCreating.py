@@ -52,7 +52,7 @@ for url_report in urlList:
         y = location['alias_city']
         location_ = (y, x)
         glb = al.addGeocodeData( lb, location_, 'Definitions/GeoReferencedLocationsList.csv' )
-        ll.append( glb )
+        for i in range(0,len(glb)): ll.append( glb[i] )
 
 ##
 fc = coll.to_geojson(ll)

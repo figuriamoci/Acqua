@@ -26,25 +26,26 @@ def create_label (id_gestore,data,parms):
 def addGeocodeData(label,location,geoReferencedLocationsFile):
         emptyDict = {}
         datiGeo_ = pd.read_csv(geoReferencedLocationsFile)
-        datiGeo = datiGeo_.reindex(columns=['alias_city','alias_address','geocode','geometry'])
-        datiGeo = datiGeo.set_index(['alias_city','alias_address'])
-        if not datiGeo.index.is_unique: raise DictionaryNotUnique('Dictionary geoReferencedLocations not unique. Let check it!')
-        datiGeo = datiGeo.to_dict(orient='index')
-        #Recupera dati geo di tipo Poin
-        try:
-            geometry = datiGeo[location]['geometry']
-            geocode = datiGeo[location]['geocode']
+        datiGeo = datiGeo_.reindex(columns=['alias_city','alias_address','geocode','geometry']).copy()
+
+        datiGeo2 = (datiGeo['alias_city']==location[0]) & (datiGeo['alias_address']==location[1])
+        datiGeo3 = datiGeo[datiGeo2]
+
+        if len(datiGeo3) == 0: raise KeyError
+        datiGeo3.reset_index(inplace=True)
+        loc = datiGeo3.index
+
+        geocodeLabelList = []
+        for i in datiGeo3.index:
+            geometry = datiGeo3.iloc[i]['geometry']
+            geocode = datiGeo3.iloc[i]['geocode']
             geocodeLabel = label.copy()
             geocodeLabel['location'] = location
             geocodeLabel['geometry'] = geometry
             geocodeLabel['geoname'] = geocode
-            if pd.isnull(geocode):
-                return emptyDict
-            else:
-                return geocodeLabel
-        except KeyError:
-            return emptyDict
-            
+            geocodeLabelList.append(geocodeLabel)
+
+        return geocodeLabelList
 
 def to_geojson(geoLabel):
     try:

@@ -1,10 +1,9 @@
 ##
-import os,camelot
-os.chdir('/Users/andrea/PycharmProjects/Acqua')
-tables = camelot.read_pdf('FriuliVeneziaGiulia/CAFC/9717.pdf')
+import camelot
+tables = camelot.read_pdf( '/Users/andrea/PycharmProjects/Acqua/FriuliVeneziaGiulia/IRISAcque/Definitions/Primosemestre2019.pdf')
 tables
 ##
 tables.export('foo.csv', f='csv', compress=True) # json, excel, html
-tables[0]
+a = tables[0]
 ##
-tables[0].parsing_report
+print(tables[0].parsing_report)

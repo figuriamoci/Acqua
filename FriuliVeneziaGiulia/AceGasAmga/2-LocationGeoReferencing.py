@@ -5,7 +5,7 @@ logging.basicConfig(level=logging.INFO)
 
 os.chdir('/Users/andrea/PycharmProjects/Acqua/FriuliVeneziaGiulia/AceGasAmga')
 print(os.getcwd())
-gc.apply('Definitions/LocationList.csv','Definitions/GeoReferencedLocationsList.csv')
+gc.apply('Definitions/LocationList.csv','Definitions/GeoReferencedLocationsList.csv','Definitions/ConfiniComuniFVG.geojson')
 
 #gc.retry('FriuliVeneziaGiulia/CAFC/Definitions/GeoReferencedLocationsList.csv')
 

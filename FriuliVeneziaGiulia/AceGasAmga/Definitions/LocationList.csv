@@ -1,8 +1,8 @@
-alias_address,alias_city,georeferencingString
-Via Italo Svevo Trieste,Trieste,Via Italo Svevo Trieste
-Trieste,Muggia,Muggia
-Trieste,Duino,Duino
-Trieste,San Dorligo della Valle,san dorligo della valle
-Trieste,Duino-Aurisina,Duino-Aurisina
-Trieste,Monrupino,Monrupino
-Trieste,Sgonico,Sgonico
+alias_address,alias_city,type,georeferencingString
+Trieste,Trieste,POLYGON,TRIESTE
+Trieste,Muggia,POLYGON,MUGGIA
+Trieste,Duino-Aurisina,POLYGON,DUINO-AURISINA
+Trieste,San Dorligo della Valle,POLYGON,SAN DORLIGO DELLA VALLE
+Trieste,Sgonico,POLYGON,SGONICO
+Trieste,Monrupino,POLYGON,MONRUPINO
+
