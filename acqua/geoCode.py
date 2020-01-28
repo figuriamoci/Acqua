@@ -10,6 +10,7 @@ def geoJson(location):
     else:
         return {"type": "Point", "coordinates": [location.longitude, location.latitude] if location else None}
 
+
 def apply(locationListFile,geoReferencedLocationsListFile,polygonFile):
     os.path.abspath(locationListFile)
     df = pd.read_csv(locationListFile)
@@ -18,25 +19,34 @@ def apply(locationListFile,geoReferencedLocationsListFile,polygonFile):
     point = df['type'] == 'POINT'
     polygon = df['type'] == 'POLYGON'
 
-    if len( df[point] ) > 0:
-        geolocator = Nominatim(user_agent="water")
-        geocode = RateLimiter(geolocator.geocode, min_delay_seconds=1)
-        df_ = df[point]
-        df_['geocode'] = df_['georeferencingString'].apply(geocode)
-        df_['geometry'] = df_['geocode'].apply(geoJson)
-        df = df_
+    def getPolygon(x):
+        try:
+            return areas[x]
+        except KeyError:
+            return ''
 
-    if len(df[polygon]) > 1:
+    dfPoint = pd.DataFrame()
+    dfPolygon = pd.DataFrame()
+
+    if len(df[polygon]) > 0:
         with open( polygonFile ) as data_file: data = json.load( data_file )
         feature_collection = json.FeatureCollection( data )
         listFeatures = feature_collection['features']
         areas_name = [listFeatures[i]['properties']['name'] for i,k in enumerate(listFeatures)]
         areas_geometry = [listFeatures[i]['geometry'] for i,k in enumerate(listFeatures)]
         areas = dict(zip(areas_name,areas_geometry))
-        df_ = df[polygon]
-        df_['geocode'] = df_['georeferencingString']
-        df_['geometry'] = df_['georeferencingString'].apply( lambda x: areas[x] )
-        df = df_
+        dfPolygon = df[polygon]
+        dfPolygon['geocode'] = dfPolygon['georeferencingString']
+        dfPolygon['geometry'] = dfPolygon['georeferencingString'].apply( getPolygon )
+
+    if len( df[point]) > 0:
+        geolocator = Nominatim(user_agent="water")
+        geocode = RateLimiter(geolocator.geocode, min_delay_seconds=1)
+        dfPoint = df[point]
+        dfPoint['geocode'] = dfPoint['georeferencingString'].apply(geocode)
+        dfPoint['geometry'] = dfPoint['geocode'].apply(geoJson)
+
+    df = pd.concat([dfPoint,dfPolygon])
 
     df.to_csv(geoReferencedLocationsListFile, index=False)
     n = df[df['geocode'].isnull()]
