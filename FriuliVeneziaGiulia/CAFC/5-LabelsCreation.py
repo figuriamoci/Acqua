@@ -22,7 +22,7 @@ parm.crea_dizionario('Definitions/SynParametri.csv')
 listLabels = {}
 ll=[]
 urlAndLocationList = {}
-df = pd.read_csv('Definitions/FoundReportList.csv')
+df = pd.read_csv('Definitions/ReviewedReportList.csv')
 ####
 urlList = [url for url in df['url'].drop_duplicates()]
 ##Creazione del dizionario dei report e la lista di location associate.
@@ -56,7 +56,7 @@ for url_report in urlList:
                 onlyTheseParameters = cleaned_table.set_index( 'Prova U.M.' ).loc[listParameters].dropna()
 
             label = onlyTheseParameters['Risultato'].to_dict()
-            data_report = ''
+            data_report = '09/12/2919'
 
             lb = al.create_label(idGestore,data_report,label)
             locationList = urlAndLocationList[url_report]
@@ -65,12 +65,12 @@ for url_report in urlList:
                 x = location['alias_address']
                 y = location['alias_city']
                 location_ = (y,x)
-                glb = al.addGeocodeData(lb,location_,'FriuliVeneziaGiulia/CAFC/Definitions/GeoReferencedLocationsList.csv')
-                ll.append(glb)
+                glb = al.addGeocodeData(lb,location_,'Definitions/GeoReferencedLocationsList.csv')
+                for i in range( 0, len( glb ) ): ll.append( glb[i] )
 
         except:
             logging.critical("The report '%s' was not readeble. Skipped!",url_report)
 ##
 fc = coll.to_geojson(ll)
-coll.to_file(fc,'FriuliVeneziaGiulia/CAFC/CAFC.geojson')
+coll.to_file(fc,'CAFC.geojson')
 coll.display(fc)

@@ -29,24 +29,28 @@ def apply(locationListFile,geoReferencedLocationsListFile,polygonFile):
     dfPolygon = pd.DataFrame()
 
     if len(df[polygon]) > 0:
+        #Retrive polygon definitions
         with open( polygonFile ) as data_file: data = json.load( data_file )
         feature_collection = json.FeatureCollection( data )
         listFeatures = feature_collection['features']
         areas_name = [listFeatures[i]['properties']['name'] for i,k in enumerate(listFeatures)]
         areas_geometry = [listFeatures[i]['geometry'] for i,k in enumerate(listFeatures)]
         areas = dict(zip(areas_name,areas_geometry))
+        #Instance Nominatim
+        geolocator = Nominatim(user_agent="water")
+        geocode = RateLimiter(geolocator.geocode, min_delay_seconds=1)
         dfPolygon = df[polygon]
-        dfPolygon['geocode'] = dfPolygon['georeferencingString']
+        dfPolygon['geocode'] = dfPolygon['georeferencingString'].apply( geocode )
         dfPolygon['geometry'] = dfPolygon['georeferencingString'].apply( getPolygon )
 
     if len( df[point]) > 0:
         geolocator = Nominatim(user_agent="water")
         geocode = RateLimiter(geolocator.geocode, min_delay_seconds=1)
         dfPoint = df[point]
-        dfPoint['geocode'] = dfPoint['georeferencingString'].apply(geocode)
+        dfPoint['geocode'] = dfPoint['georeferencingString'].apply( geocode )
         dfPoint['geometry'] = dfPoint['geocode'].apply(geoJson)
 
-    df = pd.concat([dfPoint,dfPolygon])
+    df = pd.concat([dfPoint,dfPolygon],sort=True)
 
     df.to_csv(geoReferencedLocationsListFile, index=False)
     n = df[df['geocode'].isnull()]
@@ -68,5 +72,22 @@ def retry(geoReferencedLocationsListFile):
     dfT = pd.concat([df_,dfR])
     dfT.to_csv(geoReferencedLocationsListFile, index=False)
     n = dfT[dfT['geocode'].isnull()]
+    logging.info('Not found %s geocode of %s.',len(n),len(df))
+    return len(df)
+
+def retry2(geoReferencedLocationsListFile):
+    import numpy as np
+    df = pd.read_csv(geoReferencedLocationsListFile)
+    logging.info('Load geoReferencedLocationsListFile...waiting')
+    geolocator = Nominatim(user_agent="water")
+    geocode = RateLimiter(geolocator.geocode, min_delay_seconds=1)
+    n = df[df['type']=='POLYGON']
+    logging.info( 'Row %s to be geocode of %s.', len( n ), len( df ) )
+    df_ = df[df['type']=='POLYGON'].copy()
+    df_['geocode'] = df_['georeferencingString'].apply(geocode)
+    dfR = df[df['type']=='POINT']
+    dfT = pd.concat([df_,dfR])
+    dfT.to_csv(geoReferencedLocationsListFile, index=False)
+    n = df['type']=='POLYGON'
     logging.info('Not found %s geocode of %s.',len(n),len(df))
     return len(df)
