@@ -11,7 +11,7 @@ import acqua.labelCollection as coll
 import acqua.parametri as parm
 import pandas as pd
 import numpy as np
-import tabula,os,logging
+import tabula,os,logging,pickle
 
 os.chdir('/Users/andrea/PycharmProjects/Acqua/FriuliVeneziaGiulia/CAFC')
 logging.basicConfig(level=logging.DEBUG)
@@ -69,7 +69,18 @@ for url_report in urlList:
                 for i in range( 0, len( glb ) ): ll.append( glb[i] )
         except:
             logging.critical("The report '%s' was not readeble. Skipped!",url_report)
+
+filename = 'ListLabels.pickle'
+outfile = open(filename,'wb')
+pickle.dump(ll,outfile)
+outfile.close()
 ##
+import pickle
+filename = 'ListLabels.pickle'
+infile = open(filename,'rb')
+ll = pickle.load(infile)
+infile.close()
+
 fc = coll.to_geojson(ll,rgb=coll.getRGB())
 coll.to_file(fc,'CAFC.geojson')
 coll.display(fc)

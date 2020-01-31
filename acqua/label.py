@@ -2,7 +2,7 @@ import acqua.parametri as sp
 import acqua.parametri as par
 import pandas as pd
 import acqua.aqueduct as aq
-import time, geojson
+import time, geojson,numpy as np,logging,math
 
 def create_label (id_gestore,data_report,parms):
     data = {}
@@ -40,17 +40,20 @@ def addGeocodeData(label,location,geoReferencedLocationsFile):
         return geocodeLabelList
 
 def to_geojson(geoLabel,rgb):
-    try:
-        location = geoLabel['location']
-        separator = ', '
-        location = separator.join( location )
-        prop = {"geoname":geoLabel['geoname'],"gestore":geoLabel['gestore'],"web":geoLabel['web'],"report":geoLabel['report'],"data":geoLabel['data'],"reference":location,"timestamp":geoLabel['timestamp']}
-        parms_ = geoLabel['parameters']
-        parms = {str(k):str(v)+' '+par.getUM(str(k)) for k,v in parms_.items()}
-        prop.update(parms)
-        s = geoLabel['geometry']
-        geo = geojson.loads( s.replace( "'", '"' ) )
+    location = geoLabel['location']
+    separator = ', '
+    location = separator.join( location )
+    prop = {"geoname":geoLabel['geoname'],"gestore":geoLabel['gestore'],"web":geoLabel['web'],"report":geoLabel['report'],"data":geoLabel['data'],"reference":location,"timestamp":geoLabel['timestamp']}
+    parms_ = geoLabel['parameters']
+    parms = {str(k):str(v)+' '+par.getUM(str(k)) for k,v in parms_.items()}
+    prop.update(parms)
+    s = geoLabel['geometry']
 
+    if pd.isna(s):
+        logging.critical( 'Geometry not found for %s', location )
+        return ''
+    else:
+        geo = geojson.loads( s.replace( "'", '"' ) )
         type = geo['type']
         if type == 'Polygon':
             extra = {"fill": "#" + rgb}
@@ -58,11 +61,10 @@ def to_geojson(geoLabel,rgb):
             extra = { "marker-color": "#" + rgb, "marker-size": "small"}
         else:
             extra = {}
-        prop.update( extra )
+            prop.update( extra )
+
         feature = geojson.Feature( geometry=geo, properties=prop )
         return feature
-    except KeyError:
-        return ''
 
 def to_GeoJsonFeature(label,locations,geoReferencedLocationsFile):
     import numpy as np
