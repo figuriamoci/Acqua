@@ -4,19 +4,19 @@ DescrizioneParametro = {'RESIDUO_FISSO': 'Residuo fisso', 'DUREZZA': 'Durezza', 
                         'NITRATO': 'Nitrato', 'NITRITO': 'Nitrito', 'CLORURO': 'Cloruro',
                         'CONDUCIBILITA': 'Conducibilita ', 'FLUORURI': 'Fluoruri', 'AMMONIACA': 'Ammoniaca',
                         'MANGANESE': 'Manganese', 'ARSENICO': 'Arsenico', 'BICARBONATO': 'bicarbonato',
-                        'CLORO_RESIDUO': 'cloro residuo libero'}
+                        'CLORO_RESIDUO': 'cloro residuo libero','FERRO':'Ferro'}
 # UnitÃ  di misura parametri
 UMParametro = {'RESIDUO_FISSO': 'mg/l', 'DUREZZA': '°F', 'PH': "unità pH", 'CALCIO': 'mg/l', 'SODIO': 'mg/l',
                'MAGNESIO': 'mg/l Mg', 'POTASSIO': 'mg/l K', 'SOLFATO': 'mg/l SO4', 'NITRATO': 'mg/l',
                'NITRITO': 'mg/l', 'CLORURO': 'mg/l Cl', 'CONDUCIBILITA': 'µS/cm', 'FLUORURI': 'mg/L',
                'AMMONIACA': 'mg/L', 'MANGANESE': 'µg/L', 'ARSENICO': 'µg/L', 'BICARBONATO': 'mg/L',
-               'CLORO_RESIDUO': 'mg/l'}
+               'CLORO_RESIDUO': 'mg/l','FERRO':'μg/l'}
 # Limiti di legge (D.lgs 31/01)
 VLParametro = {'RESIDUO_FISSO': '1500', 'DUREZZA': '15-50 valori consigliati', 'PH': '6,5-9,5',
                'CALCIO': 'non previsto', 'SODIO': '200', 'MAGNESIO': 'non previsto', 'POTASSIO': 'non previsto',
                'SOLFATO': '250', 'NITRATO': '50', 'NITRITO': '0,5', 'CLORURO': '250', 'CONDUCIBILITA': '2500',
                'FLUORURI': '1,5', 'AMMONIACA': '0,5', 'MANGANESE': '50', 'ARSENICO': '10',
-               'BICARBONATO': 'non previsto', 'CLORO_RESIDUO': 'non previsto'}
+               'BICARBONATO': 'non previsto', 'CLORO_RESIDUO': 'non previsto','FERRO':'non previsto'}
 
 # TODO: Implement Nested Dictionaries
 import csv

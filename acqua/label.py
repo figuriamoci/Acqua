@@ -61,8 +61,8 @@ def to_geojson(geoLabel,rgb):
             extra = { "marker-color": "#" + rgb, "marker-size": "small"}
         else:
             extra = {}
-            prop.update( extra )
 
+        prop.update( extra )
         feature = geojson.Feature( geometry=geo, properties=prop )
         return feature
 

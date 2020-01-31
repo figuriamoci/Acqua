@@ -151,6 +151,7 @@ def findGeometry(geoReferencedLocationsListFile,polygonFile):
 
     dfPoint = pd.DataFrame()
     dfPolygon = pd.DataFrame()
+    dfAltro = pd.DataFrame()
 
     if len(df[polygon]) > 0:
 
@@ -183,4 +184,12 @@ def findGeometry(geoReferencedLocationsListFile,polygonFile):
     n = df[df['geocode'].isnull()]
     logging.info('Not found %s geocode of %s.',len(n),len(df))
 
+    return len(df)
+
+def createGeoReferencedLocationsList(locationListFile,geoReferencedLocationsListFile):
+    df = pd.read_csv(locationListFile)
+    df['geocode']=''
+    df['geometry']=''
+    df.to_csv(geoReferencedLocationsListFile,index=False)
+    logging.info('GeoReferencedLocationsListFile created!')
     return len(df)

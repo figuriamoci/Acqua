@@ -2,13 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7f07049d-118d-41b2-902c-f0e231157e01" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/FriuliVeneziaGiulia/CAFC/ListLabels.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FriuliVeneziaGiulia/CAFC/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FriuliVeneziaGiulia/Poiana/1-LocationsCollection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FriuliVeneziaGiulia/Poiana/3-GeoReferenceDataCollection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FriuliVeneziaGiulia/Poiana/4-LabelsCreation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FriuliVeneziaGiulia/Poiana/5-LabelsPublising.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FriuliVeneziaGiulia/Poiana/Definitions/Acque Potabili - Analisi Chimico fisiche 2018_2019.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FriuliVeneziaGiulia/Poiana/Definitions/GeoReferencedLocationsList.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FriuliVeneziaGiulia/Poiana/Definitions/LocationList.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FriuliVeneziaGiulia/Poiana/Definitions/SynParametri.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FriuliVeneziaGiulia/CAFC/5-LabelsCreation.py" beforeDir="false" afterPath="$PROJECT_DIR$/FriuliVeneziaGiulia/CAFC/5-LabelsCreation.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/FriuliVeneziaGiulia/CAFC/CAFC.geojson" beforeDir="false" afterPath="$PROJECT_DIR$/FriuliVeneziaGiulia/CAFC/CAFC.geojson" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FriuliVeneziaGiulia/CAFC/Definitions/ConfiniComuniFVG.geojson" beforeDir="false" afterPath="$PROJECT_DIR$/FriuliVeneziaGiulia/CAFC/Definitions/ConfiniComuniFVG.geojson" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/acqua/geoCode.py" beforeDir="false" afterPath="$PROJECT_DIR$/acqua/geoCode.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/acqua/label.py" beforeDir="false" afterPath="$PROJECT_DIR$/acqua/label.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/acqua/parametri.py" beforeDir="false" afterPath="$PROJECT_DIR$/acqua/parametri.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,8 +88,8 @@
       <recent name="$PROJECT_DIR$/FriuliVeneziaGiulia/IRISAcque" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.test">
-    <configuration name="3-ReportListReviewing" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.4-LabelsCreation">
+    <configuration name="3-GeoReferenceDataCollection" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Acqua" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -91,11 +97,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FriuliVeneziaGiulia/CAFC" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FriuliVeneziaGiulia/Poiana" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FriuliVeneziaGiulia/CAFC/3-ReportListReviewing.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FriuliVeneziaGiulia/Poiana/3-GeoReferenceDataCollection.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -125,7 +131,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="4-GeoReferenceDataCollection" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="4-LabelsCreation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Acqua" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -133,11 +139,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Veneto/Lta" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FriuliVeneziaGiulia/Poiana" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Veneto/Lta/4-GeoReferenceDataCollection.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FriuliVeneziaGiulia/Poiana/4-LabelsCreation.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -159,27 +165,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FriuliVeneziaGiulia/CAFC/5-LabelsCreation.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="5-LabelsCreation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Acqua" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Veneto/Lta" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Veneto/Lta/5-LabelsCreation.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -210,19 +195,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.5-LabelsCreation" />
-      <item itemvalue="Python.3-ReportListReviewing" />
       <item itemvalue="Python.4-GeoReferenceDataCollection (1)" />
       <item itemvalue="Python.5-LabelsCreation (1)" />
       <item itemvalue="Python.test" />
+      <item itemvalue="Python.3-GeoReferenceDataCollection" />
+      <item itemvalue="Python.4-LabelsCreation" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.4-LabelsCreation" />
+        <item itemvalue="Python.3-GeoReferenceDataCollection" />
         <item itemvalue="Python.test" />
         <item itemvalue="Python.5-LabelsCreation (1)" />
         <item itemvalue="Python.4-GeoReferenceDataCollection (1)" />
-        <item itemvalue="Python.3-ReportListReviewing" />
-        <item itemvalue="Python.5-LabelsCreation" />
       </list>
     </recent_temporary>
   </component>
@@ -379,7 +364,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580430989076</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Baseline">
+      <created>1580472651302</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1580472651302</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -476,10 +468,10 @@
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="403" y="110" key="#xdebugger.evaluate/0.0.1280.800@0.0.1280.800" timestamp="1579560801221" />
-    <state x="605" y="144" key="CommitChangelistDialog2" timestamp="1580430988576">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state x="403" y="5" key="CommitChangelistDialog2" timestamp="1580472650601">
+      <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="403" y="5" key="CommitChangelistDialog2/0.0.1280.800@0.0.1280.800" timestamp="1579560993103" />
+    <state x="403" y="5" key="CommitChangelistDialog2/0.0.1280.800@0.0.1280.800" timestamp="1580472650601" />
     <state x="605" y="144" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1580430988576" />
     <state x="605" y="157" key="CommitChangelistDialog2/0.23.1920.1008@0.23.1920.1008" timestamp="1578958992036" />
     <state x="100" y="107" width="1720" height="866" key="DiffContextDialog" timestamp="1580260742284">
@@ -495,60 +487,60 @@
     </state>
     <state x="554" y="326" key="Github.ShareDialog/0.0.1280.800@0.0.1280.800" timestamp="1579478363952" />
     <state x="831" y="440" key="Github.ShareDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1578003421051" />
-    <state width="1259" height="126" key="GridCell.Tab.0.bottom" timestamp="1580471927497">
+    <state width="1259" height="126" key="GridCell.Tab.0.bottom" timestamp="1580508924791">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1259" height="126" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1580471927497" />
-    <state width="1899" height="449" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1580461261012" />
+    <state width="1259" height="126" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1580508924791" />
+    <state width="1899" height="126" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1580506470429" />
     <state width="1259" height="200" key="GridCell.Tab.0.bottom/0.23.1280.728@0.23.1280.728" timestamp="1579985675171" />
     <state width="1899" height="395" key="GridCell.Tab.0.bottom/0.23.1920.1008@0.23.1920.1008" timestamp="1580157127810" />
-    <state width="1259" height="126" key="GridCell.Tab.0.center" timestamp="1580471927496">
+    <state width="1259" height="126" key="GridCell.Tab.0.center" timestamp="1580508924790">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1259" height="126" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1580471927496" />
-    <state width="1899" height="449" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1580461261011" />
+    <state width="1259" height="126" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1580508924790" />
+    <state width="1899" height="126" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1580506470428" />
     <state width="1259" height="200" key="GridCell.Tab.0.center/0.23.1280.728@0.23.1280.728" timestamp="1579985675170" />
     <state width="1899" height="395" key="GridCell.Tab.0.center/0.23.1920.1008@0.23.1920.1008" timestamp="1580157127809" />
-    <state width="1259" height="126" key="GridCell.Tab.0.left" timestamp="1580471927495">
+    <state width="1259" height="126" key="GridCell.Tab.0.left" timestamp="1580508924789">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1259" height="126" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1580471927495" />
-    <state width="1899" height="449" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1580461261010" />
+    <state width="1259" height="126" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1580508924789" />
+    <state width="1899" height="126" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1580506470427" />
     <state width="1259" height="200" key="GridCell.Tab.0.left/0.23.1280.728@0.23.1280.728" timestamp="1579985675170" />
     <state width="1899" height="395" key="GridCell.Tab.0.left/0.23.1920.1008@0.23.1920.1008" timestamp="1580157127809" />
-    <state width="1259" height="126" key="GridCell.Tab.0.right" timestamp="1580471927497">
+    <state width="1259" height="126" key="GridCell.Tab.0.right" timestamp="1580508924790">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1259" height="126" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1580471927497" />
-    <state width="1899" height="449" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1580461261011" />
+    <state width="1259" height="126" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1580508924790" />
+    <state width="1899" height="126" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1580506470429" />
     <state width="1259" height="200" key="GridCell.Tab.0.right/0.23.1280.728@0.23.1280.728" timestamp="1579985675170" />
     <state width="1899" height="395" key="GridCell.Tab.0.right/0.23.1920.1008@0.23.1920.1008" timestamp="1580157127810" />
-    <state width="1259" height="294" key="GridCell.Tab.1.bottom" timestamp="1580471919602">
+    <state width="1899" height="455" key="GridCell.Tab.1.bottom" timestamp="1580508924781">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1259" height="294" key="GridCell.Tab.1.bottom/0.0.1280.800@0.0.1280.800" timestamp="1580471919602" />
-    <state width="1899" height="449" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1580461262661" />
+    <state width="1899" height="455" key="GridCell.Tab.1.bottom/0.0.1280.800@0.0.1280.800" timestamp="1580508924781" />
+    <state width="1899" height="455" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1580506435348" />
     <state width="1259" height="172" key="GridCell.Tab.1.bottom/0.23.1280.728@0.23.1280.728" timestamp="1579906912355" />
     <state width="1920" height="460" key="GridCell.Tab.1.bottom/0.23.1920.1008@0.23.1920.1008" timestamp="1580433022998" />
-    <state width="1259" height="294" key="GridCell.Tab.1.center" timestamp="1580471919601">
+    <state width="1899" height="455" key="GridCell.Tab.1.center" timestamp="1580508924775">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1259" height="294" key="GridCell.Tab.1.center/0.0.1280.800@0.0.1280.800" timestamp="1580471919601" />
-    <state width="1899" height="449" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1580461262658" />
+    <state width="1899" height="455" key="GridCell.Tab.1.center/0.0.1280.800@0.0.1280.800" timestamp="1580508924775" />
+    <state width="1899" height="455" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1580506435347" />
     <state width="1259" height="172" key="GridCell.Tab.1.center/0.23.1280.728@0.23.1280.728" timestamp="1579906912354" />
     <state width="1920" height="460" key="GridCell.Tab.1.center/0.23.1920.1008@0.23.1920.1008" timestamp="1580433022972" />
-    <state width="1259" height="294" key="GridCell.Tab.1.left" timestamp="1580471919600">
+    <state width="1899" height="455" key="GridCell.Tab.1.left" timestamp="1580508924775">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1259" height="294" key="GridCell.Tab.1.left/0.0.1280.800@0.0.1280.800" timestamp="1580471919600" />
-    <state width="1899" height="449" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1580461262657" />
+    <state width="1899" height="455" key="GridCell.Tab.1.left/0.0.1280.800@0.0.1280.800" timestamp="1580508924775" />
+    <state width="1899" height="455" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1580506435346" />
     <state width="1259" height="172" key="GridCell.Tab.1.left/0.23.1280.728@0.23.1280.728" timestamp="1579906912354" />
     <state width="1920" height="460" key="GridCell.Tab.1.left/0.23.1920.1008@0.23.1920.1008" timestamp="1580433022948" />
-    <state width="1259" height="294" key="GridCell.Tab.1.right" timestamp="1580471919602">
+    <state width="1899" height="455" key="GridCell.Tab.1.right" timestamp="1580508924780">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1259" height="294" key="GridCell.Tab.1.right/0.0.1280.800@0.0.1280.800" timestamp="1580471919602" />
-    <state width="1899" height="449" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1580461262660" />
+    <state width="1899" height="455" key="GridCell.Tab.1.right/0.0.1280.800@0.0.1280.800" timestamp="1580508924780" />
+    <state width="1899" height="455" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1580506435348" />
     <state width="1259" height="172" key="GridCell.Tab.1.right/0.23.1280.728@0.23.1280.728" timestamp="1579906912355" />
     <state width="1920" height="460" key="GridCell.Tab.1.right/0.23.1920.1008@0.23.1920.1008" timestamp="1580433022974" />
     <state x="228" y="142" key="IDE.errors.dialog" timestamp="1579363875420">
@@ -562,17 +554,17 @@
     <state x="224" y="23" width="1257" height="722" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1580163886212" />
     <state x="149" y="26" key="SettingsEditor/0.23.1280.728@0.23.1280.728" timestamp="1577496118374" />
     <state x="224" y="27" key="SettingsEditor/0.23.1920.1008@0.23.1920.1008" timestamp="1579029497245" />
-    <state x="560" y="280" key="Vcs.Push.Dialog.v2" timestamp="1580261547329">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state x="373" y="207" key="Vcs.Push.Dialog.v2" timestamp="1580472668598">
+      <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="373" y="207" key="Vcs.Push.Dialog.v2/0.0.1280.800@0.0.1280.800" timestamp="1579561010265" />
+    <state x="373" y="207" key="Vcs.Push.Dialog.v2/0.0.1280.800@0.0.1280.800" timestamp="1580472668598" />
     <state x="560" y="280" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1580261547329" />
     <state x="560" y="284" key="Vcs.Push.Dialog.v2/0.23.1920.1008@0.23.1920.1008" timestamp="1578959048175" />
-    <state width="960" height="540" key="XDebugger.FullValuePopup" timestamp="1580460077468">
+    <state width="960" height="540" key="XDebugger.FullValuePopup" timestamp="1580506265100">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1008" height="400" key="XDebugger.FullValuePopup/0.0.1280.800@0.0.1280.800" timestamp="1579742883044" />
-    <state width="960" height="540" key="XDebugger.FullValuePopup/0.0.1920.1080@0.0.1920.1080" timestamp="1580460077468" />
+    <state width="960" height="540" key="XDebugger.FullValuePopup/0.0.1920.1080@0.0.1920.1080" timestamp="1580506265100" />
     <state width="1008" height="400" key="XDebugger.FullValuePopup/0.23.1280.728@0.23.1280.728" timestamp="1579904293098" />
     <state width="960" height="540" key="XDebugger.FullValuePopup/0.23.1920.1008@0.23.1920.1008" timestamp="1580164023300" />
     <state x="100" y="100" width="1720" height="880" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1577728210157">
@@ -708,18 +700,38 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/acqua/geoCode.py</url>
-          <line>180</line>
+          <line>181</line>
           <option name="timeStamp" value="303" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/acqua/geoCode.py</url>
-          <line>167</line>
+          <line>168</line>
           <option name="timeStamp" value="304" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/FriuliVeneziaGiulia/CAFC/test.py</url>
           <line>10</line>
           <option name="timeStamp" value="305" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/acqua/geoCode.py</url>
+          <line>189</line>
+          <option name="timeStamp" value="306" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/acqua/geoCode.py</url>
+          <line>155</line>
+          <option name="timeStamp" value="307" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/FriuliVeneziaGiulia/Poiana/4-LabelsCreation.py</url>
+          <line>46</line>
+          <option name="timeStamp" value="312" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/acqua/label.py</url>
+          <line>56</line>
+          <option name="timeStamp" value="316" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
