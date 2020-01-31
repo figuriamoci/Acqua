@@ -1,14 +1,13 @@
 ##
 from selenium import webdriver
-import pandas as pd
+import pandas as pd,os
 ##
+os.chdir('/Users/andrea/PycharmProjects/Acqua/FriuliVeneziaGiulia/HydroGEA')
 options = webdriver.ChromeOptions()
 options.add_argument('--ignore-certificate-errors')
 options.add_argument('--incognito')
 options.add_argument('--headless')
-driver = webdriver.Chrome("D:\EmporioADV\chromedriver")
-#driver = webdriver.Chrome("/usr/local/bin/chromedriver")
-#driver = webdriver.Firefox()
+driver = webdriver.Chrome("/usr/local/bin/chromedriver")
 driver.get("https://www.hydrogea-pn.it/#/menu/informazioni/acqua")
 #print('Http status: ',page.status_code)
 listLocations = pd.DataFrame()

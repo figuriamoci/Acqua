@@ -38,6 +38,7 @@ dfPoligon = dfPoligon_.groupby('alias_city').first()
 dfPoligon.reset_index(inplace=True)
 dfPoligon['type'] = 'POLYGON'
 dfPoligon['georeferencingString'] = dfPoligon['alias_city']
+dfPoligon['polygonKey'] = dfPoligon['alias_city']
 #Quali solo i point?
 l = citysReportMultiplo.index.values
 dfPoint = listLocations.loc[listLocations['alias_city'].isin(l)]
@@ -51,6 +52,7 @@ dfAltri = dfAltri_.groupby('alias_city').first()
 dfAltri.reset_index(inplace=True)
 dfAltri['type'] = 'POLYGON'
 dfAltri['georeferencingString'] = dfPoligon['alias_city']
+dfAltri['polygonKey'] = dfPoligon['alias_city']
 #Assembling
 dfReviewedLocationList = pd.concat([dfPoligon,dfPoint,dfAltri],sort=True)
 #Salva l'output

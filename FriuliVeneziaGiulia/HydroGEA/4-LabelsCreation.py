@@ -14,9 +14,9 @@ import tabula
 import os
 import logging
 #os.chdir('D:/Python/Acqua/')
-os.chdir('/Users/andrea/PycharmProjects/Acqua')
+os.chdir('/Users/andrea/PycharmProjects/Acqua/FriuliVeneziaGiulia/HydroGEA')
 idGestore = 13146
-parm.crea_dizionario('FriuliVeneziaGiulia/HydroGEA/Definitions/SynParametri.csv')
+parm.crea_dizionario('Definitions/SynParametri.csv')
 data_report = '30-02-1900'
 ##
 def get_rawTable(url_report):
@@ -60,7 +60,7 @@ def estractLabelFromRawTable(address,rawTable):
 ##
 #print(os.path.abspath('FriuliVeneziaGiulia/HydroGEA/Definitions/FoundReportList.csv'))
 logging.basicConfig(level=logging.DEBUG)
-df = pd.read_csv('FriuliVeneziaGiulia/HydroGEA/Definitions/FoundReportList.csv')
+df = pd.read_csv('Definitions/FoundReportList.csv')
 df = df.set_index(['alias_city','alias_address'])
 locationList = df.index
 logging.info('Caricato la FoundReportList.csv con %s elementi.',len(df))
@@ -80,14 +80,14 @@ for location in locationList:
         rawLabel = estractLabelFromRawTable(address,rawTable)
         label = rawLabel['label']
         lb = al.create_label(idGestore,data_report,label)
-        glb = al.addGeocodeData(lb,location,'FriuliVeneziaGiulia/HydroGEA/Definitions/GeoReferencedLocationsList.csv')
-        ll.append(glb)
+        glb = al.addGeocodeData(lb,location,'Definitions/GeoReferencedLocationsList.csv')
+        for j in range( 0, len( glb ) ): ll.append( glb[j] )
     except:
         logging.critical('Skip label for %s',location)
 
 ##
-fc = coll.to_geojson(ll)
-coll.to_file(fc,'FriuliVeneziaGiulia/HydroGEA/HydroGEA.geojson')
+fc = coll.to_geojson(ll,rgb=coll.getRGB())
+coll.to_file(fc,'HydroGEA.geojson')
 coll.display(fc)
 
 logging.info('Created %s label(s) of %s.',len(ll),len(locationList))

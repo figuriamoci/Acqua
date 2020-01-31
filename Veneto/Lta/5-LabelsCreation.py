@@ -35,13 +35,15 @@ driver = webdriver.Chrome("chromedriver", options=options)
 ##
 logging.info( 'Start: %s', datetime.datetime.now() )
 ll = []
+i=0
 ##
 for loc in locationList:
+    i=i+1
     #loc=('Annone Veneto ','Annone Veneto - Viale Venezia')
     driver.get( "https://www.lta.it/le-analisi-della-tua-acqua" )
     control_loc = Select( driver.find_element_by_id( 'punto-di-analisi' ) )
     control_loc.select_by_visible_text( loc[1] )
-    logging.info('Anayzing %s..(%s/%s)',loc[1],len(ll)+1,len(locationList))
+    logging.info('Anayzing %s..(%s/%s)',loc[1],i,len(locationList))
     soup = BeautifulSoup( driver.page_source, 'html.parser' )
     htmlTable = soup.findAll('table',{'class':'table table-striped'})
     rawTable = pd.read_html(str(htmlTable),decimal=',',thousands='.',header=0)[0]
@@ -54,10 +56,10 @@ for loc in locationList:
 
     lb = al.create_label( idGestore, data_report, label['Valore'] )
     glb = al.addGeocodeData( lb, loc, 'Definitions/GeoReferencedLocationsList.csv' )
-    for i in range(0,len(glb)): ll.append( glb[i] )
+    for j in range(0,len(glb)): ll.append( glb[j] )
 ##
 logging.info('End.')
-fc = coll.to_geojson(ll)
+fc = coll.to_geojson(ll,rgb=coll.getRGB())
 coll.to_file(fc,'Lta.geojson')
 coll.display(fc)
 

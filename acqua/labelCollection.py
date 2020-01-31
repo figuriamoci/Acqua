@@ -6,21 +6,24 @@ Created on Sun Jan  5 04:44:35 2020
 @author: andrea
 """
 import acqua.label as al
-import geojsonio
+import geojsonio,geojson,logging,random
 import geojson as js
-import logging
 import pymongo as py
 
-def to_geojson(geoLabel):
-    geojson = '{"type": "FeatureCollection","features": '
-    feature = '['
-    for i in geoLabel: 
-        if feature == '[':
-            feature = feature + al.to_geojson(i)
-        else:
-            f = al.to_geojson(i)
-            if f != '': feature = feature + ','+ f
-    return geojson+feature+']}'
+def toHex(rgb):
+    return '%02x%02x%02x' % rgb
+
+def getRGB():
+    r = random.randint(0,255)
+    g = random.randint(0,255)
+    b = random.randint(0,255)
+    return toHex((r,g,b))
+
+def to_geojson(geoLabel,**kwargs):
+    rgb = kwargs.get('rgb', '000000')
+    ll = [ al.to_geojson(geo,rgb) for geo in geoLabel ]
+    feature_collection = geojson.FeatureCollection( ll )
+    return feature_collection
 
 def to_MDBCollection(geoLabel):
     json = '['
@@ -33,12 +36,11 @@ def to_MDBCollection(geoLabel):
     return json+']'
 
 def display(geoLabel):
-    from github3 import login
-    geojsonio.display(geoLabel)
+    geojsonio.display(geojson.dumps( geoLabel ))
 
-def to_file(feature, fileName):
+def to_file(featureCollection, fileName):
     file = open(fileName, 'w')
-    file.write(feature)
+    file.write(geojson.dumps(featureCollection))
     file.close()
     return fileName
 

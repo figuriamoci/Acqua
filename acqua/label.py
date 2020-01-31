@@ -2,8 +2,7 @@ import acqua.parametri as sp
 import acqua.parametri as par
 import pandas as pd
 import acqua.aqueduct as aq
-import time
-import geojson as geo
+import time, geojson
 
 def create_label (id_gestore,data_report,parms):
     data = {}
@@ -16,11 +15,8 @@ def create_label (id_gestore,data_report,parms):
     time_string = time.strftime( "%d/%m/%Y, %H:%M", named_tuple )
     data['timestamp'] = time_string
     data['data'] = data_report
-    
-    parameters = {}
     parameters = {sp.getSTDParm(k): str(v).replace(' ','') for k, v in parms.items()}
     data['parameters'] = parameters
-    
     return data
 
 def addGeocodeData(label,location,geoReferencedLocationsFile):
@@ -43,23 +39,28 @@ def addGeocodeData(label,location,geoReferencedLocationsFile):
             geocodeLabelList.append(geocodeLabel)
         return geocodeLabelList
 
-def to_geojson(geoLabel):
+def to_geojson(geoLabel,rgb):
     try:
-        geometry = geoLabel['geometry']
-        geojson = '{"type":"Feature","geometry": '+geometry.replace("'",'"')+','
         location = geoLabel['location']
         separator = ', '
-        location_ = separator.join(location)
-        properties = '"properties": { "name": "'+geoLabel['geoname']+'",'
-        properties = properties + '"gestore": "' + geoLabel['gestore'] + '",'
-        properties = properties + '"web": "' + geoLabel['web'] + '",'
-        properties = properties + '"report": "' + geoLabel['report'] + '",'
-        properties = properties + '"data": "' + geoLabel['data'] + '",'
-        properties = properties + '"reference": "' + location_ + '",'
-        properties = properties + '"timestamp": "' + geoLabel['timestamp'] + '"'
-        parms = geoLabel['parameters']
-        for k in parms: properties = properties + ', "'+str(k)+'": "'+str(parms[k])+' '+par.getUM(str(k))+'"'
-        return geojson+properties+'}}'
+        location = separator.join( location )
+        prop = {"geoname":geoLabel['geoname'],"gestore":geoLabel['gestore'],"web":geoLabel['web'],"report":geoLabel['report'],"data":geoLabel['data'],"reference":location,"timestamp":geoLabel['timestamp']}
+        parms_ = geoLabel['parameters']
+        parms = {str(k):str(v)+' '+par.getUM(str(k)) for k,v in parms_.items()}
+        prop.update(parms)
+        s = geoLabel['geometry']
+        geo = geojson.loads( s.replace( "'", '"' ) )
+
+        type = geo['type']
+        if type == 'Polygon':
+            extra = {"fill": "#" + rgb}
+        elif type == 'Point':
+            extra = { "marker-color": "#" + rgb, "marker-size": "small"}
+        else:
+            extra = {}
+        prop.update( extra )
+        feature = geojson.Feature( geometry=geo, properties=prop )
+        return feature
     except KeyError:
         return ''
 

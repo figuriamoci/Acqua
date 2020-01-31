@@ -1,7 +1,7 @@
 import os
 import acqua.geoCode as gc
 
-os.chdir('/Users/andrea/PycharmProjects/Acqua/')
+os.chdir('/Users/andrea/PycharmProjects/Acqua/FriuliVeneziaGiulia/HydroGEA')
 print(os.getcwd())
-gc.apply('FriuliVeneziaGiulia/HydroGEA/Definitions/LocationList.csv','FriuliVeneziaGiulia/HydroGEA/Definitions/GeoReferencedLocationsList.csv')
+gc.apply('Definitions/LocationList.csv','Definitions/GeoReferencedLocationsList.csv')
 

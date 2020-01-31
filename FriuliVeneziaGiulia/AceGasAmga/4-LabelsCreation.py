@@ -16,7 +16,7 @@ import tabula,os,logging
 logging.basicConfig(level=logging.DEBUG)
 os.chdir('/Users/andrea/PycharmProjects/Acqua/FriuliVeneziaGiulia/AceGasAmga')
 idGestore = 926 ##AceGasAmga
-data_report = 'Novembre 2019'
+data_report = '25/11/2019'
 url = '2019_11_novembre_TS.1577977068.pdf'
 listParameters = parm.getListSynonyms('Definitions/SynParametri.csv')
 parm.crea_dizionario('Definitions/SynParametri.csv')
@@ -52,9 +52,9 @@ for url_report in urlList:
         y = location['alias_city']
         location_ = (y, x)
         glb = al.addGeocodeData( lb, location_, 'Definitions/GeoReferencedLocationsList.csv' )
-        for i in range(0,len(glb)): ll.append( glb[i] )
+        for i in range( 0, len( glb ) ): ll.append( glb[i] )
 
 ##
-fc = coll.to_geojson(ll)
+fc = coll.to_geojson(ll,rgb=coll.getRGB())
 coll.to_file(fc,'AceGasAmga.geojson')
 coll.display(fc)

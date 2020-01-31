@@ -67,10 +67,9 @@ for url_report in urlList:
                 location_ = (y,x)
                 glb = al.addGeocodeData(lb,location_,'Definitions/GeoReferencedLocationsList.csv')
                 for i in range( 0, len( glb ) ): ll.append( glb[i] )
-
         except:
             logging.critical("The report '%s' was not readeble. Skipped!",url_report)
 ##
-fc = coll.to_geojson(ll)
+fc = coll.to_geojson(ll,rgb=coll.getRGB())
 coll.to_file(fc,'CAFC.geojson')
 coll.display(fc)

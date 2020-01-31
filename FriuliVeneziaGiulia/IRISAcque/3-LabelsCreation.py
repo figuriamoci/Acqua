@@ -41,7 +41,7 @@ for url_report in urlList:
     logging.info(tables[0].parsing_report)
     table_ = tables[0].df
 
-    tables.export( 'foo.csv', f='csv', compress=False )  # json, excel, html
+    #tables.export( 'foo.csv', f='csv', compress=False )  # json, excel, html
 
     table = table_.apply( lambda x: x.str.lower() )
     table = table.apply( lambda x: x.replace('\n','') )
@@ -60,12 +60,12 @@ for url_report in urlList:
         x = location['alias_address']
         y = location['alias_city']
         location_ = (y, x)
-        label = cleaned_table[x.lower()].to_dict()
+        label = cleaned_table[y.lower()].to_dict()
         lb = al.create_label( idGestore, dataReport, label )
         glb = al.addGeocodeData( lb, location_, 'Definitions/GeoReferencedLocationsList.csv' )
-        for i in range(0,len(glb)): ll.append( glb[i] )
+        for i in range( 0, len( glb ) ): ll.append( glb[i] )
 
-fc = coll.to_geojson(ll)
+fc = coll.to_geojson(ll,rgb=coll.getRGB())
 coll.to_file(fc,'IRISAcque.geojson')
 coll.display(fc)
 
