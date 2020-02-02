@@ -81,6 +81,13 @@ infile = open(filename,'rb')
 ll = pickle.load(infile)
 infile.close()
 
+a = ll[0]['geometry']
+
+
+##
 fc = coll.to_geojson(ll,rgb=coll.getRGB())
-coll.to_file(fc,'CAFC.geojson')
+coll.to_file( fc, 'CAFC.geojson' )
 coll.display(fc)
+
+##
+

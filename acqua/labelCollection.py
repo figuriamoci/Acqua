@@ -44,7 +44,7 @@ def to_file(featureCollection, fileName):
     file.close()
     return fileName
 
-def to_mongoDB(geoJsonfile):
+def to_mongoDBInsertMany(geoJsonfile):
     logging.basicConfig(level=logging.INFO)
     logging.info("Loading GEOJson file '%s'...",geoJsonfile)
     with open(geoJsonfile) as f:
@@ -60,5 +60,30 @@ def to_mongoDB(geoJsonfile):
     collection = db.etichette
     logging.info("Saving GeoJeson Features to Acqua/etichette collection....")
     collection.insert_many(listFeature)
+    logging.info("Done. Safe %s feature(s)",len(listFeature))
+    return listFeature
+
+def to_mongoDBInsert(geoJsonfile):
+    logging.basicConfig(level=logging.INFO)
+    logging.info("Loading GEOJson file '%s'...",geoJsonfile)
+    with open(geoJsonfile) as f:
+        geojson = js.load(f)
+    listFeature = geojson['features']
+    logging.info('Feature(s) load.')
+    logging.info("Connecting to MongoDB...")
+    mongoString = 'mongodb+srv://Acqua:nato1968@principal-4g7w8.mongodb.net/test?retryWrites=true&w=majority'
+    conn = py.MongoClient(mongoString)
+    db = conn.Acqua
+    logging.info("Connected!")
+    logging.info("Switch to Acqua/etichette collection...")
+    collection = db.etichette
+    logging.info("Saving GeoJeson Features to Acqua/etichette collection....")
+
+    for feature in listFeature:
+        geoname = feature['properties']['geoname']
+        logging.info( 'Inserting %s...',geoname)
+        collection.insert(feature)
+        logging.info( 'Insered.' )
+
     logging.info("Done. Safe %s feature(s)",len(listFeature))
     return listFeature
