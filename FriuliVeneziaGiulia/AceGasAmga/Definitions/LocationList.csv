@@ -1,8 +1,8 @@
 alias_address,alias_city,type,georeferencingString
-Capoluogo,Trieste,POLYGON,TRIESTE
-Trieste,Muggia,POLYGON,MUGGIA
-Trieste,Duino-Aurisina,POLYGON,DUINO-AURISINA
-Trieste,San Dorligo della Valle,POLYGON,SAN DORLIGO DELLA VALLE
-Trieste,Sgonico,POLYGON,SGONICO
-Trieste,Monrupino,POLYGON,MONRUPINO
+Capoluogo,Trieste,POINT,TRIESTE
+Trieste,Muggia,POINT,MUGGIA
+Trieste,Duino-Aurisina,POINT,DUINO-AURISINA
+Trieste,San Dorligo della Valle,POINT,SAN DORLIGO DELLA VALLE
+Trieste,Sgonico,POINT,SGONICO
+Trieste,Monrupino,POINT,MONRUPINO
 

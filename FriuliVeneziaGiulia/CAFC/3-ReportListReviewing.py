@@ -39,7 +39,7 @@ listLocations_ = listLocations.dropna()
 dfPoligon_ = listLocations_.loc[listLocations_['alias_city'].isin(l)]
 dfPoligon = dfPoligon_.groupby('alias_city').first()
 dfPoligon.reset_index(inplace=True)
-dfPoligon['type'] = 'POLYGON'
+dfPoligon['type'] = 'POINT' #'POLYGON'
 dfPoligon['georeferencingString'] = dfPoligon['alias_city']
 dfPoligon['polygonKey'] = dfPoligon['alias_city']
 #Quali solo i point?
@@ -53,7 +53,7 @@ listLocations_ = listLocations.dropna()
 dfAltri_ = listLocations_.loc[listLocations_['alias_city'].isin(l)]
 dfAltri = dfAltri_.groupby('alias_city').first()
 dfAltri.reset_index(inplace=True)
-dfAltri['type'] = 'POLYGON'
+dfAltri['type'] = 'POINT'
 dfAltri['georeferencingString'] = dfPoligon['alias_city']
 dfAltri['polygonKey'] = dfPoligon['alias_city']
 #Assembling

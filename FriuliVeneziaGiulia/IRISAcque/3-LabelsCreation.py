@@ -17,7 +17,7 @@ logging.basicConfig(level=logging.DEBUG)
 os.chdir('/Users/andrea/PycharmProjects/Acqua/FriuliVeneziaGiulia/IRISAcque')
 #Algoritmo
 idGestore = 7396 ##IRISAcque
-dataReport='ANALISI ACQUA - ANNO 2019 I SEMESTRE'
+dataReport='ANNO 2019 I SEMESTRE'
 
 #Inizializzazone robot
 listParameters = parm.getListSynonyms('Definitions/SynParametri.csv')
