@@ -40,6 +40,7 @@ def addGeocodeData(label,location,geoReferencedLocationsFile):
         return geocodeLabelList
 
 def to_geojson(geoLabel,rgb):
+    import pandas as pd
     location = geoLabel['location']
     separator = ', '
     location = separator.join( location )
@@ -50,8 +51,9 @@ def to_geojson(geoLabel,rgb):
     s = geoLabel['geometry']
 
     if pd.isna(s):
-        logging.critical( 'Geometry not found for %s', location )
-        return ''
+        #logging.critical( 'Geometry not found for %s', location )
+        #return ''
+        raise Exception('Geometry not found for %s', location )
     else:
         geo = geojson.loads( s.replace( "'", '"' ) )
         type = geo['type']

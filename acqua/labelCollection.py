@@ -20,8 +20,16 @@ def getRGB():
     return toHex((r,g,b))
 
 def to_geojson(geoLabel,**kwargs):
+    import pandas as pd
     rgb = kwargs.get('rgb', '000000')
-    ll = [ al.to_geojson(geo,rgb) for geo in geoLabel ]
+    ll = []
+    feature_collection = []
+    for geo in geoLabel:
+        try:
+            ll.append(al.to_geojson(geo,rgb))
+        except:
+            logging.critical('Skip label for %s',geo)
+
     feature_collection = geojson.FeatureCollection( ll )
     return feature_collection
 

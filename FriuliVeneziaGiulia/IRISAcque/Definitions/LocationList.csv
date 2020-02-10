@@ -1,5 +1,5 @@
 alias_city,alias_address,type,georeferencingString,poligonKey
-Isola Morosini,Friuli Venezia Giulia,POINT,SAN CANZIAN D'ISONZO,SAN CANZIAN D'ISONZO
+Isola Morosini,Friuli Venezia Giulia,POINT,ISOLA MOROSINI,ISOLA MOROSINI
 Gorizia,Friuli Venezia Giulia,POINT,GORIZIA,GORIZIA
 Gorizia,Friuli Venezia Giulia,POINT,SAN FLORIANO DEL COLLIO,SAN FLORIANO DEL COLLIO
 Farra,Friuli Venezia Giulia,POINT,SAVOGNA D'ISONZO,SAVOGNA D'ISONZO
@@ -22,5 +22,6 @@ Monfalcone,Friuli Venezia Giulia,POINT,MONFALCONE,MONFALCONE
 Ronchi dei Legionari,Friuli Venezia Giulia,POINT,RONCHI DEI LEGIONARI,RONCHI DEI LEGIONARI
 Ronchi dei Legionari,Friuli Venezia Giulia,POINT,TURRIACO,TURRIACO
 Ronchi dei Legionari,Friuli Venezia Giulia,POINT,STARANZANO,STARANZANO
+Ronchi dei Legionari,Friuli Venezia Giulia,POINT,SAN CANZIAN D'ISONZO,SAN CANZIAN D'ISONZO
 Grado,Friuli Venezia Giulia,POINT,GRADO FRIULI VENEZIA GIULIA,GRADO
 San Pier d'Isonzo,Friuli Venezia Giulia,POINT,SAN PIER D'ISONZO,SAN PIER D'ISONZO

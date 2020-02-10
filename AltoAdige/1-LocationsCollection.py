@@ -1,32 +1,32 @@
-##
-from selenium import webdriver
-from bs4 import BeautifulSoup
-from selenium.webdriver.support.ui import Select
-import pandas as pd
-import datetime
-import os
-import logging
-
-os.chdir('/Users/andrea/PycharmProjects/Acqua/Veneto/Lta')
+import os,logging,pandas as pd
+os.chdir('/Users/andrea/PycharmProjects/Acqua/AltoAdige' )
 logging.basicConfig(level=logging.INFO)
 
-options = webdriver.ChromeOptions()
-options.add_argument('--ignore-certificate-errors')
-options.add_argument('--incognito')
-options.add_argument('--headless')
-driver = webdriver.Chrome("chromedriver", options=options)
-driver.get("https://www.lta.it/le-analisi-della-tua-acqua")
-##
-logging.info('Start: %s',datetime.datetime.now())
-soup = BeautifulSoup(driver.page_source, 'html.parser')
-ListaAddress = soup.find(id="punto-di-analisi").findAll('option')
-ListaAddress = [addr.get_text() for addr in ListaAddress]
-ListaAddress = ListaAddress[1:] #Drop del pimo elemento in quanto non signficativo
-ListaCity = [addr.split('-',1)[0] for addr in ListaAddress]
-#Creazione dataframe
-data = {'alias_city':ListaCity,'alias_address':ListaAddress}
-df = pd.DataFrame(data)
-#Output
-df.to_csv('Definitions/LocationList.csv',index=False)
+xls_file = 'Definitions/03__Internet-tabella_2018-2017-2016-.xlsx'
+xls = pd.read_excel(xls_file, index_col=0)
+xls.reset_index(inplace=True)
+xls.dropna(axis=0,subset=['Comune / Gemeinde'],inplace=True)
+xls.columns = xls.columns.str.replace('\n','')
 
-logging.info('Finish: %s',datetime.datetime.now())
+xls.sort_values(by=['Comune / Gemeinde','Punto di prelievo / Entnahmepunkt','Data prelievo / Entnahme Datum '], inplace=True)
+xls.to_csv('Definitions/ReportAnalisiAltoAdige.csv',index=False)
+
+alias_city = xls['Comune / Gemeinde']
+alias_address = xls['Punto di prelievo / Entnahmepunkt']
+data_prelievo = pd.to_datetime(xls['Data prelievo / Entnahme Datum ']).dt.strftime('%d/%m/%Y')
+
+data = {'alias_city':alias_city, 'alias_address':alias_address,'data_prelievo':data_prelievo}
+df_ = pd.DataFrame(data)
+df = df_.groupby(['alias_city','alias_address']).min()
+df.reset_index(inplace=True)
+df['georeferencingString'] = df['alias_city'].apply(lambda s: s.split('/')[0])+' '+df['alias_address'].apply(lambda s: s.split('/')[0])
+df['type']='POINT'
+
+#DataCleaning on georeferencingString...
+listRemoveString = ['rubinetto cucina','Fontana pubblica','Fontana Pubblica','Oberradein','Kirchplatz','piazza paese','centro paese','vicino chiesa','vicino','davanti','Brennerhof','Gasthof','Oberradein',
+                    'di lingua italiana','Unterhausenhof','neben FF Montiggl','Öffentl.','Comune','incrocio','Privato']
+
+for rs in listRemoveString:
+    df['georeferencingString'] = df['georeferencingString'].apply(lambda s: s.replace( rs, '' ).strip() )
+
+df.to_csv('Definitions/LocationList.csv',index=False)

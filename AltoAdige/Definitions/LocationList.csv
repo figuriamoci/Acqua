@@ -1,64 +1,788 @@
-alias_city,alias_address
-Annone Veneto ,Annone Veneto - Viale Venezia
-Azzano Decimo ,Azzano Decimo - Via Pradat
-Brugnera ,Brugnera - Via Talmasson
-Caorle ,Caorle - loc. Castello di Brussa Via Strada Brussa
-Casarsa della Delizia ,Casarsa della Delizia - Via Vittorio Veneto
-Cavasso Nuovo ,Cavasso Nuovo - Via Rinascita
-Chions ,Chions - Via Saragat
-Cinto Caomaggiore ,Cinto Caomaggiore - Via Udine
-Cordovado ,Cordovado - Via Rivis
-Concordia Sagittaria ,Concordia Sagittaria - Via Giovane Italia
-Cordenons ,Cordenons - Via del Tramit
-Cordenons ,Cordenons - serbatoio S. Giovanni
-Fanna ,Fanna - Fontana Pian delle Merie
-Fontanafredda ,Fontanafredda - Via Casut
-Fossalta di Portogruaro ,Fossalta di Portogruaro - Piazza Bornancin
-Frisanco ,Frisanco - Fontana Piazza XX settembre Pofabbro
-Gruaro ,Gruaro - Via M. Serao
-Maniago ,Maniago - Via Polcenigo
-Meduna di Livenza ,Meduna di Livenza - Via G. Verdi
-Meduno ,Meduno - Via Andreuzzi - Navarons
-Pasiano di Pordenone ,Pasiano di Pordenone - Via dei Grilli
-Portogruaro ,Portogruaro - Via Canaletto / Viale Trieste
-Portogruaro ,Portogruaro - loc. Summaga Via Masata
-Portogruaro ,Portogruaro - Viale Venezia
-Porcia ,Porcia - Via Papa Giovanni XXIII
-Pramaggiore ,Pramaggiore - Via Callalta
-Prata di Pordenone ,Prata di Pordenone - Casali Villanova
-Pravisdomini ,Pravisdomini - Via Barco
-Sacile ,Sacile - Via Campo Marzio
-San Giorgio della Richinvelda ,San Giorgio della Richinvelda - loc. Provesano Via Boschetto
-San Giorgio della Richinvelda ,San Giorgio della Richinvelda - loc. Rauscedo Via Poligono
-San Martino al Tagliamento ,San Martino al Tagliamento - Centrale principale
-San Michele al Tagliamento ,San Michele al Tagliamento - Corso del Popolo
-San Michele al Tagliamento loc. Bibione ,San Michele al Tagliamento loc. Bibione - Via Nettuno
-San Quirino ,San Quirino - Via San Rocco
-San Stino di Livenza ,San Stino di Livenza - Via Riviera Corbolone
-San Vito al Tagliamento ,San Vito al Tagliamento - Via Ciliti
-Sesto al Reghena ,Sesto al Reghena - Via Verdi
-Teglio Veneto ,Teglio Veneto - Via Parz
-Tramonti di Sopra ,Tramonti di Sopra - fontana Redona
-Tramonti di Sotto ,Tramonti di Sotto - Fontana Piazza Cantù
-Vaiont ,Vaiont - Via Piancuert
-Valvasone Arzene ,Valvasone Arzene - Arzene Via Casarsa
-Vivaro ,Vivaro - Basaldella fontana
-Zoppola ,Zoppola - Via Pra di Risi
-Fiume Veneto ,Fiume Veneto - mini acquedotto Via Beato Odorico
-Fiume Veneto ,Fiume Veneto - mini acquedotto Via Bevorchia
-Fiume Veneto ,Fiume Veneto - mini acquedotto Via Borgo Venezia
-Fiume Veneto ,Fiume Veneto - mini acquedotto Via Bosco dell'Arneret
-Fiume Veneto ,Fiume Veneto - mini acquedotto Via Enrico da Fiume
-Fiume Veneto ,Fiume Veneto - mini acquedotto Via Marco Polo
-Fiume Veneto ,Fiume Veneto - mini acquedotto Via Padre Marco d'Aviano
-Fiume Veneto ,Fiume Veneto - mini acquedotto Via Zol
-Fiume Veneto ,"Fiume Veneto - mini acquedotto Vie Braida, Bosco, Dei Roveri, Verdi, Suor S. Gregoris"
-Fiume Veneto ,Fiume Veneto - mini acquedotto Via Chino Ermacora - Via Liut
-Fiume Veneto ,Fiume Veneto - mini acquedotto Vie Praderoni - Delle Querce - Degli Olmi
-Fiume Veneto ,Fiume Veneto - mini acquedotto Via delle Rive
-Fiume Veneto ,Fiume Veneto - mini acquedotto Via Bartolomeo Aprilis - loc. Bannia
-Fiume Veneto ,Fiume Veneto - mini acquedotto Via Damiano Chiesa loc. Bannia
-Fiume Veneto ,Fiume Veneto - mini acquedotto Via Strada dei Conti loc. Bannia
-Fiume Veneto ,Fiume Veneto - mini acquedotto Via dei Tigli loc. Bannia
-Fiume Veneto ,Fiume Veneto - mini acquedotto Via Chiesiole - dei Pinali loc. Cimpello
-Fiume Veneto ,Fiume Veneto - mini acquedotto Via della Piantalonga / Via Matteotti / Via Barbaro / Via Saba / Via Carducci / Via Mazzini
+alias_city,alias_address,data_prelievo,georeferencingString,type
+ALDINO/ALDEIN,Cimitero / Friedhofbrunnen,07/03/2018,ALDINO Alto Adige,POINT
+ALDINO/ALDEIN,Ditta Martin Speck - Neuradein / Firma Martin Speck - Neuradein,04/11/2018,ALDINO Ditta Martin Speck - Neuradein,POINT
+ALDINO/ALDEIN,Fontana pubblica Kirchplatz / Öffentlicher Brunnen Kirchplatz,07/02/2018,ALDINO,POINT
+ALDINO/ALDEIN,Hotel Schwarzhorn rubinetto cucina / Hotel Schwarzhorn Wasserhahn Küche,13/09/2018,ALDINO Hotel Schwarzhorn,POINT
+ALDINO/ALDEIN,Municipio / Rathaus,28/03/2018,ALDINO Municipio,POINT
+ALDINO/ALDEIN,Scuola elementare Holen / Grundschule Holen,07/12/2018,ALDINO Scuola elementare Holen,POINT
+ALDINO/ALDEIN,"Scuola elementare Oberradein / Grundschule, Oberradein",13/03/2018,ALDINO Scuola elementare,POINT
+ANDRIANO/ANDRIAN,Fontana Pubblica piazza paese / Öffentlicher Brunnen Dorfplatz,07/04/2018,ANDRIANO,POINT
+ANDRIANO/ANDRIAN,Municipio / Rathaus,14/11/2018,ANDRIANO Municipio,POINT
+ANTERIVO/ALTREI,Comune / Rathaus,29/11/2018,ANTERIVO,POINT
+ANTERIVO/ALTREI,Fontana pubblica centro paese / Öffentlicher Brunnen Dorfplatz,09/04/2018,ANTERIVO,POINT
+APPIANO SULLA STRADA DEL VINO/EPPAN AN DER WEINSTRASSE,Asilo di lingua italiana / Italienischer Kindergarten,02/07/2018,APPIANO SULLA STRADA DEL VINO Asilo,POINT
+APPIANO SULLA STRADA DEL VINO/EPPAN AN DER WEINSTRASSE,"Bar Tennis, Monticolo paese / Bar Tennis, Montiggl Dorf",13/11/2018,"APPIANO SULLA STRADA DEL VINO Bar Tennis, Monticolo paese",POINT
+APPIANO SULLA STRADA DEL VINO/EPPAN AN DER WEINSTRASSE,Castel Masaccio / Schlössl Matschatsch,18/06/2018,APPIANO SULLA STRADA DEL VINO Castel Masaccio,POINT
+APPIANO SULLA STRADA DEL VINO/EPPAN AN DER WEINSTRASSE,Fontana pubblica P.zza San Michele / Öffentlicher Brunnen St.-Michael-Platz,11/08/2018,APPIANO SULLA STRADA DEL VINO  P.zza San Michele,POINT
+APPIANO SULLA STRADA DEL VINO/EPPAN AN DER WEINSTRASSE,Fontana pubblica Riva di sotto / öffentliche Brunnen Unterrain,22/05/2018,APPIANO SULLA STRADA DEL VINO  Riva di sotto,POINT
+APPIANO SULLA STRADA DEL VINO/EPPAN AN DER WEINSTRASSE,Fontana pubblica Via della Fiera / Öffentlicher Brunnen Marktstrasse,13/11/2018,APPIANO SULLA STRADA DEL VINO  Via della Fiera,POINT
+APPIANO SULLA STRADA DEL VINO/EPPAN AN DER WEINSTRASSE,Fontana pubblica davanti Unterhausenhof / Öffentl. Brunnen vor Unterhausenhof,16/04/2018,APPIANO SULLA STRADA DEL VINO,POINT
+APPIANO SULLA STRADA DEL VINO/EPPAN AN DER WEINSTRASSE,Fontana pubblica via S. Paolo n° 20 / Öffentlicher Brunnen St.-Pauls-Straße Nr. 20,16/08/2018,APPIANO SULLA STRADA DEL VINO  via S. Paolo n° 20,POINT
+APPIANO SULLA STRADA DEL VINO/EPPAN AN DER WEINSTRASSE,"Fontana pubblica vicino Brennerhof, Frangarto / Öffentlicher Brunnen neben Brennerhof, Frangart",16/04/2018,"APPIANO SULLA STRADA DEL VINO   , Frangarto",POINT
+APPIANO SULLA STRADA DEL VINO/EPPAN AN DER WEINSTRASSE,Fontana pubblica vicino Despar / Öffentlicher Brunnen neben Despar,13/11/2018,APPIANO SULLA STRADA DEL VINO   Despar,POINT
+APPIANO SULLA STRADA DEL VINO/EPPAN AN DER WEINSTRASSE,Fontana pubblica vicino chiesa  /  Öffentl. Brunnen neben Kirche,04/03/2018,APPIANO SULLA STRADA DEL VINO,POINT
+APPIANO SULLA STRADA DEL VINO/EPPAN AN DER WEINSTRASSE,Fontana pubblica vicino parcheggio/Öffentl. Brunnen neben Parkplatz,30/05/2018,APPIANO SULLA STRADA DEL VINO   parcheggio,POINT
+APPIANO SULLA STRADA DEL VINO/EPPAN AN DER WEINSTRASSE,Ristorante Turmbach / Restaurant Turmbach,20/06/2018,APPIANO SULLA STRADA DEL VINO Ristorante Turmbach,POINT
+APPIANO SULLA STRADA DEL VINO/EPPAN AN DER WEINSTRASSE,Öff. Brunnen Platzl  Weg,30/08/2018,APPIANO SULLA STRADA DEL VINO Öff. Brunnen Platzl  Weg,POINT
+APPIANO SULLA STRADA DEL VINO/EPPAN AN DER WEINSTRASSE,Öffentl. Brunnen neben FF Montiggl / Öffentl. Brunnen neben FF Montiggl,22/05/2018,APPIANO SULLA STRADA DEL VINO  Brunnen,POINT
+AVELENGO/HAFLING,GH Sonnenheim / GH Sonnenheim,13/03/2018,AVELENGO GH Sonnenheim,POINT
+AVELENGO/HAFLING,Gasthof Brunnerhof / Gasthof Brunnerhof,13/03/2018,AVELENGO  Brunnerhof,POINT
+AVELENGO/HAFLING,WC comune / WC Gemeinde,13/03/2018,AVELENGO WC comune,POINT
+BADIA/ABTEI,Associazione turistica / Tourismusverein,04/04/2018,BADIA Associazione turistica,POINT
+BADIA/ABTEI,Bar Cavallino / Bar Cavallino,04/04/2018,BADIA Bar Cavallino,POINT
+BADIA/ABTEI,Brunnen Aurora,06/11/2018,BADIA Brunnen Aurora,POINT
+BADIA/ABTEI,Brunnen Scolina  /  Brunnen Scolina,06/11/2018,BADIA Brunnen Scolina,POINT
+BADIA/ABTEI,Brunnen museum ladin,28/05/2018,BADIA Brunnen museum ladin,POINT
+BADIA/ABTEI,Caserma VF / FF Halle,17/09/2018,BADIA Caserma VF,POINT
+BADIA/ABTEI,Fontana Municipio / Brunnen Rathaus,06/11/2018,BADIA Fontana Municipio,POINT
+BADIA/ABTEI,Friedhof,06/11/2018,BADIA Friedhof,POINT
+BADIA/ABTEI,Hotel Cristallo / Hotel Cristallo,04/04/2018,BADIA Hotel Cristallo,POINT
+BADIA/ABTEI,Hotel Diamant / Hotel Diamant,12/12/2018,BADIA Hotel Diamant,POINT
+BADIA/ABTEI,Municipio / Rathaus,04/04/2018,BADIA Municipio,POINT
+BADIA/ABTEI,Privato/Privat,12/11/2018,BADIA,POINT
+BARBIANO/BARBIAN,"Albergo Kalter Keller, Via Brennero 10 / Gasthof Kalter Keller, Brennerstr. 10",05/03/2018,"BARBIANO Albergo Kalter Keller, Via Brennero 10",POINT
+BARBIANO/BARBIAN,"Colma, Albergo Stern, Via Kunter 1 / Kollmann, Gasthof Stern, Am Kuntersweg 1; WH Bar",05/03/2018,"BARBIANO Colma, Albergo Stern, Via Kunter 1",POINT
+BARBIANO/BARBIAN,Fa. Hofer Fliesen und Böden GmbH - Handwerkerzone 4  /  Fa. Hofer Fliesen und Böden GmbH - Handwerkerzone 4  - WH WC,05/03/2018,BARBIANO Fa. Hofer Fliesen und Böden GmbH - Handwerkerzone 4,POINT
+BARBIANO/BARBIAN,"Falegnameria Erlacher, via Brennero 4 / Tischlerei Erlacher, Brennerstr. 4",05/03/2018,"BARBIANO Falegnameria Erlacher, via Brennero 4",POINT
+BARBIANO/BARBIAN,"Falegnameria Erlacher, via Brennero 4 / Tischlerei Erlacher, Brennerstr. 4 - WH WC Tischlerei",09/05/2018,"BARBIANO Falegnameria Erlacher, via Brennero 4",POINT
+BARBIANO/BARBIAN,"Falegnameria Erlacher, via Brennero 4 / Tischlerei Erlacher, Brennerstr. 4; WH WC",07/05/2018,"BARBIANO Falegnameria Erlacher, via Brennero 4",POINT
+BARBIANO/BARBIAN,"Falegnameria Erlacher, via Brennero 4 / Tischlerei Erlacher, Brennerstr. 4; WH WC Werkstatt",16/10/2018,"BARBIANO Falegnameria Erlacher, via Brennero 4",POINT
+BARBIANO/BARBIAN,"Scuola dell'infanzia Colma, S. Leonardo 26 / Kindergarten Kollmann, St. Leonhard 26 - WH WC",16/10/2018,"BARBIANO Scuola dell'infanzia Colma, S. Leonardo 26",POINT
+BARBIANO/BARBIAN,"Scuola dell'infanzia Colma, S. Leonardo 26 / Kindergarten Kollmann, St. Leonhard 26; WH WC",05/03/2018,"BARBIANO Scuola dell'infanzia Colma, S. Leonardo 26",POINT
+BOLZANO/BOZEN,Albergo  Klaus  / Gasthaus Klaus,13/09/2018,BOLZANO Albergo  Klaus,POINT
+BOLZANO/BOZEN,Asilo nido Arcobaleno / Kindergarten Arcobaleno,12/05/2018,BOLZANO Asilo nido Arcobaleno,POINT
+BOLZANO/BOZEN,Cimitero / Friedhof,07/02/2018,BOLZANO Cimitero,POINT
+BOLZANO/BOZEN,Convitto Damiano Chiesa  /  Convitto Damiano Chiesa,26/02/2018,BOLZANO Convitto Damiano Chiesa,POINT
+BOLZANO/BOZEN,Distretto socio - sanitario val d'Ega - Cardano / Gesundheitssprengel  Eggental Schlern - Kardaun,20/08/2018,BOLZANO Distretto socio - sanitario val d'Ega - Cardano,POINT
+BOLZANO/BOZEN,Distretto socio-sanitario Oltrisarco / Gesundheitssprengel Oberau,01/10/2018,BOLZANO Distretto socio-sanitario Oltrisarco,POINT
+BOLZANO/BOZEN,Font. pubb. parco giochi via Ortles (Casanova) / öff. Brunnen Spielplatz Ortlesstr. (Casanova),05/03/2018,BOLZANO Font. pubb. parco giochi via Ortles (Casanova),POINT
+BOLZANO/BOZEN,Fontana Pubblica angolo via Cassa di Risparmio/via Vanga / öff. Brunnen Sparkassestr./Wangerstrasse,07/04/2018,BOLZANO  angolo via Cassa di Risparmio,POINT
+BOLZANO/BOZEN,Fontana funivia / Brunnen Seilbahn,19/04/2018,BOLZANO Fontana funivia,POINT
+BOLZANO/BOZEN,Fontana pubblica Parco Petrarca / öff. Brunnen Petrarcapark,10/08/2018,BOLZANO  Parco Petrarca,POINT
+BOLZANO/BOZEN,Fontana pubblica chiesa don Bosco / Don Bosco Pfarrkirche Öff. Brunnen,11/12/2018,BOLZANO  chiesa don Bosco,POINT
+BOLZANO/BOZEN,"Fontana pubblica incrocio via Milano/via Gutenberg / Öffentl. Brunnen Park, Gutenberg/Mailandstr.",10/08/2018,BOLZANO   via Milano,POINT
+BOLZANO/BOZEN,Fontana pubblica parco Mignone  /  Fontana pubblica parco Mignone,05/03/2018,BOLZANO  parco Mignone,POINT
+BOLZANO/BOZEN,Fontana pubblica parco ducale / Öff. Brunnen Herzogspark,13/08/2018,BOLZANO  parco ducale,POINT
+BOLZANO/BOZEN,Fontana pubblica parco giochi Piani / öff. Brunnen Spielplatz Bozner-Boden,05/03/2018,BOLZANO  parco giochi Piani,POINT
+BOLZANO/BOZEN,Fontana pubblica parco giochi lungo Isarco via Parma / öff. Brunnen Spielplatz Eisackufer Parmastr.,05/09/2018,BOLZANO  parco giochi lungo Isarco via Parma,POINT
+BOLZANO/BOZEN,"Fontana pubblica parco giochi via Genova / Öffentl. Brunnen Spielplatz, Genuastr.",06/04/2018,BOLZANO  parco giochi via Genova,POINT
+BOLZANO/BOZEN,Fontana pubblica parco giochi via Mozart  (Firmian) / öff. Brunnen Spielplatz Mozartstr.(Firmian),05/03/2018,BOLZANO  parco giochi via Mozart  (Firmian),POINT
+BOLZANO/BOZEN,"Fontana pubblica parco giochi via della Vigna / Weingartenpark, öff. Brunnen",05/09/2018,BOLZANO  parco giochi via della Vigna,POINT
+BOLZANO/BOZEN,Fontana pubblica piazza Mazzini / Mazzinipark - öff. Brunnen,05/03/2018,BOLZANO  piazza Mazzini,POINT
+BOLZANO/BOZEN,Fontana pubblica via Claudia Augusta / off. Brunnen Claudia Augustastrasse,20/08/2018,BOLZANO  via Claudia Augusta,POINT
+BOLZANO/BOZEN,Ospedale - mensa WC / Krankenhaus - Mensa WC,07/02/2018,BOLZANO Ospedale - mensa WC,POINT
+BOLZANO/BOZEN,Premstallerhof / Premstallerhof,01/10/2018,BOLZANO Premstallerhof,POINT
+BOLZANO/BOZEN,Privato/Privat,19/04/2018,BOLZANO,POINT
+BOLZANO/BOZEN,Scuola Materna O.N.M.I. / Kindergarten O.N.M.I.,12/10/2018,BOLZANO Scuola Materna O.N.M.I.,POINT
+BOLZANO/BOZEN,Scuola Tambosi  /  Schule Tambosi,12/05/2018,BOLZANO Scuola Tambosi,POINT
+BOLZANO/BOZEN,"Scuola elementare ""A. Rosmini"" / Grundschule ""A. Rosmini""",29/01/2018,"BOLZANO Scuola elementare ""A. Rosmini""",POINT
+BOLZANO/BOZEN,"Scuola elementare ""M. L. King"" / Grundschule ""M.L.King""",10/08/2018,"BOLZANO Scuola elementare ""M. L. King""",POINT
+BOLZANO/BOZEN,"Scuola elementare ""Stolz""/Grundschule ""Stolz""",12/10/2018,"BOLZANO Scuola elementare ""Stolz""",POINT
+BOLZANO/BOZEN,Scuola elementare Dante Alighieri / Grundschule Dante Alighieri,31/01/2018,BOLZANO Scuola elementare Dante Alighieri,POINT
+BOLZANO/BOZEN,Scuola elementare Firmian / Grundschule Firmian,10/08/2018,BOLZANO Scuola elementare Firmian,POINT
+BOLZANO/BOZEN,Scuola materna Mariaheim / Kindergarten Mariaheim,02/07/2018,BOLZANO Scuola materna Mariaheim,POINT
+BOLZANO/BOZEN,Scuola media Leonardo da Vinci / Mittelschule Leonardo da Vinci,26/02/2018,BOLZANO Scuola media Leonardo da Vinci,POINT
+BOLZANO/BOZEN,"Scuola professionale tedesca ""Max Valier"" via Druso / Gewerbeoberschule ""Max Valier"", Drusustrasse",31/01/2018,"BOLZANO Scuola professionale tedesca ""Max Valier"" via Druso",POINT
+BOLZANO/BOZEN,"Scuole Medie Archimede / Mittelschule ""Archimede""",12/10/2018,BOLZANO Scuole Medie Archimede,POINT
+BOLZANO/BOZEN,Servizio riabilitazione / Rehabilitationsdienst,02/07/2018,BOLZANO Servizio riabilitazione,POINT
+BOLZANO/BOZEN,Stabilimento Milkon / Lebensmittelindustrie Milkon,18/10/2018,BOLZANO Stabilimento Milkon,POINT
+BOLZANO/BOZEN,fontana pubblica Rencio  / öffentl. Brunnen Rentscher,10/08/2018,BOLZANO fontana pubblica Rencio,POINT
+BRAIES/PRAGS,Alpe Pragas / Alpe Pragas,29/01/2018,BRAIES Alpe Pragas,POINT
+BRAIES/PRAGS,Fontana Ferrara / Brunnen Schmieden,25/09/2018,BRAIES Fontana Ferrara,POINT
+BRAIES/PRAGS,Privato/Privat,25/09/2018,BRAIES,POINT
+BRENNERO/BRENNER,Albergo Bergkristall / Hotel Bergkristall,10/03/2018,BRENNERO Albergo Bergkristall,POINT
+BRENNERO/BRENNER,"Fontana pubblica Via Argentieri, Colle Isarco / Öffentlicher Brunnen Silbergasse, Gossensass",07/03/2018,"BRENNERO  Via Argentieri, Colle Isarco",POINT
+BRENNERO/BRENNER,Fontana pubblica cimitero / Öff. Brunnen Friedhof,10/02/2018,BRENNERO  cimitero,POINT
+BRENNERO/BRENNER,Outlet Center Brennero / Outlet Center Brenner,13/11/2018,BRENNERO Outlet Center Brennero,POINT
+BRENNERO/BRENNER,Privato/Privat,09/04/2018,BRENNERO,POINT
+BRESSANONE/BRIXEN,"ASM Bressanone Spa, Via Alfred Ammon 24 / Stadtwerke Brixen AG, Alfred-Ammon-Str. 24",09/06/2018,"BRESSANONE ASM Bressanone Spa, Via Alfred Ammon 24",POINT
+BRESSANONE/BRIXEN,"ASM Bressanone Spa, Via Alfred Ammon 24 / Stadtwerke Brixen AG, Alfred-Ammon-Str. 24; WH WC",07/04/2018,"BRESSANONE ASM Bressanone Spa, Via Alfred Ammon 24",POINT
+BRESSANONE/BRIXEN,"Albergo Plansoler, S. Leonardo 96 / Gasthof Plansoler, St. Leonhard 96; WH Bar",06/11/2018,"BRESSANONE Albergo Plansoler, S. Leonardo 96",POINT
+BRESSANONE/BRIXEN,"Bergrestaurant Plose, Valcroce/Bergrestaurant Plose, Kreuztal",18/06/2018,"BRESSANONE Bergrestaurant Plose, Valcroce",POINT
+BRESSANONE/BRIXEN,Fontana pubbl. Sarns / Öffentl. Brunnen Sarns,16/10/2018,BRESSANONE Fontana pubbl. Sarns,POINT
+BRESSANONE/BRIXEN,Fontana pubblica Cornale di Sopra / Öff. Brunnen Oberkarnol,06/11/2018,BRESSANONE  Cornale di Sopra,POINT
+BRESSANONE/BRIXEN,"Fontana pubblica Schmiedplatz, Varna / Öffentlicher Brunnen Schmiedplatz, Vahrn",05/08/2018,"BRESSANONE  Schmiedplatz, Varna",POINT
+BRESSANONE/BRIXEN,Fontana pubblica Via Prà Millan / Öffentlicher Brunnen Millanderau,05/07/2018,BRESSANONE  Via Prà Millan,POINT
+BRESSANONE/BRIXEN,Fontana pubblica Völkl / Öffentlicher Brunnen Völkl,04/12/2018,BRESSANONE  Völkl,POINT
+BRESSANONE/BRIXEN,Gabinetto pubblico scuola / Öff. WC Schulgebäude,07/05/2018,BRESSANONE Gabinetto pubblico scuola,POINT
+BRESSANONE/BRIXEN,Gabinetto pubblico scuola / Öff. WC Schulgebäude; WH WC,21/11/2018,BRESSANONE Gabinetto pubblico scuola,POINT
+BRESSANONE/BRIXEN,"Gasthof Majestic, Lüsnerstr. 29 / Albergo Majestic, Via Luson 29",27/06/2018,"BRESSANONE  Majestic, Lüsnerstr. 29",POINT
+BRESSANONE/BRIXEN,"Haka SpA, Competence.Center, Perara 79/A/Haka AG, Competence.Center, Pairdorf 79/A; WH Theke",18/04/2018,"BRESSANONE Haka SpA, Competence.Center, Perara 79",POINT
+BRESSANONE/BRIXEN,"Hotel Gasserhof, Via Paese 31 - S. Andrea / Hotel Gasserhof, Dorfstrasse 31 - St. Andrä; WH Bar",28/05/2018,"BRESSANONE Hotel Gasserhof, Via Paese 31 - S. Andrea",POINT
+BRESSANONE/BRIXEN,"Hotel Rosalpina, Palmschoss 292  /  Hotel Rosalpina, Palmschoss 292;; WH Bar",10/08/2018,"BRESSANONE Hotel Rosalpina, Palmschoss 292",POINT
+BRESSANONE/BRIXEN,"Hotel Schlemmer, Plancios 294 / Berghotel Schlemmer, Palmschoss 294 ; WH Bar",10/08/2018,"BRESSANONE Hotel Schlemmer, Plancios 294",POINT
+BRESSANONE/BRIXEN,"Laboratorio riabilitativo ""Kastell"", Via Otto von Guggenberg 44 / Reha- Werkstatt ""Kastell"", Otto von Guggenbergstr. 44 - WH WC",09/05/2018,"BRESSANONE Laboratorio riabilitativo ""Kastell"", Via Otto von Guggenberg 44",POINT
+BRESSANONE/BRIXEN,"Laboratorio riabilitativo ""Kastell"", Via Otto von Guggenberg 44 / Reha- Werkstatt ""Kastell"", Otto von Guggenbergstr. 44; WH WC",05/07/2018,"BRESSANONE Laboratorio riabilitativo ""Kastell"", Via Otto von Guggenberg 44",POINT
+BRESSANONE/BRIXEN,"Macello Valle Isarco, Via Julius Durst, 90 / Schlachthof Brixen, Durststr. 90",05/08/2018,"BRESSANONE Macello Valle Isarco, Via Julius Durst, 90",POINT
+BRESSANONE/BRIXEN,"Macello Valle Isarco, Via Julius Durst, 90 / Schlachthof Brixen, Durststr. 90; WH WC",26/11/2018,"BRESSANONE Macello Valle Isarco, Via Julius Durst, 90",POINT
+BRESSANONE/BRIXEN,"Ospedale di Bressanone, Via Dante 53, radiologia / Krankenhaus Brixen, Dantestr. 53, Radiologie",14/03/2018,"BRESSANONE Ospedale di Bressanone, Via Dante 53, radiologia",POINT
+BRESSANONE/BRIXEN,"Ospedale di Bressanone, Via Dante 53, radiologia / Krankenhaus Brixen, Dantestr. 53, Radiologie; WH WC",05/08/2018,"BRESSANONE Ospedale di Bressanone, Via Dante 53, radiologia",POINT
+BRESSANONE/BRIXEN,Privato/Privat,04/12/2018,BRESSANONE,POINT
+BRESSANONE/BRIXEN,"Ristorante Plose-Stodl, via della Funivia, 15/Restaurant Plose-Stodl, Seilbahnstr. 15; WH Bar",23/08/2018,"BRESSANONE Ristorante Plose-Stodl, via della Funivia, 15",POINT
+BRESSANONE/BRIXEN,"Scuola dell''infanzia S. Andrea, Via Vinzenz Goller 5/A / Kindergarten St.Andrä, Vinzenz Goller Weg 5/A",04/05/2018,"BRESSANONE Scuola dell''infanzia S. Andrea, Via Vinzenz Goller 5",POINT
+BRESSANONE/BRIXEN,"Scuola dell''infanzia S. Andrea, Via Vinzenz Goller 5/A / Kindergarten St.Andrä, Vinzenz Goller Weg 5/A - WH Küche",10/10/2018,"BRESSANONE Scuola dell''infanzia S. Andrea, Via Vinzenz Goller 5",POINT
+BRESSANONE/BRIXEN,"Scuola dell''infanzia S. Andrea, Via Vinzenz Goller 5/A / Kindergarten St.Andrä, Vinzenz Goller Weg 5/A; WH Küche",28/05/2018,"BRESSANONE Scuola dell''infanzia S. Andrea, Via Vinzenz Goller 5",POINT
+BRESSANONE/BRIXEN,"Scuola dell'infanzia Anna Seidner, Via Kaspar von Kempter 5 / Kindergarten Anna Seidner, Kaspar von Kempterweg 5",09/06/2018,"BRESSANONE Scuola dell'infanzia Anna Seidner, Via Kaspar von Kempter 5",POINT
+BRESSANONE/BRIXEN,"Scuola dell'infanzia Anna Seidner, Via Kaspar von Kempter 5 / Kindergarten Anna Seidner, Kaspar von Kempterweg 5; WH Küche",05/08/2018,"BRESSANONE Scuola dell'infanzia Anna Seidner, Via Kaspar von Kempter 5",POINT
+BRESSANONE/BRIXEN,"Scuola dell'infanzia Arcobaleno, Via Wolkenstein 201 / Kindergarten Arcobaleno, Wolkensteinstr. 201 - WH Wäscherei",13/03/2018,"BRESSANONE Scuola dell'infanzia Arcobaleno, Via Wolkenstein 201",POINT
+BRESSANONE/BRIXEN,"Scuola dell'infanzia Arcobaleno, Via Wolkenstein 201 / Kindergarten Arcobaleno, Wolkensteinstr. 201; WH Wäscherei",26/11/2018,"BRESSANONE Scuola dell'infanzia Arcobaleno, Via Wolkenstein 201",POINT
+BRESSANONE/BRIXEN,"Scuola elementare Albes, Albes 1 / Grundschule Albeins, Albeins 1; WH WC",22/03/2018,"BRESSANONE Scuola elementare Albes, Albes 1",POINT
+BRESSANONE/BRIXEN,"Scuola elementare Varna, Via Salern 5 / Grundschule Vahrn, Salernstr. 5 - WH WC",14/03/2018,"BRESSANONE Scuola elementare Varna, Via Salern 5",POINT
+BRESSANONE/BRIXEN,"Scuola elementare Varna, Via Salern 5 / Grundschule Vahrn, Salernstr. 5; WH WC",26/11/2018,"BRESSANONE Scuola elementare Varna, Via Salern 5",POINT
+BRESSANONE/BRIXEN,"Südtiroler Kinderdorf, Via Castelliere 28 / Südtiroler Kinderdorf, Burgfrieden 28; WH Kochnische",05/08/2018,"BRESSANONE Südtiroler Kinderdorf, Via Castelliere 28",POINT
+BRESSANONE/BRIXEN,"The Vista Hotel, Plancios 291B / The Vista Hotel, Palmschoss 291B",18/06/2018,"BRESSANONE The Vista Hotel, Plancios 291B",POINT
+BRESSANONE/BRIXEN,"Uffici comunali, Piazza Maria Hueber 3 / Gemeindehaus Maria Hueber Platz 3; WH WC",07/04/2018,"BRESSANONE Uffici comunali, Piazza Maria Hueber 3",POINT
+BRONZOLO/BRANZOLL,Fontana pubblica piazza Von Ferrari / öff. Brunnen Von Ferrariplatz,26/03/2018,BRONZOLO  piazza Von Ferrari,POINT
+BRONZOLO/BRANZOLL,fontana pubblica Via Dogana / Öffentlicher Brunnen Zollamtstrasse,02/07/2018,BRONZOLO fontana pubblica Via Dogana,POINT
+BRUNICO/BRUNECK,Bar Agip / Bar Agip,26/03/2018,BRUNICO Bar Agip,POINT
+BRUNICO/BRUNECK,Distretto / Sprengel,15/02/2018,BRUNICO Distretto,POINT
+BRUNICO/BRUNECK,Fontana / Brunnen,22/05/2018,BRUNICO Fontana,POINT
+BRUNICO/BRUNECK,Fontana Schlemmerstube / Brunnen Schlemmerstube,16/05/2018,BRUNICO Fontana Schlemmerstube,POINT
+BRUNICO/BRUNECK,Fontana Waldheim / Brunnen Waldheim,16/05/2018,BRUNICO Fontana Waldheim,POINT
+BRUNICO/BRUNECK,Fontana chiesa / Brunnen Kirche,22/05/2018,BRUNICO Fontana chiesa,POINT
+BRUNICO/BRUNECK,Fontana parrocchia / Brunnen Pfarre,19/07/2018,BRUNICO Fontana parrocchia,POINT
+BRUNICO/BRUNECK,Herzlalm / Herzlalm,12/10/2018,BRUNICO Herzlalm,POINT
+BRUNICO/BRUNECK,Kron  / Kron,12/10/2018,BRUNICO Kron,POINT
+BRUNICO/BRUNECK,Latte montagna Alto Adige / Bergmilch Südtirol,19/07/2018,BRUNICO Latte montagna Alto Adige,POINT
+BRUNICO/BRUNECK,Luns / Luns,16/07/2018,BRUNICO Luns,POINT
+BRUNICO/BRUNECK,Prosl / Prosl,26/03/2018,BRUNICO Prosl,POINT
+BRUNICO/BRUNECK,Scuola media Röd / Mittelschule Röd,15/02/2018,BRUNICO Scuola media Röd,POINT
+BRUNICO/BRUNECK,Sowi Gym,25/09/2018,BRUNICO Sowi Gym,POINT
+CAINES/KUENS,f.p. caserma dei VVFF / öffentl. Brunnen bei der Feuerwehrhalle,10/10/2018,CAINES f.p. caserma dei VVFF,POINT
+CALDARO SULLA STRADA DEL VINO/KALTERN AN DER WEINSTRASSE,Fontana pubblica Pianizza di Sopra 61 / Öff. Brunnen Oberplanitzing 61,05/09/2018,CALDARO SULLA STRADA DEL VINO  Pianizza di Sopra 61,POINT
+CALDARO SULLA STRADA DEL VINO/KALTERN AN DER WEINSTRASSE,font. pubb.  Brunnenweg St. Nikolaus / Öffentlicher Brunnen - Brunnenweg St. Nikolaus,08/02/2018,CALDARO SULLA STRADA DEL VINO font. pubb.  Brunnenweg St. Nikolaus,POINT
+CALDARO SULLA STRADA DEL VINO/KALTERN AN DER WEINSTRASSE,font. pubb. Brunnenweg Nr. 21 / Öffentlicher Brunnen - Brunnenweg Nr. 21,05/09/2018,CALDARO SULLA STRADA DEL VINO font. pubb. Brunnenweg Nr. 21,POINT
+CALDARO SULLA STRADA DEL VINO/KALTERN AN DER WEINSTRASSE,font. pubb. Kreuzung Trutsch / Öffent. Brunnen Kreuzung Trutsch,11/07/2018,CALDARO SULLA STRADA DEL VINO font. pubb. Kreuzung Trutsch,POINT
+CALDARO SULLA STRADA DEL VINO/KALTERN AN DER WEINSTRASSE,font. pubb. Mitterdorf - Mayor v. Morandellplatz / Öffentlicher Brunnen Mitterdorf - Mayor v. Morandellplatz,08/02/2018,CALDARO SULLA STRADA DEL VINO font. pubb. Mitterdorf - Mayor v. Morandellplatz,POINT
+CALDARO SULLA STRADA DEL VINO/KALTERN AN DER WEINSTRASSE,font. pubb. Oberplanitzing Hauptstraße / Öffentlicher Brunnen Oberplanitzing Hauptstraße,28/02/2018,CALDARO SULLA STRADA DEL VINO font. pubb. Oberplanitzing Hauptstraße,POINT
+CALDARO SULLA STRADA DEL VINO/KALTERN AN DER WEINSTRASSE,"font. pubb. Pianizza di sopra, Strada Principale n. 17 / Öff. Brunnen Oberplanitzing, Hauptstrasse Nr. 17",08/02/2018,"CALDARO SULLA STRADA DEL VINO font. pubb. Pianizza di sopra, Strada Principale n. 17",POINT
+CALDARO SULLA STRADA DEL VINO/KALTERN AN DER WEINSTRASSE,font. pubb. cimitero / Friedhofsbrunnen,22/10/2018,CALDARO SULLA STRADA DEL VINO font. pubb. cimitero,POINT
+CALDARO SULLA STRADA DEL VINO/KALTERN AN DER WEINSTRASSE,font.pubb. Rottenburgplatz / Öffentlicher Brunnen Rottenburgplatz,01/09/2018,CALDARO SULLA STRADA DEL VINO font.pubb. Rottenburgplatz,POINT
+CALDARO SULLA STRADA DEL VINO/KALTERN AN DER WEINSTRASSE,Öffentlicher Brunnen Altenburg / Öffentlicher Brunnen Altenburg,01/09/2018,CALDARO SULLA STRADA DEL VINO Öffentlicher Brunnen Altenburg,POINT
+CAMPO DI TRENS/FREIENFELD,Fontana pubblica Stilves / Öffen. Brunnen Stilfes,05/03/2018,CAMPO DI TRENS  Stilves,POINT
+CAMPO DI TRENS/FREIENFELD,Fontana pubblica Trens / Öffentlicher Brunnen Trens,05/03/2018,CAMPO DI TRENS  Trens,POINT
+CAMPO DI TRENS/FREIENFELD,Privato/Privat,06/12/2018,CAMPO DI TRENS,POINT
+CAMPO DI TRENS/FREIENFELD,Scuola elementare Mules / Grundschule Mauls -  WH WC Mädchen,05/03/2018,CAMPO DI TRENS Scuola elementare Mules,POINT
+CAMPO DI TRENS/FREIENFELD,Scuola elementare Mules / Grundschule Mauls - Gansör WH WC Mädchen,10/01/2018,CAMPO DI TRENS Scuola elementare Mules,POINT
+CAMPO DI TRENS/FREIENFELD,"Scuola elementare Mules / Grundschule Mauls, WH WC Damen Mauls Gansör",19/03/2018,CAMPO DI TRENS Scuola elementare Mules,POINT
+CAMPO TURES/SAND IN TAUFERS,Cascade/Cascade,26/03/2018,CAMPO TURES Cascade,POINT
+CAMPO TURES/SAND IN TAUFERS,Fontana Daimer / Daimerbrunnen,07/11/2018,CAMPO TURES Fontana Daimer,POINT
+CAMPO TURES/SAND IN TAUFERS,Fontana Taufra Bahnl / Taufra Bahnl Brunnen,07/11/2018,CAMPO TURES Fontana Taufra Bahnl,POINT
+CAMPO TURES/SAND IN TAUFERS,Fontana Unimet / Brunnen Unimet,05/02/2018,CAMPO TURES Fontana Unimet,POINT
+CAMPO TURES/SAND IN TAUFERS,Fontana chiesa / Brunnen Kirche,08/07/2018,CAMPO TURES Fontana chiesa,POINT
+CAMPO TURES/SAND IN TAUFERS,Fontana municipio / Brunnen Rathaus,31/05/2018,CAMPO TURES Fontana municipio,POINT
+CAMPO TURES/SAND IN TAUFERS,Privato/Privat,21/11/2018,CAMPO TURES,POINT
+CASTELBELLO-CIARDES/KASTELBELL-TSCHARS,"Albergo ""Sonnenhof"" - Juvale / Gasth. Sonnenhof - Juval",17/10/2018,"CASTELBELLO-CIARDES Albergo ""Sonnenhof"" - Juvale",POINT
+CASTELBELLO-CIARDES/KASTELBELL-TSCHARS,Fontana pubblica Galsaun/ Öffentlicher Brunnen Galsaun,02/05/2018,CASTELBELLO-CIARDES  Galsaun,POINT
+CASTELBELLO-CIARDES/KASTELBELL-TSCHARS,Privato/Privat,26/03/2018,CASTELBELLO-CIARDES,POINT
+CASTELBELLO-CIARDES/KASTELBELL-TSCHARS,"f.p. ""Widumplatz"" Ciardes / Öffentlicher Brunnen Widumplatz, Tschars",02/06/2018,"CASTELBELLO-CIARDES f.p. ""Widumplatz"" Ciardes",POINT
+CASTELBELLO-CIARDES/KASTELBELL-TSCHARS,f.p. Lacinigo / Öffentlicher Brunnen Latschinig,02/06/2018,CASTELBELLO-CIARDES f.p. Lacinigo,POINT
+CASTELBELLO-CIARDES/KASTELBELL-TSCHARS,f.p. centro / Öffentlicher Brunnen Zentrum,09/03/2018,CASTELBELLO-CIARDES f.p. centro,POINT
+CASTELBELLO-CIARDES/KASTELBELL-TSCHARS,"ristoro di campagna ""Niedermair"" - Montetrumes+I71 / Buschenschank Niedermair - Trumsberg",03/12/2018,"CASTELBELLO-CIARDES ristoro di campagna ""Niedermair"" - Montetrumes+I71",POINT
+CASTELROTTO/KASTELRUTH,Asilo / Kindergarten,04/10/2018,CASTELROTTO Asilo,POINT
+CASTELROTTO/KASTELRUTH,Asilo Sureghes / Kindergarten Sureghes,05/08/2018,CASTELROTTO Asilo Sureghes,POINT
+CASTELROTTO/KASTELRUTH,"Bagno Pubblico - Centro / Öff. Toiletten, Zentrum",14/02/2018,CASTELROTTO Bagno Pubblico - Centro,POINT
+CASTELROTTO/KASTELRUTH,Bar Lavies - Pufels 5,10/03/2018,CASTELROTTO Bar Lavies - Pufels 5,POINT
+CASTELROTTO/KASTELRUTH,Brunnen bei Grundschule,23/05/2018,CASTELROTTO Brunnen bei Grundschule,POINT
+CASTELROTTO/KASTELRUTH,Fontana pubblica O.-v.-Wolkenstein - Siusi / Öffentlicher Brunnen O.-v.-Wolkenstein-Platz - Seis,13/08/2018,CASTELROTTO  O.-v.-Wolkenstein - Siusi,POINT
+CASTELROTTO/KASTELRUTH,Fontana pubblica presso scuola elementare / Öffentlicher Brunnen bei Grundschule,17/07/2018,CASTELROTTO  presso scuola elementare,POINT
+CASTELROTTO/KASTELRUTH,Nordiccenter / Nordiccenter,14/02/2018,CASTELROTTO Nordiccenter,POINT
+CASTELROTTO/KASTELRUTH,Privato/Privat,21/11/2018,CASTELROTTO,POINT
+CERMES/TSCHERMS,"Cafe` Eggbauer, Basling / Cafe` Eggbauer, Basling",30/05/2018,"CERMES Cafe` Eggbauer, Basling",POINT
+CERMES/TSCHERMS,Fontana pubblica Centro  / Öffentlicher Brunnen Zentrum,05/10/2018,CERMES  Centro,POINT
+CHIENES/KIENS,Ehrenburgerhof Lido / Ehrenburgerhof Lido,14/03/2018,CHIENES Ehrenburgerhof Lido,POINT
+CHIENES/KIENS,Fontana / Brunnen,05/09/2018,CHIENES Fontana,POINT
+CHIENES/KIENS,Fontana chiesa / Brunnen Kirche,05/09/2018,CHIENES Fontana chiesa,POINT
+CHIENES/KIENS,Fontana paese / Brunnen Oberdorf,05/09/2018,CHIENES Fontana paese,POINT
+CHIENES/KIENS,Kindergarten / Kindergarten,10/02/2018,CHIENES Kindergarten,POINT
+CHIENES/KIENS,Privato/Privat,23/10/2018,CHIENES,POINT
+CHIUSA/KLAUSEN,Fontana pubblica / Öffentlicher Brunnen,04/11/2018,CHIUSA,POINT
+CHIUSA/KLAUSEN,Fontana pubblica Gudon  /  Dorfbrunnen Gufidaun,07/09/2018,CHIUSA  Gudon,POINT
+CHIUSA/KLAUSEN,Fontana pubblica Piazza Tinne / Öffentlicher Brunnen Tinneplatz,04/11/2018,CHIUSA  Piazza Tinne,POINT
+CHIUSA/KLAUSEN,Fontana pubblica Piazza paese / Öffentlicher Brunnen Dorfplatz,04/11/2018,CHIUSA  Piazza paese,POINT
+CHIUSA/KLAUSEN,Privato/Privat,06/06/2018,CHIUSA,POINT
+CHIUSA/KLAUSEN,"Scuola dell'Infanzia Chiusa, Langrain 39 / Kindergarten Klausen, Langrain 39; WH Küche",10/10/2018,"CHIUSA Scuola dell'Infanzia Chiusa, Langrain 39",POINT
+CORNEDO ALL'ISARCO/KARNEID,Brunnen Friedhof Gummer  /  Brunnen Friedhof Gummer,10/03/2018,CORNEDO ALL'ISARCO Brunnen Friedhof Gummer,POINT
+CORNEDO ALL'ISARCO/KARNEID,Casa di riposo Clara / Altersheim Clara,21/11/2018,CORNEDO ALL'ISARCO Casa di riposo Clara,POINT
+CORNEDO ALL'ISARCO/KARNEID,Fontana cimitero / Brunnen Friedhof,04/05/2018,CORNEDO ALL'ISARCO Fontana cimitero,POINT
+CORNEDO ALL'ISARCO/KARNEID,Fontana cimitero Collepietra / Brunnen Friedhof Steinegg,07/12/2018,CORNEDO ALL'ISARCO Fontana cimitero Collepietra,POINT
+CORNEDO ALL'ISARCO/KARNEID,Gummer - Scuole elementari M. Pichler / Gummer - Grundschule M. Pichler,27/02/2018,CORNEDO ALL'ISARCO Gummer - Scuole elementari M. Pichler,POINT
+CORNEDO ALL'ISARCO/KARNEID,"Scuola elementare Cornedo "" Martin Wenter"" / Grundschule Karneid ""Martin Wenter""",26/11/2018,"CORNEDO ALL'ISARCO Scuola elementare Cornedo "" Martin Wenter""",POINT
+CORNEDO ALL'ISARCO/KARNEID,Scuole medie Prato Isarco / Mittelschule in Blumau,27/02/2018,CORNEDO ALL'ISARCO Scuole medie Prato Isarco,POINT
+CORTACCIA SULLA STRADA DEL VINO/KURTATSCH AN DER WEINSTRASSE,Ditta Finstral zona industriale / Fa. Finstral Industriezone,16/05/2018,CORTACCIA SULLA STRADA DEL VINO Ditta Finstral zona industriale,POINT
+CORTACCIA SULLA STRADA DEL VINO/KURTATSCH AN DER WEINSTRASSE,F. p. Weg K. von Fenner / Öff. Brunnen Weg K. von Fenner,04/05/2018,CORTACCIA SULLA STRADA DEL VINO F. p. Weg K. von Fenner,POINT
+CORTACCIA SULLA STRADA DEL VINO/KURTATSCH AN DER WEINSTRASSE,Fontana pubblica Platzl / Öffentlicher Brunnen Platzl,09/03/2018,CORTACCIA SULLA STRADA DEL VINO  Platzl,POINT
+CORTACCIA SULLA STRADA DEL VINO/KURTATSCH AN DER WEINSTRASSE,Fontana pubblica piazza H.M.Schweiggl / Ö.B. Hauptmann Schweigglplatz,14/03/2018,CORTACCIA SULLA STRADA DEL VINO  piazza H.M.Schweiggl,POINT
+CORTACCIA SULLA STRADA DEL VINO/KURTATSCH AN DER WEINSTRASSE,Fontana pubblica vicino albergo Goldener Adler / Öffentlicher Brunnen neben Gasthaus Adler,16/07/2018,CORTACCIA SULLA STRADA DEL VINO   albergo Goldener Adler,POINT
+CORTACCIA SULLA STRADA DEL VINO/KURTATSCH AN DER WEINSTRASSE,Ufficio Cantina Tiefenbrunner / Büro Kellerei Tiefenbrunner,04/11/2018,CORTACCIA SULLA STRADA DEL VINO Ufficio Cantina Tiefenbrunner,POINT
+CORTACCIA SULLA STRADA DEL VINO/KURTATSCH AN DER WEINSTRASSE,Öffentlicher Brunnen Kirchplatz Penon / Öffentlicher Brunnen Kirchplatz Penon,10/01/2018,CORTACCIA SULLA STRADA DEL VINO Öffentlicher Brunnen  Penon,POINT
+CORTINA SULLA STRADA DEL VINO/KURTINIG AN DER WEINSTRASSE,Privato/Privat,20/07/2018,CORTINA SULLA STRADA DEL VINO,POINT
+CORTINA SULLA STRADA DEL VINO/KURTINIG AN DER WEINSTRASSE,fontana pubblica piazza S. Martino / öff. Brunnen St. Martin Platz,04/10/2018,CORTINA SULLA STRADA DEL VINO fontana pubblica piazza S. Martino,POINT
+CORVARA IN BADIA/CORVARA,Azienda turistica / Tourismusverein,04/04/2018,CORVARA IN BADIA Azienda turistica,POINT
+CORVARA IN BADIA/CORVARA,Brunnen Friedhof,17/09/2018,CORVARA IN BADIA Brunnen Friedhof,POINT
+CORVARA IN BADIA/CORVARA,Costabiei / Costabiei,04/04/2018,CORVARA IN BADIA Costabiei,POINT
+CORVARA IN BADIA/CORVARA,Garni Pcei / Garni Pcei,12/12/2018,CORVARA IN BADIA Garni Pcei,POINT
+CURON VENOSTA/GRAUN IM VINSCHGAU,Comune - WC / Gemeinde - WC,12/12/2018,CURON VENOSTA  - WC,POINT
+CURON VENOSTA/GRAUN IM VINSCHGAU,Pizzeria Irene/Pizzeria Irene,12/12/2018,CURON VENOSTA Pizzeria Irene,POINT
+CURON VENOSTA/GRAUN IM VINSCHGAU,Privato/Privat,14/11/2018,CURON VENOSTA,POINT
+CURON VENOSTA/GRAUN IM VINSCHGAU,Res. Plagätt - Einlauf,20/09/2018,CURON VENOSTA Res. Plagätt - Einlauf,POINT
+CURON VENOSTA/GRAUN IM VINSCHGAU,WC - scuola media  /  WC - Mittelschule,23/01/2018,CURON VENOSTA WC - scuola media,POINT
+CURON VENOSTA/GRAUN IM VINSCHGAU,f. p. S. Valentino - cimitero / Ö. B. St. Valentin - Friedhof,10/08/2018,CURON VENOSTA f. p. S. Valentino - cimitero,POINT
+CURON VENOSTA/GRAUN IM VINSCHGAU,f.p. Kaschon / ö.B. Kaschon,14/11/2018,CURON VENOSTA f.p. Kaschon,POINT
+CURON VENOSTA/GRAUN IM VINSCHGAU,f.p. Monteplai / Öffentlicher Brunnen Dörfl,14/05/2018,CURON VENOSTA f.p. Monteplai,POINT
+CURON VENOSTA/GRAUN IM VINSCHGAU,f.p. Pedrossi Vallelunga di fuori / Öffentlicher Brunnen Pedross Außerlangtaufers,14/05/2018,CURON VENOSTA f.p. Pedrossi Vallelunga di fuori,POINT
+CURON VENOSTA/GRAUN IM VINSCHGAU,f.p. San Valentino alla Muta / Öffentlicher Brunnen - St. Valentin a.d.H.,25/06/2018,CURON VENOSTA f.p. San Valentino alla Muta,POINT
+CURON VENOSTA/GRAUN IM VINSCHGAU,f.p. parcheggio  / Ö.B. Parkplatz,14/05/2018,CURON VENOSTA f.p. parcheggio,POINT
+CURON VENOSTA/GRAUN IM VINSCHGAU,f.p. parcheggio torre / ö.B. beim Parkplatz Turm,14/05/2018,CURON VENOSTA f.p. parcheggio torre,POINT
+CURON VENOSTA/GRAUN IM VINSCHGAU,f.p. vallelunga di dentro / Öffentlicher Brunnen Innerlangtaufers,20/09/2018,CURON VENOSTA f.p. vallelunga di dentro,POINT
+CURON VENOSTA/GRAUN IM VINSCHGAU,Öff. Brunnen unter der Strasse  /  Öff. Brunnen unter der Strasse,12/12/2018,CURON VENOSTA Öff. Brunnen unter der Strasse,POINT
+DOBBIACO/TOBLACH,Fontana chiesa / Brunnen Kirche,24/09/2018,DOBBIACO Fontana chiesa,POINT
+DOBBIACO/TOBLACH,Fontana municipio / Brunnen Rathaus,09/10/2018,DOBBIACO Fontana municipio,POINT
+DOBBIACO/TOBLACH,Latteria / Sennerei,04/03/2018,DOBBIACO Latteria,POINT
+DOBBIACO/TOBLACH,Panificio Trenker / Bäckerei Trenker,14/02/2018,DOBBIACO Panificio Trenker,POINT
+DOBBIACO/TOBLACH,Privato/Privat,24/09/2018,DOBBIACO,POINT
+EGNA/NEUMARKT,Fontana pubblica  Via Villa / Öffentlicher Brunnen Vill,04/04/2018,EGNA   Via Villa,POINT
+EGNA/NEUMARKT,"Fontana pubblica 2015, Via Portici 2  /  Öff. Brunnen 2015, Laubengasse 2",15/05/2018,"EGNA  2015, Via Portici 2",POINT
+EGNA/NEUMARKT,Fontana pubblica Piazza Giovanni Prati / Öffentliche Brunnen Giovanni Prati Platz,19/11/2018,EGNA  Piazza Giovanni Prati,POINT
+EGNA/NEUMARKT,Fontana pubblica Piazza della Libertà / Öffentliche Brunnen Freiheitsplatz,15/05/2018,EGNA  Piazza della Libertà,POINT
+EGNA/NEUMARKT,Fontana pubblica Piazza principale / Öffentlicher  Brunnen Hauptplatz,04/04/2018,EGNA  Piazza principale,POINT
+EGNA/NEUMARKT,Fontana pubblica Piazza principale / Öffentlicher Brunnen Hauptplatz,04/04/2018,EGNA  Piazza principale,POINT
+EGNA/NEUMARKT,Fontana pubblica via A. Hofer / Öffentliche Brunnen A. Hofer Straße,28/08/2018,EGNA  via A. Hofer,POINT
+EGNA/NEUMARKT,Privato/Privat,15/05/2018,EGNA,POINT
+FALZES/PFALZEN,Fontana Osnerplatz / Brunnen Osnerplatz,08/09/2018,FALZES Fontana Osnerplatz,POINT
+FALZES/PFALZEN,Fontana Reichegger / Brunnen Reichegger,08/06/2018,FALZES Fontana Reichegger,POINT
+FALZES/PFALZEN,Fontana chiesa / Brunnen Kirche,08/06/2018,FALZES Fontana chiesa,POINT
+FALZES/PFALZEN,Fontana farmacia / Brunnen Apotheke,08/09/2018,FALZES Fontana farmacia,POINT
+FALZES/PFALZEN,Privato/Privat,08/09/2018,FALZES,POINT
+FIÈ ALLO SCILIAR/VÖLS AM SCHLERN,Autobahnraststätte Atzwang-Schlern West/Autobahnraststätte Atzwang-Schlern West,25/01/2018,FIÈ ALLO SCILIAR Autobahnraststätte Atzwang-Schlern West,POINT
+FIÈ ALLO SCILIAR/VÖLS AM SCHLERN,Fontana Hotel Perwanger/Brunnen Hotel Perwanger,13/08/2018,FIÈ ALLO SCILIAR Fontana Hotel Perwanger,POINT
+FIÈ ALLO SCILIAR/VÖLS AM SCHLERN,Fontana pubblica / Öffentlicher Brunnen,13/08/2018,FIÈ ALLO SCILIAR,POINT
+FIÈ ALLO SCILIAR/VÖLS AM SCHLERN,Fontana pubblica Binderplatz / Öffentlicher Brunnen Binderplatz,05/10/2018,FIÈ ALLO SCILIAR  Binderplatz,POINT
+FIÈ ALLO SCILIAR/VÖLS AM SCHLERN,Fontana pubblica vicino chiesa / Öffentlicher Brunnen Kirche,14/02/2018,FIÈ ALLO SCILIAR,POINT
+FIÈ ALLO SCILIAR/VÖLS AM SCHLERN,GH Kircher / GH Kircher - Ums,26/02/2018,FIÈ ALLO SCILIAR GH Kircher,POINT
+FORTEZZA/FRANZENSFESTE,"Albergo Brückenwirt, Mezzaselva / Gasthof Brückenwirt, Mittewald - WH Bar - ohne Abflaemmen",08/07/2018,"FORTEZZA Albergo Brückenwirt, Mezzaselva",POINT
+FORTEZZA/FRANZENSFESTE,"Albergo Riol, Fortezza / Gasthof Riol, Franzenfeste",05/03/2018,"FORTEZZA Albergo Riol, Fortezza",POINT
+FORTEZZA/FRANZENSFESTE,"Albergo Riol, Fortezza / Gasthof Riol, Franzenfeste - Riolbar, WH Bar - Entnahme ohne abflammen",19/03/2018,"FORTEZZA Albergo Riol, Fortezza",POINT
+FORTEZZA/FRANZENSFESTE,"Albergo Riol, Fortezza / Gasthof Riol, Franzenfeste - WH Bar - ohne Abfalmmen",08/07/2018,"FORTEZZA Albergo Riol, Fortezza",POINT
+FORTEZZA/FRANZENSFESTE,"Fontana pubblica, Le Cave / Öffentlicher Brunnen, Grasstein",07/03/2018,"FORTEZZA , Le Cave",POINT
+FUNES/VILLNÖSS,"Albergo Edelweiss, S. Maddalena 77 / Gasthof Edelweiss, St. Magdalena 77 - WH Bar",27/03/2018,"FUNES Albergo Edelweiss, S. Maddalena 77",POINT
+FUNES/VILLNÖSS,"Albergo Edelweiss, S. Maddalena 77 / Gasthof Edelweiss, St. Magdalena 77; WH Bar",07/09/2018,"FUNES Albergo Edelweiss, S. Maddalena 77",POINT
+FUNES/VILLNÖSS,"Fa. Hewoline, Schmelze 4/Fa. Hewoline, Schmelze 4, WH Garage",24/09/2018,"FUNES Fa. Hewoline, Schmelze 4",POINT
+FUNES/VILLNÖSS,Font. pubbl. sede del circolo Tiso/Öff. Brunnen Vereinshaus Teis,05/07/2018,FUNES Font. pubbl. sede del circolo Tiso,POINT
+FUNES/VILLNÖSS,Fontana S. Pietro / Dorfbrunnen St. Peter,05/07/2018,FUNES Fontana S. Pietro,POINT
+FUNES/VILLNÖSS,Privato/Privat,16/10/2018,FUNES,POINT
+FUNES/VILLNÖSS,"Scuola elementare S. Pietro, S. Pietro 140 / Grundschule St. Peter, St. Peter 140; WH WC",27/03/2018,"FUNES Scuola elementare S. Pietro, S. Pietro 140",POINT
+FUNES/VILLNÖSS,"Scuola elementare S. Pietro, S. Pietro 140 / Grundschule St. Peter, St. Peter 140; WH WC Vereinslokale",07/09/2018,"FUNES Scuola elementare S. Pietro, S. Pietro 140",POINT
+FUNES/VILLNÖSS,"Scuola materna S. Maddalena/Kindergarten St. Magdalen, St. Magdalena 114; WH Küche",24/09/2018,FUNES Scuola materna S. Maddalena,POINT
+FUNES/VILLNÖSS,"Scuola materna S. Maddalena/Kindergarten St. Magdalena, WH Küche",27/11/2018,FUNES Scuola materna S. Maddalena,POINT
+FUNES/VILLNÖSS,Scuola materna S. Maddalena/Kindergarten St. Magdalena; WH Küche,05/07/2018,FUNES Scuola materna S. Maddalena,POINT
+GAIS/GAIS,Albergo Huber / Gasthaus Huber,24/10/2018,GAIS Albergo Huber,POINT
+GAIS/GAIS,Fontana Brunner / Brunner Brunnen,17/04/2018,GAIS Fontana Brunner,POINT
+GAIS/GAIS,Fontana chiesa / Brunnen Kirche,17/04/2018,GAIS Fontana chiesa,POINT
+GAIS/GAIS,Fontana municipio / Brunnen Rathaus,07/11/2018,GAIS Fontana municipio,POINT
+GAIS/GAIS,Miraval / Miraval,24/10/2018,GAIS Miraval,POINT
+GARGAZZONE/GARGAZON,WC - municipio / WC - Gemeinde,12/06/2018,GARGAZZONE WC - municipio,POINT
+GARGAZZONE/GARGAZON,f.p. centro / Öffentlicher Brunnen Zentrum,16/08/2018,GARGAZZONE f.p. centro,POINT
+GLORENZA/GLURNS,f.p. centro / Öffentlicher Brunnen Zentrum,08/06/2018,GLORENZA f.p. centro,POINT
+GLORENZA/GLURNS,f.p. vicino la chiesa e ristorante Stambecco / Öffentlicher Brunnen neben Kirche u. Gh. Steinbock,01/09/2018,GLORENZA f.p.  la chiesa e ristorante Stambecco,POINT
+LA VALLE/WENGEN,Municipio / Rathaus,05/08/2018,LA VALLE Municipio,POINT
+LACES/LATSCH,Coldrano: f.p. incrocio via Castello - via Tschanderle / Goldrain: Öffentlicher Brunnen Kreuzung Schlossstr. - Tschanderleweg,03/12/2018,LACES Coldrano: f.p.  via Castello - via Tschanderle,POINT
+LACES/LATSCH,Privato/Privat,21/11/2018,LACES,POINT
+LACES/LATSCH,f.p. Coldrano - piazzetta / Öffentlicher Brunnen Goldrain - Platzl,12/06/2018,LACES f.p. Coldrano - piazzetta,POINT
+LACES/LATSCH,"f.p. Tarres / Öffentlicher Brunnen, Tarsch",09/06/2018,LACES f.p. Tarres,POINT
+LACES/LATSCH,f.p. Tiss / Öffentlicher Brunnen Tiss,09/11/2018,LACES f.p. Tiss,POINT
+LACES/LATSCH,f.p. pista ciclabile / Öff. Brunnen bei Radweg,05/03/2018,LACES f.p. pista ciclabile,POINT
+LACES/LATSCH,"f.p. via Schuler / Öffentlicher Brunnen, Schulerstrasse",27/08/2018,LACES f.p. via Schuler,POINT
+LACES/LATSCH,fontana pubblica zona industriale Pedross / Öffentlicher Brunnen Industriezone Pedross,24/09/2018,LACES fontana pubblica zona industriale Pedross,POINT
+LACES/LATSCH,ristorante stazione a monte a San Martino / Restaurant Bergstation in St. Martin,03/12/2018,LACES ristorante stazione a monte a San Martino,POINT
+LACES/LATSCH,Ö.B. neben Kirche,27/02/2018,LACES Ö.B. neben Kirche,POINT
+LAGUNDO /ALGUND,"Albergo ""Maratscher, Plars di Mezzo / Gasthaus Maratscher, Mitterplars",12/06/2018,"LAGUNDO  Albergo ""Maratscher, Plars di Mezzo",POINT
+LAGUNDO /ALGUND,"GH Gruber, Vellau",07/09/2018,"LAGUNDO  GH Gruber, Vellau",POINT
+LAGUNDO /ALGUND,"Gasthaus Ladurner, Vellau / Gasthaus Ladurner, Vellau",12/06/2018,"LAGUNDO  Gasthaus Ladurner, Vellau",POINT
+LAGUNDO /ALGUND,Privato/Privat,22/05/2018,LAGUNDO,POINT
+LAGUNDO /ALGUND,Servizi pubblici seggiovia stazione di monte  /  Öffentl. Toiletten Bergstation Seilbahn,22/05/2018,LAGUNDO  Servizi pubblici seggiovia stazione di monte,POINT
+LAGUNDO /ALGUND,WC - municipio / Gemeinde -  WC,02/07/2018,LAGUNDO  WC - municipio,POINT
+LAGUNDO /ALGUND,f.p. via B. Leiter / ö.B. B. Leiter Str.,04/04/2018,LAGUNDO  f.p. via B. Leiter,POINT
+LAGUNDO /ALGUND,"f.p., Plars di Sopra / Öffentlicher Brunnen, Oberplars",05/08/2018,"LAGUNDO  f.p., Plars di Sopra",POINT
+LAGUNDO /ALGUND,fontana pubblica presso la chiesa / Öffentlicher Brunnen bei Kirche,05/08/2018,LAGUNDO  fontana pubblica presso la chiesa,POINT
+LAGUNDO/ALGUND,f.p. via B. Leiter / ö.B. B. Leiter Str.,07/09/2018,LAGUNDO f.p. via B. Leiter,POINT
+LAGUNDO/ALGUND,"f.p., Plars di Sopra / Öffentlicher Brunnen, Oberplars",07/09/2018,"LAGUNDO f.p., Plars di Sopra",POINT
+LAION/LAJEN,"Ditta ELA Srl, Zona Artigianale Pontives 10 / Fa. ELA GmbH, Gewerbezone Pontives 10",17/04/2018,"LAION Ditta ELA Srl, Zona Artigianale Pontives 10",POINT
+LAION/LAJEN,Fontana pubblica Albions / Öff. Brunnen Albions,05/07/2018,LAION  Albions,POINT
+LAION/LAJEN,Fontana pubblica Ceves / Öffentlicher Brunnen Tschöfas,09/10/2018,LAION  Ceves,POINT
+LAION/LAJEN,Fontana pubblica Tanürz  /  Öffentlicher Brunnen Tanürz,05/07/2018,LAION  Tanürz,POINT
+LAION/LAJEN,Fontana pubblica scuola elementare Lajener Ried/Öff. Brunnen Grundschule Lajener Ried,09/10/2018,LAION  scuola elementare Lajener Ried,POINT
+LAION/LAJEN,Hotel Überbacher / Hotel Überbacher,17/05/2018,LAION Hotel Überbacher,POINT
+LAION/LAJEN,Privato/Privat,17/05/2018,LAION,POINT
+LAIVES/LEIFERS,Bagni 1° compagnia,12/11/2018,LAIVES Bagni 1° compagnia,POINT
+LAIVES/LEIFERS,Caserma CC. Guella - rubinetto cucina carabinieri / Kaserne CC. Guella - Wasserhahn der Küche der Carabinieri,21/02/2018,LAIVES Caserma CC. Guella -  carabinieri,POINT
+LAIVES/LEIFERS,Fontana Pubblica S.Giacomo / öff. Brunnen St.Jakob,05/09/2018,LAIVES  S.Giacomo,POINT
+LAIVES/LEIFERS,Fontana pubblica Pineta di Laives  /  Fontana pubblica Pineta di Laives,10/09/2018,LAIVES  Pineta di Laives,POINT
+LAIVES/LEIFERS,Fontana pubblica parco Marconi / öff. Brunnen Marconipark,07/05/2018,LAIVES  parco Marconi,POINT
+LAIVES/LEIFERS,Laboratorio Biologico / Biologisches Landeslabor,12/11/2018,LAIVES Laboratorio Biologico,POINT
+LAIVES/LEIFERS,Magazzino comunale zona industriale/ Magazin der Gemeinde Industriezone,02/07/2018,LAIVES Magazzino comunale zona industriale,POINT
+LAIVES/LEIFERS,Scuola Elementare Fraz. Pineta / Grundschule Steinmannwald,19/02/2018,LAIVES Scuola Elementare Fraz. Pineta,POINT
+LAIVES/LEIFERS,Scuola elementare San Giacomo / Grundschule St. Jakob,19/02/2018,LAIVES Scuola elementare San Giacomo,POINT
+LAIVES/LEIFERS,WC piscina coperta comunale / WC Gemeindehallenbad,28/02/2018,LAIVES WC piscina coperta comunale,POINT
+LAIVES/LEIFERS,f.p. giardino zona 46/Öff. Brunnen Garten Zone 46,14/06/2018,LAIVES f.p. giardino zona 46,POINT
+LAIVES/LEIFERS,"f.p. parco giochi via Sottomonte / öff. Brunnen, Spielplatz, Unterbergstr.",17/05/2018,LAIVES f.p. parco giochi via Sottomonte,POINT
+LANA/LANA,"Albergo ""Pawiglerwirt"" - Pavicolo / Gasthaus Pawiglerwirt - Pawigl",03/07/2018,"LANA Albergo ""Pawiglerwirt"" - Pavicolo",POINT
+LANA/LANA,Bar Nordkap / Bar Nordkap,05/10/2018,LANA Bar Nordkap,POINT
+LANA/LANA,Privato/Privat,03/07/2018,LANA,POINT
+LANA/LANA,f.p. p.zza della chiesa / Öffentlicher Brunnen Kirchplatz,04/04/2018,LANA f.p. p.zza della chiesa,POINT
+LANA/LANA,"f.p. presso la chiesa ""Kapuziner"" / Öffentlicher Brunnen bei Kapuziner Kirche",02/01/2018,"LANA f.p. presso la chiesa ""Kapuziner""",POINT
+LANA/LANA,"f.p. presso la chiesa, Foiana / Öffentlicher Brunnen neben Kirche, Völlan",05/08/2018,"LANA f.p. presso la chiesa, Foiana",POINT
+LANA/LANA,mensa zona industriale / Mensa Industriezone,03/01/2018,LANA mensa zona industriale,POINT
+LASA/LAAS,Fontana pubblica Tarnell/Öffentlicher Brunnen Tarnell,15/05/2018,LASA  Tarnell,POINT
+LASA/LAAS,Oris: WC scuola elementare/Eyrs: WC Grundschule,12/11/2018,LASA Oris: WC scuola elementare,POINT
+LASA/LAAS,f.p. - Cengles / Öffentlicher Brunnen - Tschengls,08/08/2018,LASA f.p. - Cengles,POINT
+LASA/LAAS,f.p. - parcheggio / Öffentlicher Brunnen am Parkplatz,30/07/2018,LASA f.p. - parcheggio,POINT
+LASA/LAAS,f.p. Alliz / Öffentlicher Brunnen - Allitz,19/11/2018,LASA f.p. Alliz,POINT
+LASA/LAAS,f.p. Oris / Öffentlicher Brunnen - Eyrs,04/12/2018,LASA f.p. Oris,POINT
+LASA/LAAS,f.p. Tanas / Öffentlicher Brunnen - Tanas,19/11/2018,LASA f.p. Tanas,POINT
+LASA/LAAS,"f.p. ciclabile ""Zapferbad"" / ö.B. Radweg Zapferbad",15/05/2018,"LASA f.p. ciclabile ""Zapferbad""",POINT
+LASA/LAAS,f.p. strada principale / Öffentlicher Brunnen Hauptstrasse,01/09/2018,LASA f.p. strada principale,POINT
+LAUREGNO/LAUREIN,Privato/Privat,08/08/2018,LAUREGNO,POINT
+LAUREGNO/LAUREIN,fontana pubblica cimitero / Öffentlicher Brunnen Friedhof,08/08/2018,LAUREGNO fontana pubblica cimitero,POINT
+LUSON/LÜSEN,Albergo Lüsnerhof / Hotel Lüsnerhof,17/10/2018,LUSON Albergo Lüsnerhof,POINT
+LUSON/LÜSEN,Albergo Lüsnerhof / Hotel Lüsnerhof WH WC,30/08/2018,LUSON Albergo Lüsnerhof,POINT
+LUSON/LÜSEN,Albergo Lüsnerhof / Hotel Lüsnerhof; WH WC,04/12/2018,LUSON Albergo Lüsnerhof,POINT
+LUSON/LÜSEN,Privato/Privat,17/04/2018,LUSON,POINT
+LUSON/LÜSEN,fontana pubblica piazza paese / Öffentlicher Brunnen Dorfplatz,04/12/2018,LUSON fontana pubblica,POINT
+MAGRÈ SULLA STRADA DEL VINO/MARGREID AN DER WEINSTRASSE,Fontana pubblica Caserma dei Pompieri / Öffentlicher Brunnen neben Feuerwehrhalle,16/05/2018,MAGRÈ SULLA STRADA DEL VINO  Caserma dei Pompieri,POINT
+MAGRÈ SULLA STRADA DEL VINO/MARGREID AN DER WEINSTRASSE,"Fontana pubblica Comune / Öffentlicher Brunnen, Rathaus",10/01/2018,MAGRÈ SULLA STRADA DEL VINO,POINT
+MAGRÈ SULLA STRADA DEL VINO/MARGREID AN DER WEINSTRASSE,Fontana pubblica cimitero / Öffentlicher Brunnen - Friedhof,16/05/2018,MAGRÈ SULLA STRADA DEL VINO  cimitero,POINT
+MAGRÈ SULLA STRADA DEL VINO/MARGREID AN DER WEINSTRASSE,Fontana pubblica vicino casa padronale Löwengang / Öffentl. Brunnen neben Ansitz Löwengang,02/06/2018,MAGRÈ SULLA STRADA DEL VINO   casa padronale Löwengang,POINT
+MAGRÈ SULLA STRADA DEL VINO/MARGREID AN DER WEINSTRASSE,Tischlerei Amegg / Tischlerei Amegg,16/07/2018,MAGRÈ SULLA STRADA DEL VINO Tischlerei Amegg,POINT
+MALLES VENOSTA /MALS,Fontana pubblica presso Stazione  /  Öff. Brunnen bei Bahnhof,08/06/2018,MALLES VENOSTA   presso Stazione,POINT
+MALLES VENOSTA /MALS,Fürstenburg - Käse Produktionsraum,03/06/2018,MALLES VENOSTA  Fürstenburg - Käse Produktionsraum,POINT
+MALLES VENOSTA /MALS,Hotel Glieshof,22/10/2018,MALLES VENOSTA  Hotel Glieshof,POINT
+MALLES VENOSTA /MALS,Knottbergquellen nach AB / Knottbergquellen nach AB,24/10/2018,MALLES VENOSTA  Knottbergquellen nach AB,POINT
+MALLES VENOSTA /MALS,Knottbergquellen vor AB /  Knottbergquellen vor AB,24/10/2018,MALLES VENOSTA  Knottbergquellen vor AB,POINT
+MALLES VENOSTA /MALS,Privato/Privat,22/10/2018,MALLES VENOSTA,POINT
+MALLES VENOSTA /MALS,Sammelschacht Quellen Mischwasser,26/09/2018,MALLES VENOSTA  Sammelschacht Quellen Mischwasser,POINT
+MALLES VENOSTA /MALS,Sennerei Burgeis Arbeitsraum,03/06/2018,MALLES VENOSTA  Sennerei Burgeis Arbeitsraum,POINT
+MALLES VENOSTA /MALS,albergo Moriggl - dispensa del latte / Gasthaus Moriggl - Milchkammer,20/11/2018,MALLES VENOSTA  albergo Moriggl - dispensa del latte,POINT
+MALLES VENOSTA /MALS,"f.p. ""Kreuzweg"" / Öffentl. Brunnen Kreuzweg",10/09/2018,"MALLES VENOSTA  f.p. ""Kreuzweg""",POINT
+MALLES VENOSTA /MALS,"f.p. Burgusio / Öffentlicher Brunnen, Burgeis",03/06/2018,MALLES VENOSTA  f.p. Burgusio,POINT
+MALLES VENOSTA /MALS,"f.p. Clusio / Öffentlicher Brunnen, Schleis",05/02/2018,MALLES VENOSTA  f.p. Clusio,POINT
+MALLES VENOSTA /MALS,"f.p. Laudes / Öffentlicher Brunnen, Laatsch",28/08/2018,MALLES VENOSTA  f.p. Laudes,POINT
+MALLES VENOSTA /MALS,"f.p. Mazia / Öffentlicher Brunnen, Matsch",22/10/2018,MALLES VENOSTA  f.p. Mazia,POINT
+MALLES VENOSTA /MALS,"f.p. Piavenna / Öffentlicher Brunnen, Plawenn",09/11/2018,MALLES VENOSTA  f.p. Piavenna,POINT
+MALLES VENOSTA /MALS,"f.p. Planol / Öffentlicher Brunnen, Planeil",09/11/2018,MALLES VENOSTA  f.p. Planol,POINT
+MALLES VENOSTA /MALS,"f.p. Slingia / Öffentlicher Brunnen, Schlinig",14/03/2018,MALLES VENOSTA  f.p. Slingia,POINT
+MALLES VENOSTA /MALS,"f.p. Tarces / Öffentlicher Brunnen, Tartsch",03/05/2018,MALLES VENOSTA  f.p. Tarces,POINT
+MALLES VENOSTA /MALS,fontana pubblica / Öffentlicher Brunnen,20/11/2018,MALLES VENOSTA  fontana pubblica,POINT
+MALLES VENOSTA /MALS,"ristoro di campagna ""Patzleid"" / Buschenschank: Platzleid",22/10/2018,"MALLES VENOSTA  ristoro di campagna ""Patzleid""",POINT
+MALLES VENOSTA /MALS,Öffentlicher Brunnen vor Kirche vierzehn Nothelfer / Öffentlicher Brunnen vor Kirche vierzehn Nothelfer,05/02/2018,MALLES VENOSTA  Öffentlicher Brunnen vor Kirche vierzehn Nothelfer,POINT
+MAREBBE/ENNEBERG,Albergo Posta / Gasthaus Post,10/01/2018,MAREBBE Albergo Posta,POINT
+MAREBBE/ENNEBERG,Centro visite / Naturparkhaus,09/11/2018,MAREBBE Centro visite,POINT
+MAREBBE/ENNEBERG,Fontana Posta / Brunnen Post,07/02/2018,MAREBBE Fontana Posta,POINT
+MAREBBE/ENNEBERG,Fontana chiesa / Brunnen Kirche,07/02/2018,MAREBBE Fontana chiesa,POINT
+MAREBBE/ENNEBERG,Privato/Privat,10/01/2018,MAREBBE,POINT
+MARLENGO/MARLING,Garni Prantnerhof  /  Garni Prantnerhof,30/05/2018,MARLENGO Garni Prantnerhof,POINT
+MARLENGO/MARLING,Privato/Privat,23/05/2018,MARLENGO,POINT
+MARLENGO/MARLING,f.p. di fronte al parcheggio / Öffentlicher Brunnen gegenüber Parkplatz,12/04/2018,MARLENGO f.p. di fronte al parcheggio,POINT
+MARTELLO/MARTELL,Privato/Privat,07/04/2018,MARTELLO,POINT
+MARTELLO/MARTELL,Serbatoio Thairmühl -  entrata delle sorgenti Platzer Mahd e sorgente Grub / Reservoir Thairmühl - Einlauf der Platzer Mahd Quellen und Grubquelle,09/05/2018,MARTELLO Serbatoio Thairmühl -  entrata delle sorgenti Platzer Mahd e sorgente Grub,POINT
+MARTELLO/MARTELL,Stallwies: Trattoria Hölderle / Stallwies: GH Hölderle,06/05/2018,MARTELLO Stallwies: Trattoria Hölderle,POINT
+MARTELLO/MARTELL,WC - vicino comune /WC - neben Gemeinde,06/05/2018,MARTELLO WC -  comune,POINT
+MARTELLO/MARTELL,WC-Gemeindebauhof,21/11/2018,MARTELLO WC-Gemeindebauhof,POINT
+MARTELLO/MARTELL,"centro ""Biathlon"" - WC malga di ""Grogg"" / Biathlonzentrum -  WC Groggalm",20/03/2018,"MARTELLO centro ""Biathlon"" - WC malga di ""Grogg""",POINT
+MARTELLO/MARTELL,f.p. Ganda / ö.B. Gand,20/03/2018,MARTELLO f.p. Ganda,POINT
+MARTELLO/MARTELL,f.p. vicino Obkirchhof / öffentlicher Brunnen beim Obkirchhof,06/05/2018,MARTELLO f.p.  Obkirchhof,POINT
+MELTINA/MÖLTEN,Font. pubb. vicino chiesa / Öffentlicher Brunnen neben Kirche,09/11/2018,MELTINA Font. pubb.,POINT
+MELTINA/MÖLTEN,Fontana pubblica piazza S. Teßmann / Öff. Brunnen Siegfried Teßmann Platz,26/09/2018,MELTINA  piazza S. Teßmann,POINT
+MELTINA/MÖLTEN,Municipio / Rathaus,17/04/2018,MELTINA Municipio,POINT
+MELTINA/MÖLTEN,Scuola media Meltina - WC / Grundschule Mölten - WC parterre,20/03/2018,MELTINA Scuola media Meltina - WC,POINT
+MELTINA/MÖLTEN,fontana pubblica Schlaneid  /  Öff. Brunnen Schlaneid,07/03/2018,MELTINA fontana pubblica Schlaneid,POINT
+MERANO/MERAN,Asilo Girotondo - Maia Bassa / Asilo Girotondo - Untermais,31/01/2018,MERANO Asilo Girotondo - Maia Bassa,POINT
+MERANO/MERAN,Bar Cinzia / Bar Cinzia,24/01/2018,MERANO Bar Cinzia,POINT
+MERANO/MERAN,Bar Vittoria - Sinigo / Bar Vittoria - Sinich,24/01/2018,MERANO Bar Vittoria - Sinigo,POINT
+MERANO/MERAN,Buschenschank Rauthof  /  Buschenschank Rauthof,11/07/2018,MERANO Buschenschank Rauthof,POINT
+MERANO/MERAN,Fontana pubblica via Steinach / Öffentlicher Brunnen Steinachweg,20/12/2018,MERANO  via Steinach,POINT
+MERANO/MERAN,"Ufficio Igiene, via Goethe n. 7 / Hygieneamt, Goethestr. 7",24/01/2018,"MERANO Ufficio Igiene, via Goethe n. 7",POINT
+MERANO/MERAN,"Via Planta, condotta delle sorgenti / Plantastrasse Leitung von Quellen",04/05/2018,"MERANO Via Planta, condotta delle sorgenti",POINT
+MERANO/MERAN,"f.p. ""Brunnegger Brunnen"" via Planta / Öff. Brunnen, Brunegger Brunnen, Plantastrasse",17/10/2018,"MERANO f.p. ""Brunnegger Brunnen"" via Planta",POINT
+MERANO/MERAN,f.p. Portici / Öffentlicher Brunnen - Laubengasse,07/05/2018,MERANO f.p. Portici,POINT
+MERANO/MERAN,"f.p. Sinigo / Öffentlicher Brunnen, Sinich",04/05/2018,MERANO f.p. Sinigo,POINT
+MERANO/MERAN,f.p. p.zza fontana / ö.B. Brunnenplatz,16/08/2018,MERANO f.p. p.zza fontana,POINT
+MERANO/MERAN,f.p. presso il Bar Cinzia / Ö.B. bei Bar Cinzia,28/03/2018,MERANO f.p. presso il Bar Cinzia,POINT
+MERANO/MERAN,"f.p. presso il serbatoio ""Naif"" / Öffentlicher Brunnen bei Reservoir Naiftal",16/08/2018,"MERANO f.p. presso il serbatoio ""Naif""",POINT
+MERANO/MERAN,f.p. via Brennero/via Roma / Öffentlicher Brunnen Kreuzung Brennerstr./Romstr.,04/05/2018,MERANO f.p. via Brennero,POINT
+MERANO/MERAN,f.p. via Mainardo/via O. Huber / Öffentlicher Brunnen Meinhardstraße/O.-Huber-Str.,24/04/2018,MERANO f.p. via Mainardo,POINT
+MERANO/MERAN,"ospedale, dialisi dopo l'impianto osmosi / Krankenhaus Meran, Dialyseabteilung nach der Osmoseanlage",27/03/2018,"MERANO ospedale, dialisi dopo l'impianto osmosi",POINT
+MERANO/MERAN,"ospedale, dialisi prima dell'impianto osmosi / Krankenhaus Meran, Dialyseabteilung vor der Osmoseanlage",27/03/2018,"MERANO ospedale, dialisi prima dell'impianto osmosi",POINT
+MERANO/MERAN,pozzo di distribuzione Tell / Verteilerschacht Töll,02/05/2018,MERANO pozzo di distribuzione Tell,POINT
+MERANO/MERAN,Ö.B. Steinachweg,22/02/2018,MERANO Ö.B. Steinachweg,POINT
+MONGUELFO - TESIDO/WELSBERG - TAISTEN,Fontana chiesa / Brunnen Kirche,17/09/2018,MONGUELFO - TESIDO Fontana chiesa,POINT
+MONGUELFO - TESIDO/WELSBERG - TAISTEN,Municipio / Rathaus,14/02/2018,MONGUELFO - TESIDO Municipio,POINT
+MONGUELFO - TESIDO/WELSBERG - TAISTEN,Pensione Panorama / Pension Panorama,26/03/2018,MONGUELFO - TESIDO Pensione Panorama,POINT
+MONTAGNA/MONTAN,Fontana pubblica Pinzon / Öffentlicher Brunnen Pinzon,15/11/2018,MONTAGNA  Pinzon,POINT
+MONTAGNA/MONTAN,Fontana pubblica verso Pinzon / Öffentlicher Brunnen Richtung Pinzon,15/03/2018,MONTAGNA  verso Pinzon,POINT
+MONTAGNA/MONTAN,Fontana pubblica vicino Gasthaus Pernter Gschnon / Öffentlicher Brunnen neben Gasthaus Pernter Gschnon,09/06/2018,MONTAGNA   Gasthaus Pernter Gschnon,POINT
+MONTAGNA/MONTAN,"Fontana pubblica, via Collina di sopra / Öffentlicher Hügelgasse Brunnen oben",15/03/2018,"MONTAGNA , via Collina di sopra",POINT
+MOSO DI PASSIRIA /MOOS IN PASSEIER,Reservoir (Einlauf) bei Schneebergbrücke / Reservoir (Einlauf) bei Schneebergbrücke,13/11/2018,MOSO DI PASSIRIA  Reservoir (Einlauf) bei Schneebergbrücke,POINT
+MOSO DI PASSIRIA /MOOS IN PASSEIER,Scuola elementare Corvara / Grundschule Rabenstein,06/04/2018,MOSO DI PASSIRIA  Scuola elementare Corvara,POINT
+MOSO DI PASSIRIA /MOOS IN PASSEIER,Scuola elementare Plata / Grundschule Platt,03/12/2018,MOSO DI PASSIRIA  Scuola elementare Plata,POINT
+MOSO DI PASSIRIA /MOOS IN PASSEIER,"f.p. Plan / Öffentlicher Brunnen, Pfelders",03/12/2018,MOSO DI PASSIRIA  f.p. Plan,POINT
+MOSO DI PASSIRIA /MOOS IN PASSEIER,"f.p. centro / Öffentlicher Brunnen, Zentrum",06/04/2018,MOSO DI PASSIRIA  f.p. centro,POINT
+MOSO DI PASSIRIA /MOOS IN PASSEIER,f.p. presso la chiesa di Stulles / Ö.B. bei der Kirche in Stuls,08/09/2018,MOSO DI PASSIRIA  f.p. presso la chiesa di Stulles,POINT
+NALLES/NALS,"Fontana pubbl. via Schwanburg/Öff. Brunnen, Schwanburgerstr.",20/03/2018,NALLES Fontana pubbl. via Schwanburg,POINT
+NALLES/NALS,fontana pubb. municipio nuovo / Brunnen Rathausplatz neu,03/06/2018,NALLES fontana pubb. municipio nuovo,POINT
+NATURNO/NATURNS,"f.p. ""Sport Unterholzner"" / Öffentlicher Brunnen bei Sport Unterholzner",04/04/2018,"NATURNO f.p. ""Sport Unterholzner""",POINT
+NATURNO/NATURNS,f.p. Stava / Ö.B. Staben,02/06/2018,NATURNO f.p. Stava,POINT
+NATURNO/NATURNS,f.p. Tabla' / Öffentlicher Brunnen Tabland,28/02/2018,NATURNO f.p. Tabla',POINT
+NATURNO/NATURNS,f.p. presso cassa di risparmio / Öff. Brunnen bei Sparkasse,17/10/2018,NATURNO f.p. presso cassa di risparmio,POINT
+NATURNO/NATURNS,f.p. presso il luogo di sosta - ciclabile / Öffentlicher Brunnen bei Raststätte-Radweg,05/08/2018,NATURNO f.p. presso il luogo di sosta - ciclabile,POINT
+NATURNO/NATURNS,"f.p. vicino bar ""Rössl"" / Öffentlicher Brunnen bei  Bar Rössl",12/06/2018,"NATURNO f.p.  bar ""Rössl""",POINT
+NATURNO/NATURNS,serb. Cirlano - ingresso / Res. Tschirland - Einlauf,11/06/2018,NATURNO serb. Cirlano - ingresso,POINT
+NAZ-SCIAVES/NATZ-SCHABS,Fontana pubblica Aica / Öffentlicher Brunnen Aicha,20/06/2018,NAZ-SCIAVES  Aica,POINT
+NAZ-SCIAVES/NATZ-SCHABS,Fontana pubblica Rasa / Öff. Brunnen Raas,07/02/2018,NAZ-SCIAVES  Rasa,POINT
+NAZ-SCIAVES/NATZ-SCHABS,Fontana pubblica davanti alla cassa rurale / Öffentlicher Brunnen vor Raiffeisenkasse,07/02/2018,NAZ-SCIAVES   alla cassa rurale,POINT
+NAZ-SCIAVES/NATZ-SCHABS,"Rathaus Schabs, Peter-Kemenater-Str. 18/Rathaus Schabs, Peter-Kemenater-Str. 18",09/11/2018,"NAZ-SCIAVES Rathaus Schabs, Peter-Kemenater-Str. 18",POINT
+NAZ-SCIAVES/NATZ-SCHABS,"Rathaus Schabs, Peter-Kemenater-Str. 18/Rathaus Schabs, Peter-Kemenater-Str. 18 - WH WC",07/02/2018,"NAZ-SCIAVES Rathaus Schabs, Peter-Kemenater-Str. 18",POINT
+NAZ-SCIAVES/NATZ-SCHABS,"Rathaus Schabs, Peter-Kemenater-Str. 18/Rathaus Schabs, Peter-Kemenater-Str. 18, WH WC",22/03/2018,"NAZ-SCIAVES Rathaus Schabs, Peter-Kemenater-Str. 18",POINT
+NAZ-SCIAVES/NATZ-SCHABS,Scuola materna Rasa / Kindergarten Raas,11/12/2018,NAZ-SCIAVES Scuola materna Rasa,POINT
+NAZ-SCIAVES/NATZ-SCHABS,"Scuola materna Rasa / Kindergarten Raas, WH WC",22/03/2018,NAZ-SCIAVES Scuola materna Rasa,POINT
+NAZ-SCIAVES/NATZ-SCHABS,"Viumser Speck snc, via S. Maddalena n.2 / Viumser Speck OHG, St. Magdalena Straße 2",20/06/2018,"NAZ-SCIAVES Viumser Speck snc, via S. Maddalena n.2",POINT
+NOVA LEVANTE/WELSCHNOFEN,Fontana pubblica presso Chiesa / Öffentlicher Brunnen vor Kirche,13/09/2018,NOVA LEVANTE  presso Chiesa,POINT
+NOVA LEVANTE/WELSCHNOFEN,Fontana pubblica presso Municipio / Öffentlicher Brunnen vor Rathaus,13/09/2018,NOVA LEVANTE  presso Municipio,POINT
+NOVA LEVANTE/WELSCHNOFEN,GH Luis  / GH Luis,30/01/2018,NOVA LEVANTE GH Luis,POINT
+NOVA LEVANTE/WELSCHNOFEN,Gasthaus Meierei / Gasthaus Meierei,10/03/2018,NOVA LEVANTE Gasthaus Meierei,POINT
+NOVA LEVANTE/WELSCHNOFEN,Hotel Latemar / Hotel Latemar,10/03/2018,NOVA LEVANTE Hotel Latemar,POINT
+NOVA LEVANTE/WELSCHNOFEN,Scuola Media / Mittelschule,30/01/2018,NOVA LEVANTE Scuola Media,POINT
+NOVA LEVANTE/WELSCHNOFEN,WC pubblici vicino ufficio skipass/Öff. Toiletten bei Skipassbüro,17/01/2018,NOVA LEVANTE WC pubblici  ufficio skipass,POINT
+NOVA PONENTE/DEUTSCHNOFEN,Asilo Eggen / Kindergarten Eggen,28/03/2018,NOVA PONENTE Asilo Eggen,POINT
+NOVA PONENTE/DEUTSCHNOFEN,Asilo Monte S. Pietro / Kindergarten Petersberg,28/03/2018,NOVA PONENTE Asilo Monte S. Pietro,POINT
+NOVA PONENTE/DEUTSCHNOFEN,Fontana pubblica Eggen / Dorfbrunnen Eggen,07/02/2018,NOVA PONENTE  Eggen,POINT
+NOVA PONENTE/DEUTSCHNOFEN,Fontana pubblica Petersberg / Dorfbrunnen Petersberg,16/05/2018,NOVA PONENTE  Petersberg,POINT
+NOVA PONENTE/DEUTSCHNOFEN,Fontana pubblica presso Municipio / Öffentlicher Brunnen vor Rathaus,09/04/2018,NOVA PONENTE  presso Municipio,POINT
+NOVA PONENTE/DEUTSCHNOFEN,GH Wagger - Hennewinkl 12 / GH Wagger - Hennewinkl 12,10/03/2018,NOVA PONENTE GH Wagger - Hennewinkl 12,POINT
+NOVA PONENTE/DEUTSCHNOFEN,Hotel Royal / Hotel Royal,13/09/2018,NOVA PONENTE Hotel Royal,POINT
+NOVA PONENTE/DEUTSCHNOFEN,Hotel Sonnalp / Hotel Sonnalp,07/02/2018,NOVA PONENTE Hotel Sonnalp,POINT
+NOVA PONENTE/DEUTSCHNOFEN,Scuola elementare Petersberg / Grundschule Petersberg,11/07/2018,NOVA PONENTE Scuola elementare Petersberg,POINT
+NOVA PONENTE/DEUTSCHNOFEN-,Fontana pubblica presso Municipio / Öffentlicher Brunnen vor Rathaus,11/07/2018,NOVA PONENTE  presso Municipio,POINT
+ORA/AUER,fontana pubblica via val di Fiemme / öff. Brunnen Fleimstalstraße,07/05/2018,ORA fontana pubblica via val di Fiemme,POINT
+ORA/AUER,scuola elementare / Grundschule,02/07/2018,ORA scuola elementare,POINT
+ORA/AUER,Öfficina Falser / Maschinenbau Falser,26/03/2018,ORA Öfficina Falser,POINT
+ORTISEI/ST. ULRICH,Gasthaus Samont / Gasthaus Samont,08/01/2018,ORTISEI Gasthaus Samont,POINT
+ORTISEI/ST. ULRICH,Privato/Privat,08/01/2018,ORTISEI,POINT
+ORTISEI/ST. ULRICH,Rathaus St. Ulrich / Rathaus St. Ulrich,03/07/2018,ORTISEI Rathaus St. Ulrich,POINT
+ORTISEI/ST. ULRICH,"font. pubb. Raetiaplatz / Öffentlicher Brunnen, Raetiaplatz",07/09/2018,ORTISEI font. pubb. Raetiaplatz,POINT
+ORTISEI/ST. ULRICH,sede distretto sanitario / Sitz Sanitätssprengel,03/07/2018,ORTISEI sede distretto sanitario,POINT
+PARCINES/PARTSCHINS,f.p. piazza Gerold - Rabla' / Öffentlicher Brunnen Geroldplatz in Rabland,19/11/2018,PARCINES f.p. piazza Gerold - Rabla',POINT
+PARCINES/PARTSCHINS,f.p. via Peter Mitterhofer / Öffentl. Brunnen Peter Mitterhoferstr.,19/12/2018,PARCINES f.p. via Peter Mitterhofer,POINT
+PARCINES/PARTSCHINS,pozzetto via Stampf / Schacht Stampfstr.,09/11/2018,PARCINES pozzetto via Stampf,POINT
+PERCA/PERCHA,Fontana municipio / Brunnen Rathaus,11/05/2018,PERCA Fontana municipio,POINT
+PLAUS/PLAUS,"f.p. presso pensione ""Stefanshof"" / Öffentlicher Brunnen bei Pension Stefanshof",04/12/2018,"PLAUS f.p. presso pensione ""Stefanshof""",POINT
+PONTE GARDENA/WAIDBRUCK,Uffici comunali Ponte Gardena / Gemeindeamt Waidbruck,05/07/2018,PONTE GARDENA Uffici comunali Ponte Gardena,POINT
+PONTE GARDENA/WAIDBRUCK,Uffici comunali Ponte Gardena / Gemeindeamt Waidbruck  - WH WC,09/11/2018,PONTE GARDENA Uffici comunali Ponte Gardena,POINT
+PONTE GARDENA/WAIDBRUCK,Uffici comunali Ponte Gardena / Gemeindeamt Waidbruck; WH WC,07/05/2018,PONTE GARDENA Uffici comunali Ponte Gardena,POINT
+POSTAL/BURGSTALL,WC municipio / Gemeinde WC,12/06/2018,POSTAL WC municipio,POINT
+POSTAL/BURGSTALL,f.p. presso il comune / Öffentl. Brunnen neben Gemeinde,04/04/2018,POSTAL f.p. presso il comune,POINT
+PRATO ALLO STELVIO/PRAD AM STILFSERJOCH,"f.p. Agumes / Öffentlicher Brunnen, Agums",03/05/2018,PRATO ALLO STELVIO f.p. Agumes,POINT
+PRATO ALLO STELVIO/PRAD AM STILFSERJOCH,f.p. Kirchweg / Öffentlicher Brunnen Kirchweg,07/02/2018,PRATO ALLO STELVIO f.p. Kirchweg,POINT
+PRATO ALLO STELVIO/PRAD AM STILFSERJOCH,"f.p. Montechiaro / Öffentlicher Brunnen, Lichtenberg",03/05/2018,PRATO ALLO STELVIO f.p. Montechiaro,POINT
+PRATO ALLO STELVIO/PRAD AM STILFSERJOCH,"f.p. presso ""Sport Fahrner"" / Öffentlicher Brunnen bei Sport Fahrner",02/12/2018,"PRATO ALLO STELVIO f.p. presso ""Sport Fahrner""",POINT
+PRATO ALLO STELVIO/PRAD AM STILFSERJOCH,"f.p. presso albergo ""Stern"" / ö.B. bei Gasthaus Stern",19/06/2018,"PRATO ALLO STELVIO f.p. presso albergo ""Stern""",POINT
+PREDOI/PRETTAU,Fontana municipio / Brunnen Rathaus,19/09/2018,PREDOI Fontana municipio,POINT
+PREDOI/PRETTAU,Municipio / Rathaus,04/09/2018,PREDOI Municipio,POINT
+PROVES/PROVEIS,"f.p. presso albergo ""neue Post"" / Ö.B. bei GH Neue Post",08/08/2018,"PROVES f.p. presso albergo ""neue Post""",POINT
+RACINES/RATSCHINGS,Albergo Gilfenklamm / Gasthaus Gilfenklamm - Stange Alte TWL WH Bar,20/08/2018,RACINES Albergo Gilfenklamm,POINT
+RACINES/RATSCHINGS,Asilo di Maretta / Kindergarten in Mareit,07/11/2018,RACINES Asilo di Maretta,POINT
+RACINES/RATSCHINGS,Asilo di Maretta / Kindergarten in Mareit - WH Garten,22/08/2018,RACINES Asilo di Maretta,POINT
+RACINES/RATSCHINGS,Asilo di Maretta / Kindergarten in Mareit - WH Küche - Entnahme ohne abflammen,27/03/2018,RACINES Asilo di Maretta,POINT
+RACINES/RATSCHINGS,"Auto Gasser, Industriezone Unterackern, WH WC Personal",07/12/2018,"RACINES Auto Gasser, Industriezone Unterackern, WH WC Personal",POINT
+RACINES/RATSCHINGS,"Cappella S.Antonio, fontana pubblica / Kapelle St. Anton, Öff. Brunnen",20/08/2018,"RACINES Cappella S.Antonio, fontana pubblica",POINT
+RACINES/RATSCHINGS,Fontana pubblica Ridanna / Öffentlicher Brunnen in Ridnaun,07/11/2018,RACINES  Ridanna,POINT
+RACINES/RATSCHINGS,Fontana pubblica comune Stanga / Öff. Brunnen Gemeindeamt Stange,07/03/2018,RACINES  comune Stanga,POINT
+RACINES/RATSCHINGS,Hotel Kalcherhof / Hotel Kalcherhof WH Bar,20/08/2018,RACINES Hotel Kalcherhof,POINT
+RACINES/RATSCHINGS,Kindergarten Maiern; WH Küche,30/05/2018,RACINES Kindergarten Maiern; WH Küche,POINT
+RACINES/RATSCHINGS,Mareit Sonnenseite / Fam . Schölzhorn Herbert / Fam. Schölzhorn Herbert; WH Milchkammer,30/05/2018,RACINES Mareit Sonnenseite,POINT
+RACINES/RATSCHINGS,Museo minerario - amministrazione / Bergbaumuseum Verwaltungsgebäude - WH WC Verwaltungsgebäude,30/05/2018,RACINES Museo minerario - amministrazione,POINT
+RACINES/RATSCHINGS,Privato/Privat,20/08/2018,RACINES,POINT
+RACINES/RATSCHINGS,"Rest. Bar/Pizzeria Camping, Strada Giovo. 2/B - / Rest. Bar/Pizzeria Camping, Jaufenstr. 2/B",07/03/2018,RACINES Rest. Bar,POINT
+RACINES/RATSCHINGS,"Rest. Bar/Pizzeria Camping, Strada Giovo. 2/B - / Rest. Bar/Pizzeria Camping, Jaufenstr. 2/B - WH Bar",05/03/2018,RACINES Rest. Bar,POINT
+RACINES/RATSCHINGS,Wellness Sporthotel Ratschings / Wellness Sporthotel Ratschings,07/03/2018,RACINES Wellness Sporthotel Ratschings,POINT
+RACINES/RATSCHINGS,Wellness Sporthotel Ratschings / Wellness Sporthotel Ratschings - WH Küche,22/08/2018,RACINES Wellness Sporthotel Ratschings,POINT
+RACINES/RATSCHINGS,Wellness Sporthotel Ratschings / Wellness Sporthotel Ratschings - WH Küche - ohne Abflammen,10/03/2018,RACINES Wellness Sporthotel Ratschings,POINT
+RACINES/RATSCHINGS,Öff. Brunnen Obertelfes,30/05/2018,RACINES Öff. Brunnen Obertelfes,POINT
+RASUN ANTERSELVA/RASEN ANTHOLZ,Alpenresidenz Antholz  /  Alpenresidenz Antholz,23/07/2018,RASUN ANTERSELVA Alpenresidenz Antholz,POINT
+RASUN ANTERSELVA/RASEN ANTHOLZ,Bar  / Bar,23/07/2018,RASUN ANTERSELVA Bar,POINT
+RASUN ANTERSELVA/RASEN ANTHOLZ,Cimitero / Friedhof,15/10/2018,RASUN ANTERSELVA Cimitero,POINT
+RASUN ANTERSELVA/RASEN ANTHOLZ,Fontana Maso Müller / Brunnen Müllerhof,15/10/2018,RASUN ANTERSELVA Fontana Maso Müller,POINT
+RASUN ANTERSELVA/RASEN ANTHOLZ,Fontana chiesa / Brunnen Kirche,15/10/2018,RASUN ANTERSELVA Fontana chiesa,POINT
+RASUN ANTERSELVA/RASEN ANTHOLZ,Fontana chiesa di mezzo / Brunnen Kirche Mittertal,15/10/2018,RASUN ANTERSELVA Fontana chiesa di mezzo,POINT
+RASUN ANTERSELVA/RASEN ANTHOLZ,Fontana scuola elementare / Brunnen Grundschule,17/07/2018,RASUN ANTERSELVA Fontana scuola elementare,POINT
+RASUN ANTERSELVA/RASEN ANTHOLZ,Hexenschenke / Hexenschenke,19/09/2018,RASUN ANTERSELVA Hexenschenke,POINT
+RASUN ANTERSELVA/RASEN ANTHOLZ,Privato/Privat,17/10/2018,RASUN ANTERSELVA,POINT
+RENON/RITTEN,Asilo Auna di Sotto / Kindergarten Unterinn,04/10/2018,RENON Asilo Auna di Sotto,POINT
+RENON/RITTEN,Friedhof Unterinn,13/06/2018,RENON Friedhof Unterinn,POINT
+RENON/RITTEN,Friedhof Unterinn  /  Friedhof Unterinn,01/08/2018,RENON Friedhof Unterinn,POINT
+RENON/RITTEN,Gasthaus Seeberger - Wangen Sill,05/03/2018,RENON Gasthaus Seeberger - Wangen Sill,POINT
+RENON/RITTEN,Gasthaus Seeberger / Gasthaus Seeberger,11/07/2018,RENON Gasthaus Seeberger,POINT
+RENON/RITTEN,Gasthof Maria Saal,24/09/2018,RENON  Maria Saal,POINT
+RENON/RITTEN,Gasthof Signaterhof / Gasthof Signaterhof,01/08/2018,RENON  Signaterhof,POINT
+RENON/RITTEN,Hotel am Wolfsgrubener See / Hotel am Wolfsgrubener See,13/06/2018,RENON Hotel am Wolfsgrubener See,POINT
+RENON/RITTEN,Privato/Privat,24/09/2018,RENON,POINT
+RENON/RITTEN,Siffiano - Gh. Rielinger / Siffian - Gasthof Rielinger,13/06/2018,RENON Siffiano - Gh. Rielinger,POINT
+RENON/RITTEN,font. pubb.  Collalbo / Öffentlicher Brunnen Klobenstein,19/07/2018,RENON font. pubb.  Collalbo,POINT
+RENON/RITTEN,font. pubb. Signat / Öffentlicher Brunnen Signat,13/06/2018,RENON font. pubb. Signat,POINT
+RENON/RITTEN,font. pubb. vicino chiesa / Öffentlicher Brunnen neben Kirche,20/07/2018,RENON font. pubb.,POINT
+RENON/RITTEN,fontana pubblica piazza / Öffentlicher Brunnen Dorfplatz,24/09/2018,RENON fontana pubblica piazza,POINT
+RENON/RITTEN,funivia Soprabolzano / Seilbahn Oberbozen,01/08/2018,RENON funivia Soprabolzano,POINT
+RENON/RITTEN,nuova scuola elementare Longostagno/Neue Grundschule Lengstein,13/06/2018,RENON nuova scuola elementare Longostagno,POINT
+RENON/RITTEN,rubinetto cimitero Campodazzo / Friedhof Atzwang,05/09/2018,RENON rubinetto cimitero Campodazzo,POINT
+RENON/RITTEN,scuola elementare Longostagno / Grundschule Lengstein,23/01/2018,RENON scuola elementare Longostagno,POINT
+RENON/RITTEN,scuola materna Auna di Sopra / Kindergarten Oberrinn,01/08/2018,RENON scuola materna Auna di Sopra,POINT
+RENON/RITTEN,scuola media  Collalbo / Mittelschule Klobenstein,01/08/2018,RENON scuola media  Collalbo,POINT
+RIFIANO/RIFFIAN,f.p. sopra la biblioteca pubblica / Öffentlicher Brunnen oberhalb der öffentlichen Bibliothek,06/12/2018,RIFIANO f.p. sopra la biblioteca pubblica,POINT
+RIO DI PUSTERIA/MÜHLBACH,Fontana pubblica a Spinga / Öffentlicher Brunnen in Spinges,20/11/2018,RIO DI PUSTERIA  a Spinga,POINT
+RIO DI PUSTERIA/MÜHLBACH,Fontana pubblica a Valles / Öffentlicher Brunnen in Vals,07/02/2018,RIO DI PUSTERIA  a Valles,POINT
+RIO DI PUSTERIA/MÜHLBACH,Fontana pubblica alla Banca Popolare / Öffentlicher Brunnen bei Volksbank,14/06/2018,RIO DI PUSTERIA  alla Banca Popolare,POINT
+RIO DI PUSTERIA/MÜHLBACH,Fontana pubblica macellaio Pichler / Öffentlicher Brunnen Metzgerei Pichler,09/04/2018,RIO DI PUSTERIA  macellaio Pichler,POINT
+RIO DI PUSTERIA/MÜHLBACH,Fontana pubblica macellaio Pichler / Öffentlicher Brunnen Metzgerei Pichler - Brücke,20/11/2018,RIO DI PUSTERIA  macellaio Pichler,POINT
+RIO DI PUSTERIA/MÜHLBACH,Pensione Pfeiferhof - Maranza 58 / Pension Pfeiferhof - Meransen 58 - WH Küche,06/12/2018,RIO DI PUSTERIA Pensione Pfeiferhof - Maranza 58,POINT
+RIO DI PUSTERIA/MÜHLBACH,Privato/Privat,06/12/2018,RIO DI PUSTERIA,POINT
+RIO DI PUSTERIA/MÜHLBACH,Scuola elementare a Valles / Grundschule in Vals,20/11/2018,RIO DI PUSTERIA Scuola elementare a Valles,POINT
+RIO DI PUSTERIA/MÜHLBACH,"Scuola elementare a Valles / Grundschule in Vals, WH WC",14/03/2018,RIO DI PUSTERIA Scuola elementare a Valles,POINT
+RODENGO/RODENECK,Centro Terapeutico Bad Bachgard / Therapiezentrum Bad Bachgart; Brunnen Speisesaal,20/11/2018,RODENGO Centro Terapeutico Bad Bachgard,POINT
+RODENGO/RODENECK,Fontana pubblica S. Benedetto / Öff. Brunnen Nauders,07/02/2018,RODENGO  S. Benedetto,POINT
+RODENGO/RODENECK,Fontana pubblica davanti al comune / Öffentlicher Brunnen am Gemeindeamt,07/02/2018,RODENGO   al comune,POINT
+RODENGO/RODENECK,WC  pubblici al parcheggio / Öff. WC am Parkplatz; Hydrant unter Gebäude,14/11/2018,RODENGO WC  pubblici al parcheggio,POINT
+RODENGO/RODENECK,"f. p. ""Grüne Gasse"" / Öff. Brunnen ""Grüne Gasse""",14/11/2018,"RODENGO f. p. ""Grüne Gasse""",POINT
+SALORNO/SALURN,Fontana pubblica vicino alla ex scuola / öff. Brunnen neben ex Schule,10/09/2018,SALORNO   alla ex scuola,POINT
+SALORNO/SALURN,fontana pubblica cimitero  / öff. Brunnen Friedhof,10/09/2018,SALORNO fontana pubblica cimitero,POINT
+SALORNO/SALURN,fontana pubblica via Trento / öff. Brunnen Trientstr.,07/05/2018,SALORNO fontana pubblica via Trento,POINT
+SALORNO/SALURN,fontana pubblica via Valfredda / öff. Brunnen - Kaltentalstr.,09/11/2018,SALORNO fontana pubblica via Valfredda,POINT
+SAN CANDIDO/INNICHEN,Distretto / Sprengel,04/03/2018,SAN CANDIDO Distretto,POINT
+SAN CANDIDO/INNICHEN,Fontana / Brunnen,05/08/2018,SAN CANDIDO Fontana,POINT
+SAN CANDIDO/INNICHEN,Fontana chiesa / Brunnen Kirche,09/10/2018,SAN CANDIDO Fontana chiesa,POINT
+SAN CANDIDO/INNICHEN,Privato/Privat,09/10/2018,SAN CANDIDO,POINT
+SAN GENESIO ATESINO/JENESIEN,Fontana pubblica presso Municipio / Öffentlicher Brunnen neben Gemeinde,09/11/2018,SAN GENESIO ATESINO  presso Municipio,POINT
+SAN GENESIO ATESINO/JENESIEN,GH Locher / GH Locher,26/09/2018,SAN GENESIO ATESINO GH Locher,POINT
+SAN GENESIO ATESINO/JENESIEN,GH Plattner / GH Plattner,26/09/2018,SAN GENESIO ATESINO GH Plattner,POINT
+SAN GENESIO ATESINO/JENESIEN,Scuola elementare Afing / Volksschule Afing,26/09/2018,SAN GENESIO ATESINO Scuola elementare Afing,POINT
+SAN LEONARDO IN PASSIRIA/ST.LEONHARD in PASSEIER,Privato/Privat,06/04/2018,SAN LEONARDO IN PASSIRIA,POINT
+SAN LEONARDO IN PASSIRIA/ST.LEONHARD in PASSEIER,entrata nel serbatoio / Einlauf ins Reservoir,12/11/2018,SAN LEONARDO IN PASSIRIA entrata nel serbatoio,POINT
+SAN LEONARDO IN PASSIRIA/ST.LEONHARD in PASSEIER,f.p. centro / Öffentlicher Brunnen Zentrum,26/09/2018,SAN LEONARDO IN PASSIRIA f.p. centro,POINT
+SAN LEONARDO IN PASSIRIA/ST.LEONHARD in PASSEIER,pozzetto di interruzzione  Unteregg -entrata / Unterbrecherschacht Unteregg Einlauf,12/11/2018,SAN LEONARDO IN PASSIRIA pozzetto di interruzzione  Unteregg -entrata,POINT
+SAN LEONARDO IN PASSIRIA/ST.LEONHARD in PASSEIER,"trattoria  Alpenrose, Valtina / Gasthaus Alpenrose, Walten",17/05/2018,"SAN LEONARDO IN PASSIRIA trattoria  Alpenrose, Valtina",POINT
+SAN LORENZO DI SEBATO/St. Lorenzen,ARA / ARA,18/09/2018,SAN LORENZO DI SEBATO ARA,POINT
+SAN LORENZO DI SEBATO/St. Lorenzen,Fontana S. Stefano / Brunnen Stefansdorf,07/12/2018,SAN LORENZO DI SEBATO Fontana S. Stefano,POINT
+SAN LORENZO DI SEBATO/St. Lorenzen,Fontana chiesa / Brunnen Kirche,07/12/2018,SAN LORENZO DI SEBATO Fontana chiesa,POINT
+SAN LORENZO DI SEBATO/St. Lorenzen,Privato/Privat,18/09/2018,SAN LORENZO DI SEBATO,POINT
+SAN LORENZO DI SEBATO/St. Lorenzen,Saalerwirt/Saalerwirt,16/05/2018,SAN LORENZO DI SEBATO Saalerwirt,POINT
+SAN MARTINO IN BADIA/ST. MARTIN IN THURN,Cristlà Pizzeria / Cristlà Pizzeria,23/05/2018,SAN MARTINO IN BADIA Cristlà Pizzeria,POINT
+SAN MARTINO IN BADIA/ST. MARTIN IN THURN,Distretto Picolin / Sprengel Picolin,05/08/2018,SAN MARTINO IN BADIA Distretto Picolin,POINT
+SAN MARTINO IN BADIA/ST. MARTIN IN THURN,Fontana / Brunnen,05/08/2018,SAN MARTINO IN BADIA Fontana,POINT
+SAN MARTINO IN BADIA/ST. MARTIN IN THURN,Fontana chiesa / Brunnen Kirche,18/09/2018,SAN MARTINO IN BADIA Fontana chiesa,POINT
+SAN MARTINO IN BADIA/ST. MARTIN IN THURN,Hotel Pütia / Hotel Pütia,18/09/2018,SAN MARTINO IN BADIA Hotel Pütia,POINT
+SAN MARTINO IN BADIA/ST. MARTIN IN THURN,Scuola elementare / Grundschule,18/09/2018,SAN MARTINO IN BADIA Scuola elementare,POINT
+SAN MARTINO IN BADIA/ST. MARTIN IN THURN,Vantsch / Vantsch,18/09/2018,SAN MARTINO IN BADIA Vantsch,POINT
+SAN MARTINO IN PASSIRIA/ST. MARTIN IN PASSEIER,"f.p. centro / Öffentlicher Brunnen, Zentrum",04/05/2018,SAN MARTINO IN PASSIRIA f.p. centro,POINT
+SAN MARTINO IN PASSIRIA/ST. MARTIN IN PASSEIER,fontana pubblica presso chiesa / Öffentl. Brunnen bei Kirche,04/05/2018,SAN MARTINO IN PASSIRIA fontana pubblica presso chiesa,POINT
+SAN PANCRAZIO/ST. PANKRAZ,"Albergo ""Forsthof"" / Gasthaus Forsthof",26/07/2018,"SAN PANCRAZIO Albergo ""Forsthof""",POINT
+SAN PANCRAZIO/ST. PANKRAZ,"DWS, Bagno Lad / DWS, Bad Lad",02/07/2018,"SAN PANCRAZIO DWS, Bagno Lad",POINT
+SAN PANCRAZIO/ST. PANKRAZ,"Pensione ""Sunnleit"" - Bagno Lad / Pension Sunnleit - Bad Lad",25/10/2018,"SAN PANCRAZIO Pensione ""Sunnleit"" - Bagno Lad",POINT
+SAN PANCRAZIO/ST. PANKRAZ,"albergo ""Helener Pichl"", S. Elena / Gasthaus Helener Pichl, St. Helena",20/12/2018,"SAN PANCRAZIO albergo ""Helener Pichl"", S. Elena",POINT
+SAN PANCRAZIO/ST. PANKRAZ,"f.p. centro / Öffentlicher Brunnen, Zentrum",02/07/2018,SAN PANCRAZIO f.p. centro,POINT
+SANTA CRISTINA VALGARDENA/ST. CHRISTINA IN GRÖDEN,Font. pubb. vicino uff. postale / Öffentlicher Brunnen Nähe Postamt,07/09/2018,SANTA CRISTINA VALGARDENA Font. pubb.  uff. postale,POINT
+SANTA CRISTINA VALGARDENA/ST. CHRISTINA IN GRÖDEN,Fontana pubblica  Kirchplatz / Öffentlicher Brunnen Kirchplatz,03/07/2018,SANTA CRISTINA VALGARDENA,POINT
+SARENTINO/SARNTAL,Font. pubbl. Kirchplatz vor Rathaus / Öffentlicher Brunnen Kirchplatz vor Rathaus,13/11/2018,SARENTINO Font. pubbl.  vor Rathaus,POINT
+SARENTINO/SARNTAL,Kindergarten Weissenbach  /  Kindergarten Weissenbach,15/05/2018,SARENTINO Kindergarten Weissenbach,POINT
+SARENTINO/SARNTAL,Pension Hofer / Pension Hofer,01/11/2018,SARENTINO Pension Hofer,POINT
+SARENTINO/SARNTAL,Privato/Privat,05/03/2018,SARENTINO,POINT
+SARENTINO/SARNTAL,Reservoir Mair in der Wies - Zulauf /  Reservoir Mair in der Wies - Zulauf,05/02/2018,SARENTINO Reservoir Mair in der Wies - Zulauf,POINT
+SARENTINO/SARNTAL,Schulhaus Aberstückl / Schulhaus Aberstückl,05/02/2018,SARENTINO Schulhaus Aberstückl,POINT
+SARENTINO/SARNTAL,Scuola elementare Astfeld / Grundschule Astfeld,01/11/2018,SARENTINO Scuola elementare Astfeld,POINT
+SARENTINO/SARNTAL,Tankstelle API - Steet 81 / Tankstelle API - Steet 81,22/10/2018,SARENTINO Tankstelle API - Steet 81,POINT
+SARENTINO/SARNTAL,Unterbrecherschacht Stauderhof - Zulauf  /  Unterbrecherschacht Stauderhof - Zulauf,05/02/2018,SARENTINO Unterbrecherschacht Stauderhof - Zulauf,POINT
+SARENTINO/SARNTAL,WC pubblico parcheggio / Öffentlich. WC Parkplatz,11/05/2018,SARENTINO WC pubblico parcheggio,POINT
+SARENTINO/SARNTAL,font. pubbl. - Grieserplatz / Öffentlicher Brunnen - Grieserplatz,01/11/2018,SARENTINO font. pubbl. - Grieserplatz,POINT
+SARENTINO/SARNTAL,fontana pubbl. Astfeld / Öffentlicher Brunnen Astfeld,05/02/2018,SARENTINO fontana pubbl. Astfeld,POINT
+SARENTINO/SARNTAL,scuola elementare nuova - Weissenbach / Neue Grundschule - Weissenbach,01/11/2018,SARENTINO scuola elementare nuova - Weissenbach,POINT
+SARENTINO/SARNTAL,scuola materna/elementare Reinswald / Grundschule/Kindergarten Reinswald,12/03/2018,SARENTINO scuola materna,POINT
+SCENA/SCHENNA,Gasthaus Prennanger/Gasthaus Prennanger,06/12/2018,SCENA Gasthaus Prennanger,POINT
+SCENA/SCHENNA,Privato/Privat,06/12/2018,SCENA,POINT
+SCENA/SCHENNA,"Schennaberg - Albergo ""Greitererhof"" / Schennaberg - Gasthof Greitererhof",06/12/2018,"SCENA Schennaberg - Albergo ""Greitererhof""",POINT
+SCENA/SCHENNA,f.p. a Verdins / Öffentlicher Brunnen in Verdins,07/11/2018,SCENA f.p. a Verdins,POINT
+SCENA/SCHENNA,"f.p. presso ""Torgglerhof"" / Öffentlicher Brunnen bei Torgglerhof",02/01/2018,"SCENA f.p. presso ""Torgglerhof""",POINT
+SCENA/SCHENNA,fb presso gelateria Mario / Öffentlicher Brunnen bei Eisdiele Mario,18/12/2018,SCENA fb presso gelateria Mario,POINT
+SELVA DEI MOLINI/MÜHLWALD,Caseificio Hochgruber / Käserei Hochgruber,18/12/2018,SELVA DEI MOLINI Caseificio Hochgruber,POINT
+SELVA DEI MOLINI/MÜHLWALD,Fontana chiesa / Brunnen Kirche,08/07/2018,SELVA DEI MOLINI Fontana chiesa,POINT
+SELVA DEI MOLINI/MÜHLWALD,Municipio / Rathaus,14/03/2018,SELVA DEI MOLINI Municipio,POINT
+SELVA DEI MOLINI/MÜHLWALD,Privato/Privat,18/12/2018,SELVA DEI MOLINI,POINT
+SELVA DI VAL GARDENA/WOLKENSTEIN IN GRÖDEN,Fontana davanti all''Hotel Alpin  /  Brunnen vor Hotel Alpin,07/09/2018,SELVA DI VAL GARDENA Fontana  all''Hotel Alpin,POINT
+SELVA DI VAL GARDENA/WOLKENSTEIN IN GRÖDEN,Privato/Privat,07/09/2018,SELVA DI VAL GARDENA,POINT
+SELVA DI VAL GARDENA/WOLKENSTEIN IN GRÖDEN,Ufficio Posta / Postamt,28/08/2018,SELVA DI VAL GARDENA Ufficio Posta,POINT
+SELVA DI VAL GARDENA/WOLKENSTEIN IN GRÖDEN,Val  Pudra / Val  Pudra,07/09/2018,SELVA DI VAL GARDENA Val  Pudra,POINT
+SELVA DI VAL GARDENA/WOLKENSTEIN IN GRÖDEN,Verkehrsverein / Verkehrsverein,12/04/2018,SELVA DI VAL GARDENA Verkehrsverein,POINT
+SELVA DI VAL GARDENA/WOLKENSTEIN IN GRÖDEN,discoteca  Medel - Meisulesstr. / Diskothek Medel - Meisulesstr.,03/07/2018,SELVA DI VAL GARDENA discoteca  Medel - Meisulesstr.,POINT
+SELVA DI VAL GARDENA/WOLKENSTEIN IN GRÖDEN,fontana pubblica avanti Appartments Arabel / Brunnen vor Appartments Arabel,13/03/2018,SELVA DI VAL GARDENA fontana pubblica avanti Appartments Arabel,POINT
+SELVA DI VAL GARDENA/WOLKENSTEIN IN GRÖDEN,municipio / Rathaus,20/11/2018,SELVA DI VAL GARDENA municipio,POINT
+SELVA DI VAL GARDENA/WOLKENSTEIN IN GRÖDEN,stazione Carabinieri  Plan / Carabinieristation Plan,28/08/2018,SELVA DI VAL GARDENA stazione Carabinieri  Plan,POINT
+SELVA DI VAL GARDENA/WOLKENSTEIN IN GRÖDEN,stazione forestale  Plan / Forststation Plan,12/04/2018,SELVA DI VAL GARDENA stazione forestale  Plan,POINT
+SENALE - SAN FELICE/UNSERE LIEBE FRAU IM WALDE - ST. FELIX,"Albergo ""Greti"", S. Felice Klemm / Gasthaus Greti, St. Felix Klemm",08/08/2018,"SENALE - SAN FELICE Albergo ""Greti"", S. Felice Klemm",POINT
+SENALE - SAN FELICE/UNSERE LIEBE FRAU IM WALDE - ST. FELIX,"Albergo ""Rose"" / Gasthaus Rose",20/08/2018,"SENALE - SAN FELICE Albergo ""Rose""",POINT
+SENALE - SAN FELICE/UNSERE LIEBE FRAU IM WALDE - ST. FELIX,"Albergo ""zur Sonne"" / Gasthof zur Sonne",08/08/2018,"SENALE - SAN FELICE Albergo ""zur Sonne""",POINT
+SENALE - SAN FELICE/UNSERE LIEBE FRAU IM WALDE - ST. FELIX,Fontana pubblica centro / Öffentlicher Brunnen Zentrum,08/08/2018,SENALE - SAN FELICE  centro,POINT
+SENALE - SAN FELICE/UNSERE LIEBE FRAU IM WALDE - ST. FELIX,Malga Felixer / Felixer Alm,24/07/2018,SENALE - SAN FELICE Malga Felixer,POINT
+SENALES/SCHNALS,"Fontana pubblica ""Der gute Hirte"" / Öffentlicher Brunnen ""Der gute Hirte""",06/06/2018,"SENALES  ""Der gute Hirte""",POINT
+SENALES/SCHNALS,Maso Corto - stazione a valle - WC / Kurzras - Gletscherbahn Talstation - WC,06/06/2018,SENALES Maso Corto - stazione a valle - WC,POINT
+SENALES/SCHNALS,Sammelschacht Oberbergquellen   /  Sammelschacht Oberbergquellen,27/11/2018,SENALES Sammelschacht Oberbergquellen,POINT
+SENALES/SCHNALS,WC - scuola elementare / WC Grundschule,17/12/2018,SENALES WC - scuola elementare,POINT
+SENALES/SCHNALS,"albergo ""Edelweiss"" / Gasthaus Edelweiss",08/01/2018,"SENALES albergo ""Edelweiss""",POINT
+SENALES/SCHNALS,"albergo ""Schwarzer Adler""  / Gasthaus Schwarzer Adler - U.F. Oberdorf",14/02/2018,"SENALES albergo ""Schwarzer Adler""",POINT
+SENALES/SCHNALS,"f.p. Certosa / Öffentlicher Brunnen, Karthaus",06/06/2018,SENALES f.p. Certosa,POINT
+SENALES/SCHNALS,f.p. presso la chiesa / ö.B. neben Kirche,06/06/2018,SENALES f.p. presso la chiesa,POINT
+SENALES/SCHNALS,fontana pubblica / Öffentlicher Brunnen,05/09/2018,SENALES fontana pubblica,POINT
+SESTO/SEXTEN,Albergo Froneben / Gasthaus Froneben,16/10/2018,SESTO Albergo Froneben,POINT
+SESTO/SEXTEN,Albergo Panorama / Gasthaus Panorama,22/10/2018,SESTO Albergo Panorama,POINT
+SESTO/SEXTEN,Fontana Moso / Brunnen Moos,16/10/2018,SESTO Fontana Moso,POINT
+SESTO/SEXTEN,Fontana municipio / Brunnen Rathaus,05/08/2018,SESTO Fontana municipio,POINT
+SESTO/SEXTEN,Privato/Privat,22/10/2018,SESTO,POINT
+SILANDRO/SCHLANDERS,Covelano scuola elementare - WC / Volksschule Göflan - WC,12/11/2018,SILANDRO Covelano scuola elementare - WC,POINT
+SILANDRO/SCHLANDERS,Fontana pubblica vicino pista ciclabile/Öffentlicher Brunnen bei Radlweg,08/07/2018,SILANDRO   pista ciclabile,POINT
+SILANDRO/SCHLANDERS,Ospedale - dialisi - dopo l'osmosi / Abt. Dialyse - nach Osmose-Anlage - Krankenhaus,23/10/2018,SILANDRO Ospedale - dialisi - dopo l'osmosi,POINT
+SILANDRO/SCHLANDERS,Ospedale - dialisi - prima dell'osmosi / Abt. Dialyse - vor Osmose-Anlage - Krankenhaus,23/10/2018,SILANDRO Ospedale - dialisi - prima dell'osmosi,POINT
+SILANDRO/SCHLANDERS,f.p. - Covelano / ö.B. Göflan,06/11/2018,SILANDRO f.p. - Covelano,POINT
+SILANDRO/SCHLANDERS,"f.p. Corces ""Mitterdorf"" / Kortsch - Öffentl. Brunnen Mitterdorf",02/07/2018,"SILANDRO f.p. Corces ""Mitterdorf""",POINT
+SILANDRO/SCHLANDERS,"f.p. parco ""Plawenn"" / Öffentlicher Brunnen Plawennpark",06/11/2018,"SILANDRO f.p. parco ""Plawenn""",POINT
+SILANDRO/SCHLANDERS,"f.p. presso ""Sonnenwirtshof"" Corces / Öffentlicher Brunnen bei Sonnenwirtshof, Kortsch",04/11/2018,"SILANDRO f.p. presso ""Sonnenwirtshof"" Corces",POINT
+SILANDRO/SCHLANDERS,f.p. presso piazza della chiesa/Öffentlicher Brunnen bei Kirchplatz,17/05/2018,SILANDRO f.p. presso piazza della chiesa,POINT
+SILANDRO/SCHLANDERS,pozzetto rotonda - zona industriale / Schacht Kreisverkehr Industriezone,08/07/2018,SILANDRO pozzetto rotonda - zona industriale,POINT
+SILANDRO/SCHLANDERS,"ristoro di campagna ""Fisolgut"" / Buschenschank Fisolgut",17/10/2018,"SILANDRO ristoro di campagna ""Fisolgut""",POINT
+SILANDRO/SCHLANDERS,"sorgente ""Schimpfes"" dopo UV / Schimpfesquelle nach UV",04/05/2018,"SILANDRO sorgente ""Schimpfes"" dopo UV",POINT
+SILANDRO/SCHLANDERS,Öffentliches WC - Plawennpark / Öffentliches WC - Plawennpark,04/04/2018,SILANDRO Öffentliches WC - Plawennpark,POINT
+SLUDERNO/SCHLUDERNS,f.p. piazza del magistrato / Öffentlicher Brunnen Rathausplatz,12/11/2018,SLUDERNO f.p. piazza del magistrato,POINT
+SLUDERNO/SCHLUDERNS,"f.p. presso albergo ""Alte Mühle"" / Öffentlicher Brunnen bei GH alte Mühle",26/11/2018,"SLUDERNO f.p. presso albergo ""Alte Mühle""",POINT
+STELVIO/STILFS,Hotel passo stelvio / Hotel Stilfserjoch,17/10/2018,STELVIO Hotel passo stelvio,POINT
+STELVIO/STILFS,Hotel passo stelvio / Hotel Stilfserjoch (Entnahme am Zapfhahn nach AB),20/06/2018,STELVIO Hotel passo stelvio,POINT
+STELVIO/STILFS,Solda - scuola elementare / Sulden - Grundschule,20/02/2018,STELVIO Solda - scuola elementare,POINT
+STELVIO/STILFS,Solda - stazione a valle - funivia / Sulden - Talstation Getscher Bahn,09/12/2018,STELVIO Solda - stazione a valle - funivia,POINT
+STELVIO/STILFS,WC - centrale elettrica Stelvio / WC - E-Werk Stilfs,13/12/2018,STELVIO WC - centrale elettrica Stelvio,POINT
+STELVIO/STILFS,casa della natura - Trafoi / Naturatrafoi Haus der Natur,09/12/2018,STELVIO casa della natura - Trafoi,POINT
+STELVIO/STILFS,f.p. davanti pro loco Gomagoi / Ö.B. vor Tourismusbüro Gomagoi,09/12/2018,STELVIO f.p.  pro loco Gomagoi,POINT
+STELVIO/STILFS,f.p. presso la casa della natura / ö.B. bei Haus der Natur,17/10/2018,STELVIO f.p. presso la casa della natura,POINT
+STELVIO/STILFS,f.p. presso la chiesa / Öffentlicher Brunnen neben Kirche,24/04/2018,STELVIO f.p. presso la chiesa,POINT
+STELVIO/STILFS,"fontana presso il maso ""Oberlaganda"" / Brunnen bei Oberlaganda Hof",09/12/2018,"STELVIO fontana presso il maso ""Oberlaganda""",POINT
+STELVIO/STILFS,"panificio ""Reinstadler"" / Bäckerei Reinstadler",13/12/2018,"STELVIO panificio ""Reinstadler""",POINT
+TERENTO/TERENTEN,Fontana chiesa / Brunnen Kirche,20/11/2018,TERENTO Fontana chiesa,POINT
+TERENTO/TERENTEN,Privato/Privat,07/12/2018,TERENTO,POINT
+TERLANO/TERLAN,F. p. presso Scuola elementare Vilpian / Ö.B. bei Grundschule Vilpian,17/04/2018,TERLANO F. p. presso Scuola elementare Vilpian,POINT
+TERLANO/TERLAN,F.P. presso scuola elementare Siebeneich / Ö.B. vor Grundschule Siebeneich,17/04/2018,TERLANO F.P. presso scuola elementare Siebeneich,POINT
+TERLANO/TERLAN,Scuola Media  / Mittelschule,03/06/2018,TERLANO Scuola Media,POINT
+TERLANO/TERLAN,Scuola elementare Siebeneich / Grundschule Siebeneich,28/06/2018,TERLANO Scuola elementare Siebeneich,POINT
+TERLANO/TERLAN,Scuola elementare Vilpiano  /  Grundschule Vilpian,03/06/2018,TERLANO Scuola elementare Vilpiano,POINT
+TERLANO/TERLAN,Öff. Brunnen Karl Atz Platz  /  Öff. Brunnen Karl Atz Platz,07/04/2018,TERLANO Öff. Brunnen Karl Atz Platz,POINT
+TERLANO/TERLAN,Öff. Brunnen Oberkreuth  /  Öff. Brunnen Oberkreuth,07/04/2018,TERLANO Öff. Brunnen Oberkreuth,POINT
+TERMENO SULLA STRADA DEL VINO/TRAMIN AN DER WEINSTRASSE,Bar Tennis / Bar Tennis,16/10/2018,TERMENO SULLA STRADA DEL VINO Bar Tennis,POINT
+TERMENO SULLA STRADA DEL VINO/TRAMIN AN DER WEINSTRASSE,"fontana pubbl. Viertl Graun / Öffentl. Brunnen, Viertl Graun",09/11/2018,TERMENO SULLA STRADA DEL VINO fontana pubbl. Viertl Graun,POINT
+TERMENO SULLA STRADA DEL VINO/TRAMIN AN DER WEINSTRASSE,fontana pubblica / Öffentlicher Brunnen,09/11/2018,TERMENO SULLA STRADA DEL VINO fontana pubblica,POINT
+TERMENO SULLA STRADA DEL VINO/TRAMIN AN DER WEINSTRASSE,fontana pubblica Söll / Öffentlicher Brunnen Söll,15/11/2018,TERMENO SULLA STRADA DEL VINO fontana pubblica Söll,POINT
+TERMENO SULLA STRADA DEL VINO/TRAMIN AN DER WEINSTRASSE,Öffentlicher Brunnen vor Rathaus / Öffentlicher Brunnen vor Rathaus,09/11/2018,TERMENO SULLA STRADA DEL VINO Öffentlicher Brunnen vor Rathaus,POINT
+TERMENO SULLA STRADA DEL VINO/TRAMIN AN DER WEINSTRASSE,öff. Brunnen Auf der Hört  /  öff. Brunnen Auf der Hört,21/03/2018,TERMENO SULLA STRADA DEL VINO öff. Brunnen Auf der Hört,POINT
+TESIMO/TISENS,"Albergo ""Gfrillerhof"", Caprile / Gasthaus Gfrillerhof, Gfrill",15/02/2018,"TESIMO Albergo ""Gfrillerhof"", Caprile",POINT
+TESIMO/TISENS,"Bar ""Böltener Hügel"" / Bar Böltener Hügel",15/02/2018,"TESIMO Bar ""Böltener Hügel""",POINT
+TESIMO/TISENS,"f.p. p.zza ""Weber"" / ö.B. Weberplatz",04/11/2018,"TESIMO f.p. p.zza ""Weber""",POINT
+TESIMO/TISENS,"f.p. presso ""Lidlkapelle"" / ö.B. Prissian bei Lidlkapelle",20/08/2018,"TESIMO f.p. presso ""Lidlkapelle""",POINT
+TESIMO/TISENS,f.p. presso il municipio / Öffentl. Brunnen bei Gemeinde,04/11/2018,TESIMO f.p. presso il municipio,POINT
+TIRES/TIERS,Fontana pubblica presso Ufficio postale / Öffentlicher Brunnen gegenüber Postamt,23/05/2018,TIRES  presso Ufficio postale,POINT
+TIROLO/TIROL,"Albergo ""Hochmuth"" / Gasthof Hochmuth",07/09/2018,"TIROLO Albergo ""Hochmuth""",POINT
+TIROLO/TIROL,Bar Haweli (zona)  /  Bar Haweli (Zone),12/06/2018,TIROLO Bar Haweli (zona),POINT
+TIROLO/TIROL,f.p. alla chiesa / ö.B. vor Kirche,03/01/2018,TIROLO f.p. alla chiesa,POINT
+TIROLO/TIROL,f.p. presso casa di cultura / Öffentlicher Brunnen bei Vereinshaus,02/01/2018,TIROLO f.p. presso casa di cultura,POINT
+TIROLO/TIROL,f.p. sopra il municipio / Öffentlicher Brunnen oberhalb Gemeinde,15/11/2018,TIROLO f.p. sopra il municipio,POINT
+TRODENA/TRUDEN,Albergo Genzianella S. Lugano / Gasthof Genzianella - S. Lugano,07/12/2018,TRODENA Albergo Genzianella S. Lugano,POINT
+TRODENA/TRUDEN,Comune / Rathaus,19/11/2018,TRODENA,POINT
+TRODENA/TRUDEN,Fontana davanti a Jagelhof / Brunnen vor Jagelhof,04/10/2018,TRODENA Fontana  a Jagelhof,POINT
+TRODENA/TRUDEN,Fontana pubblica via segheria / Öffentlicher Brunnen Sägeweg,07/12/2018,TRODENA  via segheria,POINT
+TUBRE/TAUFERS IM MÜNSTERTAL,Fontana pubblica vicino parcheggio/Öffentlicher Brunnen bei Parkplatz,09/10/2018,TUBRE   parcheggio,POINT
+TUBRE/TAUFERS IM MÜNSTERTAL,"f.p. ""Mühlweg"" / Öffentlicher Brunnen, Mühlweg",18/06/2018,"TUBRE f.p. ""Mühlweg""",POINT
+TUBRE/TAUFERS IM MÜNSTERTAL,"f.p. ""Widum"" / Öffentlicher Brunnen, Widum",01/09/2018,"TUBRE f.p. ""Widum""",POINT
+TUBRE/TAUFERS IM MÜNSTERTAL,"f.p. Rifair / Öffentlicher Brunnen, Riffair",05/03/2018,TUBRE f.p. Rifair,POINT
+TUBRE/TAUFERS IM MÜNSTERTAL,"f.p. presso maso ""Baustadl"" / Öffentl. Brunnen bei Baustadlhof",26/02/2018,"TUBRE f.p. presso maso ""Baustadl""",POINT
+ULTIMO/ULTEN,"albergo ""Kuppelwies"" / Gasthaus Kuppelwies, Kuppelwies",10/09/2018,"ULTIMO albergo ""Kuppelwies""",POINT
+ULTIMO/ULTEN,"albergo ""Sporthof"", Gasteig/Gschöra / Gasthaus Sporthof, Gasteig/Gschöra",10/09/2018,"ULTIMO albergo ""Sporthof"", Gasteig",POINT
+ULTIMO/ULTEN,f.p. S. Nicolò / Öffentlicher Brunnen St. Nikolaus,10/09/2018,ULTIMO f.p. S. Nicolò,POINT
+ULTIMO/ULTEN,f.p. centro / Öffentlicher Brunnen Zentrum,02/07/2018,ULTIMO f.p. centro,POINT
+ULTIMO/ULTEN,"Öffentlicher Brunnen, St. Gertraud / Öffentlicher Brunnen, St. Gertraud",10/09/2018,"ULTIMO Öffentlicher Brunnen, St. Gertraud",POINT
+VADENA/PFATTEN,Centro sperimentale Laimburg / Versuchszentrum Laimburg,16/10/2018,VADENA Centro sperimentale Laimburg,POINT
+VADENA/PFATTEN,Centro sperimentale Laimburg / Versuchszentrum Laimburg (Toilette 1. Stock Hauptgebäude),22/10/2018,VADENA Centro sperimentale Laimburg,POINT
+VADENA/PFATTEN,Centro sperimentale Laimburg / Versuchszentrum Laimburg (Toilette Aula Erdgeschoss),22/10/2018,VADENA Centro sperimentale Laimburg,POINT
+VADENA/PFATTEN,Comune di Vadena / Rathaus Pfatten,09/04/2018,VADENA  di Vadena,POINT
+VADENA/PFATTEN,Privato/Privat,16/10/2018,VADENA,POINT
+VADENA/PFATTEN,Victor's Imbiss / Victor's Imbiss,16/10/2018,VADENA Victor's Imbiss,POINT
+VAL DI VIZZE/PFITSCH,"Albergo Pfitscherhof,Caminata 124 / Gasthof Pfitscherhof, Kematen 124 - WH Küche",06/12/2018,"VAL DI VIZZE Albergo Pfitscherhof,Caminata 124",POINT
+VAL DI VIZZE/PFITSCH,"Albergo Pretz Hof, Tulve 259 / Gasthaus Pretz Hof, Tulfer 259 - W2 WH Schlachthaus",06/12/2018,"VAL DI VIZZE Albergo Pretz Hof, Tulve 259",POINT
+VAL DI VIZZE/PFITSCH,"Albergo Simeler, Avenes / Gasthaus Simeler in Afens - WH Bar",06/12/2018,"VAL DI VIZZE Albergo Simeler, Avenes",POINT
+VAL DI VIZZE/PFITSCH,Albergo Sonnenheim in Flains / Gasthaus Sonnenheim in Flains - WH Bar,06/12/2018,VAL DI VIZZE Albergo Sonnenheim in Flains,POINT
+VAL DI VIZZE/PFITSCH,"Cafe & Bar Buffet, Bahnhofstr. 38A - WH Bar",22/08/2018,"VAL DI VIZZE Cafe & Bar Buffet, Bahnhofstr. 38A - WH Bar",POINT
+VAL DI VIZZE/PFITSCH,Cafè & Bar Buffet - Via Stazione/Bahnhofstr. 38 - WH Bar - ohne Abflammen,10/03/2018,VAL DI VIZZE Cafè & Bar Buffet - Via Stazione,POINT
+VAL DI VIZZE/PFITSCH,Fontana pubblica Caminata / Öffentlicher Brunnen Kematen,09/05/2018,VAL DI VIZZE  Caminata,POINT
+VAL DI VIZZE/PFITSCH,Fontana pubblica Prati / Dorfbrunnen Wiesen,05/09/2018,VAL DI VIZZE  Prati,POINT
+VAL DI VIZZE/PFITSCH,Fontana pubblica Prati / Dorfbrunnen Wiesen - Wiesen Tulfes Gemeindeamt,06/12/2018,VAL DI VIZZE  Prati,POINT
+VAL DI VIZZE/PFITSCH,Fontana pubblica S. Giacomo / Öff. Brunnen St. Jakob,09/05/2018,VAL DI VIZZE  S. Giacomo,POINT
+VAL DI VIZZE/PFITSCH,Wiesen - Öff. Brunnen Gemeinde,10/03/2018,VAL DI VIZZE Wiesen - Öff. Brunnen Gemeinde,POINT
+VALDAORA/OLANG,Bunnen Picknick,04/10/2018,VALDAORA Bunnen Picknick,POINT
+VALDAORA/OLANG,Fontana  / Brunnen,17/07/2018,VALDAORA Fontana,POINT
+VALDAORA/OLANG,Fontana Municipio / Brunnen Rathaus,24/07/2018,VALDAORA Fontana Municipio,POINT
+VALDAORA/OLANG,Fontana Valdaora di sopra / Brunnen Oberolang,24/07/2018,VALDAORA Fontana Valdaora di sopra,POINT
+VALDAORA/OLANG,Fontana al parco / Brunnen am Park,25/09/2018,VALDAORA Fontana al parco,POINT
+VALDAORA/OLANG,Fontana chiesa Valdaora di sotto / Brunnen Kirche Niederolang,24/07/2018,VALDAORA Fontana chiesa Valdaora di sotto,POINT
+VALDAORA/OLANG,Marchnerhütte / Marchnerhütte,12/03/2018,VALDAORA Marchnerhütte,POINT
+VALDAORA/OLANG,Prackenhütte / Prackenhütte,12/10/2018,VALDAORA Prackenhütte,POINT
+VALLE AURINA/AHRNTAL,Bar Agip / Bar Agip,07/11/2018,VALLE AURINA Bar Agip,POINT
+VALLE AURINA/AHRNTAL,Brunnen Speicher,19/09/2018,VALLE AURINA Brunnen Speicher,POINT
+VALLE AURINA/AHRNTAL,Casa di riposo S.Giovanni / Altersheim St.Johann,10/03/2018,VALLE AURINA Casa di riposo S.Giovanni,POINT
+VALLE AURINA/AHRNTAL,Fontana chiesa / Brunnen Kirche,05/02/2018,VALLE AURINA Fontana chiesa,POINT
+VALLE AURINA/AHRNTAL,Hotel Markus  /  Hotel Markus,04/09/2018,VALLE AURINA Hotel Markus,POINT
+VALLE AURINA/AHRNTAL,Municipio / Rathaus,10/03/2018,VALLE AURINA Municipio,POINT
+VALLE AURINA/AHRNTAL,Privato/Privat,31/05/2018,VALLE AURINA,POINT
+VALLE DI CASIES/GSIES,Bar Graf / Bar Graf,22/11/2018,VALLE DI CASIES Bar Graf,POINT
+VALLE DI CASIES/GSIES,Binta / Binta,20/11/2018,VALLE DI CASIES Binta,POINT
+VALLE DI CASIES/GSIES,Brunnen Rathaus  /  Brunnen Rathaus,23/05/2018,VALLE DI CASIES Brunnen Rathaus,POINT
+VALLE DI CASIES/GSIES,Fontana chiesa / Brunnen Kirche,23/05/2018,VALLE DI CASIES Fontana chiesa,POINT
+VALLE DI CASIES/GSIES,Hofkäserei Veidler  /  Hofkäserei Veidler,17/04/2018,VALLE DI CASIES Hofkäserei Veidler,POINT
+VALLE DI CASIES/GSIES,Hotel Quelle / Hotel Quelle,20/11/2018,VALLE DI CASIES Hotel Quelle,POINT
+VALLE DI CASIES/GSIES,Hotel Stoll / Hotel Stoll,12/10/2018,VALLE DI CASIES Hotel Stoll,POINT
+VALLE DI CASIES/GSIES,Municipio / Rathaus,20/11/2018,VALLE DI CASIES Municipio,POINT
+VALLE DI CASIES/GSIES,Privato/Privat,12/10/2018,VALLE DI CASIES,POINT
+VANDOIES/VINTL,Albergo Brugger / Gasthof Brugger; WH WC,10/09/2018,VANDOIES Albergo Brugger,POINT
+VANDOIES/VINTL,Fontana pubblica davanti alla chiesa di Vandoies  /  Öff. Brunnen vor Kirche Vintl,07/02/2018,VANDOIES   alla chiesa di Vandoies,POINT
+VANDOIES/VINTL,Privato/Privat,10/09/2018,VANDOIES,POINT
+VANDOIES/VINTL,Scuola elementare Frundres / Grundschule Pfunders,13/11/2018,VANDOIES Scuola elementare Frundres,POINT
+VANDOIES/VINTL,Scuola elementare Vandoies / Grundschule Vintl,13/11/2018,VANDOIES Scuola elementare Vandoies,POINT
+VANDOIES/VINTL,Scuola elementare Vandoies / Grundschule Vintl - WH WC,14/03/2018,VANDOIES Scuola elementare Vandoies,POINT
+VANDOIES/VINTL,Scuola elementare Vandoies / Grundschule Vintl; WH WC,26/04/2018,VANDOIES Scuola elementare Vandoies,POINT
+VANDOIES/VINTL,Scuola elementare Vandoies di Sopra / Grundschule Obervintl,13/11/2018,VANDOIES Scuola elementare Vandoies di Sopra,POINT
+VANDOIES/VINTL,Öff. Brunnen beim Friedhof  /  Öff. Brunnen beim Friedhof,07/02/2018,VANDOIES Öff. Brunnen beim Friedhof,POINT
+VARNA/VAHRN,"Albergo Fischerstube Untersee, Via Brennero 125 / Gasthof Fischerstube Untersee, Brennerstr. 125",18/04/2018,"VARNA Albergo Fischerstube Untersee, Via Brennero 125",POINT
+VARNA/VAHRN,Privato/Privat,16/04/2018,VARNA,POINT
+VARNA/VAHRN,"Scuola elementare Novacella, Via Abbazia 24 / Grundschule Neustift, Stiftstr. 24;  - WH WC",18/09/2018,"VARNA Scuola elementare Novacella, Via Abbazia 24",POINT
+VELTURNO/FELDTHURNS,"Albergo Klammwirt, Untrum 13 / Gasthof Klammwirt, Untrum 13",16/08/2018,"VELTURNO Albergo Klammwirt, Untrum 13",POINT
+VELTURNO/FELDTHURNS,"Albergo Klammwirt, Untrum 13 / Gasthof Klammwirt, Untrum 13 - WH Küche",06/07/2018,"VELTURNO Albergo Klammwirt, Untrum 13",POINT
+VELTURNO/FELDTHURNS,"Albergo Klammwirt, Untrum 13 / Gasthof Klammwirt, Untrum 13; WH vor Küche",13/09/2018,"VELTURNO Albergo Klammwirt, Untrum 13",POINT
+VELTURNO/FELDTHURNS,"Balglerhof, Untrum 15 / Balglerhof, Untrum 15; WH Garage",06/07/2018,"VELTURNO Balglerhof, Untrum 15",POINT
+VELTURNO/FELDTHURNS,Fontana pubblica Castello / Öffentlicher Brunnen am Schloss,04/12/2018,VELTURNO  Castello,POINT
+VELTURNO/FELDTHURNS,"Hotel Feldthurnerhof, Guln 1 / Hotel Feldthurnerhof, Guln  - WH Bar1",06/07/2018,"VELTURNO Hotel Feldthurnerhof, Guln 1",POINT
+VELTURNO/FELDTHURNS,Privato/Privat,06/07/2018,VELTURNO,POINT
+VERANO/VÖRAN,WC municipio / Gemeinde WC,13/03/2018,VERANO WC municipio,POINT
+VERANO/VÖRAN,f.p. centro / Öffentlicher Brunnen Zentrum,17/10/2018,VERANO f.p. centro,POINT
+VILLABASSA/NIEDERDORF,Fontana / Brunnen,09/10/2018,VILLABASSA Fontana,POINT
+VILLANDRO/VILLANDERS,"Albergo Sturmhof, S. Valentino 7 / Gasthof Sturmhof, St. Valentin 7; WH Bar",07/10/2018,"VILLANDRO Albergo Sturmhof, S. Valentino 7",POINT
+VILLANDRO/VILLANDERS,"Auto Hofer, Bodenacker 1/Auto Hofer, Bodenacker 1",16/10/2018,"VILLANDRO Auto Hofer, Bodenacker 1",POINT
+VILLANDRO/VILLANDERS,"Auto Hofer, Bodenacker 1/Auto Hofer, Bodenacker 1; WH WC",14/03/2018,"VILLANDRO Auto Hofer, Bodenacker 1",POINT
+VILLANDRO/VILLANDERS,"Officina Auto Gasser, Kalchgrube 14 / Werkstatt Auto Gasser, Kalchgrube 14",14/03/2018,"VILLANDRO Officina Auto Gasser, Kalchgrube 14",POINT
+VILLANDRO/VILLANDERS,"Officina Auto Gasser, Kalchgrube 14 / Werkstatt Auto Gasser, Kalchgrube 14 - WH WC",16/10/2018,"VILLANDRO Officina Auto Gasser, Kalchgrube 14",POINT
+VILLANDRO/VILLANDERS,"Officina Auto Gasser, Kalchgrube 14 / Werkstatt Auto Gasser, Kalchgrube 14; 'WH WC",16/05/2018,"VILLANDRO Officina Auto Gasser, Kalchgrube 14",POINT
+VILLANDRO/VILLANDERS,"Officina Auto Gasser, Kalchgrube 14 / Werkstatt Auto Gasser, Kalchgrube 14; WH WC",07/10/2018,"VILLANDRO Officina Auto Gasser, Kalchgrube 14",POINT
+VILLANDRO/VILLANDERS,Privato/Privat,07/10/2018,VILLANDRO,POINT
+VIPITENO/STERZING,"Balneum, öff. Schwimmbad; WH Bar",26/02/2018,"VIPITENO Balneum, öff. Schwimmbad; WH Bar",POINT
+VIPITENO/STERZING,Bergrestaurant Ross-Stadl / Bergrestaurant Ross-Stadl,07/11/2018,VIPITENO Bergrestaurant Ross-Stadl,POINT
+VIPITENO/STERZING,"Caserma Menini de Caroli / Caserma Menini de Caroli, WH Damen, Infermerie",17/09/2018,VIPITENO Caserma Menini de Caroli,POINT
+VIPITENO/STERZING,Fontana pubblica Tunes / Öffentlicher Brunnen Thuins,09/03/2018,VIPITENO  Tunes,POINT
+VIPITENO/STERZING,"Fontana pubblica,Città Nuova / Öffentlicher Brunnen, Neustadt",12/11/2018,"VIPITENO ,Città Nuova",POINT
+VIPITENO/STERZING,Privato/Privat,09/03/2018,VIPITENO,POINT
