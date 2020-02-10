@@ -1,7 +1,9 @@
 import acqua.labelCollection as lc
-import os,logging
+import os
+import logging
 path = '/Users/andrea/PycharmProjects/Acqua/AltoAdige/'
 os.chdir(path)
-geoJsonFile = 'AltoAdige.geojson'
-ll = lc.to_mongoDBInsert(geoJsonFile)
+geoJsonFile = 'confini_comuni_alto_adige.geojson'
+ll = lc.to_mongoDB_ReteAcuquedotti(geoJsonFile)
 logging.info("Safe %s record(s) to MongoDB.",len(ll))
+

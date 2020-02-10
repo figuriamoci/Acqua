@@ -25,7 +25,7 @@ parm.crea_dizionario('Definitions/SynParametri.csv')
 reportFoundList = pd.read_csv('Definitions/FoundReportList.csv')
 reportFoundList.set_index(['alias_city','alias_address','data_prelievo'],inplace=True)
 
-xls = pd.read_csv('Definitions/ReportAnalisiAltoAdige.csv')
+xls = pd.read_csv( 'ReportAnalisiAltoAdige.csv' )
 
 df = xls.rename(columns={'Comune / Gemeinde':'alias_city','Punto di prelievo / Entnahmepunkt':'alias_address'})
 df['data_prelievo'] = pd.to_datetime(xls['Data prelievo / Entnahme Datum ']).dt.strftime('%d/%m/%Y')

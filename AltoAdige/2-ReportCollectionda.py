@@ -2,7 +2,7 @@ import os,logging,pandas as pd
 os.chdir('/Users/andrea/PycharmProjects/Acqua/AltoAdige' )
 logging.basicConfig(level=logging.INFO)
 
-xls = pd.read_csv('Definitions/ReportAnalisiAltoAdige.csv')
+xls = pd.read_csv( 'ReportAnalisiAltoAdige.csv' )
 
 alias_city = xls['Comune / Gemeinde']
 alias_address = xls['Punto di prelievo / Entnahmepunkt']
