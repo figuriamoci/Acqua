@@ -217,3 +217,44 @@ def findCoordinates(geoReferencedLocationsListFile):
     logging.info('Not found %s geocode of %s.',len(n),len(df))
 
     return len(df)
+
+def createMapOnGeoReferencedDataCollection(geoReferencedLocationsFile,reteAcquedottiFile,output_file):
+    ##
+    import pandas as pd, folium, os, logging, geojson
+    from folium.plugins import MarkerCluster  # for clustering the markers
+
+    df = pd.read_csv( geoReferencedLocationsFile )
+
+    pointNotNull = df[-df['geometry'].isnull()]
+    firstPoint = pointNotNull.iloc[0]['geometry']
+    firstPointGeoJSON = geojson.loads( firstPoint.replace( "'", '"' ) )
+
+    map = folium.Map( location=[firstPointGeoJSON['coordinates'][1], firstPointGeoJSON['coordinates'][0]],
+                      control_scale=True )
+    marker_cluster = MarkerCluster().add_to( map )  # create marker clusters
+
+    ##
+    map.choropleth( geo_data = reteAcquedottiFile,
+                    # I found this NYC zipcode boundaries by googling
+                    # data=zipcodes_agg, # my dataset
+                    # columns=['ZIP', 'SALE PRICE'], # zip code is here for matching the geojson zipcode, sales price is the column that changes the color of zipcode areas
+                    # key_on='feature.properties.postalCode', # this path contains zipcodes in str type, this zipcodes should match with our ZIP CODE column
+                    fill_color='#D8E4F0', fill_opacity=0.5, line_opacity=0.3,
+                    legend_name='Rete Acquedotti' )
+    ##
+    # add a marker for every record in the filtered data, use a clustered view
+    for i, location in pointNotNull.iterrows():
+        # logging.info('Create Marker for (%s) %s',i,location)
+        point = geojson.loads( location['geometry'].replace( "'", '"' ) )
+        latitude = point['coordinates'][1]
+        longitude = point['coordinates'][0]
+        geocode = location['geocode']
+        alias = location['alias_city'] + '/' + location['alias_address']
+        folium.Marker( [latitude, longitude], popup=geocode, icon=folium.Icon( color='blue', icon='info-sign' ),
+                       tooltip=alias ).add_to( marker_cluster )
+
+    logging.info( 'Saving new maps...' )
+    map.save( output_file )
+
+    ##
+

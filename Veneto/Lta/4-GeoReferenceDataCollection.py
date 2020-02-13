@@ -4,10 +4,13 @@ import logging
 logging.basicConfig(level=logging.INFO)
 
 os.chdir('/Users/andrea/PycharmProjects/Acqua/Veneto/Lta')
-print(os.getcwd())
-#gc.apply('Definitions/GeoReferencingLocationList.csv','Definitions/GeoReferencedLocationsList.csv','none')
 
-gc.retry('Definitions/GeoReferencedLocationsList.csv')
+locationListFile = 'Definitions/GeoReferencingLocationList.csv'
+geoReferencedLocationsFile = 'Definitions/GeoReferencedLocationsList.csv'
+reteAquedottiFile = '../ReteAcquedotti/rete_acquedotti_veneto.geojson'
+mapFile = 'LTA.html'
 
-
-
+#gc.createGeoReferencedLocationsList(locationListFile,geoReferencedLocationsFile)
+#gc.findGeoName(geoReferencedLocationsFile)
+#gc.findCoordinates(geoReferencedLocationsFile)
+gc.createMapOnGeoReferencedDataCollection(geoReferencedLocationsFile,reteAquedottiFile,mapFile)

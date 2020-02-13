@@ -23,6 +23,7 @@ def addGeocodeData(label,location,geoReferencedLocationsFile):
         emptyDict = {}
         datiGeo_ = pd.read_csv(geoReferencedLocationsFile)
         datiGeo = datiGeo_.reindex(columns=['alias_city','alias_address','type','geocode','geometry']).copy()
+        #TODO: sollecare un'eccezzione se foundDatiGeo è null non
         foundDatiGeo = datiGeo[(datiGeo['alias_city']==location[0]) & (datiGeo['alias_address']==location[1])]
 
         #if len(foundDatiGeo) == 0: raise KeyError
