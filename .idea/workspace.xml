@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7f07049d-118d-41b2-902c-f0e231157e01" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AltoAdige/7-ReteAcquedotti.py" beforeDir="false" afterPath="$PROJECT_DIR$/AltoAdige/7-ReteAcquedotti.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FoliumClient.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Veneto/Ats/2-ReportCollectionda.py" beforeDir="false" afterPath="$PROJECT_DIR$/Veneto/Ats/2-ReportCollection.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Veneto/Ats/3-GeoReferenceDataCollection.py" beforeDir="false" afterPath="$PROJECT_DIR$/Veneto/Ats/3-GeoReferenceDataCollection.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Veneto/Ats/4-LabelsCreation.py" beforeDir="false" afterPath="$PROJECT_DIR$/Veneto/Ats/4-LabelsCreation.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Veneto/Ats/Definitions/FoundReportList.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/Veneto/Ats/Definitions/FoundReportList.pkl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Veneto/Ats/Definitions/GeoReferencedLocationsList.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Veneto/Ats/Definitions/GeoReferencedLocationsList.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Veneto/Ats/Definitions/LocationList.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Veneto/Ats/Definitions/LocationList.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Veneto/Lta/4-GeoReferenceDataCollection.py" beforeDir="false" afterPath="$PROJECT_DIR$/Veneto/Lta/4-GeoReferenceDataCollection.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/acqua/geoCode.py" beforeDir="false" afterPath="$PROJECT_DIR$/acqua/geoCode.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/acqua/label.py" beforeDir="false" afterPath="$PROJECT_DIR$/acqua/label.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
-    </list>
+    <list default="true" id="7f07049d-118d-41b2-902c-f0e231157e01" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -422,7 +408,14 @@
       <option name="project" value="LOCAL" />
       <updated>1581554930534</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Merge remote-tracking branch 'github/master'&#10;&#10;# Conflicts:&#10;#&#9;AltoAdige/7-ReteAcquedotti.py">
+      <created>1581636418553</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1581636418553</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -471,7 +464,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Baseline" />
     <MESSAGE value="ReteAcquedotti" />
-    <option name="LAST_COMMIT_MESSAGE" value="ReteAcquedotti" />
+    <MESSAGE value="Merge remote-tracking branch 'github/master'&#10;&#10;# Conflicts:&#10;#&#9;AltoAdige/7-ReteAcquedotti.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'github/master'&#10;&#10;# Conflicts:&#10;#&#9;AltoAdige/7-ReteAcquedotti.py" />
   </component>
   <component name="WindowStateProjectService">
     <state x="677" y="160" key="#4-LabelsCreating" timestamp="1579214315789">
@@ -524,10 +518,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="712" y="403" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1080@0.0.1920.1080" timestamp="1581117411236" />
-    <state x="403" y="0" key="CommitChangelistDialog2" timestamp="1581636393191">
+    <state x="403" y="0" key="CommitChangelistDialog2" timestamp="1581636418328">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="403" y="0" key="CommitChangelistDialog2/0.0.1280.800@0.0.1280.800" timestamp="1581636393191" />
+    <state x="403" y="0" key="CommitChangelistDialog2/0.0.1280.800@0.0.1280.800" timestamp="1581636418328" />
     <state x="605" y="144" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1581554928019" />
     <state x="605" y="157" key="CommitChangelistDialog2/0.23.1920.1008@0.23.1920.1008" timestamp="1578958992036" />
     <state x="100" y="107" width="1720" height="866" key="DiffContextDialog" timestamp="1580260742284">
