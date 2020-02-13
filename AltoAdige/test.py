@@ -2,7 +2,7 @@ import os,logging,pandas as pd
 os.chdir('/Users/andrea/PycharmProjects/Acqua/AltoAdige' )
 logging.basicConfig(level=logging.INFO)
 
-xls_file = '03__Internet-tabella_2018-2017-2016-.xlsx'
+xls_file = 'DataSource/03__Internet-tabella_2018-2017-2016-.xlsx'
 xl = pd.read_excel(xls_file, index_col=0)
 xl.reset_index(inplace=True)
 xl.dropna(axis=0,subset=['Comune / Gemeinde'],inplace=True)

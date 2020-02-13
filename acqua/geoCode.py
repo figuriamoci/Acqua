@@ -193,3 +193,27 @@ def createGeoReferencedLocationsList(locationListFile,geoReferencedLocationsList
     df.to_csv(geoReferencedLocationsListFile,index=False)
     logging.info('GeoReferencedLocationsListFile created!')
     return len(df)
+
+
+def findCoordinates(geoReferencedLocationsListFile):
+
+    logging.info('Load locationList File...waiting')
+    df = pd.read_csv(geoReferencedLocationsListFile)
+
+    #Istantiate Nominatim
+    geolocator = Nominatim(user_agent="water")
+    geocode = RateLimiter(geolocator.geocode, min_delay_seconds=1)
+
+    dfPoint_ = df.copy()
+    dfPoint = dfPoint_[dfPoint_['geometry'].isnull() & dfPoint_['geocode'].notnull()]
+    dfAltro = dfPoint_[-(dfPoint_['geometry'].isnull() & dfPoint_['geocode'].notnull())]
+
+    dfPoint['geometry'] = dfPoint['geocode'].apply( geocode ).apply(geoJson)
+
+    df = pd.concat([dfPoint,dfAltro],sort=True)
+    df.to_csv(geoReferencedLocationsListFile, index=False)
+
+    n = df[df['geocode'].isnull()]
+    logging.info('Not found %s geocode of %s.',len(n),len(df))
+
+    return len(df)
