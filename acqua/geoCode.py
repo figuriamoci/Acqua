@@ -257,4 +257,9 @@ def createMapOnGeoReferencedDataCollection(geoReferencedLocationsFile,reteAcqued
     map.save( output_file )
 
     ##
+def getGeoName(coordinates):
+    geolocator = Nominatim( user_agent="water" )
+    string = str(coordinates[0])+", "+str(coordinates[1])
+    location = geolocator.reverse(string)
+    return location.address
 

@@ -1,10 +1,12 @@
-# Location di interesse per i parametri dell'acqua
+#Location di interesse per i parametri dell'acqua
 #targetLocation = 'Isola Morosini Via due fiumi'
-targetLocation = "Valdobbiadene San Pietro "
+##
+targetLocation = "Pordenone"
 
 import folium,os,geojson as js,logging
 from geopy.geocoders import Nominatim
 import pymongo as py
+os.chdir('/Users/andrea/PycharmProjects/Acqua/WebApp' )
 geolocator = Nominatim(user_agent="Acqua")
 location = geolocator.geocode(targetLocation)
 location
@@ -25,52 +27,60 @@ db = conn.Acqua
 
 # Draw the maps, closer than i can
 m = folium.Map( location=[location.latitude, location.longitude], control_scale=True )
-# Draw the point for targetLocation
-popup = location.address
-marker = folium.Marker( [location.latitude, location.longitude], popup=popup,
-                        icon=folium.Icon( color='red', icon='info-sign' ) )
-m.add_child( marker )
-# done.
 
 # Find the Water supply network target
-searcingString = {"geometry": {
-    "$geoIntersects": {"$geometry": {"type": "Point", "coordinates": [location.longitude, location.latitude]}}}}
+searcingString = {"geometry": {"$geoIntersects": {"$geometry": {"type": "Point", "coordinates": [location.longitude, location.latitude]}}}}
 listAcquedotti = list( db.rete_acuquedotti.find( searcingString ) )
 try:
     rete_acquedotto = listAcquedotti[0]
-    rete_acquedotto['geometry']
+    #rete_acquedotto['geometry']
 except:
-    print( "Water supply network not found for target location!" )
+    logging.critical( "Water supply network not found for target location!" )
+
 
 # Searcing for labels within Water supply network target
 searcingString = {"geometry": {"$geoWithin": {"$geometry": rete_acquedotto['geometry']}}}
 listEtichette = list( db.etichette.find( searcingString ) )
 closerLabel = listEtichette[0]
 
+
 # Convert dict to geoJSON for rete_acquedotto
-ra = {"type": rete_acquedotto["type"], "geometry": rete_acquedotto["geometry"],
-      "properties": rete_acquedotto["properties"]}
+ra = {"type": rete_acquedotto["type"], "geometry": rete_acquedotto["geometry"], "properties": rete_acquedotto["properties"]}
 # popup = rete_acquedotto["properties"]['name']
 
 gj = folium.GeoJson( data=ra )
-gj.add_child( folium.Popup( popup ) )
+#gj.add_child( folium.Popup( popup ) )
 gj.add_to( m )
 
+##
 # Draw reference geometry
-i = 0
+i = -1
 for label in listEtichette:
-    i += 1
-    gjson = {"type": label["type"], "geometry": label["geometry"], "properties": label["properties"]}
-    popup = '<table align="left">'
+    i+=1
+    # label = listEtichette[0]
+    latitude = label['geometry']['coordinates'][1]
+    longitude =  label['geometry']['coordinates'][0]
+    #tooltip
+    popup = '<table>'
     l = label["properties"]
     for k, v in l.items():
         popup += "<tr><td>" + k + "</td><td>" + v + "<td></tr>"
     popup += "</table>"
-    if i == 1: firstPopup = popup
-    gj = folium.GeoJson( data=gjson )
-    gj.add_child( folium.Popup( 'Hello world' ) )
-    # print(l['reference'],l['gestore'])
-    gj.add_to( m )
-    
-# Display map!
+
+    if i==0:
+        marker = folium.Marker( [latitude, longitude], popup=popup,icon=folium.Icon( color='blue', icon='info-sign' ) )
+        firstPopUp = popup
+    else:
+        marker = folium.Marker( [latitude, longitude], popup=popup )
+
+    m.add_child( marker )
+
+# Draw the point for targetLocation
+tooltip = location.address
+marker = folium.Marker( [location.latitude, location.longitude],popup=firstPopUp,icon=folium.Icon( color='red', icon='home',tooltip=tooltip ) )
+m.add_child( marker )
+# done.
+
 m.save('index.html')
+##
+
