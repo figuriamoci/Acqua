@@ -1,7 +1,7 @@
 #Location di interesse per i parametri dell'acqua
 #targetLocation = 'Isola Morosini Via due fiumi'
 ##
-targetLocation = "Pordenone"
+targetLocation = "IT MI001 0011, Piazza Leonardo da Vinci, Città Studi, Milano, Lombardia, 20131, Italia"
 
 import folium,os,geojson as js,logging
 from geopy.geocoders import Nominatim
@@ -9,8 +9,8 @@ import pymongo as py
 os.chdir('/Users/andrea/PycharmProjects/Acqua/WebApp' )
 geolocator = Nominatim(user_agent="Acqua")
 location = geolocator.geocode(targetLocation)
-location
-
+print(location)
+##
 # Convert Geopy to GeoJSON model for targetLocation
 import geojson
 from geojson import Feature, Point
@@ -37,11 +37,13 @@ try:
 except:
     logging.critical( "Water supply network not found for target location!" )
 
-
-# Searcing for labels within Water supply network target
-searcingString = {"geometry": {"$geoWithin": {"$geometry": rete_acquedotto['geometry']}}}
-listEtichette = list( db.etichette.find( searcingString ) )
-closerLabel = listEtichette[0]
+try:
+    # Searcing for labels within Water supply network target
+    searcingString = {"geometry": {"$geoWithin": {"$geometry": rete_acquedotto['geometry']}}}
+    listEtichette = list( db.etichette.find( searcingString ) )
+    closerLabel = listEtichette[0]
+except:
+    logging.critical( "Label not found!" )
 
 
 # Convert dict to geoJSON for rete_acquedotto
@@ -54,10 +56,7 @@ gj.add_to( m )
 
 ##
 # Draw reference geometry
-i = -1
-for label in listEtichette:
-    i+=1
-    # label = listEtichette[0]
+for i,label in enumerate(listEtichette):
     latitude = label['geometry']['coordinates'][1]
     longitude =  label['geometry']['coordinates'][0]
     #tooltip
@@ -76,11 +75,15 @@ for label in listEtichette:
     m.add_child( marker )
 
 # Draw the point for targetLocation
+if len(listEtichette)==0:
+    firstPopUp = "Non è stata trovata l'eticehtta dell'acqua."
+    colorIcon = 'red'
+else:
+    colorIcon = 'green'
+
 tooltip = location.address
-marker = folium.Marker( [location.latitude, location.longitude],popup=firstPopUp,icon=folium.Icon( color='red', icon='home',tooltip=tooltip ) )
+marker = folium.Marker( [location.latitude, location.longitude],popup=firstPopUp,icon=folium.Icon( color=colorIcon, icon='home',tooltip=tooltip ) )
 m.add_child( marker )
 # done.
-
 m.save('index.html')
-##
 

@@ -1,6 +1,7 @@
 ##
 import pandas as pd, datetime, os, logging
 os.chdir( '/Users/andrea/PycharmProjects/Acqua/Lombardia/Milano' )
+logging.basicConfig( level=logging.INFO )
 
 def getParameters(address):
 
@@ -12,7 +13,6 @@ def getParameters(address):
     from selenium.webdriver.support import expected_conditions as EC
     from selenium.webdriver.common.keys import Keys
     #%%
-    logging.basicConfig(level=logging.INFO)
     options = webdriver.ChromeOptions()
     options.add_argument('--ignore-certificate-errors')
     options.add_argument('--incognito')
@@ -27,7 +27,7 @@ def getParameters(address):
     input.clear()
     input.send_keys(address)
     input.send_keys(Keys.ENTER)
-    logging.info('Address: %s',address)
+    logging.info('Access web for %s',address)
     #%%
     listaVie_ = WebDriverWait(driver, 10).until(EC.visibility_of(driver.find_element_by_id("lista-vie")))
 
@@ -45,21 +45,24 @@ def getParameters(address):
     soup = BeautifulSoup( driver.page_source, 'html.parser' )
     htmlTable = soup.find("div", { "id" : "lista-results" }).find("table")
     df = pd.read_html(str(htmlTable),decimal=',',thousands='.')[0]
+
+    item = soup.select( "html body.page.page-id-5.page-child.parent-pageid-250.page-template.page-template-acqua_page.page-template-acqua_page-php.custom-background div.wrapper div.article div.content-article p strong" )
+    data_report = item[0].get_text()
     driver.close()
-    return df
+
+    return {'data_report':data_report, 'parameters':df[['Parametro','Campione']]}
 ##
 locationList = pd.read_csv('Definitions/LocationList.csv')
 foundReportList = {}
-i=0
-for address in locationList['alias_address']:
-    logging.info("Extract for %s",address)
-    i=i+1
-    logging.info("Extract for %s (%s)",address,i)
+alias_city = 'Milano'
+
+for i,alias_address in enumerate(locationList['alias_address']):
+    logging.info('Extract parameters for %s of %s...',i,len(locationList['alias_address']))
     try:
-        report = {address:getParameters(address)}
+        report = {(alias_city,alias_address):getParameters(alias_address)}
         foundReportList.update( report )
     except:
-        logging.critical('Skip %s',address)
+        logging.critical('Skip %s',alias_address)
 
 import pickle
 f = open("Definitions/FoundReportList.pkl","wb")

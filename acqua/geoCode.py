@@ -239,7 +239,7 @@ def createMapOnGeoReferencedDataCollection(geoReferencedLocationsFile,reteAcqued
                     # data=zipcodes_agg, # my dataset
                     # columns=['ZIP', 'SALE PRICE'], # zip code is here for matching the geojson zipcode, sales price is the column that changes the color of zipcode areas
                     # key_on='feature.properties.postalCode', # this path contains zipcodes in str type, this zipcodes should match with our ZIP CODE column
-                    fill_color='#D8E4F0', fill_opacity=0.5, line_opacity=0.3,
+                    fill_color='#D8E4F0', fill_opacity=0.5, line_opacity=0.9,
                     legend_name='Rete Acquedotti' )
     ##
     # add a marker for every record in the filtered data, use a clustered view

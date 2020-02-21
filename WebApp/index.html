@@ -23,7 +23,7 @@
             <meta name="viewport" content="width=device-width,
                 initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
             <style>
-                #map_236bf16b9a7443319971a519eb3c4651 {
+                #map_41464ec46f1f495f85c7df60befd021d {
                     position: relative;
                     width: 100.0%;
                     height: 100.0%;
@@ -35,115 +35,115 @@
 </head>
 <body>    
     
-            <div class="folium-map" id="map_236bf16b9a7443319971a519eb3c4651" ></div>
+            <div class="folium-map" id="map_41464ec46f1f495f85c7df60befd021d" ></div>
         
 </body>
 <script>    
     
-            var map_236bf16b9a7443319971a519eb3c4651 = L.map(
-                "map_236bf16b9a7443319971a519eb3c4651",
+            var map_41464ec46f1f495f85c7df60befd021d = L.map(
+                "map_41464ec46f1f495f85c7df60befd021d",
                 {
-                    center: [45.9562503, 12.6597197],
+                    center: [45.4791909, 9.2263127],
                     crs: L.CRS.EPSG3857,
                     zoom: 10,
                     zoomControl: true,
                     preferCanvas: false,
                 }
             );
-            L.control.scale().addTo(map_236bf16b9a7443319971a519eb3c4651);
+            L.control.scale().addTo(map_41464ec46f1f495f85c7df60befd021d);
 
             
 
         
     
-            var tile_layer_542f9e54ffa64803b9ab86eab55099f0 = L.tileLayer(
+            var tile_layer_fcd44c8d8b304494a5e62e0e2a7dee86 = L.tileLayer(
                 "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
                 {"attribution": "Data by \u0026copy; \u003ca href=\"http://openstreetmap.org\"\u003eOpenStreetMap\u003c/a\u003e, under \u003ca href=\"http://www.openstreetmap.org/copyright\"\u003eODbL\u003c/a\u003e.", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
-            ).addTo(map_236bf16b9a7443319971a519eb3c4651);
+            ).addTo(map_41464ec46f1f495f85c7df60befd021d);
         
     
-        function geo_json_b232ff88ff524ed58b2632c0e25553ab_onEachFeature(feature, layer) {
+        function geo_json_3aa67da116a34951a219434ec6421a3c_onEachFeature(feature, layer) {
             layer.on({
                 click: function(e) {
-                    map_236bf16b9a7443319971a519eb3c4651.fitBounds(e.target.getBounds());
+                    map_41464ec46f1f495f85c7df60befd021d.fitBounds(e.target.getBounds());
                 }
             });
         };
-        var geo_json_b232ff88ff524ed58b2632c0e25553ab = L.geoJson(null, {
-                onEachFeature: geo_json_b232ff88ff524ed58b2632c0e25553ab_onEachFeature,
+        var geo_json_3aa67da116a34951a219434ec6421a3c = L.geoJson(null, {
+                onEachFeature: geo_json_3aa67da116a34951a219434ec6421a3c_onEachFeature,
             
         });
-        function geo_json_b232ff88ff524ed58b2632c0e25553ab_add (data) {
-            geo_json_b232ff88ff524ed58b2632c0e25553ab.addData(data)
-                .addTo(map_236bf16b9a7443319971a519eb3c4651);
+        function geo_json_3aa67da116a34951a219434ec6421a3c_add (data) {
+            geo_json_3aa67da116a34951a219434ec6421a3c.addData(data)
+                .addTo(map_41464ec46f1f495f85c7df60befd021d);
         }
-            geo_json_b232ff88ff524ed58b2632c0e25553ab_add({"geometry": {"coordinates": [[[12.622944, 45.985262, 0], [12.624028, 45.981358, 0], [12.628691, 45.965588, 0], [12.628909, 45.96496, 0], [12.630165, 45.962468, 0], [12.631, 45.961028, 0], [12.631255, 45.960826, 0], [12.633141, 45.960505, 0], [12.634408, 45.959848, 0], [12.639447, 45.95633, 0], [12.643738, 45.952544, 0], [12.644068, 45.950968, 0], [12.643503, 45.93828, 0], [12.643303, 45.937845, 0], [12.640475, 45.934898, 0], [12.637181, 45.933765, 0], [12.631509, 45.931858, 0], [12.627952, 45.931485, 0], [12.627254, 45.931507, 0], [12.626635, 45.931216, 0], [12.624075, 45.929839, 0], [12.623776, 45.929313, 0], [12.620464, 45.921394, 0], [12.620384, 45.921158, 0], [12.620301, 45.920679, 0], [12.620355, 45.92034, 0], [12.620924, 45.918468, 0], [12.621049, 45.918266, 0], [12.621291, 45.918028, 0], [12.622473, 45.916956, 0], [12.622818, 45.91582, 0], [12.623324, 45.913328, 0], [12.621128, 45.910095, 0], [12.61808, 45.90687, 0], [12.617625, 45.906673, 0], [12.615173, 45.906134, 0], [12.613163, 45.905797, 0], [12.611495, 45.905904, 0], [12.612209, 45.904905, 0], [12.612989, 45.903831, 0], [12.614328, 45.903276, 0], [12.614684, 45.903136, 0], [12.614816, 45.903085, 0], [12.615705, 45.902746, 0], [12.616968, 45.902436, 0], [12.620837, 45.904213, 0], [12.624596, 45.905862, 0], [12.625821, 45.905873, 0], [12.628153, 45.904984, 0], [12.629405, 45.904958, 0], [12.629868, 45.905022, 0], [12.63143, 45.90524, 0], [12.633058, 45.906066, 0], [12.663855, 45.922147, 0], [12.663503, 45.922869, 0], [12.665223, 45.924578, 0], [12.666461, 45.925511, 0], [12.666966, 45.92582, 0], [12.667906, 45.926396, 0], [12.682231, 45.93052, 0], [12.685128, 45.930346, 0], [12.685151, 45.930326, 0], [12.686507, 45.929158, 0], [12.686911, 45.928736, 0], [12.699157, 45.934834, 0], [12.699773, 45.938634, 0], [12.697779, 45.940072, 0], [12.696492, 45.940631, 0], [12.694376, 45.941568, 0], [12.694719, 45.94198, 0], [12.695679, 45.942773, 0], [12.696634, 45.94343, 0], [12.699739, 45.944792, 0], [12.698949, 45.945161, 0], [12.698756, 45.94525, 0], [12.697319, 45.94592, 0], [12.697108, 45.946018, 0], [12.697283, 45.946253, 0], [12.697413, 45.946411, 0], [12.698556, 45.9478, 0], [12.699979, 45.948593, 0], [12.700486, 45.948876, 0], [12.70137, 45.949352, 0], [12.701027, 45.954196, 0], [12.700604, 45.956321, 0], [12.70054, 45.95655, 0], [12.700243, 45.957575, 0], [12.700187, 45.957672, 0], [12.69736, 45.962051, 0], [12.695528, 45.964807, 0], [12.687797, 45.968509, 0], [12.680031, 45.976739, 0], [12.677782, 45.97934, 0], [12.674274, 45.983247, 0], [12.667962, 45.9895, 0], [12.66243, 45.991333, 0], [12.65735, 45.994356, 0], [12.656334, 45.989651, 0], [12.654803, 45.986996, 0], [12.645879, 45.98608, 0], [12.644017, 45.985911, 0], [12.643563, 45.985869, 0], [12.64342, 45.985856, 0], [12.64339, 45.985976, 0], [12.643182, 45.986801, 0], [12.643044, 45.987413, 0], [12.642992, 45.987934, 0], [12.643002, 45.988365, 0], [12.643013, 45.988771, 0], [12.643051, 45.989879, 0], [12.643633, 45.990604, 0], [12.643835, 45.990856, 0], [12.644856, 45.997341, 0], [12.644869, 45.997465, 0], [12.644873, 45.997494, 0], [12.644917, 45.997905, 0], [12.645182, 46.00178, 0], [12.642692, 46.002105, 0], [12.641887, 46.002204, 0], [12.626474, 46.003275, 0], [12.622944, 45.985262, 0]]], "type": "Polygon"}, "properties": {"name": "PORDENONE", "regione": "Friuli Venezia Giulia"}, "type": "Feature"});
+            geo_json_3aa67da116a34951a219434ec6421a3c_add({"geometry": {"coordinates": [[[[9.234405, 45.468949], [9.23407, 45.468799], [9.232639, 45.468194], [9.232433, 45.468104], [9.231802, 45.468105], [9.231279, 45.468111], [9.23119, 45.468111], [9.230115, 45.468117], [9.229413, 45.468107], [9.228312, 45.468114], [9.228186, 45.468113], [9.227434, 45.46811], [9.227105, 45.468107], [9.226656, 45.468101], [9.224887, 45.468085], [9.223804, 45.468054], [9.223806, 45.468745], [9.223799, 45.468886], [9.22376, 45.470886], [9.223751, 45.471349], [9.22375, 45.472564], [9.223735, 45.472811], [9.22374, 45.473404], [9.223733, 45.473879], [9.22374, 45.474203], [9.223738, 45.475098], [9.22373, 45.475673], [9.223702, 45.47609], [9.223683, 45.47663], [9.223676, 45.477683], [9.223677, 45.477946], [9.223679, 45.478528], [9.223689, 45.479731], [9.223672, 45.480306], [9.223633, 45.480827], [9.223607, 45.482103], [9.223599, 45.483247], [9.223581, 45.484233], [9.223562, 45.486032], [9.224651, 45.486034], [9.225399, 45.486037], [9.226435, 45.48605], [9.226788, 45.486047], [9.227219, 45.486047], [9.227928, 45.48605], [9.228847, 45.486064], [9.229861, 45.486081], [9.231451, 45.486088], [9.231609, 45.486092], [9.231891, 45.486096], [9.233484, 45.486119], [9.234484, 45.486121], [9.234735, 45.48612], [9.236309, 45.486134], [9.236739, 45.485565], [9.237269, 45.484985], [9.237656, 45.484386], [9.237895, 45.484008], [9.238074, 45.483564], [9.238449, 45.482075], [9.238628, 45.478789], [9.238542, 45.477316], [9.238413, 45.476524], [9.238301, 45.475782], [9.238215, 45.474552], [9.238164, 45.473594], [9.238146, 45.47332], [9.238085, 45.471885], [9.23802, 45.470947], [9.237965, 45.469705], [9.23671, 45.469662], [9.23609, 45.469551], [9.235069, 45.469183], [9.234405, 45.468949]]]], "type": "MultiPolygon"}, "properties": {"comune": "Milano", "name": "CITTA\u0027 STUDI", "regione": "Lombardia"}, "type": "Feature"});
         
     
-            var marker_fe0a25beb4d643689e0bcf819f6ebe1c = L.marker(
-                [45.953953, 12.675663],
+            var marker_995fb2c7bb1f4faa8e99f8cc68cb8bf0 = L.marker(
+                [45.473297, 9.226792],
                 {}
-            ).addTo(map_236bf16b9a7443319971a519eb3c4651);
+            ).addTo(map_41464ec46f1f495f85c7df60befd021d);
         
     
-            var icon_b7443bfc74a744d594f21c0bce0afb5c = L.AwesomeMarkers.icon(
+            var icon_f124320e4c164a87b4576812ddda37b9 = L.AwesomeMarkers.icon(
                 {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
             );
-            marker_fe0a25beb4d643689e0bcf819f6ebe1c.setIcon(icon_b7443bfc74a744d594f21c0bce0afb5c);
+            marker_995fb2c7bb1f4faa8e99f8cc68cb8bf0.setIcon(icon_f124320e4c164a87b4576812ddda37b9);
         
     
-        var popup_2e5fb8a967014061af1251997b2c1439 = L.popup({"maxWidth": "100%"});
+        var popup_c50c375db2f848c7b44e79e7c69dc185 = L.popup({"maxWidth": "100%"});
 
         
-            var html_983a52a88e8a4860a2c7b9a76dc38954 = $(`<div id="html_983a52a88e8a4860a2c7b9a76dc38954" style="width: 100.0%; height: 100.0%;"><table><tr><td>geoname</td><td>Via Canaletto, Villanova, Borgo Meduna, Pordenone, UTI del Noncello, Friuli Venezia Giulia, 33170, Italia<td></tr><tr><td>gestore</td><td>HYDROGEA SPA<td></tr><tr><td>web</td><td>http://www.hydrogea-pn.it<td></tr><tr><td>report</td><td>https://www.hydrogea-pn.it/#/menu/informazioni/acqua<td></tr><tr><td>data</td><td>30/02/2019<td></tr><tr><td>reference</td><td>Pordenone, Canaletto<td></tr><tr><td>timestamp</td><td>30/01/2020, 01:13<td></tr><tr><td>ph</td><td>7,50 unità pH<td></tr><tr><td>residuo_fisso</td><td>234,0 mg/l<td></tr><tr><td>durezza</td><td>21,0 °F<td></tr><tr><td>conducibilita</td><td>296 µS/cm<td></tr><tr><td>calcio</td><td>47,0 mg/l<td></tr><tr><td>magnesio</td><td>22,2 mg/l Mg<td></tr><tr><td>ammoniaca</td><td><0.05 mg/L<td></tr><tr><td>cloruro</td><td>1,49 mg/l Cl<td></tr><tr><td>solfato</td><td>10,2 mg/l SO4<td></tr><tr><td>potassio</td><td><1 mg/l K<td></tr><tr><td>sodio</td><td>2,25 mg/l<td></tr><tr><td>arsenico</td><td><1 µg/L<td></tr><tr><td>bicarbonato</td><td>198,0 mg/L<td></tr><tr><td>cloro_residuo</td><td>0,09 mg/l<td></tr><tr><td>fluoruri</td><td><0.10 mg/L<td></tr><tr><td>nitrato</td><td>4,77 mg/l<td></tr><tr><td>nitrito</td><td><0,05 mg/l<td></tr><tr><td>manganese</td><td><5 µg/L<td></tr><tr><td>marker-color</td><td>#9925c9<td></tr><tr><td>marker-size</td><td>small<td></tr></table></div>`)[0];
-            popup_2e5fb8a967014061af1251997b2c1439.setContent(html_983a52a88e8a4860a2c7b9a76dc38954);
+            var html_5001e16346f240449cfd55ca268b2be3 = $(`<div id="html_5001e16346f240449cfd55ca268b2be3" style="width: 100.0%; height: 100.0%;"><table><tr><td>geoname</td><td>Piazza Giuseppe "Beppo" Occhialini, Città Studi, Milano, Lombardia, 20133, Italia<td></tr><tr><td>gestore</td><td>MM S.P.A.<td></tr><tr><td>web</td><td>http://www.mmspa.eu<td></tr><tr><td>report</td><td>https://www.milanoblu.com/la-tua-acqua/controlla-le-analisi/<td></tr><tr><td>data</td><td> quarto trimestre 2019.<td></tr><tr><td>reference</td><td>Milano, piazza occhialini giuseppe<td></tr><tr><td>timestamp</td><td>21/02/2020, 01:22<td></tr><tr><td>residuo_fisso</td><td>391 mg/l<td></tr><tr><td>durezza</td><td>31 °F<td></tr><tr><td>ph</td><td>7.6 unità pH<td></tr><tr><td>calcio</td><td>85 mg/l<td></tr><tr><td>sodio</td><td>19 mg/l<td></tr><tr><td>magnesio</td><td>19.3 mg/l Mg<td></tr><tr><td>potassio</td><td>2 mg/l K<td></tr><tr><td>solfato</td><td>55 mg/l SO4<td></tr><tr><td>nitrato</td><td>30 mg/l<td></tr><tr><td>nitrito</td><td><0,20 mg/l<td></tr><tr><td>cloruro</td><td>34 mg/l Cl<td></tr><tr><td>conducibilita</td><td>602 µS/cm<td></tr><tr><td>fluoruri</td><td><0,5 mg/L<td></tr><tr><td>ammoniaca</td><td><0,10 mg/L<td></tr><tr><td>manganese</td><td><1 µg/L<td></tr><tr><td>arsenico</td><td><2 µg/L<td></tr><tr><td>bicarbonato</td><td>234 mg/L<td></tr><tr><td>cloro_residuo</td><td>0.01 mg/l<td></tr><tr><td>marker-color</td><td>#b5a4b0<td></tr><tr><td>marker-size</td><td>small<td></tr></table></div>`)[0];
+            popup_c50c375db2f848c7b44e79e7c69dc185.setContent(html_5001e16346f240449cfd55ca268b2be3);
         
 
-        marker_fe0a25beb4d643689e0bcf819f6ebe1c.bindPopup(popup_2e5fb8a967014061af1251997b2c1439)
+        marker_995fb2c7bb1f4faa8e99f8cc68cb8bf0.bindPopup(popup_c50c375db2f848c7b44e79e7c69dc185)
         ;
 
         
     
     
-            var marker_3f495789655849cc84e11653c53c3a83 = L.marker(
-                [45.975583, 12.657748],
+            var marker_ae4a927e0c9d4fc2adc0203e679ebee9 = L.marker(
+                [45.475788, 9.224184],
                 {}
-            ).addTo(map_236bf16b9a7443319971a519eb3c4651);
+            ).addTo(map_41464ec46f1f495f85c7df60befd021d);
         
     
-        var popup_7dd7f11dd977450baf17a14a782c74c0 = L.popup({"maxWidth": "100%"});
+        var popup_826be3a68a4f4d57b6128a6ee64a8c51 = L.popup({"maxWidth": "100%"});
 
         
-            var html_fdecee7738c64d3eb5eebaac11c537c4 = $(`<div id="html_fdecee7738c64d3eb5eebaac11c537c4" style="width: 100.0%; height: 100.0%;"><table><tr><td>geoname</td><td>Via San Daniele, San Giorgio, Torre, Pordenone, UTI del Noncello, Friuli Venezia Giulia, 33170, Italia<td></tr><tr><td>gestore</td><td>HYDROGEA SPA<td></tr><tr><td>web</td><td>http://www.hydrogea-pn.it<td></tr><tr><td>report</td><td>https://www.hydrogea-pn.it/#/menu/informazioni/acqua<td></tr><tr><td>data</td><td>30/02/2019<td></tr><tr><td>reference</td><td>Pordenone, Via San Daniele<td></tr><tr><td>timestamp</td><td>30/01/2020, 01:13<td></tr><tr><td>ph</td><td>7,20 unità pH<td></tr><tr><td>residuo_fisso</td><td>274,0 mg/l<td></tr><tr><td>durezza</td><td>24,0 °F<td></tr><tr><td>conducibilita</td><td>340 µS/cm<td></tr><tr><td>calcio</td><td>57,7 mg/l<td></tr><tr><td>magnesio</td><td>24,2 mg/l Mg<td></tr><tr><td>ammoniaca</td><td><0.05 mg/L<td></tr><tr><td>cloruro</td><td>2,45 mg/l Cl<td></tr><tr><td>solfato</td><td>10,4 mg/l SO4<td></tr><tr><td>potassio</td><td><1 mg/l K<td></tr><tr><td>sodio</td><td>1,89 mg/l<td></tr><tr><td>arsenico</td><td><1 µg/L<td></tr><tr><td>bicarbonato</td><td>232,0 mg/L<td></tr><tr><td>cloro_residuo</td><td>0.08 mg/l<td></tr><tr><td>fluoruri</td><td><0,10 mg/L<td></tr><tr><td>nitrato</td><td>9,6 mg/l<td></tr><tr><td>nitrito</td><td><0.05 mg/l<td></tr><tr><td>manganese</td><td><5 µg/L<td></tr><tr><td>marker-color</td><td>#9925c9<td></tr><tr><td>marker-size</td><td>small<td></tr></table></div>`)[0];
-            popup_7dd7f11dd977450baf17a14a782c74c0.setContent(html_fdecee7738c64d3eb5eebaac11c537c4);
+            var html_e56cf4f5bcfd46dfb74639f6c807a17f = $(`<div id="html_e56cf4f5bcfd46dfb74639f6c807a17f" style="width: 100.0%; height: 100.0%;"><table><tr><td>geoname</td><td>Il Barotto, Via Francesco Denti, Città Studi, Milano, Lombardia, 20100, Italia<td></tr><tr><td>gestore</td><td>MM S.P.A.<td></tr><tr><td>web</td><td>http://www.mmspa.eu<td></tr><tr><td>report</td><td>https://www.milanoblu.com/la-tua-acqua/controlla-le-analisi/<td></tr><tr><td>data</td><td> quarto trimestre 2019.<td></tr><tr><td>reference</td><td>Milano, via denti francesco<td></tr><tr><td>timestamp</td><td>21/02/2020, 01:22<td></tr><tr><td>residuo_fisso</td><td>391 mg/l<td></tr><tr><td>durezza</td><td>31 °F<td></tr><tr><td>ph</td><td>7.6 unità pH<td></tr><tr><td>calcio</td><td>85 mg/l<td></tr><tr><td>sodio</td><td>19 mg/l<td></tr><tr><td>magnesio</td><td>19.3 mg/l Mg<td></tr><tr><td>potassio</td><td>2 mg/l K<td></tr><tr><td>solfato</td><td>55 mg/l SO4<td></tr><tr><td>nitrato</td><td>30 mg/l<td></tr><tr><td>nitrito</td><td><0,20 mg/l<td></tr><tr><td>cloruro</td><td>34 mg/l Cl<td></tr><tr><td>conducibilita</td><td>602 µS/cm<td></tr><tr><td>fluoruri</td><td><0,5 mg/L<td></tr><tr><td>ammoniaca</td><td><0,10 mg/L<td></tr><tr><td>manganese</td><td><1 µg/L<td></tr><tr><td>arsenico</td><td><2 µg/L<td></tr><tr><td>bicarbonato</td><td>234 mg/L<td></tr><tr><td>cloro_residuo</td><td>0.01 mg/l<td></tr><tr><td>marker-color</td><td>#b5a4b0<td></tr><tr><td>marker-size</td><td>small<td></tr></table></div>`)[0];
+            popup_826be3a68a4f4d57b6128a6ee64a8c51.setContent(html_e56cf4f5bcfd46dfb74639f6c807a17f);
         
 
-        marker_3f495789655849cc84e11653c53c3a83.bindPopup(popup_7dd7f11dd977450baf17a14a782c74c0)
+        marker_ae4a927e0c9d4fc2adc0203e679ebee9.bindPopup(popup_826be3a68a4f4d57b6128a6ee64a8c51)
         ;
 
         
     
     
-            var marker_b33df7dd7a0846fd9f692a301fce22fb = L.marker(
-                [45.9562503, 12.6597197],
+            var marker_049a05040de84acaa4e4da10a7c75434 = L.marker(
+                [45.4791909, 9.2263127],
                 {}
-            ).addTo(map_236bf16b9a7443319971a519eb3c4651);
+            ).addTo(map_41464ec46f1f495f85c7df60befd021d);
         
     
-            var icon_8c72b2cadfdd49e786640945ef567432 = L.AwesomeMarkers.icon(
-                {"extraClasses": "fa-rotate-0", "icon": "home", "iconColor": "white", "markerColor": "red", "prefix": "glyphicon", "tooltip": "Pordenone, UTI del Noncello, Friuli Venezia Giulia, 33170, Italia"}
+            var icon_cd9e0bb8c98e40dea488ead20f3d63d1 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "home", "iconColor": "white", "markerColor": "green", "prefix": "glyphicon", "tooltip": "IT MI001 0011, Piazza Leonardo da Vinci, Citt\u00e0 Studi, Milano, Lombardia, 20131, Italia"}
             );
-            marker_b33df7dd7a0846fd9f692a301fce22fb.setIcon(icon_8c72b2cadfdd49e786640945ef567432);
+            marker_049a05040de84acaa4e4da10a7c75434.setIcon(icon_cd9e0bb8c98e40dea488ead20f3d63d1);
         
     
-        var popup_6286b69a4fb34fdeae08d757d8a6e38d = L.popup({"maxWidth": "100%"});
+        var popup_40659bb422aa44269e57c37f3e8fcb63 = L.popup({"maxWidth": "100%"});
 
         
-            var html_925b11d281e143629c32dbc32eeff78f = $(`<div id="html_925b11d281e143629c32dbc32eeff78f" style="width: 100.0%; height: 100.0%;"><table><tr><td>geoname</td><td>Via Canaletto, Villanova, Borgo Meduna, Pordenone, UTI del Noncello, Friuli Venezia Giulia, 33170, Italia<td></tr><tr><td>gestore</td><td>HYDROGEA SPA<td></tr><tr><td>web</td><td>http://www.hydrogea-pn.it<td></tr><tr><td>report</td><td>https://www.hydrogea-pn.it/#/menu/informazioni/acqua<td></tr><tr><td>data</td><td>30/02/2019<td></tr><tr><td>reference</td><td>Pordenone, Canaletto<td></tr><tr><td>timestamp</td><td>30/01/2020, 01:13<td></tr><tr><td>ph</td><td>7,50 unità pH<td></tr><tr><td>residuo_fisso</td><td>234,0 mg/l<td></tr><tr><td>durezza</td><td>21,0 °F<td></tr><tr><td>conducibilita</td><td>296 µS/cm<td></tr><tr><td>calcio</td><td>47,0 mg/l<td></tr><tr><td>magnesio</td><td>22,2 mg/l Mg<td></tr><tr><td>ammoniaca</td><td><0.05 mg/L<td></tr><tr><td>cloruro</td><td>1,49 mg/l Cl<td></tr><tr><td>solfato</td><td>10,2 mg/l SO4<td></tr><tr><td>potassio</td><td><1 mg/l K<td></tr><tr><td>sodio</td><td>2,25 mg/l<td></tr><tr><td>arsenico</td><td><1 µg/L<td></tr><tr><td>bicarbonato</td><td>198,0 mg/L<td></tr><tr><td>cloro_residuo</td><td>0,09 mg/l<td></tr><tr><td>fluoruri</td><td><0.10 mg/L<td></tr><tr><td>nitrato</td><td>4,77 mg/l<td></tr><tr><td>nitrito</td><td><0,05 mg/l<td></tr><tr><td>manganese</td><td><5 µg/L<td></tr><tr><td>marker-color</td><td>#9925c9<td></tr><tr><td>marker-size</td><td>small<td></tr></table></div>`)[0];
-            popup_6286b69a4fb34fdeae08d757d8a6e38d.setContent(html_925b11d281e143629c32dbc32eeff78f);
+            var html_cdde879e5c4e4603bd8648363238170d = $(`<div id="html_cdde879e5c4e4603bd8648363238170d" style="width: 100.0%; height: 100.0%;"><table><tr><td>geoname</td><td>Piazza Giuseppe "Beppo" Occhialini, Città Studi, Milano, Lombardia, 20133, Italia<td></tr><tr><td>gestore</td><td>MM S.P.A.<td></tr><tr><td>web</td><td>http://www.mmspa.eu<td></tr><tr><td>report</td><td>https://www.milanoblu.com/la-tua-acqua/controlla-le-analisi/<td></tr><tr><td>data</td><td> quarto trimestre 2019.<td></tr><tr><td>reference</td><td>Milano, piazza occhialini giuseppe<td></tr><tr><td>timestamp</td><td>21/02/2020, 01:22<td></tr><tr><td>residuo_fisso</td><td>391 mg/l<td></tr><tr><td>durezza</td><td>31 °F<td></tr><tr><td>ph</td><td>7.6 unità pH<td></tr><tr><td>calcio</td><td>85 mg/l<td></tr><tr><td>sodio</td><td>19 mg/l<td></tr><tr><td>magnesio</td><td>19.3 mg/l Mg<td></tr><tr><td>potassio</td><td>2 mg/l K<td></tr><tr><td>solfato</td><td>55 mg/l SO4<td></tr><tr><td>nitrato</td><td>30 mg/l<td></tr><tr><td>nitrito</td><td><0,20 mg/l<td></tr><tr><td>cloruro</td><td>34 mg/l Cl<td></tr><tr><td>conducibilita</td><td>602 µS/cm<td></tr><tr><td>fluoruri</td><td><0,5 mg/L<td></tr><tr><td>ammoniaca</td><td><0,10 mg/L<td></tr><tr><td>manganese</td><td><1 µg/L<td></tr><tr><td>arsenico</td><td><2 µg/L<td></tr><tr><td>bicarbonato</td><td>234 mg/L<td></tr><tr><td>cloro_residuo</td><td>0.01 mg/l<td></tr><tr><td>marker-color</td><td>#b5a4b0<td></tr><tr><td>marker-size</td><td>small<td></tr></table></div>`)[0];
+            popup_40659bb422aa44269e57c37f3e8fcb63.setContent(html_cdde879e5c4e4603bd8648363238170d);
         
 
-        marker_b33df7dd7a0846fd9f692a301fce22fb.bindPopup(popup_6286b69a4fb34fdeae08d757d8a6e38d)
+        marker_049a05040de84acaa4e4da10a7c75434.bindPopup(popup_40659bb422aa44269e57c37f3e8fcb63)
         ;
 
         

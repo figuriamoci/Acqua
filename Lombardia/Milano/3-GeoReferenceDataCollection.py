@@ -10,7 +10,7 @@ quartieriFile = 'Definitions/Quartieri_Milano.geojson'
 geoReferencedLocationsFile = 'Definitions/GeoReferencedLocationsList.csv'
 mapFile = 'MILANO.html'
 
-gc.createGeoReferencedLocationsList(locationListFile,geoReferencedLocationsFile)
+#gc.createGeoReferencedLocationsList(locationListFile,geoReferencedLocationsFile)
 gc.findGeoName(geoReferencedLocationsFile)
 gc.findCoordinates(geoReferencedLocationsFile)
 gc.createMapOnGeoReferencedDataCollection(geoReferencedLocationsFile,quartieriFile,mapFile)

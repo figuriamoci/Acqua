@@ -1,0 +1,135 @@
+alias_address,alias_city,geocode,geometry,georeferencingString,tyoe
+Territorio comunale,ABBIATEGRASSO,"Abbiategrasso, Milano, Lombardia, Italia","{'type': 'Point', 'coordinates': [8.9162299, 45.398733]}",ABBIATEGRASSO MI,POINT
+Territorio comunale,ALBAIRATE,"Albairate, Milano, Lombardia, 20081, Italia","{'type': 'Point', 'coordinates': [8.9381357, 45.4211259]}",ALBAIRATE MI,POINT
+Territorio comunale,ARCONATE,"Arconate, Milano, Lombardia, Italia","{'type': 'Point', 'coordinates': [8.8481616, 45.5406637]}",ARCONATE MI,POINT
+Territorio comunale,ARESE,"Arese, Milano, Lombardia, Italia","{'type': 'Point', 'coordinates': [9.0778949, 45.5490397]}",ARESE MI,POINT
+Territorio comunale,ARLUNO,"Arluno, Milano, Lombardia, 20010, Italia","{'type': 'Point', 'coordinates': [8.941541, 45.50507]}",ARLUNO MI,POINT
+Territorio comunale,ASSAGO,"Assago, Milano, Lombardia, Italia","{'type': 'Point', 'coordinates': [9.125647, 45.408869]}",ASSAGO MI,POINT
+Territorio comunale,BARANZATE,"Baranzate, Milano, Lombardia, Italia","{'type': 'Point', 'coordinates': [9.117601, 45.5272224]}",BARANZATE MI,POINT
+Territorio comunale,BAREGGIO,"Bareggio, Milano, Lombardia, Italia","{'type': 'Point', 'coordinates': [8.9959733, 45.4777256]}",BAREGGIO MI,POINT
+Territorio comunale,BASIANO,"Basiano, Unione Comuni Basiano Masate, Milano, Lombardia, Italia","{'type': 'Point', 'coordinates': [9.4678537, 45.5735877]}",BASIANO MI,POINT
+Territorio comunale,BASIGLIO,"Basiglio, Milano, Lombardia, Italia","{'type': 'Point', 'coordinates': [9.164589, 45.349152]}",BASIGLIO MI,POINT
+Territorio comunale,BELLINZAGO LOMBARDO,"Bellinzago Lombardo, Milano, Lombardia, Italia","{'type': 'Point', 'coordinates': [9.445951, 45.542075]}",BELLINZAGO LOMBARDO MI,POINT
+Territorio comunale,BERNATE TICINO,"Bernate Ticino, Milano, Lombardia, Italia","{'type': 'Point', 'coordinates': [8.8180386, 45.4793424]}",BERNATE TICINO MI,POINT
+Territorio comunale,BESATE,"Besate, Milano, Lombardia, Italia","{'type': 'Point', 'coordinates': [8.969645, 45.312965]}",BESATE MI,POINT
+Territorio comunale,BINASCO,"Binasco, Milano, Lombardia, Italia","{'type': 'Point', 'coordinates': [9.0999868, 45.3319695]}",BINASCO MI,POINT
+Territorio comunale,BOFFALORA SOPRA TICINO,"Boffalora sopra Ticino, Milano, Lombardia, Italia","{'type': 'Point', 'coordinates': [8.8306079, 45.4672778]}",BOFFALORA SOPRA TICINO MI,POINT
+Territorio comunale,BOLLATE,"Bollate, Milano, Lombardia, 20021, Italia","{'type': 'Point', 'coordinates': [9.1177075, 45.543835]}",BOLLATE MI,POINT
+Territorio comunale,BRESSO,"Bresso, Milano, Lombardia, 20091, Italia","{'type': 'Point', 'coordinates': [9.1877303, 45.53668]}",BRESSO MI,POINT
+Territorio comunale,BUBBIANO,"Bubbiano, Milano, Lombardia, Italia","{'type': 'Point', 'coordinates': [9.014546, 45.327266]}",BUBBIANO MI,POINT
+Territorio comunale,BUCCINASCO,"Buccinasco, Milano, Lombardia, Italia","{'type': 'Point', 'coordinates': [9.1097883, 45.4171504]}",BUCCINASCO MI,POINT
+Territorio comunale,BUSCATE,"Buscate, Milano, Lombardia, Italia","{'type': 'Point', 'coordinates': [8.8129426, 45.5449159]}",BUSCATE MI,POINT
+Territorio comunale,BUSSERO,"Bussero, Milano, Lombardia, Italia","{'type': 'Point', 'coordinates': [9.3720032, 45.5366764]}",BUSSERO MI,POINT
+Territorio comunale,BUSTO GAROLFO,"Busto Garolfo, Milano, Lombardia, 20020, Italia","{'type': 'Point', 'coordinates': [8.8832703, 45.5455579]}",BUSTO GAROLFO MI,POINT
+Territorio comunale,CALVIGNASCO,"Calvignasco, Milano, Lombardia, Italia","{'type': 'Point', 'coordinates': [9.027746, 45.325966]}",CALVIGNASCO MI,POINT
+Territorio comunale,CAMBIAGO,"Cambiago, Milano, Lombardia, 20400, Italia","{'type': 'Point', 'coordinates': [9.4268416, 45.5725439]}",CAMBIAGO MI,POINT
+Territorio comunale,CANEGRATE,"Canegrate, Milano, Lombardia, 20010, Italia","{'type': 'Point', 'coordinates': [8.9267921, 45.5705379]}",CANEGRATE MI,POINT
+Territorio comunale,CARPIANO,"Carpiano, Milano, Lombardia, Italia","{'type': 'Point', 'coordinates': [9.2727326, 45.3405722]}",CARPIANO MI,POINT
+Territorio comunale,CARUGATE,"Carugate, Milano, Lombardia, 20061, Italia","{'type': 'Point', 'coordinates': [9.343749, 45.549774]}",CARUGATE MI,POINT
+Territorio comunale,CASARILE,"Casarile, Milano, Lombardia, Italia","{'type': 'Point', 'coordinates': [9.1049027, 45.3178884]}",CASARILE MI,POINT
+Territorio comunale,CASOREZZO,"Casorezzo, Milano, Lombardia, 20010, Italia","{'type': 'Point', 'coordinates': [8.90154, 45.52437]}",CASOREZZO MI,POINT
+Territorio comunale,CASSANO D'ADDA,"Cassano d'Adda, Milano, Lombardia, Italia","{'type': 'Point', 'coordinates': [9.5214907, 45.5263333]}",CASSANO D'ADDA MI,POINT
+Territorio comunale,CASSINA DE' PECCHI,"Cassina de' Pecchi, Milano, Lombardia, 20060, Italia","{'type': 'Point', 'coordinates': [9.3644415, 45.5192465]}",CASSINA DE' PECCHI MI,POINT
+Territorio comunale,CASSINETTA DI LUGAGNANO,"Cassinetta di Lugagnano, Milano, Lombardia, Italia","{'type': 'Point', 'coordinates': [8.9083136, 45.4235759]}",CASSINETTA DI LUGAGNANO MI,POINT
+Territorio comunale,CASTANO PRIMO,"Castano Primo, Milano, Lombardia, 20022, Italia","{'type': 'Point', 'coordinates': [8.7769924, 45.5515936]}",CASTANO PRIMO MI,POINT
+Territorio comunale,CASTELLANZA,"Castellanza, A8, Legnarello, Oltresempione, Castellanza, Milano, Lombardia, 20027, Italia","{'type': 'Point', 'coordinates': [8.933301, 45.6081123]}",CASTELLANZA MI,POINT
+Territorio comunale,CERNUSCO SUL NAVIGLIO,"Cernusco sul Naviglio, Milano, Lombardia, Italia","{'type': 'Point', 'coordinates': [9.330925, 45.5245578]}",CERNUSCO SUL NAVIGLIO MI,POINT
+Territorio comunale,CERRO AL LAMBRO,"Cerro al Lambro, Milano, Lombardia, Italia","{'type': 'Point', 'coordinates': [9.339053, 45.329969]}",CERRO AL LAMBRO MI,POINT
+Territorio comunale,CERRO MAGGIORE,"Cerro Maggiore, Milano, Lombardia, 20023, Italia","{'type': 'Point', 'coordinates': [8.9513923, 45.5930123]}",CERRO MAGGIORE MI,POINT
+Territorio comunale,CESANO BOSCONE,"Cesano Boscone, Milano, Lombardia, Italia","{'type': 'Point', 'coordinates': [9.0940542, 45.4471117]}",CESANO BOSCONE MI,POINT
+Territorio comunale,CESATE,"Cesate, Milano, Lombardia, 20020, Italia","{'type': 'Point', 'coordinates': [9.0773084, 45.5964736]}",CESATE MI,POINT
+Territorio comunale,CINISELLO BALSAMO,"Cinisello Balsamo, Milano, Lombardia, 20092, Italia","{'type': 'Point', 'coordinates': [9.2140112, 45.5560579]}",CINISELLO BALSAMO MI,POINT
+Territorio comunale,CISLIANO,"Cisliano, Milano, Lombardia, Italia","{'type': 'Point', 'coordinates': [8.990243, 45.444669]}",CISLIANO MI,POINT
+Territorio comunale,COLOGNO MONZESE,"Cologno Monzese, Milano, Lombardia, 20093, Italia","{'type': 'Point', 'coordinates': [9.2782244, 45.528554]}",COLOGNO MONZESE MI,POINT
+Territorio comunale,COLTURANO,"Colturano, Milano, Lombardia, Italia","{'type': 'Point', 'coordinates': [9.337852, 45.37977]}",COLTURANO MI,POINT
+Territorio comunale,CORBETTA,"Corbetta, Milano, Lombardia, 20011, Italia","{'type': 'Point', 'coordinates': [8.9200896, 45.4659366]}",CORBETTA MI,POINT
+Territorio comunale,CORMANO,"Cormano, Milano, Lombardia, 20032, Italia","{'type': 'Point', 'coordinates': [9.1707469, 45.5440378]}",CORMANO MI,POINT
+Territorio comunale,CORNAREDO,"Cornaredo, Milano, Lombardia, Italia","{'type': 'Point', 'coordinates': [9.025746, 45.5016851]}",CORNAREDO MI,POINT
+Territorio comunale,CORSICO,"Corsico, Milano, Lombardia, 20094, Italia","{'type': 'Point', 'coordinates': [9.1094065, 45.4328675]}",CORSICO MI,POINT
+Territorio comunale,CUGGIONO,"Cuggiono, Milano, Lombardia, 20012, Italia","{'type': 'Point', 'coordinates': [8.8152655, 45.5062394]}",CUGGIONO MI,POINT
+Territorio comunale,CUSAGO,"Cusago, Milano, Lombardia, Italia","{'type': 'Point', 'coordinates': [9.0335277, 45.4462449]}",CUSAGO MI,POINT
+Territorio comunale,CUSANO MILANINO,"Cusano Milanino, Milano, Lombardia, 20095, Italia","{'type': 'Point', 'coordinates': [9.1822377, 45.5507568]}",CUSANO MILANINO MI,POINT
+Territorio comunale,DAIRAGO,"Dairago, Milano, Lombardia, Italia","{'type': 'Point', 'coordinates': [8.8631736, 45.565972]}",DAIRAGO MI,POINT
+Territorio comunale,DRESANO,"Dresano, Milano, Lombardia, Italia","{'type': 'Point', 'coordinates': [9.3606419, 45.3729705]}",DRESANO MI,POINT
+Territorio comunale,GAGGIANO,"Gaggiano, Milano, Lombardia, Italia","{'type': 'Point', 'coordinates': [9.0344178, 45.4064613]}",GAGGIANO MI,POINT
+Territorio comunale,GARBAGNATE MILANESE,"Garbagnate Milanese, Milano, Lombardia, 20024, Italia","{'type': 'Point', 'coordinates': [9.0800251, 45.5771451]}",GARBAGNATE MILANESE MI,POINT
+Territorio comunale,GESSATE,"Gessate, Milano, Lombardia, Italia","{'type': 'Point', 'coordinates': [9.4351918, 45.5543877]}",GESSATE MI,POINT
+Territorio comunale,GORGONZOLA,"Gorgonzola, Milano, Lombardia, Italia","{'type': 'Point', 'coordinates': [9.404651, 45.531574]}",GORGONZOLA MI,POINT
+Territorio comunale,GREZZAGO,"Grezzago, Milano, Lombardia, Italia","{'type': 'Point', 'coordinates': [9.4952028, 45.5918653]}",GREZZAGO MI,POINT
+Territorio comunale,GUDO VISCONTI,"Gudo Visconti, Milano, Lombardia, Italia","{'type': 'Point', 'coordinates': [8.998735, 45.3729213]}",GUDO VISCONTI MI,POINT
+Territorio comunale,INVERUNO,"Inveruno, Milano, Lombardia, Italia","{'type': 'Point', 'coordinates': [8.8519543, 45.5138305]}",INVERUNO MI,POINT
+Territorio comunale,INZAGO,"Inzago, Milano, Lombardia, 20065, Italia","{'type': 'Point', 'coordinates': [9.482052, 45.540475]}",INZAGO MI,POINT
+Territorio comunale,LACCHIARELLA,"Lacchiarella, Milano, Lombardia, 20084, Italia","{'type': 'Point', 'coordinates': [9.139049, 45.324267]}",LACCHIARELLA MI,POINT
+Territorio comunale,LAINATE,"Lainate, Milano, Lombardia, 20020, Italia","{'type': 'Point', 'coordinates': [9.028461, 45.5717302]}",LAINATE MI,POINT
+Territorio comunale,LEGNANO,"Legnano, Milano, Lombardia, 20025, Italia","{'type': 'Point', 'coordinates': [8.9107722, 45.5936148]}",LEGNANO MI,POINT
+Territorio comunale,LISCATE,"Liscate, Milano, Lombardia, Italia","{'type': 'Point', 'coordinates': [9.412552, 45.480473]}",LISCATE MI,POINT
+Territorio comunale,LOCATE DI TRIULZI,"Locate di Triulzi, Milano, Lombardia, 20085, Italia","{'type': 'Point', 'coordinates': [9.2261861, 45.3577584]}",LOCATE DI TRIULZI MI,POINT
+Territorio comunale,MAGENTA,"Magenta, Milano, Lombardia, 20013, Italia","{'type': 'Point', 'coordinates': [8.8838429, 45.4653931]}",MAGENTA MI,POINT
+Territorio comunale,MAGNAGO,"Magnago, Milano, Lombardia, Italia","{'type': 'Point', 'coordinates': [8.8018508, 45.5787312]}",MAGNAGO MI,POINT
+Territorio comunale,MARCALLO CON CASONE,"Marcallo con Casone, Milano, Lombardia, Italia","{'type': 'Point', 'coordinates': [8.87327605576723, 45.4872199]}",MARCALLO CON CASONE MI,POINT
+Territorio comunale,MASATE,"Masate, Unione Comuni Basiano Masate, Milano, Lombardia, Italia","{'type': 'Point', 'coordinates': [9.464151, 45.567076]}",MASATE MI,POINT
+Territorio comunale,MEDIGLIA,"Mediglia, Milano, Lombardia, Italia","{'type': 'Point', 'coordinates': [9.331652, 45.39537]}",MEDIGLIA MI,POINT
+Territorio comunale,MELEGNANO,"Melegnano, Milano, Lombardia, 20077, Italia","{'type': 'Point', 'coordinates': [9.3192801, 45.3563564]}",MELEGNANO MI,POINT
+Territorio comunale,MELZO,"Melzo, Milano, Lombardia, 20066, Italia","{'type': 'Point', 'coordinates': [9.4214886, 45.5023411]}",MELZO MI,POINT
+Territorio comunale,MESERO,"Mesero, Milano, Lombardia, Italia","{'type': 'Point', 'coordinates': [8.8542025, 45.501314]}",MESERO MI,POINT
+Territorio comunale,MORIMONDO,"Morimondo, Milano, Lombardia, Italia","{'type': 'Point', 'coordinates': [8.9548111, 45.3524418]}",MORIMONDO MI,POINT
+Territorio comunale,MOTTA VISCONTI,"Motta Visconti, Milano, Lombardia, 20086, Italia","{'type': 'Point', 'coordinates': [8.9924871, 45.288179]}",MOTTA VISCONTI MI,POINT
+Territorio comunale,NERVIANO,"Nerviano, Milano, Lombardia, 20014, Italia","{'type': 'Point', 'coordinates': [8.970719, 45.5536472]}",NERVIANO MI,POINT
+Territorio comunale,NOSATE,"Nosate, Milano, Lombardia, Italia","{'type': 'Point', 'coordinates': [8.726535, 45.550869]}",NOSATE MI,POINT
+Territorio comunale,NOVATE MILANESE,"Novate Milanese, Milano, Lombardia, 20026, Italia","{'type': 'Point', 'coordinates': [9.1347535, 45.5309732]}",NOVATE MILANESE MI,POINT
+Territorio comunale,NOVIGLIO,"Noviglio, Milano, Lombardia, 20082, Italia","{'type': 'Point', 'coordinates': [9.0503748, 45.3601594]}",NOVIGLIO MI,POINT
+Territorio comunale,OPERA,"Opera, Milano, Lombardia, Italia","{'type': 'Point', 'coordinates': [9.211149, 45.373069]}",OPERA MI,POINT
+Territorio comunale,OSSONA,"Ossona, Milano, Lombardia, Italia","{'type': 'Point', 'coordinates': [8.9012659, 45.5062108]}",OSSONA MI,POINT
+Territorio comunale,OZZERO,"Ozzero, Milano, Lombardia, Italia","{'type': 'Point', 'coordinates': [8.9245144, 45.3658483]}",OZZERO MI,POINT
+Territorio comunale,PADERNO DUGNANO,"Paderno Dugnano, Milano, Lombardia, 20037, Italia","{'type': 'Point', 'coordinates': [9.1655747, 45.5684961]}",PADERNO DUGNANO MI,POINT
+Territorio comunale,PANTIGLIATE,"Pantigliate, Milano, Lombardia, Italia","{'type': 'Point', 'coordinates': [9.352631, 45.439548]}",PANTIGLIATE MI,POINT
+Territorio comunale,PARABIAGO,"Parabiago, Milano, Lombardia, 20015, Italia","{'type': 'Point', 'coordinates': [8.9478877, 45.5586107]}",PARABIAGO MI,POINT
+Territorio comunale,PAULLO,"Paullo, Milano, Lombardia, Italia","{'type': 'Point', 'coordinates': [9.3982408, 45.4167873]}",PAULLO MI,POINT
+Territorio comunale,PERO,"Pero, Milano, Lombardia, 20016, Italia","{'type': 'Point', 'coordinates': [9.0855243, 45.5087345]}",PERO MI,POINT
+Territorio comunale,PESCHIERA BORROMEO,"Peschiera Borromeo, Milano, Lombardia, 20068, Italia","{'type': 'Point', 'coordinates': [9.3109026, 45.4310304]}",PESCHIERA BORROMEO MI,POINT
+Territorio comunale,PESSANO CON BORNAGO,"Pessano con Bornago, Milano, Lombardia, Italia","{'type': 'Point', 'coordinates': [9.3818421, 45.5495374]}",PESSANO CON BORNAGO MI,POINT
+Territorio comunale,PIEVE EMANUELE,"Pieve Emanuele, Milano, Lombardia, Italia","{'type': 'Point', 'coordinates': [9.2020722, 45.3559126]}",PIEVE EMANUELE MI,POINT
+Territorio comunale,PIOLTELLO,"Pioltello, Milano, Lombardia, 20096, Italia","{'type': 'Point', 'coordinates': [9.3286576, 45.497331]}",PIOLTELLO MI,POINT
+Territorio comunale,POGLIANO MILANESE,"Pogliano Milanese, Milano, Lombardia, 20010, Italia","{'type': 'Point', 'coordinates': [8.991417, 45.5373049]}",POGLIANO MILANESE MI,POINT
+Territorio comunale,POZZO D'ADDA,"Pozzo d'Adda, Milano, Lombardia, Italia","{'type': 'Point', 'coordinates': [9.5003771, 45.5756656]}",POZZO D'ADDA MI,POINT
+Territorio comunale,POZZUOLO MARTESANA,"Pozzuolo Martesana, Milano, Lombardia, Italia","{'type': 'Point', 'coordinates': [9.456252, 45.513975]}",POZZUOLO MARTESANA MI,POINT
+Territorio comunale,PREGNANA MILANESE,"Pregnana Milanese, Milano, Lombardia, Italia","{'type': 'Point', 'coordinates': [9.0080123, 45.5158489]}",PREGNANA MILANESE MI,POINT
+Territorio comunale,RESCALDINA,"Rescaldina, Milano, Lombardia, 20027, Italia","{'type': 'Point', 'coordinates': [8.9489311, 45.6159737]}",RESCALDINA MI,POINT
+Territorio comunale,RHO,"Rho, Milano, Lombardia, 20017, Italia","{'type': 'Point', 'coordinates': [9.0437554, 45.5239372]}",RHO MI,POINT
+Territorio comunale,ROBECCHETTO CON INDUNO,"Robecchetto con Induno, Milano, Lombardia, Italia","{'type': 'Point', 'coordinates': [8.7645584, 45.5324806]}",ROBECCHETTO CON INDUNO MI,POINT
+Territorio comunale,ROBECCO SUL NAVIGLIO,"Robecco sul Naviglio, Milano, Lombardia, 20087, Italia","{'type': 'Point', 'coordinates': [8.8855409, 45.4390669]}",ROBECCO SUL NAVIGLIO MI,POINT
+Territorio comunale,RODANO,"Rodano, Milano, Lombardia, Italia","{'type': 'Point', 'coordinates': [9.3534606, 45.4776576]}",RODANO MI,POINT
+Territorio comunale,ROSATE,"Rosate, Milano, Lombardia, 20088, Italia","{'type': 'Point', 'coordinates': [9.0174784, 45.3519922]}",ROSATE MI,POINT
+Territorio comunale,ROZZANO,"Rozzano, Milano, Lombardia, 20089, Italia","{'type': 'Point', 'coordinates': [9.1541309, 45.3832366]}",ROZZANO MI,POINT
+Territorio comunale,SAN COLOMBANO AL LAMBRO,"San Colombano al Lambro, Milano, Lombardia, 20078, Italia","{'type': 'Point', 'coordinates': [9.488578, 45.1817156]}",SAN COLOMBANO AL LAMBRO MI,POINT
+Territorio comunale,SAN DONATO MILANESE,"San Donato Milanese, Milano, Lombardia, 20097, Italia","{'type': 'Point', 'coordinates': [9.27165, 45.41807]}",SAN DONATO MILANESE MI,POINT
+Territorio comunale,SAN GIORGIO SU LEGNANO,"San Giorgio su Legnano, Milano, Lombardia, Italia","{'type': 'Point', 'coordinates': [8.913739, 45.573771]}",SAN GIORGIO SU LEGNANO MI,POINT
+Territorio comunale,SAN GIULIANO MILANESE,"San Giuliano Milanese, Milano, Lombardia, 20098, Italia","{'type': 'Point', 'coordinates': [9.291851, 45.39427]}",SAN GIULIANO MILANESE MI,POINT
+Territorio comunale,SAN VITTORE OLONA,"San Vittore Olona, Milano, Lombardia, 20028, Italia","{'type': 'Point', 'coordinates': [8.941339, 45.585772]}",SAN VITTORE OLONA MI,POINT
+Territorio comunale,SAN ZENONE AL LAMBRO,"San Zenone al Lambro, Milano, Lombardia, Italia","{'type': 'Point', 'coordinates': [9.355253, 45.327269]}",SAN ZENONE AL LAMBRO MI,POINT
+Territorio comunale,SANTO STEFANO TICINO,"Santo Stefano Ticino, Milano, Lombardia, Italia","{'type': 'Point', 'coordinates': [8.9186265, 45.4872627]}",SANTO STEFANO TICINO MI,POINT
+Territorio comunale,SEDRIANO,"Sedriano, Milano, Lombardia, 20018, Italia","{'type': 'Point', 'coordinates': [8.9687313, 45.4883326]}",SEDRIANO MI,POINT
+Territorio comunale,SEGRATE,"Segrate, Milano, Lombardia, Italia","{'type': 'Point', 'coordinates': [9.2948204, 45.4907352]}",SEGRATE MI,POINT
+Territorio comunale,SENAGO,"Senago, Milano, Lombardia, Italia","{'type': 'Point', 'coordinates': [9.1245482, 45.5762722]}",SENAGO MI,POINT
+Territorio comunale,SESTO SAN GIOVANNI,"Sesto San Giovanni, Milano, Lombardia, 20099, Italia","{'type': 'Point', 'coordinates': [9.2376549, 45.5357218]}",SESTO SAN GIOVANNI MI,POINT
+Territorio comunale,SETTALA,"Settala, Milano, Lombardia, Italia","{'type': 'Point', 'coordinates': [9.3867659, 45.4544127]}",SETTALA MI,POINT
+Territorio comunale,SETTIMO MILANESE,"Settimo Milanese, Milano, Lombardia, 20019, Italia","{'type': 'Point', 'coordinates': [9.0553555, 45.4803094]}",SETTIMO MILANESE MI,POINT
+Territorio comunale,SOLARO,"Solaro, Milano, Lombardia, Italia","{'type': 'Point', 'coordinates': [9.0815195, 45.6157554]}",SOLARO MI,POINT
+Territorio comunale,TREZZANO ROSA,"Trezzano Rosa, Milano, Lombardia, Italia","{'type': 'Point', 'coordinates': [9.486652, 45.582777]}",TREZZANO ROSA MI,POINT
+Territorio comunale,TREZZANO SUL NAVIGLIO,"Trezzano sul Naviglio, Milano, Lombardia, Italia","{'type': 'Point', 'coordinates': [9.0691165, 45.4179878]}",TREZZANO SUL NAVIGLIO MI,POINT
+Territorio comunale,TREZZO SULL'ADDA,"Trezzo sull'Adda, Milano, Lombardia, 20056, Italia","{'type': 'Point', 'coordinates': [9.5070742, 45.5978495]}",TREZZO SULL'ADDA MI,POINT
+Territorio comunale,TRIBIANO,"Tribiano, Milano, Lombardia, 20067, Italia","{'type': 'Point', 'coordinates': [9.378952, 45.413371]}",TRIBIANO MI,POINT
+Territorio comunale,TRUCCAZZANO,"Truccazzano, Milano, Lombardia, 20660, Italia","{'type': 'Point', 'coordinates': [9.468553, 45.483874]}",TRUCCAZZANO MI,POINT
+Territorio comunale,TURBIGO,"Turbigo, Milano, Lombardia, 20029, Italia","{'type': 'Point', 'coordinates': [8.7366656, 45.5291504]}",TURBIGO MI,POINT
+Territorio comunale,VANZAGHELLO,"Vanzaghello, Milano, Lombardia, Italia","{'type': 'Point', 'coordinates': [8.7823717, 45.5792526]}",VANZAGHELLO MI,POINT
+Territorio comunale,VANZAGO,"Vanzago, Milano, Lombardia, 20010, Italia","{'type': 'Point', 'coordinates': [8.9949548, 45.5268256]}",VANZAGO MI,POINT
+Territorio comunale,VAPRIO D'ADDA,"Vaprio d'Adda, Milano, Lombardia, Italia","{'type': 'Point', 'coordinates': [9.5291744, 45.5765762]}",VAPRIO D'ADDA MI,POINT
+Territorio comunale,VERMEZZO,"Vermezzo, Milano, Lombardia, 20080, Italia","{'type': 'Point', 'coordinates': [8.9810625, 45.394647]}",VERMEZZO MI,POINT
+Territorio comunale,VERNATE,"Vernate, Milano, Lombardia, Italia","{'type': 'Point', 'coordinates': [9.0609682, 45.3161472]}",VERNATE MI,POINT
+Territorio comunale,VIGNATE,"Vignate, Milano, Lombardia, Italia","{'type': 'Point', 'coordinates': [9.376651, 45.496573]}",VIGNATE MI,POINT
+Territorio comunale,VILLA CORTESE,"Villa Cortese, Milano, Lombardia, Italia","{'type': 'Point', 'coordinates': [8.8889031, 45.5667519]}",VILLA CORTESE MI,POINT
+Territorio comunale,VIMODRONE,"Vimodrone, Milano, Lombardia, Italia","{'type': 'Point', 'coordinates': [9.2846717, 45.5128319]}",VIMODRONE MI,POINT
+Territorio comunale,VITTUONE,"Vittuone, Milano, Lombardia, Italia","{'type': 'Point', 'coordinates': [8.952442, 45.487969]}",VITTUONE MI,POINT
+Territorio comunale,VIZZOLO PREDABISSI,"Vizzolo Predabissi, Milano, Lombardia, 20070, Italia","{'type': 'Point', 'coordinates': [9.3497623, 45.35636]}",VIZZOLO PREDABISSI MI,POINT
+Territorio comunale,ZELO SURRIGONE,"Zelo Surrigone, Milano, Lombardia, 20080, Italia","{'type': 'Point', 'coordinates': [8.985546, 45.3884221]}",ZELO SURRIGONE MI,POINT
+Territorio comunale,ZIBIDO SAN GIACOMO,"Zibido San Giacomo, Milano, Lombardia, Italia","{'type': 'Point', 'coordinates': [9.1060279, 45.3600002]}",ZIBIDO SAN GIACOMO MI,POINT

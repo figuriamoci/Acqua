@@ -4,7 +4,7 @@ import pandas as pd
 import acqua.aqueduct as aq
 import time, geojson,numpy as np,logging,math
 
-def create_label (id_gestore,data_report,parms):
+def create_label (synonimous,id_gestore,data_report,parms):
     data = {}
     data['gestore'] = id_gestore
     man = aq.name(id_gestore)
@@ -15,7 +15,7 @@ def create_label (id_gestore,data_report,parms):
     time_string = time.strftime( "%d/%m/%Y, %H:%M", named_tuple )
     data['timestamp'] = time_string
     data['data'] = data_report
-    parameters = {sp.getSTDParm(k): str(v).replace(' ','') for k, v in parms.items()}
+    parameters = {sp.getSTDParm(synonimous,k): str(v).replace(' ','') for k, v in parms.items()}
     data['parameters'] = parameters
     return data
 

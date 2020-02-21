@@ -6,7 +6,7 @@ Created on Sun Jan  5 04:44:35 2020
 @author: andreaf
 """
 import acqua.label as al
-import geojsonio,geojson,logging,random
+import geojsonio,geojson,logging,random,sys
 import geojson as js
 import pymongo as py
 
@@ -29,6 +29,7 @@ def to_geojson(geoLabel,**kwargs):
             ll.append(al.to_geojson(geo,rgb))
         except:
             logging.critical('Skip label for %s',geo)
+
 
     feature_collection = geojson.FeatureCollection( ll )
     return feature_collection
