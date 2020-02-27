@@ -25,6 +25,6 @@ geoJsonFile = 'confini_comunali_veneto.geojson'
 geoJsonFile_standardized = 'rete_acquedotti_veneto.geojson'
 regione = 'Veneto'
 
-fc = create_water_supply_network( geoJsonFile,regione)
-lc.to_file( fc, geoJsonFile_standardized )
-#ll = lc.to_mongoDB_ReteAcuquedotti( geoJsonFile_standardized )
+#fc = create_water_supply_network( geoJsonFile,regione)
+#lc.to_file( fc, geoJsonFile_standardized )
+ll = lc.to_mongoDB_ReteAcuquedotti( geoJsonFile_standardized )

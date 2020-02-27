@@ -1,0 +1,137 @@
+alias_address,alias_city,geocode,geometry,georeferencingString,type
+Comune,Casalino,"Casalino, Novara, Piemonte, Italia","{'type': 'Point', 'coordinates': [8.523935, 45.358362]}","Casalino, Novara, Piemonte, Italia",POINT
+Comune,Cavaglio Spoccia,"Cavaglio San Donnino, Verbano-Cusio-Ossola, Piemonte, 28825, Italia","{'type': 'Point', 'coordinates': [8.6465446, 46.0690434]}","Cavaglio San Donnino, Piemonte, Italia",POINT
+Comune,Pisano Novarese,"Pisano, Novara, Piemonte, Italia","{'type': 'Point', 'coordinates': [8.5089752, 45.7922976]}","Pisano, Piemonte, Italia",POINT
+Comune,Agrate Conturbia,"Agrate Conturbia, Novara, Piemonte, Italia","{'type': 'Point', 'coordinates': [8.5598116, 45.675837]}","Agrate Conturbia, Piemonte, Italia",POINT
+Comune,Ameno,"Ameno, Novara, Piemonte, Italia","{'type': 'Point', 'coordinates': [8.4413106, 45.7886563]}","Ameno, Piemonte, Italia",POINT
+Comune,Arizzano,"Arizzano, Verbano-Cusio-Ossola, Piemonte, 28811, Italia","{'type': 'Point', 'coordinates': [8.582925, 45.957377]}","Arizzano, Piemonte, Italia",POINT
+Comune,Armeno,"Armeno, Novara, Piemonte, 28011, Italia","{'type': 'Point', 'coordinates': [8.4391986, 45.8224566]}","Armeno, Piemonte, Italia",POINT
+Comune,Arola,"Arola, Verbano-Cusio-Ossola, Piemonte, 28899, Italia","{'type': 'Point', 'coordinates': [8.35859731504903, 45.80919205]}","Arola, Piemonte, Italia",POINT
+Comune,Arona,"Arona, Novara, Piemonte, Italia","{'type': 'Point', 'coordinates': [8.5604081, 45.7598366]}","Arona, Piemonte, Italia",POINT
+Comune,Aurano,"Aurano, Verbano-Cusio-Ossola, Piemonte, Italia","{'type': 'Point', 'coordinates': [8.5882374, 45.9990876]}","Aurano, Piemonte, Italia",POINT
+Comune,Bannio Anzino,"Bannio Anzino, Verbano-Cusio-Ossola, Piemonte, 28871, Italia","{'type': 'Point', 'coordinates': [8.1501535, 45.9849808]}","Bannio Anzino, Piemonte, Italia",POINT
+Comune,Barengo,"Barengo, Novara, Piemonte, Italia","{'type': 'Point', 'coordinates': [8.5139498, 45.5754503]}","Barengo, Piemonte, Italia",POINT
+Comune,Baveno,"Baveno, Verbano-Cusio-Ossola, Piemonte, Italia","{'type': 'Point', 'coordinates': [8.5050171, 45.9089158]}","Baveno, Piemonte, Italia",POINT
+Comune,Bee,"Bee, Verbano-Cusio-Ossola, Piemonte, Italia","{'type': 'Point', 'coordinates': [8.5758537, 45.9632681]}","Bee, Piemonte, Italia",POINT
+Comune,Belgirate,"Belgirate, Verbano-Cusio-Ossola, Piemonte, 28832, Italia","{'type': 'Point', 'coordinates': [8.571427, 45.838874]}","Belgirate, Piemonte, Italia",POINT
+Comune,Bellinzago Novarese,"Bellinzago Novarese, Novara, Piemonte, 28043, Italia","{'type': 'Point', 'coordinates': [8.643233, 45.568768]}","Bellinzago Novarese, Piemonte, Italia",POINT
+Comune,Biandrate,"Biandrate, Novara, Piemonte, Italia","{'type': 'Point', 'coordinates': [8.462432, 45.452664]}","Biandrate, Piemonte, Italia",POINT
+Comune,Boca,"Boca, Novara, Piemonte, Italia","{'type': 'Point', 'coordinates': [8.408726, 45.678969]}","Boca, Piemonte, Italia",POINT
+Comune,Bogogno,"Bogogno, Novara, Piemonte, Italia","{'type': 'Point', 'coordinates': [8.5340665, 45.6672726]}","Bogogno, Piemonte, Italia",POINT
+Comune,Bolzano Novarese,"Bolzano Novarese, Novara, Piemonte, Italia","{'type': 'Point', 'coordinates': [8.4451747, 45.7627855]}","Bolzano Novarese, Piemonte, Italia",POINT
+Comune,Borgo Ticino,"Borgo Ticino, Novara, Piemonte, Italia","{'type': 'Point', 'coordinates': [8.60183, 45.6892685]}","Borgo Ticino, Piemonte, Italia",POINT
+Comune,Borgolavezzaro,"Borgolavezzaro, Novara, Piemonte, 28071, Italia","{'type': 'Point', 'coordinates': [8.699539, 45.319663]}","Borgolavezzaro, Piemonte, Italia",POINT
+Comune,Borgomanero,"Borgomanero, Novara, Piemonte, Italia","{'type': 'Point', 'coordinates': [8.4623673, 45.6989107]}","Borgomanero, Piemonte, Italia",POINT
+Comune,Borgomezzavalle,"Borgomezzavalle, Verbano-Cusio-Ossola, Piemonte, 28846, Italia","{'type': 'Point', 'coordinates': [8.199444502603226, 46.047315299999994]}","Borgomezzavalle, Piemonte, Italia",POINT
+Comune,Briga Novarese,"Briga Novarese, Novara, Piemonte, Italia","{'type': 'Point', 'coordinates': [8.456726, 45.731871]}","Briga Novarese, Piemonte, Italia",POINT
+Comune,Briona,"Briona, Novara, Piemonte, Italia","{'type': 'Point', 'coordinates': [8.47973, 45.542466]}","Briona, Piemonte, Italia",POINT
+Comune,Brovello Carpugnino,"Brovello-Carpugnino, Verbano-Cusio-Ossola, Piemonte, 28833, Italia","{'type': 'Point', 'coordinates': [8.539621684096616, 45.8518009]}","Brovello Carpugnino, Piemonte, Italia",POINT
+Comune,Caltignaga,"Caltignaga, Novara, Piemonte, Italia","{'type': 'Point', 'coordinates': [8.587782, 45.5169755]}","Caltignaga, Piemonte, Italia",POINT
+Comune,Cambiasca,"Cambiasca, Verbano-Cusio-Ossola, Piemonte, 28814, Italia","{'type': 'Point', 'coordinates': [8.544624, 45.962377]}","Cambiasca, Piemonte, Italia",POINT
+Comune,Cameri,"Cameri, Novara, Piemonte, 28062, Italia","{'type': 'Point', 'coordinates': [8.6604512, 45.4996737]}","Cameri, Piemonte, Italia",POINT
+Comune,Cannero Riviera,"Cannero Riviera, Verbano-Cusio-Ossola, Piemonte, 28821, Italia","{'type': 'Point', 'coordinates': [8.6813976, 46.0212496]}","Cannero Riviera, Piemonte, Italia",POINT
+Comune,Cannobio,"Cannobio, Verbano-Cusio-Ossola, Piemonte, 28822, Italia","{'type': 'Point', 'coordinates': [8.6976394, 46.0618077]}","Cannobio, Piemonte, Italia",POINT
+Comune,Caprezzo,"Caprezzo, Verbano-Cusio-Ossola, Piemonte, 28815, Italia","{'type': 'Point', 'coordinates': [8.56268151387967, 45.98181665]}","Caprezzo, Piemonte, Italia",POINT
+Comune,Carpignano Sesia,"Carpignano Sesia, Novara, Piemonte, 28064, Italia","{'type': 'Point', 'coordinates': [8.4185194, 45.5346349]}","Carpignano Sesia, Piemonte, Italia",POINT
+Comune,Casalbeltrame,"Casalbeltrame, Novara, Piemonte, Italia","{'type': 'Point', 'coordinates': [8.466532, 45.438064]}","Casalbeltrame, Piemonte, Italia",POINT
+Comune,Casale Corte Cerro,"Casale Corte Cerro, Verbano-Cusio-Ossola, Piemonte, 28881, Italia","{'type': 'Point', 'coordinates': [8.4136779, 45.9158429]}","Casale Corte Cerro, Piemonte, Italia",POINT
+Comune,Casaleggio Novara,"Casaleggio Novara, Novara, Piemonte, Italia","{'type': 'Point', 'coordinates': [8.491931, 45.488765]}","Casaleggio Novara, Piemonte, Italia",POINT
+Comune,Casalvolone,"Casalvolone, Novara, Piemonte, Italia","{'type': 'Point', 'coordinates': [8.4634209, 45.4001979]}","Casalvolone, Piemonte, Italia",POINT
+Comune,Castellazzo Novarese,"Castellazzo Novarese, Novara, Piemonte, Italia","{'type': 'Point', 'coordinates': [8.486931, 45.513366]}","Castellazzo Novarese, Piemonte, Italia",POINT
+Comune,Castelletto Sopra Ticino,"Castelletto sopra Ticino, Novara, Piemonte, 28053, Italia","{'type': 'Point', 'coordinates': [8.6429769, 45.7121687]}","Castelletto Sopra Ticino, Piemonte, Italia",POINT
+Comune,Cavaglietto,"Cavaglietto, Novara, Piemonte, Italia","{'type': 'Point', 'coordinates': [8.50213, 45.602168]}","Cavaglietto, Piemonte, Italia",POINT
+Comune,Cavaglio d'Agogna,"Cavaglio d'Agogna, Novara, Piemonte, Italia","{'type': 'Point', 'coordinates': [8.486129, 45.613168]}","Cavaglio d'Agogna, Piemonte, Italia",POINT
+Comune,Cavallirio,"Cavallirio, Novara, Piemonte, Italia","{'type': 'Point', 'coordinates': [8.394526, 45.663368]}","Cavallirio, Piemonte, Italia",POINT
+Comune,Ceppo Morelli,"Ceppo Morelli, Verbano-Cusio-Ossola, Piemonte, 28875, Italia","{'type': 'Point', 'coordinates': [8.067713, 45.971773]}","Ceppo Morelli, Piemonte, Italia",POINT
+Comune,Cerano,"Cerano, Novara, Piemonte, 28065, Italia","{'type': 'Point', 'coordinates': [8.780039, 45.410966]}","Cerano, Piemonte, Italia",POINT
+Comune,Cesara,"Cesara, Verbano-Cusio-Ossola, Piemonte, Italia","{'type': 'Point', 'coordinates': [8.366422, 45.834472]}","Cesara, Piemonte, Italia",POINT
+Comune,Colazza,"Colazza, Novara, Piemonte, Italia","{'type': 'Point', 'coordinates': [8.500326, 45.792573]}","Colazza, Piemonte, Italia",POINT
+Comune,Comignago,"Comignago, Novara, Piemonte, Italia","{'type': 'Point', 'coordinates': [8.564029, 45.714871]}","Comignago, Piemonte, Italia",POINT
+Comune,Cossogno,"Cossogno, Verbano-Cusio-Ossola, Piemonte, 28801, Italia","{'type': 'Point', 'coordinates': [8.509623, 45.964077]}","Cossogno, Piemonte, Italia",POINT
+Comune,Cressa,"Cressa, Novara, Piemonte, Italia","{'type': 'Point', 'coordinates': [8.5081498, 45.6470723]}","Cressa, Piemonte, Italia",POINT
+Comune,Cureggio,"Cureggio, Novara, Piemonte, Italia","{'type': 'Point', 'coordinates': [8.459727, 45.674869]}","Cureggio, Piemonte, Italia",POINT
+Comune,Cursolo Orasso,"Ex Municipio di Cursolo-Orasso, Piazza Vittorio Emanuele III, Airetta, Valle Cannobina, Verbano-Cusio-Ossola, Piemonte, 28828, Italia","{'type': 'Point', 'coordinates': [8.566518022633744, 46.0978055]}","Cursolo Orasso, Piemonte, Italia",POINT
+Comune,Divignano,"Divignano, Novara, Piemonte, Italia","{'type': 'Point', 'coordinates': [8.601631, 45.66237]}","Divignano, Piemonte, Italia",POINT
+Comune,Dormelletto,"Dormelletto, Novara, Piemonte, Italia","{'type': 'Point', 'coordinates': [8.566628, 45.736272]}","Dormelletto, Piemonte, Italia",POINT
+Comune,Falmenta,"Falmenta, Verbano-Cusio-Ossola, Piemonte, 28825, Italia","{'type': 'Point', 'coordinates': [8.5898466, 46.0721582]}","Falmenta, Piemonte, Italia",POINT
+Comune,Fara Novarese,"Fara Novarese, Novara, Piemonte, 28073, Italia","{'type': 'Point', 'coordinates': [8.4589412, 45.5551594]}","Fara Novarese, Piemonte, Italia",POINT
+Comune,Fontaneto d'Agogna,"Fontaneto d'Agogna, Novara, Piemonte, Italia","{'type': 'Point', 'coordinates': [8.4808276, 45.6434689]}","Fontaneto d'Agogna, Piemonte, Italia",POINT
+Comune,Galliate,"Galliate, Novara, Piemonte, 28066, Italia","{'type': 'Point', 'coordinates': [8.6969031, 45.4782672]}","Galliate, Piemonte, Italia",POINT
+Comune,Garbagna Novarese,"Garbagna Novarese, Novara, Piemonte, Italia","{'type': 'Point', 'coordinates': [8.661237, 45.388764]}","Garbagna Novarese, Piemonte, Italia",POINT
+Comune,Gargallo,"Gargallo, Novara, Piemonte, Italia","{'type': 'Point', 'coordinates': [8.425325, 45.72877]}","Gargallo, Piemonte, Italia",POINT
+Comune,Gattico,"Gattico, Novara, Piemonte, 28013, Italia","{'type': 'Point', 'coordinates': [8.520193, 45.7090365]}","Gattico, Piemonte, Italia",POINT
+Comune,Germagno,"Germagno, Verbano-Cusio-Ossola, Piemonte, Italia","{'type': 'Point', 'coordinates': [8.388294, 45.8922807]}","Germagno, Piemonte, Italia",POINT
+Comune,Ghemme,"Ghemme, Novara, Piemonte, 28074, Italia","{'type': 'Point', 'coordinates': [8.4209035, 45.5983455]}","Ghemme, Piemonte, Italia",POINT
+Comune,Ghiffa,"Ghiffa, Verbano-Cusio-Ossola, Piemonte, 28823, Italia","{'type': 'Point', 'coordinates': [8.6198232, 45.9591224]}","Ghiffa, Piemonte, Italia",POINT
+Comune,Gignese,"Gignese, Verbano-Cusio-Ossola, Piemonte, Italia","{'type': 'Point', 'coordinates': [8.5096707, 45.860769]}","Gignese, Piemonte, Italia",POINT
+Comune,Gozzano,"Gozzano, Novara, Piemonte, 28024, Italia","{'type': 'Point', 'coordinates': [8.4360668, 45.7464568]}","Gozzano, Piemonte, Italia",POINT
+Comune,Granozzo con Monticello,"Granozzo con Monticello, Novara, Piemonte, Italia","{'type': 'Point', 'coordinates': [8.587767109192736, 45.371139]}","Granozzo con Monticello, Piemonte, Italia",POINT
+Comune,Gravellona Toce,"Gravellona Toce, Verbano-Cusio-Ossola, Piemonte, 28883, Italia","{'type': 'Point', 'coordinates': [8.431222, 45.930175]}","Gravellona Toce, Piemonte, Italia",POINT
+Comune,Grignasco,"Grignasco, Novara, Piemonte, 28075, Italia","{'type': 'Point', 'coordinates': [8.3378533, 45.6840987]}","Grignasco, Piemonte, Italia",POINT
+Comune,Intragna,"Intragna, Verbano-Cusio-Ossola, Piemonte, Italia","{'type': 'Point', 'coordinates': [8.566469724827027, 46.0065111]}","Intragna, Piemonte, Italia",POINT
+Comune,Invorio,"Invorio, Novara, Piemonte, Italia","{'type': 'Point', 'coordinates': [8.488326, 45.756972]}","Invorio, Piemonte, Italia",POINT
+Comune,Landiona,"Landiona, Novara, Piemonte, Italia","{'type': 'Point', 'coordinates': [8.4230805, 45.4963569]}","Landiona, Piemonte, Italia",POINT
+Comune,Lesa,"Lesa, Novara, Piemonte, Italia","{'type': 'Point', 'coordinates': [8.5648573, 45.829644]}","Lesa, Piemonte, Italia",POINT
+Comune,Loreglia,"Loreglia, Verbano-Cusio-Ossola, Piemonte, 28893, Italia","{'type': 'Point', 'coordinates': [8.3711904, 45.9065807]}","Loreglia, Piemonte, Italia",POINT
+Comune,Macugnaga,"Macugnaga, Verbano-Cusio-Ossola, Piemonte, 28876, Italia","{'type': 'Point', 'coordinates': [7.966011, 45.969872]}","Macugnaga, Piemonte, Italia",POINT
+Comune,Madonna del Sasso,"Madonna del Sasso, Verbano-Cusio-Ossola, Piemonte, 28894, Italia","{'type': 'Point', 'coordinates': [8.3682784, 45.7924276]}","Madonna del Sasso, Piemonte, Italia",POINT
+Comune,Maggiora,"Maggiora, Novara, Piemonte, Italia","{'type': 'Point', 'coordinates': [8.422326, 45.689369]}","Maggiora, Piemonte, Italia",POINT
+Comune,Mandello Vitta,"Mandello Vitta, Novara, Piemonte, Italia","{'type': 'Point', 'coordinates': [8.459831, 45.495665]}","Mandello Vitta, Piemonte, Italia",POINT
+Comune,Marano Ticino,"Marano Ticino, Novara, Piemonte, Italia","{'type': 'Point', 'coordinates': [8.631632, 45.62987]}","Marano Ticino, Piemonte, Italia",POINT
+Comune,Massino Visconti,"Massino Visconti, Novara, Piemonte, Italia","{'type': 'Point', 'coordinates': [8.5409419, 45.824206]}","Massino Visconti, Piemonte, Italia",POINT
+Comune,Massiola,"Massiola, Verbano-Cusio-Ossola, Piemonte, 28897, Italia","{'type': 'Point', 'coordinates': [8.3200782, 45.9124295]}","Massiola, Piemonte, Italia",POINT
+Comune,Meina,"Meina, Novara, Piemonte, 28046, Italia","{'type': 'Point', 'coordinates': [8.538827, 45.788773]}","Meina, Piemonte, Italia",POINT
+Comune,Mergozzo,"Mergozzo, Verbano-Cusio-Ossola, Piemonte, 28802, Italia","{'type': 'Point', 'coordinates': [8.4495252, 45.96128]}","Mergozzo, Piemonte, Italia",POINT
+Comune,Mezzomerico,"Mezzomerico, Novara, Piemonte, Italia","{'type': 'Point', 'coordinates': [8.6055179, 45.6186872]}","Mezzomerico, Piemonte, Italia",POINT
+Comune,Miasino,"Miasino, Novara, Piemonte, Italia","{'type': 'Point', 'coordinates': [8.429724, 45.801972]}","Miasino, Piemonte, Italia",POINT
+Comune,Momo,"Momo, Novara, Piemonte, 28015, Italia","{'type': 'Point', 'coordinates': [8.5568643, 45.5747211]}","Momo, Piemonte, Italia",POINT
+Comune,Montescheno,"Montescheno, Verbano-Cusio-Ossola, Piemonte, 28843, Italia","{'type': 'Point', 'coordinates': [8.2252449, 46.06792]}","Montescheno, Piemonte, Italia",POINT
+Comune,Nebbiuno,"Nebbiuno, Novara, Piemonte, Italia","{'type': 'Point', 'coordinates': [8.527126, 45.803573]}","Nebbiuno, Piemonte, Italia",POINT
+Comune,Nibbiola,"Nibbiola, Novara, Piemonte, Italia","{'type': 'Point', 'coordinates': [8.6549776, 45.3714832]}","Nibbiola, Piemonte, Italia",POINT
+Comune,Nonio,"Nonio, Verbano-Cusio-Ossola, Piemonte, 28891, Italia","{'type': 'Point', 'coordinates': [8.377522, 45.845773]}","Nonio, Piemonte, Italia",POINT
+Comune,Novara,"Novara, Piemonte, Italia","{'type': 'Point', 'coordinates': [8.6202,45.4468]}","Novara, Piemonte, Italia",POINT
+Comune,Oggebbio,"Oggebbio, Verbano-Cusio-Ossola, Piemonte, Italia","{'type': 'Point', 'coordinates': [8.650425, 45.997679]}","Oggebbio, Piemonte, Italia",POINT
+Comune,Oleggio,"Oleggio, Novara, Piemonte, 28047, Italia","{'type': 'Point', 'coordinates': [8.6370679, 45.5972309]}","Oleggio, Piemonte, Italia",POINT
+Comune,Oleggio Castello,"Oleggio Castello, Novara, Piemonte, Italia","{'type': 'Point', 'coordinates': [8.527127, 45.748872]}","Oleggio Castello, Piemonte, Italia",POINT
+Comune,Omegna,"Omegna, Verbano-Cusio-Ossola, Piemonte, Italia","{'type': 'Point', 'coordinates': [8.408022, 45.879774]}","Omegna, Piemonte, Italia",POINT
+Comune,Ornavasso,"Ornavasso, Verbano-Cusio-Ossola, Piemonte, 28877, Italia","{'type': 'Point', 'coordinates': [8.4122915, 45.9704358]}","Ornavasso, Piemonte, Italia",POINT
+Comune,Orta San Giulio,"Orta San Giulio, Novara, Piemonte, 28016, Italia","{'type': 'Point', 'coordinates': [8.406951, 45.7980814]}","Orta San Giulio, Piemonte, Italia",POINT
+Comune,Paruzzaro,"Paruzzaro, Novara, Piemonte, Italia","{'type': 'Point', 'coordinates': [8.5175987, 45.7502412]}","Paruzzaro, Piemonte, Italia",POINT
+Comune,Pella,"Pella, Novara, Piemonte, Italia","{'type': 'Point', 'coordinates': [8.3847792, 45.8016249]}","Pella, Piemonte, Italia",POINT
+Comune,Pettenasco,"Pettenasco, Novara, Piemonte, 28028, Italia","{'type': 'Point', 'coordinates': [8.4077932, 45.818769]}","Pettenasco, Piemonte, Italia",POINT
+Comune,Piedimulera,"Piedimulera, Verbano-Cusio-Ossola, Piemonte, 28885, Italia","{'type': 'Point', 'coordinates': [8.259263, 46.0242382]}","Piedimulera, Piemonte, Italia",POINT
+Comune,Pieve Vergonte,"Pieve Vergonte, Verbano-Cusio-Ossola, Piemonte, 28886, Italia","{'type': 'Point', 'coordinates': [8.2805236, 46.0025621]}","Pieve Vergonte, Piemonte, Italia",POINT
+Comune,Pogno,"Pogno, Novara, Piemonte, 28076, Italia","{'type': 'Point', 'coordinates': [8.3832347, 45.7584394]}","Pogno, Piemonte, Italia",POINT
+Comune,Pombia,"Pombia, Novara, Piemonte, 28050, Italia","{'type': 'Point', 'coordinates': [8.6322926, 45.65083]}","Pombia, Piemonte, Italia",POINT
+Comune,Prato Sesia,"Prato Sesia, Novara, Piemonte, 28077, Italia","{'type': 'Point', 'coordinates': [8.3729394, 45.6468486]}","Prato Sesia, Piemonte, Italia",POINT
+Comune,Premeno,"Premeno, Verbano-Cusio-Ossola, Piemonte, Italia","{'type': 'Point', 'coordinates': [8.5960998, 45.9780992]}","Premeno, Piemonte, Italia",POINT
+Comune,Premosello Chiovenda,"Premosello-Chiovenda, Verbano-Cusio-Ossola, Piemonte, 28803, Italia","{'type': 'Point', 'coordinates': [8.3275904, 46.0039555]}","Premosello Chiovenda, Piemonte, Italia",POINT
+Comune,Quarna Sopra,"Quarna Sopra, Verbano-Cusio-Ossola, Piemonte, 28898, Italia","{'type': 'Point', 'coordinates': [8.374771, 45.8713789]}","Quarna Sopra, Piemonte, Italia",POINT
+Comune,Quarna Sotto,"Quarna Sotto, Verbano-Cusio-Ossola, Piemonte, 28896, Italia","{'type': 'Point', 'coordinates': [8.3647814, 45.868538]}","Quarna Sotto, Piemonte, Italia",POINT
+Comune,Recetto,"Recetto, Novara, Piemonte, 28960, Italia","{'type': 'Point', 'coordinates': [8.435731, 45.460364]}","Recetto, Piemonte, Italia",POINT
+Comune,Romagnano Sesia,"Romagnano Sesia, Novara, Piemonte, 28078, Italia","{'type': 'Point', 'coordinates': [8.388627, 45.631067]}","Romagnano Sesia, Piemonte, Italia",POINT
+Comune,Romentino,"Romentino, Novara, Piemonte, 28068, Italia","{'type': 'Point', 'coordinates': [8.7207768, 45.4625532]}","Romentino, Piemonte, Italia",POINT
+Comune,San Bernardino Verbano,"San Bernardino Verbano, Verbano-Cusio-Ossola, Piemonte, 28804, Italia","{'type': 'Point', 'coordinates': [8.456146143275316, 45.9952224]}","San Bernardino Verbano, Piemonte, Italia",POINT
+Comune,San Maurizio d'Opaglio,"San Maurizio d'Opaglio, Novara, Piemonte, Italia","{'type': 'Point', 'coordinates': [8.3903949, 45.7734531]}","San Maurizio d'Opaglio, Piemonte, Italia",POINT
+Comune,San Nazzaro Sesia,"San Nazzaro Sesia, Novara, Piemonte, Italia","{'type': 'Point', 'coordinates': [8.4240728, 45.438273]}","San Nazzaro Sesia, Piemonte, Italia",POINT
+Comune,San Pietro Mosezzo,"San Pietro Mosezzo, Novara, Piemonte, Italia","{'type': 'Point', 'coordinates': [8.5441897, 45.4558807]}","San Pietro Mosezzo, Piemonte, Italia",POINT
+Comune,Sillavengo,"Sillavengo, Novara, Piemonte, Italia","{'type': 'Point', 'coordinates': [8.44103, 45.520665]}","Sillavengo, Piemonte, Italia",POINT
+Comune,Sizzano,"Sizzano, Novara, Piemonte, Italia","{'type': 'Point', 'coordinates': [8.437329, 45.577467]}","Sizzano, Piemonte, Italia",POINT
+Comune,Soriso,"Soriso, Novara, Piemonte, Italia","{'type': 'Point', 'coordinates': [8.4097034, 45.7417373]}","Soriso, Piemonte, Italia",POINT
+Comune,Sozzago,"Sozzago, Novara, Piemonte, Italia","{'type': 'Point', 'coordinates': [8.720338, 45.398565]}","Sozzago, Piemonte, Italia",POINT
+Comune,Stresa,"Stresa, Verbano-Cusio-Ossola, Piemonte, 28838, Italia","{'type': 'Point', 'coordinates': [8.5316057, 45.8844665]}","Stresa, Piemonte, Italia",POINT
+Comune,Suno,"Suno, Novara, Piemonte, 28019, Italia","{'type': 'Point', 'coordinates': [8.54283, 45.633369]}","Suno, Piemonte, Italia",POINT
+Comune,Terdobbiate,"Terdobbiate, Novara, Piemonte, Italia","{'type': 'Point', 'coordinates': [8.695238, 45.376564]}","Terdobbiate, Piemonte, Italia",POINT
+Comune,Tornaco,"Tornaco, Novara, Piemonte, 28070, Italia","{'type': 'Point', 'coordinates': [8.715939, 45.357564]}","Tornaco, Piemonte, Italia",POINT
+Comune,Trarego Viggiona,"Trarego Viggiona, Verbano-Cusio-Ossola, Piemonte, 28826, Italia","{'type': 'Point', 'coordinates': [8.646127958038434, 46.038692100000006]}","Trarego Viggiona, Piemonte, Italia",POINT
+Comune,Trecate,"Trecate, Novara, Piemonte, 28069, Italia","{'type': 'Point', 'coordinates': [8.735293, 45.4319653]}","Trecate, Piemonte, Italia",POINT
+Comune,Valstrona,"Valstrona, Verbano-Cusio-Ossola, Piemonte, Italia","{'type': 'Point', 'coordinates': [8.3408398, 45.9073018]}","Valstrona, Piemonte, Italia",POINT
+Comune,Vaprio d'Agogna,"Vaprio d'Agogna, Novara, Piemonte, Italia","{'type': 'Point', 'coordinates': [8.5534312, 45.6035134]}","Vaprio d'Agogna, Piemonte, Italia",POINT
+Comune,Varallo Pombia,"Varallo Pombia, Novara, Piemonte, 20840, Italia","{'type': 'Point', 'coordinates': [8.6326925, 45.6659038]}","Varallo Pombia, Piemonte, Italia",POINT
+Comune,Verbania,"Verbania, Verbano-Cusio-Ossola, Piemonte, Italia","{'type': 'Point', 'coordinates': [8.5516789, 45.9221715]}","Verbania, Piemonte, Italia",POINT
+Comune,Veruno,"Veruno, Novara, Piemonte, 28013, Italia","{'type': 'Point', 'coordinates': [8.5307821, 45.6906946]}","Veruno, Piemonte, Italia",POINT
+Comune,Vespolate,"Vespolate, Novara, Piemonte, Italia","{'type': 'Point', 'coordinates': [8.6689211, 45.3508708]}","Vespolate, Piemonte, Italia",POINT
+Comune,Vicolungo,"Vicolungo, Novara, Piemonte, Italia","{'type': 'Point', 'coordinates': [8.462731, 45.477564]}","Vicolungo, Piemonte, Italia",POINT
+Comune,Vignone,"Vignone, Verbano-Cusio-Ossola, Piemonte, 28819, Italia","{'type': 'Point', 'coordinates': [8.5666174, 45.9597733]}","Vignone, Piemonte, Italia",POINT
+Comune,Villadossola,"Villadossola, Verbano-Cusio-Ossola, Piemonte, Italia","{'type': 'Point', 'coordinates': [8.2607168, 46.0666631]}","Villadossola, Piemonte, Italia",POINT
+Comune,Vogogna,"Vogogna, Verbano-Cusio-Ossola, Piemonte, 28805, Italia","{'type': 'Point', 'coordinates': [8.293017, 46.008976]}","Vogogna, Piemonte, Italia",POINT

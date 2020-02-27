@@ -25,6 +25,6 @@ geoJsonFile = 'ConfiniComuniFVG.geojson'
 geoJsonFile_standardized = 'rete_acquedotti_fvg.geojson'
 regione = 'Friuli Venezia Giulia'
 
-fc = create_water_supply_network( geoJsonFile,regione)
-lc.to_file( fc, geoJsonFile_standardized )
+#fc = create_water_supply_network( geoJsonFile,regione)
+#lc.to_file( fc, geoJsonFile_standardized )
 ll = lc.to_mongoDB_ReteAcuquedotti( geoJsonFile_standardized )

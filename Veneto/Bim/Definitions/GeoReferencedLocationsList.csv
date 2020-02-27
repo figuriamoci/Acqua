@@ -1,0 +1,839 @@
+alias_address,alias_city,geocode,geometry,georeferencingString
+CORSO DEGLI ALPINI,AGORDO,"Corso degli Alpini, Crostolin, Colvignàs, Agordo, Belluno, Veneto, 32021, Italia","{'type': 'Point', 'coordinates': [12.0350418, 46.2821909]}",AGORDO CORSO DEGLI ALPINI
+CORSO PATRIOTI,AGORDO,"Corso Patrioti, Crostolin, Colvignàs, Agordo, Belluno, Veneto, 32021, Italia","{'type': 'Point', 'coordinates': [12.0344056, 46.2815144]}",AGORDO CORSO PATRIOTI
+FRAZIONE BRUGNACH,AGORDO,"Agordo, SP347, Corone, Voltago Agordino, Belluno, Veneto, 32027, Italia","{'type': 'Point', 'coordinates': [12.02132, 46.28424]}",AGORDO  BRUGNACH
+FRAZIONE COLVIGNAS,AGORDO,"Colvignàs, Agordo, Belluno, Veneto, 32021, Italia","{'type': 'Point', 'coordinates': [12.0381432, 46.2899373]}",AGORDO  COLVIGNAS
+FRAZIONE CROSTOLIN,AGORDO,"Crostolin, Agordo, Belluno, Veneto, 32021, Italia","{'type': 'Point', 'coordinates': [12.0516042, 46.2757537]}",AGORDO  CROSTOLIN
+FRAZIONE FARENZENA,AGORDO,"Farenzena, Agordo, Belluno, Veneto, 32021, Italia","{'type': 'Point', 'coordinates': [12.0318236, 46.2922762]}",AGORDO  FARENZENA
+FRAZIONE GIOVE,AGORDO,"Giove, Agordo, Belluno, Veneto, 32021, Italia","{'type': 'Point', 'coordinates': [12.0272715, 46.2734231]}",AGORDO  GIOVE
+FRAZIONE PIASENT,AGORDO,"Piasent, Agordo, Belluno, Veneto, 32021, Italia","{'type': 'Point', 'coordinates': [12.0516334, 46.2893974]}",AGORDO  PIASENT
+FRAZIONE RIF,AGORDO,"Rif, Belluno, Veneto, 32021, Italia","{'type': 'Point', 'coordinates': [12.0464562, 46.2850166]}",AGORDO  RIF
+FRAZIONE TOCCOL,AGORDO,"Toccol, Agordo, Belluno, Veneto, 32027, Italia","{'type': 'Point', 'coordinates': [12.0270695, 46.2905861]}",AGORDO  TOCCOL
+FRAZIONE VALCOZZENA,AGORDO,"Valcozzena, Agordo, Belluno, Veneto, 32021, Italia","{'type': 'Point', 'coordinates': [12.0232645, 46.2802901]}",AGORDO  VALCOZZENA
+FRAZIONE VERAN,AGORDO,"Veran, Agordo, Belluno, Veneto, 32021, Italia","{'type': 'Point', 'coordinates': [12.0457977, 46.2794341]}",AGORDO  VERAN
+LOCALITA' CAMPREGANA,AGORDO,"Rio Campregana, Agordo, Belluno, Veneto, 32021, Italia","{'type': 'Point', 'coordinates': [12.0348236, 46.2913859]}",AGORDO  CAMPREGANA
+LOCALITA' FAION,AGORDO,"Località Faion, Crostolin, Veran, Agordo, Belluno, Veneto, 32021, Italia","{'type': 'Point', 'coordinates': [12.0423005, 46.2773484]}",AGORDO  FAION
+LOCALITA' GRAVE,AGORDO,"Località Grave, Crostolin, Veran, Agordo, Belluno, Veneto, 32021, Italia","{'type': 'Point', 'coordinates': [12.0445588, 46.281031]}",AGORDO  GRAVE
+LOCALITA' MOLIN DEI COT,AGORDO,"Località Molin dei Col, Crostolin, Veran, Agordo, Belluno, Veneto, 32021, Italia","{'type': 'Point', 'coordinates': [12.0446821, 46.2818623]}",AGORDO  MOLIN DEI COT
+LOCALITA' MOZZACH,AGORDO,"Via Mozzach, Crostolin, Veran, Agordo, Belluno, Veneto, 32021, Italia","{'type': 'Point', 'coordinates': [12.0399516, 46.2785853]}",AGORDO  MOZZACH
+LOCALITA' PAS,AGORDO,"Agordo, Belluno, Veneto, 32021, Italia","{'type': 'Point', 'coordinates': [12.034981, 46.2821471]}",AGORDO  PAS
+LOCALITA' POLANE,AGORDO,"Polane, Variante di Agordo, Crostolin, Giove, Agordo, Belluno, Veneto, 32021, Italia","{'type': 'Point', 'coordinates': [12.033855310733244, 46.272579300000004]}",AGORDO  POLANE
+LOCALITA' VAL DI FRELA,AGORDO,"Val di Frela, Agordo, Belluno, Veneto, 32021, Italia","{'type': 'Point', 'coordinates': [12.0351135, 46.2942062]}",AGORDO  VAL DI FRELA
+LOCALITA' VALCOZZENA,AGORDO,"Valcozzena, Agordo, Belluno, Veneto, 32021, Italia","{'type': 'Point', 'coordinates': [12.0232645, 46.2802901]}",AGORDO  VALCOZZENA
+CORSO ITALIA,ALLEGHE,"Corso Italia, Cordella, Alleghe, Belluno, Veneto, 32022, Italia","{'type': 'Point', 'coordinates': [12.0205269, 46.4064987]}",ALLEGHE CORSO ITALIA
+CORSO VENETO,ALLEGHE,"Corso Veneto, Alleghe, Belluno, Veneto, 32022, Italia","{'type': 'Point', 'coordinates': [11.9940309, 46.4383229]}",ALLEGHE CORSO VENETO
+CORSO VENEZIA,ALLEGHE,"Corso Venezia, Cordella, Alleghe, Belluno, Veneto, 32022, Italia","{'type': 'Point', 'coordinates': [12.0179369, 46.4026005]}",ALLEGHE CORSO VENEZIA
+VIA BELVEDERE,ALLEGHE,"Ristoro Belvedere, Via Monte Civetta, Coi, Alleghe, Belluno, Veneto, 32022, Italia","{'type': 'Point', 'coordinates': [12.045760817310295, 46.42314655]}",ALLEGHE VIA BELVEDERE
+VIA COI,ALLEGHE,"Coi, Alleghe, Belluno, Veneto, 32022, Italia","{'type': 'Point', 'coordinates': [12.036883, 46.4127434]}",ALLEGHE VIA COI
+VIA COLDAI,ALLEGHE,"Via Coldai, Cordella, Alleghe, Belluno, Veneto, 32022, Italia","{'type': 'Point', 'coordinates': [12.0216239, 46.4062237]}",ALLEGHE VIA COLDAI
+VIA COLDEMIES,ALLEGHE,"Coldemies, Alleghe, Belluno, Veneto, 32022, Italia","{'type': 'Point', 'coordinates': [12.0255834, 46.4105156]}",ALLEGHE VIA COLDEMIES
+VIA CORDELLA,ALLEGHE,"Cordella, Alleghe, Belluno, Veneto, 32022, Italia","{'type': 'Point', 'coordinates': [12.0201018, 46.4095332]}",ALLEGHE VIA CORDELLA
+VIA DEGLI ALPINI,ALLEGHE,"Via degli Alpini, Coldemies, Alleghe, Belluno, Veneto, 32022, Italia","{'type': 'Point', 'coordinates': [12.0282925, 46.4069144]}",ALLEGHE VIA DEGLI ALPINI
+VIA DEI PINI,ALLEGHE,"Via dei Pini, Cordella, Alleghe, Belluno, Veneto, 32022, Italia","{'type': 'Point', 'coordinates': [12.0149719, 46.3979231]}",ALLEGHE VIA DEI PINI
+VIA EUROPA,ALLEGHE,"Via Europa, Cordella, Alleghe, Belluno, Veneto, 32022, Italia","{'type': 'Point', 'coordinates': [12.0191704, 46.4065106]}",ALLEGHE VIA EUROPA
+VIA FERNAZZA,ALLEGHE,"Fernazza, Alleghe, Belluno, Veneto, 32022, Italia","{'type': 'Point', 'coordinates': [12.0359916, 46.4155914]}",ALLEGHE VIA FERNAZZA
+VIA MONTE CIVETTA,ALLEGHE,"Via Monte Civetta, Coi, Alleghe, Belluno, Veneto, 32022, Italia","{'type': 'Point', 'coordinates': [12.029277, 46.4109001]}",ALLEGHE VIA MONTE CIVETTA
+VIA MONTE FERTAZZA,ALLEGHE,"Fertazza, Via Monte Civetta, Coi, Alleghe, Belluno, Veneto, 32022, Italia","{'type': 'Point', 'coordinates': [12.0455845, 46.4236344]}",ALLEGHE VIA MONTE FERTAZZA
+CORSO ALPINO,ALPAGO,"Corso Alpino, Farra d'Alpago, Alpago, Belluno, Veneto, 32016, Italia","{'type': 'Point', 'coordinates': [12.361772, 46.1177631]}",ALPAGO CORSO ALPINO
+FRAZIONE BASTIA,ALPAGO,"Bastia, Belluno, Veneto, 32015, Italia","{'type': 'Point', 'coordinates': [12.3357893, 46.1332022]}",ALPAGO  BASTIA
+FRAZIONE S.CROCE,ALPAGO,"Lago di Santa Croce, Via Filippo Turati, Puos d'Alpago, Alpago, Belluno, Veneto, 32015, Italia","{'type': 'Point', 'coordinates': [12.340668809557474, 46.1101272]}",ALPAGO  S.CROCE
+FRAZIONE SPERT,ALPAGO,"Spert, Alpago, Belluno, Veneto, 32016, Italia","{'type': 'Point', 'coordinates': [12.4016862, 46.1137645]}",ALPAGO  SPERT
+FRAZIONE TORCH,ALPAGO,"Torch, Alpago, Belluno, Veneto, 32015, Italia","{'type': 'Point', 'coordinates': [12.3646902, 46.1524823]}",ALPAGO  TORCH
+FRAZIONE TORRES,ALPAGO,"Torres, Alpago, Belluno, Veneto, 32010, Italia","{'type': 'Point', 'coordinates': [12.3611072, 46.1673086]}",ALPAGO  TORRES
+FRAZIONE VALZELLA,ALPAGO,"Valzella, Alpago, Belluno, Veneto, 32015, Italia","{'type': 'Point', 'coordinates': [12.3566859, 46.147709]}",ALPAGO  VALZELLA
+LOCALITA' CAMPON,ALPAGO,"Località Campon, Pieve d'Alpago, Alpago, Belluno, Veneto, 32010, Italia","{'type': 'Point', 'coordinates': [12.3567547, 46.176688]}",ALPAGO  CAMPON
+LOCALITA' FONTANA,ALPAGO,"Fontana di Poiatte, Via Poiatte, Farra d'Alpago, Alpago, Belluno, Veneto, 32016, Italia","{'type': 'Point', 'coordinates': [12.3550298, 46.1065076]}",ALPAGO  FONTANA
+LOCALITA' MONTAGNA,ALPAGO,"Via Montagna, Farra d'Alpago, Tambre, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [12.4158605, 46.1144053]}",ALPAGO  MONTAGNA
+BORGO SAN LORENZO,ARSIE',"Borgo San Lorenzo, San Lorenzo, Arsiè, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [11.7589869, 45.9899522]}",ARSIE' BORGO SAN LORENZO
+LOCALITA' COL PERER,ARSIE',"Col Perer, Arsiè, Belluno, Veneto, 32033, Italia","{'type': 'Point', 'coordinates': [11.7321173, 46.0102497]}",ARSIE'  COL PERER
+LOCALITA' GAJOLE,ARSIE',"Camping Gajole, Via Campagna, C. Placido, Arsiè, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [11.765084068986672, 45.96809905]}",ARSIE'  GAJOLE
+PIAZZA MARTIRI,ARSIE',"Piazza Martiri, Cascine alle Rive, Arsiè, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [11.747456539488798, 45.98923905]}",ARSIE' PIAZZA MARTIRI
+PIAZZA S. MARCO,ARSIE',"San Marco, Frazione Arsiè, Reveane, Ponte nelle Alpi, Belluno, Veneto, 32015, Italia","{'type': 'Point', 'coordinates': [12.327095933775748, 46.1719043]}",ARSIE' PIAZZA S. MARCO
+PIAZZA SAN MARTINO,ARSIE',"Piazza S. Martino, Cascine alle Rive, Arsiè, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [11.7469195, 45.9914312]}",ARSIE' PIAZZA SAN MARTINO
+PIAZZA SAN VITO,ARSIE',"Piazza San Vito, Case Cecchin, Arsiè, Belluno, Veneto, 36052, Italia","{'type': 'Point', 'coordinates': [11.7148899, 45.959709]}",ARSIE' PIAZZA SAN VITO
+VIA A. MANZONI,ARSIE',"Via A. Manzoni, Cascine alle Rive, Arsiè, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [11.7488193, 45.990116]}",ARSIE' VIA A. MANZONI
+VIA ANGELO ARBOIT,ARSIE',"Via Angelo Arboit, C. Mason, Arsiè, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [11.7568481, 45.9769019]}",ARSIE' VIA ANGELO ARBOIT
+VIA ANGOA,ARSIE',"Via Angoa, Soras, Arsiè, Belluno, Veneto, 32033, Italia","{'type': 'Point', 'coordinates': [11.7642343, 45.9953805]}",ARSIE' VIA ANGOA
+VIA BERNARDI,ARSIE',"Via Bernardi, Rocca d'Arsiè, Arsiè, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [11.7517094, 45.9515123]}",ARSIE' VIA BERNARDI
+VIA CADORNA,ARSIE',"Via Cadorna, Sassei, Arsiè, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [11.7558564, 45.9835084]}",ARSIE' VIA CADORNA
+VIA CAMPAGNA,ARSIE',"Via Campagna, C. Placido, Arsiè, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [11.7623224, 45.9645844]}",ARSIE' VIA CAMPAGNA
+VIA CANEVAL,ARSIE',"Via Caneval, C. Mason, Arsiè, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [11.7559622, 45.977422]}",ARSIE' VIA CANEVAL
+VIA CANOVA,ARSIE',"Via Canova, Sassei, Arsiè, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [11.7567354, 45.9819459]}",ARSIE' VIA CANOVA
+VIA CARAZZAGNO,ARSIE',"Val Carazzagno, Arsiè, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [11.7714939, 45.9517948]}",ARSIE' VIA CARAZZAGNO
+VIA CASERE,ARSIE',"Casere, Arsiè, Belluno, Veneto, 36052, Italia","{'type': 'Point', 'coordinates': [11.7305399, 45.9382449]}",ARSIE' VIA CASERE
+VIA CESARE BATTISTI,ARSIE',"Via Cesare Battisti, Sassei, Arsiè, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [11.7551878, 45.9822009]}",ARSIE' VIA CESARE BATTISTI
+LARGO TARIN,AURONZO DI CADORE,"Largo Tarin, Cima Gogna, Auronzo di Cadore, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [12.4434034, 46.5516977]}",AURONZO DI CADORE LARGO TARIN
+VIA AIARNOLA,AURONZO DI CADORE,"Lago Aiarnola, 153, Sopalù, Comelico Superiore, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [12.459746103211366, 46.5917041]}",AURONZO DI CADORE VIA AIARNOLA
+VIA ALPINI,AURONZO DI CADORE,"Croda degli Alpini, Auronzo di Cadore, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [12.2970673, 46.6176914]}",AURONZO DI CADORE VIA ALPINI
+VIA AMBATA,AURONZO DI CADORE,"Via Ambata, Reane, Auronzo di Cadore, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [12.4207302, 46.5621504]}",AURONZO DI CADORE VIA AMBATA
+VIA ANSIEI,AURONZO DI CADORE,"Ansiei, Auronzo di Cadore, Belluno, Veneto, 32041, Italia","{'type': 'Point', 'coordinates': [12.3511437, 46.5662297]}",AURONZO DI CADORE VIA ANSIEI
+VIA ANTONIO BERTI,AURONZO DI CADORE,"Via Antonio Berti, Reane, Cima Gogna, Auronzo di Cadore, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [12.4334983, 46.5538214]}",AURONZO DI CADORE VIA ANTONIO BERTI
+VIA CELLA,AURONZO DI CADORE,"Via Cella, Cima Gogna, Auronzo di Cadore, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [12.4608724, 46.5424794]}",AURONZO DI CADORE VIA CELLA
+VIA CIASTEL,AURONZO DI CADORE,"Via Ciastel, Reane, Cima Gogna, Auronzo di Cadore, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [12.4342922, 46.5531353]}",AURONZO DI CADORE VIA CIASTEL
+VIA CIMA GOGNA,AURONZO DI CADORE,"Cima Gogna, Auronzo di Cadore, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [12.4626993, 46.5132165]}",AURONZO DI CADORE VIA CIMA GOGNA
+VIA CORTE,AURONZO DI CADORE,"Via Corte, Cima Gogna, Auronzo di Cadore, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [12.4407798, 46.5523463]}",AURONZO DI CADORE VIA CORTE
+VIA DANTE,AURONZO DI CADORE,"Via Dante Alighieri, Cima Gogna, Auronzo di Cadore, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [12.4399975, 46.5527412]}",AURONZO DI CADORE VIA DANTE
+VIA DE FILIPPO,AURONZO DI CADORE,"Via De Filippo, Cima Gogna, Auronzo di Cadore, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [12.453825, 46.5473445]}",AURONZO DI CADORE VIA DE FILIPPO
+VIA DELLA GROTTA,AURONZO DI CADORE,"Via della Grotta, Cima Gogna, Auronzo di Cadore, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [12.4559872, 46.5464193]}",AURONZO DI CADORE VIA DELLA GROTTA
+VIA DELL'ANGELO,AURONZO DI CADORE,"Via dell'Angelo, Cima Gogna, Auronzo di Cadore, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [12.4624242, 46.5423583]}",AURONZO DI CADORE VIA DELL'ANGELO
+LOCALITA' PONTE DOLOMITI,BELLUNO,"Ponte Dolomiti, Borgo Piave, Cavessago, Belluno, Veneto, 32100, Italia","{'type': 'Point', 'coordinates': [12.2270211, 46.1343663]}",BELLUNO  PONTE DOLOMITI
+PIAZZA CASTELLO,BELLUNO,"Piazza Castello, Lambioi, Cavessago, Belluno, Veneto, 32100, Italia","{'type': 'Point', 'coordinates': [12.21591, 46.1382967]}",BELLUNO PIAZZA CASTELLO
+PIAZZA DEI MARTIRI,BELLUNO,"Piazza dei Martiri, Lambioi, Cavessago, Belluno, Veneto, 32100, Italia","{'type': 'Point', 'coordinates': [12.2151491, 46.139201]}",BELLUNO PIAZZA DEI MARTIRI
+PIAZZA DUOMO,BELLUNO,"Piazza Duomo, Cies, Lamon, Belluno, Veneto, 32033, Italia","{'type': 'Point', 'coordinates': [11.7488666, 46.0471772]}",BELLUNO PIAZZA DUOMO
+PIAZZA MERCATO,BELLUNO,"Piazza Mercato, Cesiominore, Cesiomaggiore, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [11.9870217, 46.0884113]}",BELLUNO PIAZZA MERCATO
+PIAZZA OLTRARDO,BELLUNO,"Piazza Oltrardo, Cavarzano, Vezzano, Belluno, Veneto, 32100, Italia","{'type': 'Point', 'coordinates': [12.2105707, 46.148237]}",BELLUNO PIAZZA OLTRARDO
+PIAZZA SAN GIOVANNI BOSCO,BELLUNO,"San Giovanni Bosco, Via Francesco Agosti, Borgo Prà, Cavessago, Belluno, Veneto, 32100, Italia","{'type': 'Point', 'coordinates': [12.225500726844263, 46.14365885]}",BELLUNO PIAZZA SAN GIOVANNI BOSCO
+PIAZZA SANTO STEFANO,BELLUNO,"Piazza Santo Stefano, Borgo Prà, Cavessago, Belluno, Veneto, 32100, Italia","{'type': 'Point', 'coordinates': [12.2183966, 46.1408033]}",BELLUNO PIAZZA SANTO STEFANO
+PIAZZALE C. BATTISTI,BELLUNO,"Via Cesare Battisti, Preabocco, Brentino Belluno, Verona, Veneto, Italia","{'type': 'Point', 'coordinates': [10.8731858, 45.6429776]}",BELLUNO PIAZZALE C. BATTISTI
+PIAZZALE DELLA STAZIONE,BELLUNO,"Piazzale della Stazione, Lambioi, Vezzano, Belluno, Veneto, 32100, Italia","{'type': 'Point', 'coordinates': [12.2107395, 46.1412043]}",BELLUNO PIAZZALE DELLA STAZIONE
+PIAZZALE NEVEGAL,BELLUNO,"Piazzale Nevegal, Nevegal, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [12.2826739, 46.0935117]}",BELLUNO PIAZZALE NEVEGAL
+PIAZZALE RESISTENZA,BELLUNO,"Piazzale Resistenza, Cima i Pra, Rione Santa Caterina, Ponte nelle Alpi, Belluno, Veneto, 32014, Italia","{'type': 'Point', 'coordinates': [12.2826686, 46.1802794]}",BELLUNO PIAZZALE RESISTENZA
+PIAZZALE STAZIONE,BELLUNO,"Belluno, Sottopasso stazione ferroviaria, Lambioi, Vezzano, Belluno, Veneto, 32100, Italia","{'type': 'Point', 'coordinates': [12.2097598, 46.1413929]}",BELLUNO PIAZZALE STAZIONE
+PIAZZALE VITTIME DELLE FOIBE,BELLUNO,"Piazzale Vittime delle Foibe, Lambioi, Vezzano, Belluno, Veneto, 32100, Italia","{'type': 'Point', 'coordinates': [12.2103202, 46.141089]}",BELLUNO PIAZZALE VITTIME DELLE FOIBE
+VIA 10 MARZO 1945,BELLUNO,"Via 10 marzo 1945, Mussoi, Vezzano, Belluno, Veneto, 32100, Italia","{'type': 'Point', 'coordinates': [12.1887717, 46.142765]}",BELLUNO VIA 10 MARZO 1945
+VIA A. ALPAGO,BELLUNO,"Alpago, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [12.3548944, 46.1306681]}",BELLUNO VIA A. ALPAGO
+VIA A. BETTIO,BELLUNO,"Via Antonio Bettio, Cusighe, Pedeserva, Belluno, Veneto, 32100, Italia","{'type': 'Point', 'coordinates': [12.2310686, 46.1505913]}",BELLUNO VIA A. BETTIO
+VIA ANTELAO,BORCA DI CADORE,"Via Antelao, Villanova, Borca di Cadore, Belluno, Veneto, 32046, Italia","{'type': 'Point', 'coordinates': [12.2265644, 46.4326429]}",BORCA DI CADORE VIA ANTELAO
+VIA CAVOUR,BORCA DI CADORE,"Via Cavour, Villanova, Borca di Cadore, Belluno, Veneto, 32046, Italia","{'type': 'Point', 'coordinates': [12.2280514, 46.4282594]}",BORCA DI CADORE VIA CAVOUR
+VIA CROERA,BORCA DI CADORE,"Via Croera, Villanova, Borca di Cadore, Belluno, Veneto, 32046, Italia","{'type': 'Point', 'coordinates': [12.2214508, 46.4384313]}",BORCA DI CADORE VIA CROERA
+VIA DEL CRISTO,BORCA DI CADORE,"Via del Cristo, Villanova, Borca di Cadore, Belluno, Veneto, 32046, Italia","{'type': 'Point', 'coordinates': [12.2063979, 46.4399662]}",BORCA DI CADORE VIA DEL CRISTO
+VIA DELLA CHIESA,BORCA DI CADORE,"Via della Chiesa, Villanova, Borca di Cadore, Belluno, Veneto, 32046, Italia","{'type': 'Point', 'coordinates': [12.2174515, 46.4365167]}",BORCA DI CADORE VIA DELLA CHIESA
+VIA ENRICO MATTEI,BORCA DI CADORE,"Via Enrico Mattei, Villanova, Borca di Cadore, Belluno, Veneto, 32046, Italia","{'type': 'Point', 'coordinates': [12.2381761, 46.429485]}",BORCA DI CADORE VIA ENRICO MATTEI
+VIA FERRANDINA,BORCA DI CADORE,"Via Ferrandina, Villanova, Borca di Cadore, Belluno, Veneto, 32046, Italia","{'type': 'Point', 'coordinates': [12.2365363, 46.4265707]}",BORCA DI CADORE VIA FERRANDINA
+VIA FUSINELES,BORCA DI CADORE,"Via Fusineles, Villanova, Borca di Cadore, Belluno, Veneto, 32046, Italia","{'type': 'Point', 'coordinates': [12.2186849, 46.4341828]}",BORCA DI CADORE VIA FUSINELES
+VIA GIUSEPPE GARIBALDI,BORCA DI CADORE,"Via Giuseppe Garibaldi, Villanova, Borca di Cadore, Belluno, Veneto, 32046, Italia","{'type': 'Point', 'coordinates': [12.2219355, 46.4358387]}",BORCA DI CADORE VIA GIUSEPPE GARIBALDI
+VIA LA VARES,BORCA DI CADORE,"Via La Vares, Villanova, Borca di Cadore, Belluno, Veneto, 32046, Italia","{'type': 'Point', 'coordinates': [12.2110527, 46.4388962]}",BORCA DI CADORE VIA LA VARES
+VIA MARCONI,BORCA DI CADORE,"Via Marconi, Villanova, Borca di Cadore, Belluno, Veneto, 32046, Italia","{'type': 'Point', 'coordinates': [12.2249993, 46.4316687]}",BORCA DI CADORE VIA MARCONI
+VIA METANOPOLI,BORCA DI CADORE,"Via Metanopoli, Villanova, Borca di Cadore, Belluno, Veneto, 32046, Italia","{'type': 'Point', 'coordinates': [12.2323293, 46.4333573]}",BORCA DI CADORE VIA METANOPOLI
+VIA PARABELUN,BORCA DI CADORE,"Via Parabelun, Villanova, Borca di Cadore, Belluno, Veneto, 32046, Italia","{'type': 'Point', 'coordinates': [12.2027361, 46.4423285]}",BORCA DI CADORE VIA PARABELUN
+VIA PEZES,BORCA DI CADORE,"Via Pezes, Villanova, Borca di Cadore, Belluno, Veneto, 32046, Italia","{'type': 'Point', 'coordinates': [12.2037716, 46.4446365]}",BORCA DI CADORE VIA PEZES
+VIA ROMA,BORCA DI CADORE,"Borca di Cadore, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [12.219598, 46.436423]}",BORCA DI CADORE VIA ROMA
+VIA S. ROCCO,BORCA DI CADORE,"Via San Rocco, Villanova, Borca di Cadore, Belluno, Veneto, 32046, Italia","{'type': 'Point', 'coordinates': [12.2242446, 46.4326483]}",BORCA DI CADORE VIA S. ROCCO
+VIA SALIETO,BORCA DI CADORE,"Via Salieto, Villanova, Borca di Cadore, Belluno, Veneto, 32046, Italia","{'type': 'Point', 'coordinates': [12.2145003, 46.4381912]}",BORCA DI CADORE VIA SALIETO
+VIA TAULEN MARCEANA,BORCA DI CADORE,"Via Taulen Marceana, Villanova, Borca di Cadore, Belluno, Veneto, 32046, Italia","{'type': 'Point', 'coordinates': [12.2107865, 46.4420776]}",BORCA DI CADORE VIA TAULEN MARCEANA
+LOCALITA' LA BELLA,CALALZO DI CADORE,"Via La Bella, Molinà, Calalzo di Cadore, Belluno, Veneto, 32042, Italia","{'type': 'Point', 'coordinates': [12.3861119, 46.4432306]}",CALALZO DI CADORE  LA BELLA
+LOCALITA' PRACIADELAN,CALALZO DI CADORE,"Praciadelan, Rizzios, Calalzo di Cadore, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [12.3412374, 46.471887]}",CALALZO DI CADORE  PRACIADELAN
+LOCALITA' TUORO,CALALZO DI CADORE,"tuoro, Rizzios, Calalzo di Cadore, Belluno, Veneto, 32044, Italia","{'type': 'Point', 'coordinates': [12.3443582, 46.4670995]}",CALALZO DI CADORE  TUORO
+PIAZZA IV NOVEMBRE,CALALZO DI CADORE,"Piazza IV Novembre, Molinà, Calalzo di Cadore, Belluno, Veneto, 32042, Italia","{'type': 'Point', 'coordinates': [12.3802096, 46.4468978]}",CALALZO DI CADORE PIAZZA IV NOVEMBRE
+VIA ANTELAO,CALALZO DI CADORE,"Via Antelao, Rizzios, Calalzo di Cadore, Belluno, Veneto, 32042, Italia","{'type': 'Point', 'coordinates': [12.375777, 46.4497464]}",CALALZO DI CADORE VIA ANTELAO
+VIA E. BONAZZOLA,CALALZO DI CADORE,"Via Enrico Bonazzola, Molinà, Calalzo di Cadore, Belluno, Veneto, 32042, Italia","{'type': 'Point', 'coordinates': [12.3807288, 46.4450141]}",CALALZO DI CADORE VIA E. BONAZZOLA
+VIA FIORI,CALALZO DI CADORE,"Via Fiori, Molinà, Calalzo di Cadore, Belluno, Veneto, 32042, Italia","{'type': 'Point', 'coordinates': [12.3806878, 46.4471892]}",CALALZO DI CADORE VIA FIORI
+VIA G. GIACOMELLI,CALALZO DI CADORE,"Via Giacomelli, Molinà, Calalzo di Cadore, Belluno, Veneto, 32042, Italia","{'type': 'Point', 'coordinates': [12.3825402, 46.4470376]}",CALALZO DI CADORE VIA G. GIACOMELLI
+VIA GIOVANNI XXIII,CALALZO DI CADORE,"Via Giovanni XXIII, Molinà, Calalzo di Cadore, Belluno, Veneto, 32042, Italia","{'type': 'Point', 'coordinates': [12.3816834, 46.4458423]}",CALALZO DI CADORE VIA GIOVANNI XXIII
+VIA LAGOLE,CALALZO DI CADORE,"Via Lagole, Molinà, Calalzo di Cadore, Belluno, Veneto, 32042, Italia","{'type': 'Point', 'coordinates': [12.3870268, 46.445008]}",CALALZO DI CADORE VIA LAGOLE
+VIA LIGURIA,CALALZO DI CADORE,"Via Liguria, Molinà, Calalzo di Cadore, Belluno, Veneto, 32042, Italia","{'type': 'Point', 'coordinates': [12.3807716, 46.4462178]}",CALALZO DI CADORE VIA LIGURIA
+VIA MARMAROLE,CALALZO DI CADORE,"Via Marmarole, Molinà, Calalzo di Cadore, Belluno, Veneto, 32042, Italia","{'type': 'Point', 'coordinates': [12.3819557, 46.4407935]}",CALALZO DI CADORE VIA MARMAROLE
+VIA MOLINA',CALALZO DI CADORE,"Via Molinà, Molinà, Calalzo di Cadore, Belluno, Veneto, 32042, Italia","{'type': 'Point', 'coordinates': [12.3878155, 46.4476638]}",CALALZO DI CADORE VIA MOLINA'
+FRAZIONE FEDER,CANALE D'AGORDO,"Feder, Canale d'Agordo, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [11.895968869620255, 46.3754967]}",CANALE D'AGORDO  FEDER
+FRAZIONE FREGONA,CANALE D'AGORDO,"Fregona, Canale d'Agordo, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [11.9058946, 46.3689088]}",CANALE D'AGORDO  FREGONA
+LOCALITA' CARFON,CANALE D'AGORDO,"Carfon, Canale d'Agordo, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [11.921652221659768, 46.3668127]}",CANALE D'AGORDO  CARFON
+LOCALITA' COLMEAN,CANALE D'AGORDO,"Colmean, Canale d'Agordo, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [11.89179646443055, 46.3773113]}",CANALE D'AGORDO  COLMEAN
+LOCALITA' GARES,CANALE D'AGORDO,"Gares, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [11.8814448, 46.3126645]}",CANALE D'AGORDO  GARES
+LOCALITA' LA MORA,CANALE D'AGORDO,"La Mora, Canale d'Agordo, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [11.901134, 46.3636541]}",CANALE D'AGORDO  LA MORA
+LOCALITA' LAGAZZON,CANALE D'AGORDO,"Rifugio Lagazzon, Via Fregona, Vallada Agordina, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [11.910301225611853, 46.38072645]}",CANALE D'AGORDO  LAGAZZON
+LOCALITA' PISOLIVA,CANALE D'AGORDO,"Pisoliva, La Mora, Canale d'Agordo, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [11.8982529, 46.366186]}",CANALE D'AGORDO  PISOLIVA
+LOCALITA' TEGOSA,CANALE D'AGORDO,"Torrente Tegosa, Canale d'Agordo, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [11.9055454, 46.376642]}",CANALE D'AGORDO  TEGOSA
+LOCALITA' VAL,CANALE D'AGORDO,"Val della Pissa, Canale d'Agordo, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [11.9258486, 46.3533441]}",CANALE D'AGORDO  VAL
+PIAZZA PAPA LUCIANI,CANALE D'AGORDO,"Piazza Papa Luciani, Fregona, Canale d'Agordo, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [11.914493, 46.3606796]}",CANALE D'AGORDO PIAZZA PAPA LUCIANI
+VIA 20 AGOSTO,CANALE D'AGORDO,"Via 20 Agosto, Fregona, Canale d'Agordo, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [11.9140749, 46.3574175]}",CANALE D'AGORDO VIA 20 AGOSTO
+VIA AL FORN,CANALE D'AGORDO,"Via al Forn, Fregona, Canale d'Agordo, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [11.9144375, 46.3613708]}",CANALE D'AGORDO VIA AL FORN
+VIA CAVALLERA,CANALE D'AGORDO,"Via Cavallera, Fregona, Canale d'Agordo, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [11.9133881, 46.3612472]}",CANALE D'AGORDO VIA CAVALLERA
+VIA FREGONA,CANALE D'AGORDO,"Via Fregona, Vallada Agordina, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [11.9081188, 46.3755722]}",CANALE D'AGORDO VIA FREGONA
+VIA LOTTA,CANALE D'AGORDO,"Via Lotta, Fregona, Canale d'Agordo, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [11.915711, 46.3581669]}",CANALE D'AGORDO VIA LOTTA
+VIA MEZZAVILLA,CANALE D'AGORDO,"Via Mezzavilla, Fregona, Canale d'Agordo, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [11.9144929, 46.3569644]}",CANALE D'AGORDO VIA MEZZAVILLA
+VIA MONSIGNOR A. BRAMEZZA,CANALE D'AGORDO,"Via Monsignor Bramezza, Fregona, Canale d'Agordo, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [11.9143971, 46.3613748]}",CANALE D'AGORDO VIA MONSIGNOR A. BRAMEZZA
+VIA PRADE,CANALE D'AGORDO,"Via Prade, La Mora, Canale d'Agordo, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [11.9145367, 46.3543206]}",CANALE D'AGORDO VIA PRADE
+VIA RIVIDELLA,CANALE D'AGORDO,"Via Rividella, Fregona, Canale d'Agordo, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [11.9137392, 46.3574392]}",CANALE D'AGORDO VIA RIVIDELLA
+VIA ROMA,CANALE D'AGORDO,"Via Roma, Fregona, Canale d'Agordo, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [11.9151548, 46.3585813]}",CANALE D'AGORDO VIA ROMA
+VIA SOIA,CANALE D'AGORDO,"Via Soia, Fregona, Canale d'Agordo, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [11.9181274, 46.3587089]}",CANALE D'AGORDO VIA SOIA
+VIA SOMMAVILLA,CANALE D'AGORDO,"Via Sommavilla, La Mora, Canale d'Agordo, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [11.9140189, 46.3553562]}",CANALE D'AGORDO VIA SOMMAVILLA
+LOCALITA' CHIOIT,CENCENIGHE AGORDINO,"Chioit, Cencenighe Agordino, Belluno, Veneto, 32020, Italia","{'type': 'Point', 'coordinates': [11.9544682, 46.3470977]}",CENCENIGHE AGORDINO  CHIOIT
+PIAZZA IV NOVEMBRE,CENCENIGHE AGORDINO,"Piazza IV Novembre, Balestier, Cencenighe Agordino, Belluno, Veneto, 32020, Italia","{'type': 'Point', 'coordinates': [11.9668985, 46.3525936]}",CENCENIGHE AGORDINO PIAZZA IV NOVEMBRE
+PIAZZA VECCHIA,CENCENIGHE AGORDINO,"Piazza Vecchia, Balestier, Cencenighe Agordino, Belluno, Veneto, 32020, Italia","{'type': 'Point', 'coordinates': [11.9673704, 46.3527356]}",CENCENIGHE AGORDINO PIAZZA VECCHIA
+VIA ATTILIO TISSI,CENCENIGHE AGORDINO,"Via Attilio Tissi, Pascol, Cencenighe Agordino, Belluno, Veneto, 32020, Italia","{'type': 'Point', 'coordinates': [11.970554, 46.3477368]}",CENCENIGHE AGORDINO VIA ATTILIO TISSI
+VIA BALESTIER,CENCENIGHE AGORDINO,"Via Balestier, Balestier, Cencenighe Agordino, Belluno, Veneto, 32020, Italia","{'type': 'Point', 'coordinates': [11.9696627, 46.3579315]}",CENCENIGHE AGORDINO VIA BALESTIER
+VIA BASTIANI,CENCENIGHE AGORDINO,"Via Bastiani, Bastiani, Cencenighe Agordino, Belluno, Veneto, 32020, Italia","{'type': 'Point', 'coordinates': [11.9773346, 46.3579041]}",CENCENIGHE AGORDINO VIA BASTIANI
+VIA BOGO,CENCENIGHE AGORDINO,"Via Bogo, Bogo, Cencenighe Agordino, Belluno, Veneto, 32020, Italia","{'type': 'Point', 'coordinates': [11.9570001, 46.3462392]}",CENCENIGHE AGORDINO VIA BOGO
+VIA CAMPO,CENCENIGHE AGORDINO,"Via Campo, Col da Campo, Cencenighe Agordino, Belluno, Veneto, 32020, Italia","{'type': 'Point', 'coordinates': [11.9743547, 46.3449965]}",CENCENIGHE AGORDINO VIA CAMPO
+VIA CAVARZAN,CENCENIGHE AGORDINO,"Cavarzan, Cencenighe Agordino, Belluno, Veneto, 32020, Italia","{'type': 'Point', 'coordinates': [11.9617822, 46.3524444]}",CENCENIGHE AGORDINO VIA CAVARZAN
+VIA CHENET,CENCENIGHE AGORDINO,"Via Chenet, Chenet, Cencenighe Agordino, Belluno, Veneto, 32020, Italia","{'type': 'Point', 'coordinates': [11.9765139, 46.3553347]}",CENCENIGHE AGORDINO VIA CHENET
+VIA CHIOIPE,CENCENIGHE AGORDINO,"Via Chioipe, Balestier, Cencenighe Agordino, Belluno, Veneto, 32020, Italia","{'type': 'Point', 'coordinates': [11.970267, 46.3547905]}",CENCENIGHE AGORDINO VIA CHIOIPE
+VIA COLLAZ,CENCENIGHE AGORDINO,"Via Collaz, Collaz, Cencenighe Agordino, Belluno, Veneto, 32020, Italia","{'type': 'Point', 'coordinates': [11.979072, 46.3598184]}",CENCENIGHE AGORDINO VIA COLLAZ
+VIA DANTE ALIGHIERI,CENCENIGHE AGORDINO,"Via Dante Alighieri, Palù, Cencenighe Agordino, Belluno, Veneto, 32020, Italia","{'type': 'Point', 'coordinates': [11.9687275, 46.3514395]}",CENCENIGHE AGORDINO VIA DANTE ALIGHIERI
+VIA FOCH,CENCENIGHE AGORDINO,"Via Foch, Foch, Cencenighe Agordino, Belluno, Veneto, 32020, Italia","{'type': 'Point', 'coordinates': [11.9740489, 46.3516284]}",CENCENIGHE AGORDINO VIA FOCH
+VIA GHIRLO,CENCENIGHE AGORDINO,"Via Ghirlo, Ghirlo, Cencenighe Agordino, Belluno, Veneto, 32020, Italia","{'type': 'Point', 'coordinates': [11.9759825, 46.3426807]}",CENCENIGHE AGORDINO VIA GHIRLO
+VIA GIORDANO SOPPELSA,CENCENIGHE AGORDINO,"Via Giordano Soppelsa, Vare Basse, Cencenighe Agordino, Belluno, Veneto, 32020, Italia","{'type': 'Point', 'coordinates': [11.9731851, 46.3425968]}",CENCENIGHE AGORDINO VIA GIORDANO SOPPELSA
+VIA GIOVANNI DE BIASIO,CENCENIGHE AGORDINO,"Via Giovanni De Biasio, Pascol, Cencenighe Agordino, Belluno, Veneto, 32020, Italia","{'type': 'Point', 'coordinates': [11.9696179, 46.3456131]}",CENCENIGHE AGORDINO VIA GIOVANNI DE BIASIO
+VIA ISIDORO SOPPELSA,CENCENIGHE AGORDINO,"Via Isidoro Soppelsa, Avoscan, Cencenighe Agordino, Belluno, Veneto, 32020, Italia","{'type': 'Point', 'coordinates': [11.9725333, 46.3536261]}",CENCENIGHE AGORDINO VIA ISIDORO SOPPELSA
+VIA LORENZON,CENCENIGHE AGORDINO,"Via Lorenzon, Lorenzon, Cencenighe Agordino, Belluno, Veneto, 32020, Italia","{'type': 'Point', 'coordinates': [11.9746652, 46.3569677]}",CENCENIGHE AGORDINO VIA LORENZON
+VIA MARIO DE BIASIO,CENCENIGHE AGORDINO,"Via Mario De Biasio, Palù, Cencenighe Agordino, Belluno, Veneto, 32020, Italia","{'type': 'Point', 'coordinates': [11.9683929, 46.3496393]}",CENCENIGHE AGORDINO VIA MARIO DE BIASIO
+VIA MARTIN,CENCENIGHE AGORDINO,"Via Martin, Martin, Cencenighe Agordino, Belluno, Veneto, 32020, Italia","{'type': 'Point', 'coordinates': [11.9613594, 46.3477664]}",CENCENIGHE AGORDINO VIA MARTIN
+VIA MORBIACH,CENCENIGHE AGORDINO,"Morbiach, Cencenighe Agordino, Belluno, Veneto, 32020, Italia","{'type': 'Point', 'coordinates': [11.9777691, 46.3403025]}",CENCENIGHE AGORDINO VIA MORBIACH
+VIA PENNSYLVANIA,CENCENIGHE AGORDINO,"Via Pennsylvania, Palù, Cencenighe Agordino, Belluno, Veneto, 32020, Italia","{'type': 'Point', 'coordinates': [11.9675137, 46.3490633]}",CENCENIGHE AGORDINO VIA PENNSYLVANIA
+P.ZZA A.FERRARI,CESIOMAGGIORE,"Piazza A. Ferrari, Cesiominore, Cesiomaggiore, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [11.9889327, 46.0883276]}",CESIOMAGGIORE P.ZZA A.FERRARI
+P.ZZA COMMERCIO,CESIOMAGGIORE,"Piazza Commercio, Cesiominore, Cesiomaggiore, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [11.987661866862021, 46.0864454]}",CESIOMAGGIORE P.ZZA COMMERCIO
+P.ZZA MERCATO,CESIOMAGGIORE,"Piazza Mercato, Cesiominore, Cesiomaggiore, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [11.9870217, 46.0884113]}",CESIOMAGGIORE P.ZZA MERCATO
+PIAZZA ARATIBA,CESIOMAGGIORE,"Piazzale Aratiba, Pez, Cesiomaggiore, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [11.9826307, 46.0403216]}",CESIOMAGGIORE PIAZZA ARATIBA
+VIA ANZAVEN,CESIOMAGGIORE,"Via Anzaven, Anzaven, Cesiomaggiore, Belluno, Veneto, 32035, Italia","{'type': 'Point', 'coordinates': [11.9932528, 46.067974]}",CESIOMAGGIORE VIA ANZAVEN
+VIA AVE,CESIOMAGGIORE,"Via Avenue, Montagne, Cesiomaggiore, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [11.9527073, 46.087109]}",CESIOMAGGIORE VIA AVE
+VIA BATTAGLION SPLUGA,CESIOMAGGIORE,"Via Battaglion Spluga, Soranzen, Cesiomaggiore, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [11.9496222, 46.0744857]}",CESIOMAGGIORE VIA BATTAGLION SPLUGA
+VIA BOSCHI DI PEZ,CESIOMAGGIORE,"Via Boschi di Pez, Pez, Cesiomaggiore, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [11.9807102, 46.0540825]}",CESIOMAGGIORE VIA BOSCHI DI PEZ
+VIA BOSIL,CESIOMAGGIORE,"Via Bosil, Marsiai, Cesiomaggiore, Belluno, Veneto, 32035, Italia","{'type': 'Point', 'coordinates': [12.0106582, 46.0855921]}",CESIOMAGGIORE VIA BOSIL
+VIA BOSSANA,CESIOMAGGIORE,"Via Bossana, Cesiominore, Cesiomaggiore, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [11.983968, 46.0924338]}",CESIOMAGGIORE VIA BOSSANA
+VIA BUSA,CESIOMAGGIORE,"Via Busa, Soranzen, Cesiomaggiore, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [11.9491135, 46.0760368]}",CESIOMAGGIORE VIA BUSA
+VIA BUSCHE,CESIOMAGGIORE,"Via Busche, Pez, Cesiomaggiore, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [11.9855917, 46.0381068]}",CESIOMAGGIORE VIA BUSCHE
+VIA BUSETTE DI FIANEMA,CESIOMAGGIORE,"Via Busette di Fianema, Fianema, Cesiomaggiore, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [11.9525654, 46.0588054]}",CESIOMAGGIORE VIA BUSETTE DI FIANEMA
+VIA BUSETTE DI PULLIR,CESIOMAGGIORE,"Via Busette di Pullir, Menin, Cesiomaggiore, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [11.9635599, 46.0520698]}",CESIOMAGGIORE VIA BUSETTE DI PULLIR
+VIA CALDRERIE,CESIOMAGGIORE,"Via Caldrerie, Cesiominore, Cesiomaggiore, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [11.979118, 46.0828982]}",CESIOMAGGIORE VIA CALDRERIE
+VIA CALLIOL,CESIOMAGGIORE,"Via Calliol, Calliol, Cesiomaggiore, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [11.9770576, 46.0740705]}",CESIOMAGGIORE VIA CALLIOL
+VIA CAMPAGNA,CESIOMAGGIORE,"Via Campagna, Fianema, Cesiomaggiore, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [11.9414209, 46.0652668]}",CESIOMAGGIORE VIA CAMPAGNA
+VIA CAMPEDEI,CESIOMAGGIORE,"Via Campedei, Dorgnan, Cesiomaggiore, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [11.9843696, 46.0586629]}",CESIOMAGGIORE VIA CAMPEDEI
+VIA CAN,CESIOMAGGIORE,"Via Can, Can, Cesiomaggiore, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [11.9651321, 46.078509]}",CESIOMAGGIORE VIA CAN
+VIA CANESEL,CESIOMAGGIORE,"Via Canesel, Cesiominore, Cesiomaggiore, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [11.9880489, 46.087963]}",CESIOMAGGIORE VIA CANESEL
+VIA CAPITEL,CESIOMAGGIORE,"Via Capitel, Menin, Cesiomaggiore, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [11.9607897, 46.0639249]}",CESIOMAGGIORE VIA CAPITEL
+VIA CASETTE,CESIOMAGGIORE,"Via Casette, Fianema, Cesiomaggiore, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [11.9484332, 46.0627992]}",CESIOMAGGIORE VIA CASETTE
+BORGO GIUSEPPE GARIBALDI,CHIES D'ALPAGO,"Borgo Giuseppe Garibaldi, Premal, Molini, Chies d'Alpago, Belluno, Veneto, 32010, Italia","{'type': 'Point', 'coordinates': [12.3943884, 46.1645513]}",CHIES D'ALPAGO BORGO GIUSEPPE GARIBALDI
+CORSO ITALIA,CHIES D'ALPAGO,"Corso Italia, Premal, Alpaos, Chies d'Alpago, Belluno, Veneto, 32010, Italia","{'type': 'Point', 'coordinates': [12.3863314, 46.1710843]}",CHIES D'ALPAGO CORSO ITALIA
+LOCALITA' CAOTES,CHIES D'ALPAGO,"Via Caotes, Chies d'Alpago, Belluno, Veneto, 32010, Italia","{'type': 'Point', 'coordinates': [12.425664, 46.150555]}",CHIES D'ALPAGO  CAOTES
+VIA CIBIANA DI SOTTO,CIBIANA DI CADORE,"Cibiana di Sotto, Cibiana di Cadore, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [12.2883212, 46.3890595]}",CIBIANA DI CADORE VIA CIBIANA DI SOTTO
+VIA MASARIE',CIBIANA DI CADORE,"Masarié, Cibiana di Cadore, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [12.2950114, 46.3945391]}",CIBIANA DI CADORE VIA MASARIE'
+LOCALITA' SOPPAUSE,COLLE SANTA LUCIA,"Soppause, Sopradaz, Colle Santa Lucia, Belluno, Veneto, 32022, Italia","{'type': 'Point', 'coordinates': [12.0126493, 46.4515682]}",COLLE SANTA LUCIA  SOPPAUSE
+VIA BELVEDERE,COLLE SANTA LUCIA,"Belvedere, Strada Provinciale 251 della Val di Zoldo Val Cellina, Fossal, Pian, Colle Santa Lucia, Belluno, Veneto, 32022, Italia","{'type': 'Point', 'coordinates': [12.001891917128093, 46.4435789]}",COLLE SANTA LUCIA VIA BELVEDERE
+VIA CANAZEI,COLLE SANTA LUCIA,"Canazei, Colle Santa Lucia, Belluno, Veneto, 32022, Italia","{'type': 'Point', 'coordinates': [12.0089063, 46.4503316]}",COLLE SANTA LUCIA VIA CANAZEI
+VIA CODALONGA,COLLE SANTA LUCIA,"Codalonga, Colle Santa Lucia, Belluno, Veneto, 2020, Italia","{'type': 'Point', 'coordinates': [12.0311488, 46.4546919]}",COLLE SANTA LUCIA VIA CODALONGA
+VIA COLCUC,COLLE SANTA LUCIA,"Colcuc, Colle Santa Lucia, Belluno, Veneto, 32022, Italia","{'type': 'Point', 'coordinates': [11.995231, 46.4561805]}",COLLE SANTA LUCIA VIA COLCUC
+VIA COLTORONT,COLLE SANTA LUCIA,"Coltoront, Colle Santa Lucia, Belluno, Veneto, 32022, Italia","{'type': 'Point', 'coordinates': [12.0193709, 46.4502562]}",COLLE SANTA LUCIA VIA COLTORONT
+VIA COSTA,COLLE SANTA LUCIA,"Costa, Sopradaz, Colle Santa Lucia, Belluno, Veneto, 32022, Italia","{'type': 'Point', 'coordinates': [12.0137275, 46.4510545]}",COLLE SANTA LUCIA VIA COSTA
+VIA COSTALTA,COLLE SANTA LUCIA,"Costalta, Colle Santa Lucia, Belluno, Veneto, 32022, Italia","{'type': 'Point', 'coordinates': [12.0184697, 46.4540112]}",COLLE SANTA LUCIA VIA COSTALTA
+VIA FOSSAL,COLLE SANTA LUCIA,"Fossal, Coltoront, Colle Santa Lucia, Belluno, Veneto, 32022, Italia","{'type': 'Point', 'coordinates': [12.01899, 46.451583]}",COLLE SANTA LUCIA VIA FOSSAL
+VIA FURSIL,COLLE SANTA LUCIA,"Miniere del Fursil / Troi, Sentiero delle Miniere, Fossal, Costalta, Colle Santa Lucia, Belluno, Veneto, 32022, Italia","{'type': 'Point', 'coordinates': [12.0268369, 46.4564787]}",COLLE SANTA LUCIA VIA FURSIL
+VIA PALLUA,COLLE SANTA LUCIA,"Via Pallua, Pallua, Canazei, Colle Santa Lucia, Belluno, Veneto, 32022, Italia","{'type': 'Point', 'coordinates': [12.0132335, 46.4489642]}",COLLE SANTA LUCIA VIA PALLUA
+VIA PASSO GIAU,COLLE SANTA LUCIA,"Passo Giau, SP638, Frena, Colle Santa Lucia, Belluno, Veneto, 2020, Italia","{'type': 'Point', 'coordinates': [12.0532055, 46.4828423]}",COLLE SANTA LUCIA VIA PASSO GIAU
+VIA PAVIA,COLLE SANTA LUCIA,"La Pavia, Colle Santa Lucia, Belluno, Veneto, 32022, Italia","{'type': 'Point', 'coordinates': [12.0193137, 46.4498588]}",COLLE SANTA LUCIA VIA PAVIA
+VIA PEZZEI,COLLE SANTA LUCIA,"Pezzei, Colle Santa Lucia, Belluno, Veneto, 32022, Italia","{'type': 'Point', 'coordinates': [12.01899, 46.4493432]}",COLLE SANTA LUCIA VIA PEZZEI
+VIA PIAN,COLLE SANTA LUCIA,"Pian, Colle Santa Lucia, Belluno, Veneto, 32022, Italia","{'type': 'Point', 'coordinates': [12.0230776, 46.4501749]}",COLLE SANTA LUCIA VIA PIAN
+VIA PONT,COLLE SANTA LUCIA,"Pont, Colle Santa Lucia, Belluno, Veneto, 32022, Italia","{'type': 'Point', 'coordinates': [12.0181049, 46.4528285]}",COLLE SANTA LUCIA VIA PONT
+VIA POSALZ,COLLE SANTA LUCIA,"Posalz, Colle Santa Lucia, Belluno, Veneto, 2020, Italia","{'type': 'Point', 'coordinates': [12.028161, 46.4602734]}",COLLE SANTA LUCIA VIA POSALZ
+VIA RIZ,COLLE SANTA LUCIA,"Cesa da Riz, 1, Via Pallua, Pallua, Canazei, Colle Santa Lucia, Belluno, Veneto, 32020, Italia",,COLLE SANTA LUCIA VIA RIZ
+VIA ROVEI,COLLE SANTA LUCIA,"Rovei, Colle Santa Lucia, Belluno, Veneto, 32022, Italia","{'type': 'Point', 'coordinates': [12.0076765, 46.441873]}",COLLE SANTA LUCIA VIA ROVEI
+VIA RU',COLLE SANTA LUCIA,"Ru, Colle Santa Lucia, Belluno, Veneto, 32022, Italia","{'type': 'Point', 'coordinates': [12.0137246, 46.4583641]}",COLLE SANTA LUCIA VIA RU'
+VIA RUCAVA',COLLE SANTA LUCIA,"Rucavà, Colle Santa Lucia, Belluno, Veneto, 32022, Italia","{'type': 'Point', 'coordinates': [11.990167, 46.4546912]}",COLLE SANTA LUCIA VIA RUCAVA'
+VIA SOPRADAZ,COLLE SANTA LUCIA,"Sopradaz, Colle Santa Lucia, Belluno, Veneto, 32022, Italia","{'type': 'Point', 'coordinates': [12.0123972, 46.455386]}",COLLE SANTA LUCIA VIA SOPRADAZ
+VIA TIE',COLLE SANTA LUCIA,"Tie, Colle Santa Lucia, Belluno, Veneto, 32022, Italia","{'type': 'Point', 'coordinates': [12.0034547, 46.4470294]}",COLLE SANTA LUCIA VIA TIE'
+VIA VARAZZA,COLLE SANTA LUCIA,"Varazza, Pezzei, Colle Santa Lucia, Belluno, Veneto, 32022, Italia","{'type': 'Point', 'coordinates': [12.015471, 46.4489367]}",COLLE SANTA LUCIA VIA VARAZZA
+LOCALITA' CESTELLA,COMELICO SUPERIORE,"Lago Cestella, Strada Provinciale 6 di Danta, Danta di Cadore, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [12.490890356098937, 46.568567650000006]}",COMELICO SUPERIORE  CESTELLA
+PIAZZA SAN LUCA - PADOLA,COMELICO SUPERIORE,"Stoneman Stempelstelle Padola, Piazza San Luca, Sopalù, Comelico Superiore, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [12.4786468, 46.6017936]}",COMELICO SUPERIORE PIAZZA SAN LUCA - PADOLA
+CORSO ITALIA,CORTINA D'AMPEZZO,"Corso Italia, Pecol, Crignes, Cortina d'Ampezzo, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [12.136591275723472, 46.5376251]}",CORTINA D'AMPEZZO CORSO ITALIA
+FRAZIONE CADELVERZO DI SOTTO,CORTINA D'AMPEZZO,"Cadelverzo di Sotto, Verocai, Cadelverzo de Sote, Cortina d'Ampezzo, Belluno, Veneto, 32043, Italia","{'type': 'Point', 'coordinates': [12.1281902, 46.5465625]}",CORTINA D'AMPEZZO  CADELVERZO DI SOTTO
+FRAZIONE CAMPO DI SOPRA,CORTINA D'AMPEZZO,"Campo di Sopra, Cortina d'Ampezzo, Belluno, Veneto, 32043, Italia","{'type': 'Point', 'coordinates': [12.1316728, 46.5241277]}",CORTINA D'AMPEZZO  CAMPO DI SOPRA
+FRAZIONE CAMPO DI SOTTO,CORTINA D'AMPEZZO,"Campo di Sotto, Cortina d'Ampezzo, Belluno, Veneto, 32043, Italia","{'type': 'Point', 'coordinates': [12.1304161, 46.5190328]}",CORTINA D'AMPEZZO  CAMPO DI SOTTO
+FRAZIONE CHIAVE,CORTINA D'AMPEZZO,"Cortina d'Ampezzo, Chiave, Cortina d'Ampezzo, Belluno, Veneto, 32043, Italia","{'type': 'Point', 'coordinates': [12.13233809504095, 46.553348]}",CORTINA D'AMPEZZO  CHIAVE
+FRAZIONE COL,CORTINA D'AMPEZZO,"Col, Cortina d'Ampezzo, Belluno, Veneto, 32043, Italia","{'type': 'Point', 'coordinates': [12.1232013, 46.5297435]}",CORTINA D'AMPEZZO  COL
+FRAZIONE LACEDEL,CORTINA D'AMPEZZO,"Lacedèl, Cortina d'Ampezzo, Belluno, Veneto, 32043, Italia","{'type': 'Point', 'coordinates': [12.1219608, 46.5343596]}",CORTINA D'AMPEZZO  LACEDEL
+FRAZIONE MANAIGO,CORTINA D'AMPEZZO,"Località Manaigo, Peziè, Zuel di Sotto, Cortina d'Ampezzo, Belluno, Veneto, 32043, Italia","{'type': 'Point', 'coordinates': [12.1399934, 46.5185952]}",CORTINA D'AMPEZZO  MANAIGO
+FRAZIONE ZUEL DI SOPRA,CORTINA D'AMPEZZO,"Zuel di Sopra, Belluno, Veneto, 32043, Italia","{'type': 'Point', 'coordinates': [12.1441954, 46.5147063]}",CORTINA D'AMPEZZO  ZUEL DI SOPRA
+FRAZIONE ZUEL DI SOTTO,CORTINA D'AMPEZZO,"Zuel di Sotto, Cortina d'Ampezzo, Belluno, Veneto, 32043, Italia","{'type': 'Point', 'coordinates': [12.1453451, 46.5127752]}",CORTINA D'AMPEZZO  ZUEL DI SOTTO
+LOCALITA' DONEA',CORTINA D'AMPEZZO,"Donea, Cortina d'Ampezzo, Belluno, Veneto, 32043, Italia","{'type': 'Point', 'coordinates': [12.1384704, 46.5264619]}",CORTINA D'AMPEZZO  DONEA'
+LOCALITA' FIAMES,CORTINA D'AMPEZZO,"Fiames, Cortina d'Ampezzo, Belluno, Veneto, 32043, Italia","{'type': 'Point', 'coordinates': [12.1178182, 46.5722808]}",CORTINA D'AMPEZZO  FIAMES
+LOCALITA' MELERES,CORTINA D'AMPEZZO,"Melères, Cortina d'Ampezzo, Belluno, Veneto, 32043, Italia","{'type': 'Point', 'coordinates': [12.1252566, 46.534028]}",CORTINA D'AMPEZZO  MELERES
+LOCALITA' PECOL,CORTINA D'AMPEZZO,"Pecol, Alverà, Cortina d'Ampezzo, Belluno, Veneto, 32043, Italia","{'type': 'Point', 'coordinates': [12.1462213, 46.5401547]}",CORTINA D'AMPEZZO  PECOL
+LOCALITA' PEZIE',CORTINA D'AMPEZZO,"Peziè, Zuel di Sotto, Cortina d'Ampezzo, Belluno, Veneto, 32043, Italia","{'type': 'Point', 'coordinates': [12.1419488, 46.5200066]}",CORTINA D'AMPEZZO  PEZIE'
+LOCALITA' PIAN DA LAGO,CORTINA D'AMPEZZO,"Pian del Lago, Acquabona, Cortina d'Ampezzo, Belluno, Veneto, 32043, Italia","{'type': 'Point', 'coordinates': [12.1529461, 46.5094833]}",CORTINA D'AMPEZZO  PIAN DA LAGO
+LOCALITA' POCOL,CORTINA D'AMPEZZO,"Pocol, Cortina d'Ampezzo, Belluno, Veneto, 32043, Italia","{'type': 'Point', 'coordinates': [12.1203078, 46.5225445]}",CORTINA D'AMPEZZO  POCOL
+LOCALITA' SOCOL,CORTINA D'AMPEZZO,"Località Socol, Pian del Lago, Acquabona, Cortina d'Ampezzo, Belluno, Veneto, 32043, Italia","{'type': 'Point', 'coordinates': [12.1528453, 46.5076146]}",CORTINA D'AMPEZZO  SOCOL
+VIA DORIGUZZI ROSSIN,DANTA DI CADORE,"Via Doriguzzi Rossin, Danta di Cadore, Belluno, Veneto, 32045, Italia","{'type': 'Point', 'coordinates': [12.5216872, 46.5665591]}",DANTA DI CADORE VIA DORIGUZZI ROSSIN
+VIA G. MARCONI,DANTA DI CADORE,"Via G. Marconi, Danta di Cadore, Belluno, Veneto, 32045, Italia","{'type': 'Point', 'coordinates': [12.5101112, 46.5690977]}",DANTA DI CADORE VIA G. MARCONI
+VIA GERA,DANTA DI CADORE,"Via Gera, Danta di Cadore, Belluno, Veneto, 32045, Italia","{'type': 'Point', 'coordinates': [12.5203949, 46.5670724]}",DANTA DI CADORE VIA GERA
+VIA MAZZINI,DANTA DI CADORE,"Via Giuseppe Mazzini, Danta di Cadore, Belluno, Veneto, 32045, Italia","{'type': 'Point', 'coordinates': [12.5214743, 46.5672136]}",DANTA DI CADORE VIA MAZZINI
+VIA PAPA LUCIANI,DANTA DI CADORE,"Via Papa Luciani, Danta di Cadore, Belluno, Veneto, 32045, Italia","{'type': 'Point', 'coordinates': [12.5132528, 46.5683316]}",DANTA DI CADORE VIA PAPA LUCIANI
+VIA ROMA,DANTA DI CADORE,"Danta di Cadore, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [12.517302, 46.566029]}",DANTA DI CADORE VIA ROMA
+VIA VITTIME DELLE FOIBE,DANTA DI CADORE,"Via Vittime delle Foibe, Danta di Cadore, Belluno, Veneto, 32045, Italia","{'type': 'Point', 'coordinates': [12.5239143, 46.5669627]}",DANTA DI CADORE VIA VITTIME DELLE FOIBE
+LOCALITA' COLOGNA,DOMEGGE DI CADORE,"Piani di Cologna, Domegge di Cadore, Belluno, Veneto, 32042, Italia","{'type': 'Point', 'coordinates': [12.4080686, 46.4464017]}",DOMEGGE DI CADORE  COLOGNA
+LOCALITA' LA VAL,DOMEGGE DI CADORE,"Val, Domegge di Cadore, Belluno, Veneto, 32040, Italia","{'type': 'Point', 'coordinates': [12.4213316, 46.461928]}",DOMEGGE DI CADORE  LA VAL
+LOCALITA' SACEIDO,DOMEGGE DI CADORE,"Valle Saceido, Domegge di Cadore, Belluno, Veneto, 32040, Italia","{'type': 'Point', 'coordinates': [12.4346194, 46.4534568]}",DOMEGGE DI CADORE  SACEIDO
+VIA CALVI,DOMEGGE DI CADORE,"Via Calvi, Vallesella, Domegge di Cadore, Belluno, Veneto, 32040, Italia","{'type': 'Point', 'coordinates': [12.4122025, 46.4646549]}",DOMEGGE DI CADORE VIA CALVI
+VIA CIALOI,DOMEGGE DI CADORE,"Via Cialoi, Vallesella, Domegge di Cadore, Belluno, Veneto, 32040, Italia","{'type': 'Point', 'coordinates': [12.4158914, 46.4629919]}",DOMEGGE DI CADORE VIA CIALOI
+VIA CRODOLA,DOMEGGE DI CADORE,"Crodola, Domegge di Cadore, Belluno, Veneto, 32042, Italia","{'type': 'Point', 'coordinates': [12.4059682, 46.4537524]}",DOMEGGE DI CADORE VIA CRODOLA
+VIA DEPPO,DOMEGGE DI CADORE,"Via Deppo, Vallesella, Domegge di Cadore, Belluno, Veneto, 32040, Italia","{'type': 'Point', 'coordinates': [12.4131474, 46.4629711]}",DOMEGGE DI CADORE VIA DEPPO
+VIA FIUME,DOMEGGE DI CADORE,"Via Fiume, Vallesella, Domegge di Cadore, Belluno, Veneto, 32040, Italia","{'type': 'Point', 'coordinates': [12.4265993, 46.4665793]}",DOMEGGE DI CADORE VIA FIUME
+VIA GARIBALDI,DOMEGGE DI CADORE,"Via Garibaldi, Vallesella, Domegge di Cadore, Belluno, Veneto, 32040, Italia","{'type': 'Point', 'coordinates': [12.4142537, 46.4603421]}",DOMEGGE DI CADORE VIA GARIBALDI
+VIA GEI,DOMEGGE DI CADORE,"Via Gei, Vallesella, Domegge di Cadore, Belluno, Veneto, 32042, Italia","{'type': 'Point', 'coordinates': [12.4114508, 46.4569504]}",DOMEGGE DI CADORE VIA GEI
+VIA MILANO,DOMEGGE DI CADORE,"Domegge di Cadore, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [12.4158245, 46.4603762]}",DOMEGGE DI CADORE VIA MILANO
+LOCALITA' TABIADON DI VAL,FALCADE,"Via Tabiadon di Val, Caviola, Falcade, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [11.8938935, 46.36963]}",FALCADE  TABIADON DI VAL
+LOCALITA' AI LACH,FALCADE,"Malga ai Lach, sentiero cai 694, Somor, Falcade, Belluno, Veneto, Italia",,FALCADE  AI LACH
+LOCALITA' FALCADE ALTO,FALCADE,"Falcade Alto, SP346, Falcade Alto (Gèsia), Falcade, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [11.8585267, 46.3552962]}",FALCADE  FALCADE ALTO
+LOCALITA' LE COSTE,FALCADE,"Falcade, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [11.8721358, 46.3580293]}",FALCADE  LE COSTE
+LOCALITA' MENEGHINA,FALCADE,"Meneghina, Falcade Alto (Gèsia), Falcade, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [11.878319355537874, 46.3706063]}",FALCADE  MENEGHINA
+LOCALITA' SAPPADE,FALCADE,"Sappade, Falcade, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [11.883421121351429, 46.3698966]}",FALCADE  SAPPADE
+LOCALITA' SOMOR,FALCADE,"Somor, Falcade, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [11.8606867, 46.3583775]}",FALCADE  SOMOR
+LOCALITA' VALT,FALCADE,"Valt, Falcade, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [11.870009975069305, 46.36903665]}",FALCADE  VALT
+PIAZZA AUGUSTO MURER,FALCADE,"Piazza Augusto Murer, Falcade Alto (Gèsia), Falcade, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [11.860122978048782, 46.3520015]}",FALCADE PIAZZA AUGUSTO MURER
+PIAZZA MOLINO,FALCADE,"Molino, Via Scola, Falcade Alto (Gèsia), Falcade, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [11.8592786, 46.3493661]}",FALCADE PIAZZA MOLINO
+PIAZZA MUNICIPIO,FALCADE,"Municipio, Via Tacon, Fregona, Canale d'Agordo, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [11.915091331883367, 46.360449450000004]}",FALCADE PIAZZA MUNICIPIO
+PIAZZALE DELLO SPORT,FALCADE,"Piazzale dello Sport, Somor, Falcade, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [11.8709448, 46.3559703]}",FALCADE PIAZZALE DELLO SPORT
+VIA ALDO MORO,FALCADE,"Via Aldo Moro, Caviola, Falcade, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [11.8974367, 46.367223]}",FALCADE VIA ALDO MORO
+VIA ANGELO SCOLA,FALCADE,"Via Angelo Scola, Falcade Alto (Gèsia), Falcade, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [11.8621514, 46.3524991]}",FALCADE VIA ANGELO SCOLA
+BORGO DEI MENEGAT,FELTRE,"Borgo dei Menegat, Vellai, Feltre, Belluno, Veneto, 32032, Italia","{'type': 'Point', 'coordinates': [11.9363363, 46.0070408]}",FELTRE BORGO DEI MENEGAT
+BORGO LA PRESIDENZA,FELTRE,"Borgo la Presidenza, Sanzan, Feltre, Belluno, Veneto, 32032, Italia","{'type': 'Point', 'coordinates': [11.9382484, 46.004162]}",FELTRE BORGO LA PRESIDENZA
+FRAZIONE ANZU',FELTRE,"Anzù, Belluno, Veneto, 32032, Italia","{'type': 'Point', 'coordinates': [11.9337513, 46.008148]}",FELTRE  ANZU'
+FRAZIONE ARSON,FELTRE,"Arson, Feltre, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [11.9310417, 46.0744695]}",FELTRE  ARSON
+FRAZIONE CANAL,FELTRE,"Feltre, Belluno, Veneto, 32032, Italia","{'type': 'Point', 'coordinates': [11.9062541, 46.0163755]}",FELTRE  CANAL
+FRAZIONE CART,FELTRE,"Cart, Feltre, Belluno, Veneto, 32032, Italia","{'type': 'Point', 'coordinates': [11.9348287, 46.0412464]}",FELTRE  CART
+FRAZIONE FARRA,FELTRE,"Farra, Feltre, Belluno, Veneto, 32032, Italia","{'type': 'Point', 'coordinates': [11.896422, 46.0250671]}",FELTRE  FARRA
+FRAZIONE FOEN,FELTRE,"Foen, Feltre, Belluno, Veneto, 32032, Italia","{'type': 'Point', 'coordinates': [11.9082415, 46.0415587]}",FELTRE  FOEN
+FRAZIONE GRUM,FELTRE,"Grum, Feltre, Belluno, Veneto, 32032, Italia","{'type': 'Point', 'coordinates': [11.9235023, 46.064598]}",FELTRE  GRUM
+FRAZIONE LAMEN,FELTRE,"Lamen, Feltre, Belluno, Veneto, 32034, Italia","{'type': 'Point', 'coordinates': [11.8874584, 46.0586107]}",FELTRE  LAMEN
+FRAZIONE LASEN,FELTRE,"Lasen, Feltre, Belluno, Veneto, 32032, Italia","{'type': 'Point', 'coordinates': [11.9151475, 46.0722056]}",FELTRE  LASEN
+FRAZIONE MUGNAI,FELTRE,"Mugnai, Feltre, Belluno, Veneto, 32034, Italia","{'type': 'Point', 'coordinates': [11.8662966, 46.0123216]}",FELTRE  MUGNAI
+FRAZIONE NEMEGGIO,FELTRE,"Nemeggio, Feltre, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [11.9709045, 46.0295686]}",FELTRE  NEMEGGIO
+FRAZIONE PREN,FELTRE,"Pren, Feltre, Belluno, Veneto, 32032, Italia","{'type': 'Point', 'coordinates': [11.8945227, 46.0573417]}",FELTRE  PREN
+FRAZIONE SANZAN,FELTRE,"Sanzan, Feltre, Belluno, Veneto, 32038, Italia","{'type': 'Point', 'coordinates': [11.9406799, 45.9781656]}",FELTRE  SANZAN
+FRAZIONE TOMO,FELTRE,"Tomo, Feltre, Belluno, Veneto, 32032, Italia","{'type': 'Point', 'coordinates': [11.8942362, 46.0042043]}",FELTRE  TOMO
+FRAZIONE UMIN,FELTRE,"Umin, Feltre, Belluno, Veneto, 32032, Italia","{'type': 'Point', 'coordinates': [11.9230269, 46.0557361]}",FELTRE  UMIN
+FRAZIONE VIGNUI,FELTRE,"Vignui, Feltre, Belluno, Veneto, 32032, Italia","{'type': 'Point', 'coordinates': [11.9111155, 46.0607445]}",FELTRE  VIGNUI
+FRAZIONE VILLABRUNA,FELTRE,"Villabruna, Belluno, Veneto, 32032, Italia","{'type': 'Point', 'coordinates': [11.9319361, 46.0597859]}",FELTRE  VILLABRUNA
+FRAZIONE VILLAGA,FELTRE,"Via Villaga, Tomo, Feltre, Belluno, Veneto, 32032, Italia","{'type': 'Point', 'coordinates': [11.9063414, 46.0078526]}",FELTRE  VILLAGA
+FRAZIONE VILLAPAIERA,FELTRE,"Villapaiera, Belluno, Veneto, 32032, Italia","{'type': 'Point', 'coordinates': [11.9571098, 46.0213641]}",FELTRE  VILLAPAIERA
+LOCALITA' ZERMEN,FELTRE,"Zermen, Belluno, Veneto, 32032, Italia","{'type': 'Point', 'coordinates': [11.9412071, 46.0228108]}",FELTRE  ZERMEN
+PIAZZA A. CAMBRUZZI,FELTRE,"Piazza Antonio Cambruzzi, Borgo Ruga, Feltre, Belluno, Veneto, 32032, Italia","{'type': 'Point', 'coordinates': [11.9097552, 46.0163061]}",FELTRE PIAZZA A. CAMBRUZZI
+PIAZZA BRENTA,FELTRE,"Piazza Brenta, Pasquer, Feltre, Belluno, Veneto, 32032, Italia","{'type': 'Point', 'coordinates': [11.9252799, 46.0253502]}",FELTRE PIAZZA BRENTA
+LOCALITA' MONTE RONCON,FONZASO,"Via Monte Roncon, Fonzaso, Belluno, Veneto, 32030, Italia","{'type': 'Point', 'coordinates': [11.8220465, 46.0052455]}",FONZASO  MONTE RONCON
+LOCALITA' PEDESALTO,FONZASO,"Fonzaso-Pedesalto, Via Primiero, Casoni, Fonzaso, Belluno, Veneto, 32033, Italia","{'type': 'Point', 'coordinates': [11.7809687, 46.0212451]}",FONZASO  PEDESALTO
+PIAZZA ANGELI,FONZASO,"Piazza Angeli, Casoni, Fonzaso, Belluno, Veneto, 32030, Italia","{'type': 'Point', 'coordinates': [11.7975705, 46.0183663]}",FONZASO PIAZZA ANGELI
+PIAZZA CHIESA,FONZASO,"Piazza Chiesa, Casoni, Fonzaso, Belluno, Veneto, 32030, Italia","{'type': 'Point', 'coordinates': [11.7987782, 46.0193759]}",FONZASO PIAZZA CHIESA
+PIAZZA ITALIA,FONZASO,"Piazza Italia, Fonzaso, Belluno, Veneto, 32030, Italia","{'type': 'Point', 'coordinates': [11.8310126, 46.0081613]}",FONZASO PIAZZA ITALIA
+VIA A. BASSANI,FONZASO,"Via Bassani, Case Balzan, Fonzaso, Belluno, Veneto, 32030, Italia","{'type': 'Point', 'coordinates': [11.8048843, 46.0127669]}",FONZASO VIA A. BASSANI
+VIA A. ZUCCO,FONZASO,"Via A. Zucco, Casoni, Fonzaso, Belluno, Veneto, 32030, Italia","{'type': 'Point', 'coordinates': [11.7991268, 46.0173803]}",FONZASO VIA A. ZUCCO
+VIA AGANA,FONZASO,"Strada per Agana, Case al colle di Baio, Fonzaso, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [11.7858166, 45.9961364]}",FONZASO VIA AGANA
+VIA ALDO MORO,FONZASO,"Via Aldo Moro, Fonzaso, Belluno, Veneto, 32030, Italia","{'type': 'Point', 'coordinates': [11.8284771, 46.0063392]}",FONZASO VIA ALDO MORO
+VIA ARSIE',FONZASO,"Via Arsiè, Case Balzan, Fonzaso, Belluno, Veneto, 32030, Italia","{'type': 'Point', 'coordinates': [11.8022346, 46.0111661]}",FONZASO VIA ARSIE'
+VIA BELVEDERE,FONZASO,"Via Belvedere, Fonzaso, Belluno, Veneto, 32030, Italia","{'type': 'Point', 'coordinates': [11.8264363, 46.010656]}",FONZASO VIA BELVEDERE
+VIA BROLO DE PANTZ,FONZASO,"Via Brolo de Pantz, Case Balzan, Fonzaso, Belluno, Veneto, 32030, Italia","{'type': 'Point', 'coordinates': [11.8051107, 46.0135911]}",FONZASO VIA BROLO DE PANTZ
+VIA CALDERAL,FONZASO,"Via Calderal, Case Balzan, Fonzaso, Belluno, Veneto, 32030, Italia","{'type': 'Point', 'coordinates': [11.8078901, 46.0065261]}",FONZASO VIA CALDERAL
+VIA CANOSSIANE,FONZASO,"Via Canossiane, Case Balzan, Fonzaso, Belluno, Veneto, 32030, Italia","{'type': 'Point', 'coordinates': [11.8026682, 46.0165414]}",FONZASO VIA CANOSSIANE
+VIA CASE BALZAN,FONZASO,"Case Balzan, Fonzaso, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [11.7986488, 45.9951052]}",FONZASO VIA CASE BALZAN
+VIA DANTE,FONZASO,"via Dante, Casoni, Fonzaso, Belluno, Veneto, 32030, Italia","{'type': 'Point', 'coordinates': [11.8018638, 46.0158097]}",FONZASO VIA DANTE
+VIA DEGLI ALPINI,FONZASO,"Via degli Alpini, Case Balzan, Fonzaso, Belluno, Veneto, 32030, Italia","{'type': 'Point', 'coordinates': [11.8068889, 46.012601]}",FONZASO VIA DEGLI ALPINI
+VIA DON PIETRO CORSO,FONZASO,"Via Don Pietro Corso, Casoni, Fonzaso, Belluno, Veneto, 32030, Italia","{'type': 'Point', 'coordinates': [11.8009895, 46.0168504]}",FONZASO VIA DON PIETRO CORSO
+VIA E. FERRARI,FONZASO,"Via Enzo Ferrari, Case Balzan, Fonzaso, Belluno, Veneto, 32030, Italia","{'type': 'Point', 'coordinates': [11.8119776, 46.0064149]}",FONZASO VIA E. FERRARI
+PIAZZA SALVO D'ACQUISTO,GOSALDO,"Piazza Salvo D'Acquisto, Spagnoi, Gosaldo, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [11.955967833605477, 46.22053085]}",GOSALDO PIAZZA SALVO D'ACQUISTO
+VIA BEZZOI,GOSALDO,"Bezzoi, Gosaldo, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [11.962159, 46.2047776]}",GOSALDO VIA BEZZOI
+VIA BITTI,GOSALDO,"Bitti, Gosaldo, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [11.9911912, 46.212937]}",GOSALDO VIA BITTI
+VIA CARRERA,GOSALDO,"Carrera, Gosaldo, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [11.9588759, 46.20301]}",GOSALDO VIA CARRERA
+VIA CAVALLERA,GOSALDO,"Via Cavallera, Sant'Andrea, Gosaldo, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [11.9561443, 46.22871]}",GOSALDO VIA CAVALLERA
+VIA CENCI,GOSALDO,"Via Cenci, Cenci, Gosaldo, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [12.0023187, 46.2295926]}",GOSALDO VIA CENCI
+VIA CIET,GOSALDO,"Ciet, Gosaldo, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [11.9320375, 46.2093594]}",GOSALDO VIA CIET
+VIA CODA,GOSALDO,"Coda, Gosaldo, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [11.9463339, 46.2043837]}",GOSALDO VIA CODA
+VIA COLTAMAI,GOSALDO,"Coltamai, Gosaldo, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [11.9840849, 46.2154585]}",GOSALDO VIA COLTAMAI
+VIA CROCE ROSSA,GOSALDO,"Via Croce Rossa, Spagnoi, Gosaldo, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [11.9581352, 46.2223133]}",GOSALDO VIA CROCE ROSSA
+VIA CURTI,GOSALDO,"Curti, Gosaldo, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [11.9982899, 46.2238022]}",GOSALDO VIA CURTI
+VIA DELUBI,GOSALDO,"Delubi, Gosaldo, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [12.0007146, 46.2321001]}",GOSALDO VIA DELUBI
+VIA DOMADORE,GOSALDO,"Domadore, Gosaldo, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [11.9282105, 46.2171813]}",GOSALDO VIA DOMADORE
+VIA DON,GOSALDO,"Gosaldo, SP347, Corone, Voltago Agordino, Belluno, Veneto, 32027, Italia","{'type': 'Point', 'coordinates': [11.95467, 46.22165]}",GOSALDO VIA DON
+VIA FAUSTIN,GOSALDO,"Faustin, Gosaldo, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [11.9326402, 46.2115238]}",GOSALDO VIA FAUSTIN
+VIA FORCELLA AURINE,GOSALDO,"Forcella Aurine, Gosaldo, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [11.9752444, 46.2369239]}",GOSALDO VIA FORCELLA AURINE
+VIA FORCELLA FRANCHE,GOSALDO,"Forcella Franche, Strada Provinciale della Val Imperina, Le Feste, Gosaldo, Belluno, Veneto, 32021, Italia","{'type': 'Point', 'coordinates': [12.0132306, 46.2333108]}",GOSALDO VIA FORCELLA FRANCHE
+VIA INCASAL,GOSALDO,"Incasal, Gosaldo, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [11.997217, 46.2226146]}",GOSALDO VIA INCASAL
+VIA LAMBROI,GOSALDO,"Lambroi, Gosaldo, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [11.9961442, 46.2213972]}",GOSALDO VIA LAMBROI
+VIA LAVEDER,GOSALDO,"Laveder, Gosaldo, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [11.9882531, 46.2215457]}",GOSALDO VIA LAVEDER
+VIA LE CASE,GOSALDO,"Case, Gosaldo, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [12.0009292, 46.225361]}",GOSALDO VIA LE CASE
+VIA LE FESTE,GOSALDO,"Via Le Feste, Le Feste, Gosaldo, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [11.9636586, 46.2212453]}",GOSALDO VIA LE FESTE
+LOCALITA' CUGNAGO,LA VALLE AGORDINA,"Cugnago, Cancellade, La Valle Agordina, Belluno, Veneto, 32021, Italia","{'type': 'Point', 'coordinates': [12.0708418, 46.2859348]}",LA VALLE AGORDINA  CUGNAGO
+VIA CANCELLADE,LA VALLE AGORDINA,"Cancellade, La Valle Agordina, Belluno, Veneto, 32021, Italia","{'type': 'Point', 'coordinates': [12.0555869, 46.2711837]}",LA VALLE AGORDINA VIA CANCELLADE
+VIA CHIESA,LA VALLE AGORDINA,"via Chiesa, Chiesa, Cancellade, La Valle Agordina, Belluno, Veneto, 32021, Italia","{'type': 'Point', 'coordinates': [12.0682164, 46.28191]}",LA VALLE AGORDINA VIA CHIESA
+VIA CONAGGIA,LA VALLE AGORDINA,"Conaggia, Cancellade, La Valle Agordina, Belluno, Veneto, 32021, Italia","{'type': 'Point', 'coordinates': [12.0741825, 46.2827705]}",LA VALLE AGORDINA VIA CONAGGIA
+VIA FADES,LA VALLE AGORDINA,"Fades, Cancellade, La Valle Agordina, Belluno, Veneto, 32021, Italia","{'type': 'Point', 'coordinates': [12.0674283, 46.2835691]}",LA VALLE AGORDINA VIA FADES
+VIA GAIDON,LA VALLE AGORDINA,"Gaidon, Cancellade, La Valle Agordina, Belluno, Veneto, 32021, Italia","{'type': 'Point', 'coordinates': [12.063867, 46.2771135]}",LA VALLE AGORDINA VIA GAIDON
+VIA LANTRAGO,LA VALLE AGORDINA,"Lantrago, Cancellade, La Valle Agordina, Belluno, Veneto, 32021, Italia","{'type': 'Point', 'coordinates': [12.0645852, 46.2815374]}",LA VALLE AGORDINA VIA LANTRAGO
+VIA LE CAMPE,LA VALLE AGORDINA,"Le Campe, Strada Regionale 203 Agordina, Crostolin, Agordo, Belluno, Veneto, 32021, Italia","{'type': 'Point', 'coordinates': [12.0408992, 46.2624137]}",LA VALLE AGORDINA VIA LE CAMPE
+VIA MATTEN,LA VALLE AGORDINA,"Località Matten, Conaggia, Cancellade, La Valle Agordina, Belluno, Veneto, 32021, Italia","{'type': 'Point', 'coordinates': [12.0738592, 46.2843204]}",LA VALLE AGORDINA VIA MATTEN
+VIA RONCHE,LA VALLE AGORDINA,"Ronche, La Valle Agordina, Belluno, Veneto, 32021, Italia","{'type': 'Point', 'coordinates': [12.0532295, 46.2728202]}",LA VALLE AGORDINA VIA RONCHE
+VIA TORSAS,LA VALLE AGORDINA,"Torsas, Cancellade, La Valle Agordina, Belluno, Veneto, 32021, Italia","{'type': 'Point', 'coordinates': [12.065835, 46.2795633]}",LA VALLE AGORDINA VIA TORSAS
+LOCALITA' LE EI,LAMON,"Le Ei, Lamon, Belluno, Veneto, 32033, Italia","{'type': 'Point', 'coordinates': [11.7270654, 46.0696761]}",LAMON  LE EI
+P.LE DUOMO,LAMON,"Piazza Duomo, Cies, Lamon, Belluno, Veneto, 32033, Italia","{'type': 'Point', 'coordinates': [11.7488666, 46.0471772]}",LAMON P.LE DUOMO
+P.ZZA 3 NOVEMBRE,LAMON,"Piazza 3 Novembre, Cies, Lamon, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [11.74869042091317, 46.0469953]}",LAMON P.ZZA 3 NOVEMBRE
+VIA A.SLONGO,LAMON,"Via A. Slongo, Col delle Vigne, Lamon, Belluno, Veneto, 32033, Italia","{'type': 'Point', 'coordinates': [11.7516586, 46.0503143]}",LAMON VIA A.SLONGO
+VIA BARBETTA,LAMON,"Barbetta, Lamon, Belluno, Veneto, 32033, Italia","{'type': 'Point', 'coordinates': [11.7087466, 46.0303698]}",LAMON VIA BARBETTA
+VIA BORE,LAMON,"Via Bore, Piei, Lamon, Belluno, Veneto, 32033, Italia","{'type': 'Point', 'coordinates': [11.7485934, 46.0457943]}",LAMON VIA BORE
+VIA BOVE,LAMON,"Via Bove, Pian del Vescovo, Lamon, Belluno, Veneto, 32033, Italia","{'type': 'Point', 'coordinates': [11.7513154, 46.039001]}",LAMON VIA BOVE
+VIA CAMPIGOTTI,LAMON,"Campigotti, Lamon, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [11.694314, 46.0414989]}",LAMON VIA CAMPIGOTTI
+VIA CANDIOLE,LAMON,"Via Candiole, Pezzè, Lamon, Belluno, Veneto, 32033, Italia","{'type': 'Point', 'coordinates': [11.742811, 46.0516478]}",LAMON VIA CANDIOLE
+VIA CARMELE,LAMON,"Via Carmele, Col delle Vigne, Lamon, Belluno, Veneto, 32033, Italia","{'type': 'Point', 'coordinates': [11.7465341, 46.0523441]}",LAMON VIA CARMELE
+VIA CENTRO ARINA,LAMON,"Arina, Lamon, Belluno, Veneto, 32033, Italia","{'type': 'Point', 'coordinates': [11.7300326, 46.0336031]}",LAMON VIA CENTRO ARINA
+VIA CESURE,LAMON,"Via Cesure, Pezzè, Lamon, Belluno, Veneto, 32033, Italia","{'type': 'Point', 'coordinates': [11.7471522, 46.0499]}",LAMON VIA CESURE
+VIA CHIAPPINI,LAMON,"Chiappini, Lamon, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [11.6936045, 46.0286643]}",LAMON VIA CHIAPPINI
+VIA CHIOLLI,LAMON,"I Chiolli, Lamon, Belluno, Veneto, 32033, Italia","{'type': 'Point', 'coordinates': [11.7247569, 46.0340467]}",LAMON VIA CHIOLLI
+VIA CIES,LAMON,"Cies, Lamon, Belluno, Veneto, 32033, Italia","{'type': 'Point', 'coordinates': [11.7569318, 46.038815]}",LAMON VIA CIES
+VIA CISMON,LAMON,"Via Cismon, Col delle Vigne, Lamon, Belluno, Veneto, 32033, Italia","{'type': 'Point', 'coordinates': [11.7534612, 46.0515228]}",LAMON VIA CISMON
+FRAZIONE CANAI,LENTIAI,"Canai, Borgo Valbelluna, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [12.0012285, 46.0186265]}",LENTIAI  CANAI
+FRAZIONE CESANA,LENTIAI,"Cesana, Borgo Valbelluna, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [11.9926259, 46.0386982]}",LENTIAI  CESANA
+FRAZIONE COLDERU',LENTIAI,"Lentiai, Borgo Valbelluna, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [12.0109344126145, 46.010094050000006]}",LENTIAI  COLDERU'
+FRAZIONE STABIE,LENTIAI,"Lentiai, Borgo Valbelluna, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [12.0109344126145, 46.010094050000006]}",LENTIAI  STABIE
+LARGO EUROPA,LENTIAI,"Largo Europa, Lentiai, Borgo Valbelluna, Belluno, Veneto, 32035, Italia","{'type': 'Point', 'coordinates': [12.0199447, 46.0452901]}",LENTIAI LARGO EUROPA
+LOCALITA' VILLAPIANA,LENTIAI,"Villapiana, Borgo Valbelluna, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [12.0023336, 46.039147]}",LENTIAI  VILLAPIANA
+PIAZZA CHAMARANDE,LENTIAI,"Piazza Chamarande, Lentiai, Borgo Valbelluna, Belluno, Veneto, 32035, Italia","{'type': 'Point', 'coordinates': [12.0231473, 46.0453861]}",LENTIAI PIAZZA CHAMARANDE
+PIAZZA CRIVELLARO,LENTIAI,"Piazza Crivellaro, Lentiai, Borgo Valbelluna, Belluno, Veneto, 32035, Italia","{'type': 'Point', 'coordinates': [12.0219029, 46.0447944]}",LENTIAI PIAZZA CRIVELLARO
+PIAZZA DEGLI ALPINI,LENTIAI,"Piazza degli Alpini, Lentiai, Borgo Valbelluna, Belluno, Veneto, 32035, Italia","{'type': 'Point', 'coordinates': [12.0197427, 46.043311]}",LENTIAI PIAZZA DEGLI ALPINI
+VIA ACHILLE ZAMPESE,LENTIAI,"Via Achille Zampese, Lentiai, Borgo Valbelluna, Belluno, Veneto, 32035, Italia","{'type': 'Point', 'coordinates': [12.0159132, 46.0434883]}",LENTIAI VIA ACHILLE ZAMPESE
+VIA ANDREA COSTA,LENTIAI,"Lentiai, Borgo Valbelluna, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [12.0109344126145, 46.010094050000006]}",LENTIAI VIA ANDREA COSTA
+VIA ANTONIO GUZZO,LENTIAI,"Via Antonio Guzzo, Lentiai, Borgo Valbelluna, Belluno, Veneto, 32035, Italia","{'type': 'Point', 'coordinates': [12.0119365, 46.0436165]}",LENTIAI VIA ANTONIO GUZZO
+VIA ANTONIO SOLAGNA,LENTIAI,"Via Antonio Solagna, Lentiai, Borgo Valbelluna, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [12.0039697, 46.0324708]}",LENTIAI VIA ANTONIO SOLAGNA
+VIA BRUSAFERRO,LENTIAI,"Via Brusaferro, Lentiai, Borgo Valbelluna, Belluno, Veneto, 32035, Italia","{'type': 'Point', 'coordinates': [12.0145671, 46.044822]}",LENTIAI VIA BRUSAFERRO
+VIA CAVOUR,LENTIAI,"Via Cavour, Lentiai, Borgo Valbelluna, Belluno, Veneto, 32035, Italia","{'type': 'Point', 'coordinates': [12.0207893, 46.0470414]}",LENTIAI VIA CAVOUR
+VIA COL D'ARTENT,LENTIAI,"Via Col D'Artent, Lentiai, Borgo Valbelluna, Belluno, Veneto, 32035, Italia","{'type': 'Point', 'coordinates': [12.0251252, 46.0448003]}",LENTIAI VIA COL D'ARTENT
+VIA CRISTO MORO,LENTIAI,"Via Cristo Moro, Lentiai, Borgo Valbelluna, Belluno, Veneto, 32035, Italia","{'type': 'Point', 'coordinates': [12.0309937, 46.040693]}",LENTIAI VIA CRISTO MORO
+VIA DANTE ALIGHIERI,LENTIAI,"Via Dante Alighieri, Lentiai, Borgo Valbelluna, Belluno, Veneto, 32035, Italia","{'type': 'Point', 'coordinates': [12.0222966, 46.0459811]}",LENTIAI VIA DANTE ALIGHIERI
+LOCALITA' CANALET,LIMANA,"Via Canalet, La Cal, Limana, Belluno, Veneto, 32100, Italia","{'type': 'Point', 'coordinates': [12.1923827, 46.1025862]}",LIMANA  CANALET
+LOCALITA' CANE',LIMANA,"Canè, Limana, Belluno, Veneto, 32028, Italia","{'type': 'Point', 'coordinates': [12.1641359, 46.0813786]}",LIMANA  CANE'
+LOCALITA' NAVASA,LIMANA,"Col di Navasa, Limana, Belluno, Veneto, 32100, Italia","{'type': 'Point', 'coordinates': [12.2077284, 46.101206]}",LIMANA  NAVASA
+LOCALITA' PIEVE DI LIMANA,LIMANA,"Pieve di Limana, Limana, Belluno, Veneto, 32028, Italia","{'type': 'Point', 'coordinates': [12.1447545, 46.0900632]}",LIMANA  PIEVE DI LIMANA
+VIA BAORCHE,LIMANA,"Via Baorche, Ricomes, Limana, Belluno, Veneto, 32028, Italia","{'type': 'Point', 'coordinates': [12.1819677, 46.0961928]}",LIMANA VIA BAORCHE
+VIA BRUNO CARLIN,LIMANA,"Via Bruno Carlin, Pieve di Limana, Limana, Belluno, Veneto, 32028, Italia","{'type': 'Point', 'coordinates': [12.1531949, 46.0918375]}",LIMANA VIA BRUNO CARLIN
+VIA CALCINE,LIMANA,"Via Calcine, Polentes, Limana, Belluno, Veneto, 32028, Italia","{'type': 'Point', 'coordinates': [12.1841419, 46.0904608]}",LIMANA VIA CALCINE
+VIA CANE' CENTRO,LIMANA,"Via Canè, Refos, Limana, Belluno, Veneto, 32028, Italia","{'type': 'Point', 'coordinates': [12.1608549, 46.0831263]}",LIMANA VIA CANE' CENTRO
+VIA CENTORE,LIMANA,"Via Centore, Refos, Limana, Belluno, Veneto, 32028, Italia","{'type': 'Point', 'coordinates': [12.1644732, 46.0877575]}",LIMANA VIA CENTORE
+VIA CERESERA,LIMANA,"Via Ceresera, Limana, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [12.2357436, 46.0859267]}",LIMANA VIA CERESERA
+VIA CESA,LIMANA,"Via Cesa, Cesa, Limana, Belluno, Veneto, 32028, Italia","{'type': 'Point', 'coordinates': [12.1564112, 46.1019992]}",LIMANA VIA CESA
+VIA COMUNI GEMELLATI,LIMANA,"Via Comuni Gemellati, La Cal, Limana, Belluno, Veneto, 32100, Italia","{'type': 'Point', 'coordinates': [12.1848433, 46.1028831]}",LIMANA VIA COMUNI GEMELLATI
+VIA CROS,LIMANA,"Via Cros, Polentes, Limana, Belluno, Veneto, 32028, Italia","{'type': 'Point', 'coordinates': [12.187473, 46.0801937]}",LIMANA VIA CROS
+VIA DANTE ALIGHIERI,LIMANA,"Via Dante Alighieri, Ricomes, Limana, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [12.1808872, 46.0982159]}",LIMANA VIA DANTE ALIGHIERI
+VIA DEGLI ALPINI,LIMANA,"Via degli Alpini, Cesa, Limana, Belluno, Veneto, 32028, Italia","{'type': 'Point', 'coordinates': [12.1590572, 46.0987425]}",LIMANA VIA DEGLI ALPINI
+VIA DEGLI EMIGRANTI,LIMANA,"Via degli Emigranti, Ricomes, Limana, Belluno, Veneto, 32028, Italia","{'type': 'Point', 'coordinates': [12.1697884, 46.0953988]}",LIMANA VIA DEGLI EMIGRANTI
+VIA G. ZANIVAN,LIMANA,"Via Zanivan, Ricomes, Limana, Belluno, Veneto, 32028, Italia","{'type': 'Point', 'coordinates': [12.1789982, 46.0974225]}",LIMANA VIA G. ZANIVAN
+LOCALITA' ARABBA,LIVINALLONGO DEL COL DI LANA,"Arabba, Pallua, Livinallongo del Col di Lana, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [11.867735673490373, 46.49217515]}",LIVINALLONGO DEL COL DI LANA  ARABBA
+LOCALITA' BURZ,LIVINALLONGO DEL COL DI LANA,"Burz, SR48, Pallua, Livinallongo del Col di Lana, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [11.8607991, 46.4997284]}",LIVINALLONGO DEL COL DI LANA  BURZ
+LOCALITA' PRECUMON,LIVINALLONGO DEL COL DI LANA,"Via Precumon, Pallua, Livinallongo del Col di Lana, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [11.8699047, 46.4958163]}",LIVINALLONGO DEL COL DI LANA  PRECUMON
+VIA AGAI,LIVINALLONGO DEL COL DI LANA,"Agai, Livinallongo del Col di Lana, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [11.976873, 46.4846942]}",LIVINALLONGO DEL COL DI LANA VIA AGAI
+VIA ALFAURO,LIVINALLONGO DEL COL DI LANA,"Alfauro, Livinallongo del Col di Lana, Belluno, Veneto, 32023, Italia","{'type': 'Point', 'coordinates': [11.8956551, 46.4983412]}",LIVINALLONGO DEL COL DI LANA VIA ALFAURO
+VIA ANDRAZ,LIVINALLONGO DEL COL DI LANA,"Andraz, Livinallongo del Col di Lana, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [11.9839266, 46.4836488]}",LIVINALLONGO DEL COL DI LANA VIA ANDRAZ
+VIA BOE',LIVINALLONGO DEL COL DI LANA,"Boé, Livinallongo del Col di Lana, Belluno, Veneto, 39033, Italia","{'type': 'Point', 'coordinates': [11.8606072, 46.5054582]}",LIVINALLONGO DEL COL DI LANA VIA BOE'
+VIA BRENTA,LIVINALLONGO DEL COL DI LANA,"Brenta, Livinallongo del Col di Lana, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [11.945901, 46.4860155]}",LIVINALLONGO DEL COL DI LANA VIA BRENTA
+VIA CASTELLO,LIVINALLONGO DEL COL DI LANA,"Castello, Livinallongo del Col di Lana, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [11.9876309, 46.5038345]}",LIVINALLONGO DEL COL DI LANA VIA CASTELLO
+VIA CERNADOI,LIVINALLONGO DEL COL DI LANA,"Cernadoi, Livinallongo del Col di Lana, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [11.9880736, 46.4883547]}",LIVINALLONGO DEL COL DI LANA VIA CERNADOI
+VIA CHERZ,LIVINALLONGO DEL COL DI LANA,"Cherz, Livinallongo del Col di Lana, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [11.8847157, 46.5166435]}",LIVINALLONGO DEL COL DI LANA VIA CHERZ
+VIA COL DI LARZONEI,LIVINALLONGO DEL COL DI LANA,"Còl de Larcionei - Col di Larzonei, Livinallongo del Col di Lana, Belluno, Veneto, 32022, Italia","{'type': 'Point', 'coordinates': [11.9924701, 46.4653324]}",LIVINALLONGO DEL COL DI LANA VIA COL DI LARZONEI
+VIA COLLAZ,LIVINALLONGO DEL COL DI LANA,"Collaz, Livinallongo del Col di Lana, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [11.9793668, 46.4639138]}",LIVINALLONGO DEL COL DI LANA VIA COLLAZ
+VIA CONTRIN,LIVINALLONGO DEL COL DI LANA,"Contrin, Livinallongo del Col di Lana, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [11.9225266, 46.5057512]}",LIVINALLONGO DEL COL DI LANA VIA CONTRIN
+VIA CORTE,LIVINALLONGO DEL COL DI LANA,"Corte, Livinallongo del Col di Lana, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [11.9275482, 46.4974171]}",LIVINALLONGO DEL COL DI LANA VIA CORTE
+VIA CREPAZ,LIVINALLONGO DEL COL DI LANA,"Crepaz, Livinallongo del Col di Lana, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [11.9110008, 46.512081]}",LIVINALLONGO DEL COL DI LANA VIA CREPAZ
+VIA DAVEDINO,LIVINALLONGO DEL COL DI LANA,"Davedino, Livinallongo del Col di Lana, Belluno, Veneto, 32023, Italia","{'type': 'Point', 'coordinates': [11.937445, 46.4676895]}",LIVINALLONGO DEL COL DI LANA VIA DAVEDINO
+VIA FEDERA,LIVINALLONGO DEL COL DI LANA,"Fedèra, Livinallongo del Col di Lana, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [11.9296852, 46.4957335]}",LIVINALLONGO DEL COL DI LANA VIA FEDERA
+VIA FOPPA,LIVINALLONGO DEL COL DI LANA,"Foppa, Livinallongo del Col di Lana, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [11.9547449, 46.4785532]}",LIVINALLONGO DEL COL DI LANA VIA FOPPA
+VIA FOSSAL,LIVINALLONGO DEL COL DI LANA,"Fossal, Livinallongo del Col di Lana, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [11.9110194, 46.4963541]}",LIVINALLONGO DEL COL DI LANA VIA FOSSAL
+VIA FREINE,LIVINALLONGO DEL COL DI LANA,"Via Freine, Varda, Livinallongo del Col di Lana, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [11.8768725, 46.4978062]}",LIVINALLONGO DEL COL DI LANA VIA FREINE
+VIA LA VIZA,LIVINALLONGO DEL COL DI LANA,"Rifugio La Viza, SI, Varda, Livinallongo del Col di Lana, Pustertal - Val Pusteria, Belluno, Trentino-Alto Adige/Südtirol, 39033, Italia","{'type': 'Point', 'coordinates': [11.906245916580465, 46.51615285]}",LIVINALLONGO DEL COL DI LANA VIA LA VIZA
+FRAZIONE OLANTREGHE,LONGARONE,"Olantreghe, Longarone, Belluno, Veneto, 32013, Italia","{'type': 'Point', 'coordinates': [12.3024653, 46.2910269]}",LONGARONE  OLANTREGHE
+LA TIORA,LONGARONE,"La Tiora, Longarone, Belluno, Veneto, 32013, Italia","{'type': 'Point', 'coordinates': [12.3003745, 46.2873451]}",LONGARONE LA TIORA
+LOCALITA' LE VAL,LONGARONE,"Le Val, Longarone, Belluno, Veneto, 32013, Italia","{'type': 'Point', 'coordinates': [12.2747662, 46.2664804]}",LONGARONE  LE VAL
+LOCALITA' MALCOLM,LONGARONE,"Ponte Malcolm, Olantreghe, Longarone, Belluno, Veneto, 32013, Italia","{'type': 'Point', 'coordinates': [12.3081951, 46.280777]}",LONGARONE  MALCOLM
+LOCALITA' PASCOLI,LONGARONE,"Via dei Pascoli, Pirago, Dogna, Longarone, Belluno, Veneto, 32013, Italia","{'type': 'Point', 'coordinates': [12.3119822, 46.2735678]}",LONGARONE  PASCOLI
+PIAZZA DELLA FONTANA,LONGARONE,"Piazza della Fontana, Olantreghe, Longarone, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [12.308154480346385, 46.28410495]}",LONGARONE PIAZZA DELLA FONTANA
+PIAZZA GONZAGA,LONGARONE,"Piazza Pietro Gonzaga, Piazza 9 ottobre 1963, Pirago, Dogna, Longarone, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [12.30074965, 46.26687095]}",LONGARONE PIAZZA GONZAGA
+PIAZZA MARTIRI DELLA LIBERTA',LONGARONE,"Piazza Martiri della Libertà, Pirago, Podenzoi, Longarone, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [12.29969097369938, 46.2661769]}",LONGARONE PIAZZA MARTIRI DELLA LIBERTA'
+PIAZZA UMBERTO I,LONGARONE,"Piazza Umberto I, Pirago, Podenzoi, Longarone, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [12.300237465846465, 46.26805325]}",LONGARONE PIAZZA UMBERTO I
+PIAZZETTA SARTORI,LONGARONE,"Piazzetta Sartori, Pirago, Podenzoi, Longarone, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [12.29993053875, 46.26769555]}",LONGARONE PIAZZETTA SARTORI
+PIAZZETTA STEFANI,LONGARONE,"Piazzetta Stefani, Pirago, Dogna, Longarone, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [12.299543853099205, 46.26564705]}",LONGARONE PIAZZETTA STEFANI
+LOCALITA' MIRABELLO,LORENZAGO DI CADORE,"Castello Mirabello, Tambar-Col de Pupere, Lorenzago di Cadore, Belluno, Veneto, 32040, Italia","{'type': 'Point', 'coordinates': [12.4699638, 46.4768145]}",LORENZAGO DI CADORE  MIRABELLO
+LOCALITA' PIAN DE SEMBOLE,LORENZAGO DI CADORE,"Pian de Sembole, Lorenzago di Cadore, Belluno, Veneto, 32040, Italia","{'type': 'Point', 'coordinates': [12.4616551, 46.4712432]}",LORENZAGO DI CADORE  PIAN DE SEMBOLE
+PIAZZA CALVI,LORENZAGO DI CADORE,"Piazza Calvi, Lorenzago di Cadore, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [12.458095994837837, 46.4802373]}",LORENZAGO DI CADORE PIAZZA CALVI
+PIAZZA IV NOVEMBRE,LORENZAGO DI CADORE,"Piazza IV NOVEMBRE, Lorenzago di Cadore, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [12.459355801261262, 46.4798142]}",LORENZAGO DI CADORE PIAZZA IV NOVEMBRE
+VIA CENTA,LORENZAGO DI CADORE,"Via Centa, Lorenzago di Cadore, Belluno, Veneto, 32040, Italia","{'type': 'Point', 'coordinates': [12.4571938, 46.4806146]}",LORENZAGO DI CADORE VIA CENTA
+VIA CIARE,LORENZAGO DI CADORE,"Via Ciare, Lorenzago di Cadore, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [12.460867, 46.4775571]}",LORENZAGO DI CADORE VIA CIARE
+VIA COSTA,LORENZAGO DI CADORE,"Via Costa, Lorenzago di Cadore, Belluno, Veneto, 32040, Italia","{'type': 'Point', 'coordinates': [12.4583753, 46.4791278]}",LORENZAGO DI CADORE VIA COSTA
+VIA COSTOLA,LORENZAGO DI CADORE,"Via Costola, Lorenzago di Cadore, Belluno, Veneto, 32040, Italia","{'type': 'Point', 'coordinates': [12.4582725, 46.4812762]}",LORENZAGO DI CADORE VIA COSTOLA
+VIA DEL LAGO,LORENZAGO DI CADORE,"Via Del Lago, Lorenzago di Cadore, Belluno, Veneto, 32040, Italia","{'type': 'Point', 'coordinates': [12.4551068, 46.4794798]}",LORENZAGO DI CADORE VIA DEL LAGO
+VIA DERA,LORENZAGO DI CADORE,"Via Dera, Lorenzago di Cadore, Belluno, Veneto, 32040, Italia","{'type': 'Point', 'coordinates': [12.4552906, 46.4781312]}",LORENZAGO DI CADORE VIA DERA
+VIA FAUREANA,LORENZAGO DI CADORE,"Via Faureana, Lorenzago di Cadore, Belluno, Veneto, 32040, Italia","{'type': 'Point', 'coordinates': [12.4598659, 46.4796194]}",LORENZAGO DI CADORE VIA FAUREANA
+VIA G. CADORIN,LORENZAGO DI CADORE,"Via G. Cadorin, Lorenzago di Cadore, Belluno, Veneto, 32040, Italia","{'type': 'Point', 'coordinates': [12.4609211, 46.4799001]}",LORENZAGO DI CADORE VIA G. CADORIN
+VIA G. MARCONI,LORENZAGO DI CADORE,"Via G. Marconi, Lorenzago di Cadore, Belluno, Veneto, 32040, Italia","{'type': 'Point', 'coordinates': [12.4588473, 46.4790589]}",LORENZAGO DI CADORE VIA G. MARCONI
+VIA GIAVA,LORENZAGO DI CADORE,"Via Giava, Lorenzago di Cadore, Belluno, Veneto, 32040, Italia","{'type': 'Point', 'coordinates': [12.4578214, 46.4826026]}",LORENZAGO DI CADORE VIA GIAVA
+VIA MONTEONA,LORENZAGO DI CADORE,"Via Monteona, Lorenzago di Cadore, Belluno, Veneto, 32040, Italia","{'type': 'Point', 'coordinates': [12.4622063, 46.4811662]}",LORENZAGO DI CADORE VIA MONTEONA
+VIA PECOL,LORENZAGO DI CADORE,"Via Pecol, Lorenzago di Cadore, Belluno, Veneto, 32040, Italia","{'type': 'Point', 'coordinates': [12.4621115, 46.4805108]}",LORENZAGO DI CADORE VIA PECOL
+VIA PIATE,LORENZAGO DI CADORE,"Via Piate, Lorenzago di Cadore, Belluno, Veneto, 32040, Italia","{'type': 'Point', 'coordinates': [12.4607115, 46.4813184]}",LORENZAGO DI CADORE VIA PIATE
+VIA RAMAIO',LORENZAGO DI CADORE,"Via Ramaiò, Lorenzago di Cadore, Belluno, Veneto, 32040, Italia","{'type': 'Point', 'coordinates': [12.4621071, 46.4758388]}",LORENZAGO DI CADORE VIA RAMAIO'
+VIA RIVA,LORENZAGO DI CADORE,"Via Riva, Lorenzago di Cadore, Belluno, Veneto, 32040, Italia","{'type': 'Point', 'coordinates': [12.4592061, 46.4790649]}",LORENZAGO DI CADORE VIA RIVA
+VIA RIVADO',LORENZAGO DI CADORE,"Via Rivadò, Lorenzago di Cadore, Belluno, Veneto, 32040, Italia","{'type': 'Point', 'coordinates': [12.4616673, 46.4786281]}",LORENZAGO DI CADORE VIA RIVADO'
+LOCALITA' COSTA,LOZZO DI CADORE,"Costa, Lozzo di Cadore, Belluno, Veneto, 32040, Italia","{'type': 'Point', 'coordinates': [12.4406062, 46.4887479]}",LOZZO DI CADORE  COSTA
+PIAZZA TIZIANO VECELLIO,LOZZO DI CADORE,"Piazza Tiziano Vecellio, Lozzo di Cadore, Belluno, Veneto, 32040, Italia","{'type': 'Point', 'coordinates': [12.4413227, 46.4841802]}",LOZZO DI CADORE PIAZZA TIZIANO VECELLIO
+VIA BRODEVIN,LOZZO DI CADORE,"Via Brodevin, Lozzo di Cadore, Belluno, Veneto, 32040, Italia","{'type': 'Point', 'coordinates': [12.4409293, 46.4862659]}",LOZZO DI CADORE VIA BRODEVIN
+VIA BROILO,LOZZO DI CADORE,"Via Broilo, Lozzo di Cadore, Belluno, Veneto, 32040, Italia","{'type': 'Point', 'coordinates': [12.4423151, 46.4839761]}",LOZZO DI CADORE VIA BROILO
+VIA CAPITEL,LOZZO DI CADORE,"Via Capitel, Lozzo di Cadore, Belluno, Veneto, 32040, Italia","{'type': 'Point', 'coordinates': [12.443916, 46.4880932]}",LOZZO DI CADORE VIA CAPITEL
+VIA COL VIDAL,LOZZO DI CADORE,"Via Col Vidal, Lozzo di Cadore, Belluno, Veneto, 32040, Italia","{'type': 'Point', 'coordinates': [12.4478151, 46.4902669]}",LOZZO DI CADORE VIA COL VIDAL
+VIA DA RIN,LOZZO DI CADORE,"Via Da Rin, Lozzo di Cadore, Belluno, Veneto, 32040, Italia","{'type': 'Point', 'coordinates': [12.4393122, 46.4868039]}",LOZZO DI CADORE VIA DA RIN
+VIA DANTE ALIGHIERI,LOZZO DI CADORE,"Via Dante Alighieri, Lozzo di Cadore, Belluno, Veneto, 32040, Italia","{'type': 'Point', 'coordinates': [12.4456377, 46.486695]}",LOZZO DI CADORE VIA DANTE ALIGHIERI
+VIA DEI VECCHI MULINI,LOZZO DI CADORE,"Via dei Vecchi Mulini, Lozzo di Cadore, Belluno, Veneto, 32040, Italia","{'type': 'Point', 'coordinates': [12.4400503, 46.4863625]}",LOZZO DI CADORE VIA DEI VECCHI MULINI
+VIA GIOUDA,LOZZO DI CADORE,"Via Giouda, Lozzo di Cadore, Belluno, Veneto, 32040, Italia","{'type': 'Point', 'coordinates': [12.4459815, 46.4853139]}",LOZZO DI CADORE VIA GIOUDA
+VIA LORETO,LOZZO DI CADORE,"Via Loreto, Lozzo di Cadore, Belluno, Veneto, 32040, Italia","{'type': 'Point', 'coordinates': [12.4425719, 46.4864892]}",LOZZO DI CADORE VIA LORETO
+VIA MARMAROLE,LOZZO DI CADORE,"Via Marmarole, Lozzo di Cadore, Belluno, Veneto, 32040, Italia","{'type': 'Point', 'coordinates': [12.4424851, 46.4862937]}",LOZZO DI CADORE VIA MARMAROLE
+VIA MILANO,LOZZO DI CADORE,"Via Milano, Lozzo di Cadore, Belluno, Veneto, 32040, Italia","{'type': 'Point', 'coordinates': [12.4426971, 46.4849734]}",LOZZO DI CADORE VIA MILANO
+VIA PADRE MARINO,LOZZO DI CADORE,"Via Padre Marino, Lozzo di Cadore, Belluno, Veneto, 32040, Italia","{'type': 'Point', 'coordinates': [12.4407003, 46.4861105]}",LOZZO DI CADORE VIA PADRE MARINO
+VIA PIAVE,LOZZO DI CADORE,"Via Piave, Lozzo di Cadore, Belluno, Veneto, 32040, Italia","{'type': 'Point', 'coordinates': [12.4449968, 46.4830899]}",LOZZO DI CADORE VIA PIAVE
+VIA ROMA,LOZZO DI CADORE,"Via Roma, Lozzo di Cadore, Belluno, Veneto, 32040, Italia","{'type': 'Point', 'coordinates': [12.4406535, 46.483966]}",LOZZO DI CADORE VIA ROMA
+VIA RONZIE,LOZZO DI CADORE,"Via Ronzie, Lozzo di Cadore, Belluno, Veneto, 32040, Italia","{'type': 'Point', 'coordinates': [12.4410474, 46.4836583]}",LOZZO DI CADORE VIA RONZIE
+VIA SAN ROCCO,LOZZO DI CADORE,"Via San Rocco, Lozzo di Cadore, Belluno, Veneto, 32040, Italia","{'type': 'Point', 'coordinates': [12.4382728, 46.4872352]}",LOZZO DI CADORE VIA SAN ROCCO
+VIA TRIESTE,LOZZO DI CADORE,"Via Trieste, Lozzo di Cadore, Belluno, Veneto, 32040, Italia","{'type': 'Point', 'coordinates': [12.4416005, 46.485426]}",LOZZO DI CADORE VIA TRIESTE
+VIA VENEZIA,LOZZO DI CADORE,"Via Venezia, Lozzo di Cadore, Belluno, Veneto, 32040, Italia","{'type': 'Point', 'coordinates': [12.4421719, 46.485506]}",LOZZO DI CADORE VIA VENEZIA
+VIA VITTORIO VENETO,LOZZO DI CADORE,"Via Vittorio Veneto, Lozzo di Cadore, Belluno, Veneto, 32040, Italia","{'type': 'Point', 'coordinates': [12.4423866, 46.4841104]}",LOZZO DI CADORE VIA VITTORIO VENETO
+VIALE DEI MISSIONARI,LOZZO DI CADORE,"Viale dei Missionari, Lozzo di Cadore, Belluno, Veneto, Italia","{'type': 'Point', 'coordinates': [12.448112081018312, 46.4894771]}",LOZZO DI CADORE VIALE DEI MISSIONARI
+FRAZIONE PARECH,AGORDO,,,AGORDO  PARECH
+LOCALITA' CAMPON,AGORDO,,,AGORDO  CAMPON
+LOCALITA' CERAMASSE,AGORDO,,,AGORDO  CERAMASSE
+LOCALITA' FOCHE,AGORDO,,,AGORDO  FOCHE
+LOCALITA' MISSIAGA,AGORDO,,,AGORDO  MISSIAGA
+LOCALITA' MOGN,AGORDO,,,AGORDO  MOGN
+LOCALITA' NAGOL,AGORDO,,,AGORDO  NAGOL
+LOCALITA' PIANIZZE,AGORDO,,,AGORDO  PIANIZZE
+LOCALITA' PONTE ALTO,AGORDO,,,AGORDO  PONTE ALTO
+CORSO TRIESTE,ALLEGHE,,,ALLEGHE CORSO TRIESTE
+PIAZZA J.F. KENNEDY,ALLEGHE,,,ALLEGHE PIAZZA J.F. KENNEDY
+PIAZZA OTTAVIO DOGLIANI,ALLEGHE,,,ALLEGHE PIAZZA OTTAVIO DOGLIANI
+PIAZZA VECCHIA,ALLEGHE,,,ALLEGHE PIAZZA VECCHIA
+VIA A. DE GASPERI,ALLEGHE,,,ALLEGHE VIA A. DE GASPERI
+VIA ANTONIO STOPPANI,ALLEGHE,,,ALLEGHE VIA ANTONIO STOPPANI
+VIA CASARIL,ALLEGHE,,,ALLEGHE VIA CASARIL
+VIA COL DI LANA,ALLEGHE,,,ALLEGHE VIA COL DI LANA
+VIA COLDEFONTANA,ALLEGHE,,,ALLEGHE VIA COLDEFONTANA
+VIA DELLA PACE,ALLEGHE,,,ALLEGHE VIA DELLA PACE
+VIA DELLE SCUOLE,ALLEGHE,,,ALLEGHE VIA DELLE SCUOLE
+VIA G. CARDUCCI,ALLEGHE,,,ALLEGHE VIA G. CARDUCCI
+VIA G. PASCOLI,ALLEGHE,,,ALLEGHE VIA G. PASCOLI
+VIA LAGUSELLO,ALLEGHE,,,ALLEGHE VIA LAGUSELLO
+VIA LUNGOLAGO,ALLEGHE,,,ALLEGHE VIA LUNGOLAGO
+VIA MARMOLADA,ALLEGHE,,,ALLEGHE VIA MARMOLADA
+BORGO S. NICOLO' - GARNA,ALPAGO,,,ALPAGO BORGO S. NICOLO' - GARNA
+FRAZIONE S.CROCE - LASTRA,ALPAGO,,,ALPAGO  S.CROCE - LASTRA
+LOCALITA' BASSAN,ALPAGO,,,ALPAGO  BASSAN
+LOCALITA' BERNARDET,ALPAGO,,,ALPAGO  BERNARDET
+LOCALITA' BORGA,ALPAGO,,,ALPAGO  BORGA
+LOCALITA' BUTAZ,ALPAGO,,,ALPAGO  BUTAZ
+LOCALITA' CAROTA - PLOIS,ALPAGO,,,ALPAGO  CAROTA - PLOIS
+LOCALITA' COL DE VI,ALPAGO,,,ALPAGO  COL DE VI
+LOCALITA' CORDELE,ALPAGO,,,ALPAGO  CORDELE
+LOCALITA' COSSOTAI,ALPAGO,,,ALPAGO  COSSOTAI
+LOCALITA' COSTELLA,ALPAGO,,,ALPAGO  COSTELLA
+LOCALITA' FALISETTA,ALPAGO,,,ALPAGO  FALISETTA
+LOCALITA' FOSSA,ALPAGO,,,ALPAGO  FOSSA
+LOCALITA' GNOLA,ALPAGO,,,ALPAGO  GNOLA
+LOCALITA' I MAS,ALPAGO,,,ALPAGO  I MAS
+LOCALITA' LA RIVA,ALPAGO,,,ALPAGO  LA RIVA
+LOCALITA' LA STORTA,ALPAGO,,,ALPAGO  LA STORTA
+LOCALITA' LONGARAZZA,ALPAGO,,,ALPAGO  LONGARAZZA
+LOCALITA' MALOLT,ALPAGO,,,ALPAGO  MALOLT
+LOCALITA' MEDELE,ALPAGO,,,ALPAGO  MEDELE
+BORGO SAN GIUSTO,ARSIE',,,ARSIE' BORGO SAN GIUSTO
+LOC. FORNACI-MELLAME,ARSIE',,,ARSIE' LOC. FORNACI-MELLAME
+PIAZZA CESCATO,ARSIE',,,ARSIE' PIAZZA CESCATO
+PIAZZA G. MARCONI,ARSIE',,,ARSIE' PIAZZA G. MARCONI
+PIAZZA SAN ANTONIO,ARSIE',,,ARSIE' PIAZZA SAN ANTONIO
+PIAZZETTA D. ORSI,ARSIE',,,ARSIE' PIAZZETTA D. ORSI
+VIA A. DIAZ,ARSIE',,,ARSIE' VIA A. DIAZ
+VIA BARBARIGO,ARSIE',,,ARSIE' VIA BARBARIGO
+VIA BELVEDERE,ARSIE',,,ARSIE' VIA BELVEDERE
+VIA BORGOFORTE,ARSIE',,,ARSIE' VIA BORGOFORTE
+VIA CASTELLIR,ARSIE',,,ARSIE' VIA CASTELLIR
+VIA CAVOUR,ARSIE',,,ARSIE' VIA CAVOUR
+BORGO RIO MURI,AURONZO DI CADORE,,,AURONZO DI CADORE BORGO RIO MURI
+BORGO ZANDEGIACOMO,AURONZO DI CADORE,,,AURONZO DI CADORE BORGO ZANDEGIACOMO
+LOCALITA' LA BOA,AURONZO DI CADORE,,,AURONZO DI CADORE  LA BOA
+LOCALITA' PALUS S. MARCO,AURONZO DI CADORE,,,AURONZO DI CADORE  PALUS S. MARCO
+LOCALITA' POSPIZZA,AURONZO DI CADORE,,,AURONZO DI CADORE  POSPIZZA
+LOCALITA' STABIZIANE,AURONZO DI CADORE,,,AURONZO DI CADORE  STABIZIANE
+LOCALITA' TORNEDE,AURONZO DI CADORE,,,AURONZO DI CADORE  TORNEDE
+PIAZZA REGINA PACIS,AURONZO DI CADORE,,,AURONZO DI CADORE PIAZZA REGINA PACIS
+PIAZZA RIZZARDI,AURONZO DI CADORE,,,AURONZO DI CADORE PIAZZA RIZZARDI
+PIAZZA SAN LUCANO,AURONZO DI CADORE,,,AURONZO DI CADORE PIAZZA SAN LUCANO
+PIAZZA SANTA GIUSTINA,AURONZO DI CADORE,,,AURONZO DI CADORE PIAZZA SANTA GIUSTINA
+PIAZZA VIGO,AURONZO DI CADORE,,,AURONZO DI CADORE PIAZZA VIGO
+PIAZZALE IV NOVEMBRE,AURONZO DI CADORE,,,AURONZO DI CADORE PIAZZALE IV NOVEMBRE
+PIAZZALE OSTERRA,AURONZO DI CADORE,,,AURONZO DI CADORE PIAZZALE OSTERRA
+VIA COLLESIEI,AURONZO DI CADORE,,,AURONZO DI CADORE VIA COLLESIEI
+VIA DELLA VELMA,AURONZO DI CADORE,,,AURONZO DI CADORE VIA DELLA VELMA
+LOCALITA' ANDREANE,BELLUNO,,,BELLUNO  ANDREANE
+PIAZZA A. DE LUCA,BELLUNO,,,BELLUNO PIAZZA A. DE LUCA
+PIAZZA FONTANA OGOL,BELLUNO,,,BELLUNO PIAZZA FONTANA OGOL
+PIAZZA G. MAZZINI,BELLUNO,,,BELLUNO PIAZZA G. MAZZINI
+PIAZZA G. PILONI,BELLUNO,,,BELLUNO PIAZZA G. PILONI
+PIAZZA L. LOLLINO,BELLUNO,,,BELLUNO PIAZZA L. LOLLINO
+PIAZZA S.LUCANO BORGO PRA,BELLUNO,,,BELLUNO PIAZZA S.LUCANO BORGO PRA
+PIAZZA VITTIME VIA FANI,BELLUNO,,,BELLUNO PIAZZA VITTIME VIA FANI
+PIAZZA VITTORIO EMANUELE,BELLUNO,,,BELLUNO PIAZZA VITTORIO EMANUELE
+PIAZZALE G.MARCONI,BELLUNO,,,BELLUNO PIAZZALE G.MARCONI
+PIAZZETTA SAN LUCANO,BELLUNO,,,BELLUNO PIAZZETTA SAN LUCANO
+PIAZZETTA SANTO STEFANO,BELLUNO,,,BELLUNO PIAZZETTA SANTO STEFANO
+VIA A. BOITO,BELLUNO,,,BELLUNO VIA A. BOITO
+FRAZIONE CORTE DI CADORE,BORCA DI CADORE,,,BORCA DI CADORE  CORTE DI CADORE
+VIA DON CARLO DE LUCA,BORCA DI CADORE,,,BORCA DI CADORE VIA DON CARLO DE LUCA
+VIA DON GIOVANNI DE LUCA,BORCA DI CADORE,,,BORCA DI CADORE VIA DON GIOVANNI DE LUCA
+VIA DON NATALE TALAMINI,BORCA DI CADORE,,,BORCA DI CADORE VIA DON NATALE TALAMINI
+VIA DON OSVALDO VARETTON,BORCA DI CADORE,,,BORCA DI CADORE VIA DON OSVALDO VARETTON
+VIA FRATE TOMMASO DE LUCA,BORCA DI CADORE,,,BORCA DI CADORE VIA FRATE TOMMASO DE LUCA
+VIA GIOVANNA ZANGRANDI,BORCA DI CADORE,,,BORCA DI CADORE VIA GIOVANNA ZANGRANDI
+VIA GIUSEPPE MAZZINI,BORCA DI CADORE,,,BORCA DI CADORE VIA GIUSEPPE MAZZINI
+VIA OLIVO SALA - VILLANOVA,BORCA DI CADORE,,,BORCA DI CADORE VIA OLIVO SALA - VILLANOVA
+VIA P.F. CALVI,BORCA DI CADORE,,,BORCA DI CADORE VIA P.F. CALVI
+VIA RIVA DEL PONTE,BORCA DI CADORE,,,BORCA DI CADORE VIA RIVA DEL PONTE
+VIA T. VECELLIO,BORCA DI CADORE,,,BORCA DI CADORE VIA T. VECELLIO
+LOCALITA' ETOLA,CALALZO DI CADORE,,,CALALZO DI CADORE  ETOLA
+LOCALITA' PIAN DE STUFFO,CALALZO DI CADORE,,,CALALZO DI CADORE  PIAN DE STUFFO
+LOCALITA' S.FRANCESCO D'ORSINA,CALALZO DI CADORE,,,CALALZO DI CADORE  S.FRANCESCO D'ORSINA
+LOCALITA' STRAPIEDO,CALALZO DI CADORE,,,CALALZO DI CADORE  STRAPIEDO
+LOCALITA' TAUNIA,CALALZO DI CADORE,,,CALALZO DI CADORE  TAUNIA
+LOCALITA' TRASAGHE,CALALZO DI CADORE,,,CALALZO DI CADORE  TRASAGHE
+VIA A. FRESCURA,CALALZO DI CADORE,,,CALALZO DI CADORE VIA A. FRESCURA
+VIA B. TOFFOLI,CALALZO DI CADORE,,,CALALZO DI CADORE VIA B. TOFFOLI
+VIA C. A. DALLA CHIESA,CALALZO DI CADORE,,,CALALZO DI CADORE VIA C. A. DALLA CHIESA
+VIA C. FANTON,CALALZO DI CADORE,,,CALALZO DI CADORE VIA C. FANTON
+VIA CADARIA,CALALZO DI CADORE,,,CALALZO DI CADORE VIA CADARIA
+VIA D. ALIGHIERI,CALALZO DI CADORE,,,CALALZO DI CADORE VIA D. ALIGHIERI
+VIA E. TOFFOLI,CALALZO DI CADORE,,,CALALZO DI CADORE VIA E. TOFFOLI
+VIA G. CARDUCCI,CALALZO DI CADORE,,,CALALZO DI CADORE VIA G. CARDUCCI
+VIA G. DE STEFANI,CALALZO DI CADORE,,,CALALZO DI CADORE VIA G. DE STEFANI
+VIA G. LEOPARDI,CALALZO DI CADORE,,,CALALZO DI CADORE VIA G. LEOPARDI
+VIA G. MAZZINI,CALALZO DI CADORE,,,CALALZO DI CADORE VIA G. MAZZINI
+LOCALITA' CAMPION,CANALE D'AGORDO,,,CANALE D'AGORDO  CAMPION
+LOCALITA' CASATE,CANALE D'AGORDO,,,CANALE D'AGORDO  CASATE
+LOCALITA' LA SOTTA,CANALE D'AGORDO,,,CANALE D'AGORDO  LA SOTTA
+LOCALITA' PIAN DE GIARE,CANALE D'AGORDO,,,CANALE D'AGORDO  PIAN DE GIARE
+VIA GIUSEPPE XAIZ,CANALE D'AGORDO,,,CANALE D'AGORDO VIA GIUSEPPE XAIZ
+VIA PAVIER-FRAZ.FEDER,CANALE D'AGORDO,,,CANALE D'AGORDO VIA PAVIER-FRAZ.FEDER
+VIA SOFRAIDE,CANALE D'AGORDO,,,CANALE D'AGORDO VIA SOFRAIDE
+LOCALITA' CALCHERE,CENCENIGHE AGORDINO,,,CENCENIGHE AGORDINO  CALCHERE
+LOCALITA' I LARES,CENCENIGHE AGORDINO,,,CENCENIGHE AGORDINO  I LARES
+PIAZZA PICCOLA,CENCENIGHE AGORDINO,,,CENCENIGHE AGORDINO PIAZZA PICCOLA
+STATALE AGORDINA 203,CENCENIGHE AGORDINO,,,CENCENIGHE AGORDINO STATALE AGORDINA 203
+VIA COI,CENCENIGHE AGORDINO,,,CENCENIGHE AGORDINO VIA COI
+VIA COLESIN,CENCENIGHE AGORDINO,,,CENCENIGHE AGORDINO VIA COLESIN
+VIA MARTINAZZE,CENCENIGHE AGORDINO,,,CENCENIGHE AGORDINO VIA MARTINAZZE
+BORGATA DE LAZZER-BUSCHE,CESIOMAGGIORE,,,CESIOMAGGIORE BORGATA DE LAZZER-BUSCHE
+P.ZZA S.LIBERALE-MARSIAI,CESIOMAGGIORE,,,CESIOMAGGIORE P.ZZA S.LIBERALE-MARSIAI
+VIA BORDUGO,CESIOMAGGIORE,,,CESIOMAGGIORE VIA BORDUGO
+VIA BORGATA SLONGO,CESIOMAGGIORE,,,CESIOMAGGIORE VIA BORGATA SLONGO
+VIA BOSCON,CESIOMAGGIORE,,,CESIOMAGGIORE VIA BOSCON
+VIA CALSOTA-MARSIAI,CESIOMAGGIORE,,,CESIOMAGGIORE VIA CALSOTA-MARSIAI
+VIA CAMPO ALTO-BUSCHE,CESIOMAGGIORE,,,CESIOMAGGIORE VIA CAMPO ALTO-BUSCHE
+VIA CAMPO BASSO-BUSCHE,CESIOMAGGIORE,,,CESIOMAGGIORE VIA CAMPO BASSO-BUSCHE
+BORGO CAMILLO CAVOUR,CHIES D'ALPAGO,,,CHIES D'ALPAGO BORGO CAMILLO CAVOUR
+BORGO SAN GIORGIO,CHIES D'ALPAGO,,,CHIES D'ALPAGO BORGO SAN GIORGIO
+BROI - FR. IRRIGHE,CHIES D'ALPAGO,,,CHIES D'ALPAGO BROI - FR. IRRIGHE
+CADOL - FR. IRRIGHE,CHIES D'ALPAGO,,,CHIES D'ALPAGO CADOL - FR. IRRIGHE
+CALCHERA - FR. FUNES,CHIES D'ALPAGO,,,CHIES D'ALPAGO CALCHERA - FR. FUNES
+CIMA RIVE - FR. CHIES,CHIES D'ALPAGO,,,CHIES D'ALPAGO CIMA RIVE - FR. CHIES
+COL DI SERRE - FR. FUNES,CHIES D'ALPAGO,,,CHIES D'ALPAGO COL DI SERRE - FR. FUNES
+COL PIAN/STONA - FR.MONT,CHIES D'ALPAGO,,,CHIES D'ALPAGO COL PIAN/STONA - FR.MONT
+COMUN-CHIES-MOLINI,CHIES D'ALPAGO,,,CHIES D'ALPAGO COMUN-CHIES-MOLINI
+FORA SAN MARTIN,CHIES D'ALPAGO,,,CHIES D'ALPAGO FORA SAN MARTIN
+IN PRA' - FR. CHIES,CHIES D'ALPAGO,,,CHIES D'ALPAGO IN PRA' - FR. CHIES
+LE BUSE S.D.,CHIES D'ALPAGO,,,CHIES D'ALPAGO LE BUSE S.D.
+LOCALITA' CAMPIDIEI S.D.,CHIES D'ALPAGO,,,CHIES D'ALPAGO  CAMPIDIEI S.D.
+LOCALITA' CANEI S.D.,CHIES D'ALPAGO,,,CHIES D'ALPAGO  CANEI S.D.
+LOCALITA' CIAFFA S.D.,CHIES D'ALPAGO,,,CHIES D'ALPAGO  CIAFFA S.D.
+LOCALITA' COSTA S.D.,CHIES D'ALPAGO,,,CHIES D'ALPAGO  COSTA S.D.
+LOCALITA' COSTELE S.D.,CHIES D'ALPAGO,,,CHIES D'ALPAGO  COSTELE S.D.
+LOCALITA' CREPOLA',CHIES D'ALPAGO,,,CHIES D'ALPAGO  CREPOLA'
+LOCALITA' DOLZOI S.D.,CHIES D'ALPAGO,,,CHIES D'ALPAGO  DOLZOI S.D.
+LOCALITA' DUPPIAI-MONT-PRIVATO,CHIES D'ALPAGO,,,CHIES D'ALPAGO  DUPPIAI-MONT-PRIVATO
+LOCALITA' FALISETTA,CHIES D'ALPAGO,,,CHIES D'ALPAGO  FALISETTA
+LOCALITA' MALON - FR. MONT,CHIES D'ALPAGO,,,CHIES D'ALPAGO  MALON - FR. MONT
+LOCALITA' MARIANNE S.D.,CHIES D'ALPAGO,,,CHIES D'ALPAGO  MARIANNE S.D.
+LOCALITA' PESCOLTRE - FR.MONT,CHIES D'ALPAGO,,,CHIES D'ALPAGO  PESCOLTRE - FR.MONT
+LOCALITA' PIAI S.D.,CHIES D'ALPAGO,,,CHIES D'ALPAGO  PIAI S.D.
+LOCALITA' SCIAMATON - FR. MONT,CHIES D'ALPAGO,,,CHIES D'ALPAGO  SCIAMATON - FR. MONT
+LOCALITA' SOCCOR,CHIES D'ALPAGO,,,CHIES D'ALPAGO  SOCCOR
+LOC.PALU' DEI CAVAI-CORNIGIAN,CIBIANA DI CADORE,,,CIBIANA DI CADORE LOC.PALU' DEI CAVAI-CORNIGIAN
+VIA VILLAGRANDE,COLLE SANTA LUCIA,,,COLLE SANTA LUCIA VIA VILLAGRANDE
+LARGO CALVI,COMELICO SUPERIORE,,,COMELICO SUPERIORE LARGO CALVI
+LOCALITA' DI PIANO DOSOLEDO,COMELICO SUPERIORE,,,COMELICO SUPERIORE  DI PIANO DOSOLEDO
+LOCALITA' MASARE',COMELICO SUPERIORE,,,COMELICO SUPERIORE  MASARE'
+LOCALITA' STABIORCO,COMELICO SUPERIORE,,,COMELICO SUPERIORE  STABIORCO
+LOCALITA' VARE DEI FABBRI,COMELICO SUPERIORE,,,COMELICO SUPERIORE  VARE DEI FABBRI
+P.ZZA MONS G. DE CASSAN-CANDID,COMELICO SUPERIORE,,,COMELICO SUPERIORE P.ZZA MONS G. DE CASSAN-CANDID
+PIANI DI MOSENA,COMELICO SUPERIORE,,,COMELICO SUPERIORE PIANI DI MOSENA
+PIAZZA TIZIANO - DOSOLEDO,COMELICO SUPERIORE,,,COMELICO SUPERIORE PIAZZA TIZIANO - DOSOLEDO
+VIA 4 NOVEMBRE - PADOLA,COMELICO SUPERIORE,,,COMELICO SUPERIORE VIA 4 NOVEMBRE - PADOLA
+VIA AI PINI - PADOLA,COMELICO SUPERIORE,,,COMELICO SUPERIORE VIA AI PINI - PADOLA
+VIA AIARNOLA - PADOLA,COMELICO SUPERIORE,,,COMELICO SUPERIORE VIA AIARNOLA - PADOLA
+VIA ALLA COSTA - DOSOLEDO,COMELICO SUPERIORE,,,COMELICO SUPERIORE VIA ALLA COSTA - DOSOLEDO
+VIA ALLE ACQUE ROSSE - PADOLA,COMELICO SUPERIORE,,,COMELICO SUPERIORE VIA ALLE ACQUE ROSSE - PADOLA
+VIA ARTURO FESTINI-CASAMAZZAGN,COMELICO SUPERIORE,,,COMELICO SUPERIORE VIA ARTURO FESTINI-CASAMAZZAGN
+VIA BELVEDERE - PADOLA,COMELICO SUPERIORE,,,COMELICO SUPERIORE VIA BELVEDERE - PADOLA
+VIA CADUTI DI CIMA VALLONA,COMELICO SUPERIORE,,,COMELICO SUPERIORE VIA CADUTI DI CIMA VALLONA
+VIA CAMINESI - CANDIDE,COMELICO SUPERIORE,,,COMELICO SUPERIORE VIA CAMINESI - CANDIDE
+VIA CASERE - CANDIDE E CASAMAZ,COMELICO SUPERIORE,,,COMELICO SUPERIORE VIA CASERE - CANDIDE E CASAMAZ
+VIA CELESTE DE MARTIN-DOSOLEDO,COMELICO SUPERIORE,,,COMELICO SUPERIORE VIA CELESTE DE MARTIN-DOSOLEDO
+VIA CRODE - CASAMAZZAGNO,COMELICO SUPERIORE,,,COMELICO SUPERIORE VIA CRODE - CASAMAZZAGNO
+VIA DANTA - CANDIDE,COMELICO SUPERIORE,,,COMELICO SUPERIORE VIA DANTA - CANDIDE
+VIA DELLA FUCINA - PADOLA,COMELICO SUPERIORE,,,COMELICO SUPERIORE VIA DELLA FUCINA - PADOLA
+VIA DELLA GIUSTIZIA-CASAMAZZAG,COMELICO SUPERIORE,,,COMELICO SUPERIORE VIA DELLA GIUSTIZIA-CASAMAZZAG
+VIA DELLA SALUTE -CASAMAZZAGNO,COMELICO SUPERIORE,,,COMELICO SUPERIORE VIA DELLA SALUTE -CASAMAZZAGNO
+VIA DELL'AQUILA - DOSOLEDO,COMELICO SUPERIORE,,,COMELICO SUPERIORE VIA DELL'AQUILA - DOSOLEDO
+VIA DELLE MOLE - CANDIDE,COMELICO SUPERIORE,,,COMELICO SUPERIORE VIA DELLE MOLE - CANDIDE
+VIA DEPPO - DOSOLEDO,COMELICO SUPERIORE,,,COMELICO SUPERIORE VIA DEPPO - DOSOLEDO
+VIA DI PIANO - DOSOLEDO,COMELICO SUPERIORE,,,COMELICO SUPERIORE VIA DI PIANO - DOSOLEDO
+FRAZIONE ACQUABONA DI SOPRA,CORTINA D'AMPEZZO,,,CORTINA D'AMPEZZO  ACQUABONA DI SOPRA
+FRAZIONE ACQUABONA DI SOTTO,CORTINA D'AMPEZZO,,,CORTINA D'AMPEZZO  ACQUABONA DI SOTTO
+FRAZIONE CADELVERZO DI SOPRA,CORTINA D'AMPEZZO,,,CORTINA D'AMPEZZO  CADELVERZO DI SOPRA
+GALLERIA NUOVO CENTRO,CORTINA D'AMPEZZO,,,CORTINA D'AMPEZZO GALLERIA NUOVO CENTRO
+LARGO POSTE,CORTINA D'AMPEZZO,,,CORTINA D'AMPEZZO LARGO POSTE
+LOCALITA' BRITE DE VAL,CORTINA D'AMPEZZO,,,CORTINA D'AMPEZZO  BRITE DE VAL
+LOCALITA' CADEMAI,CORTINA D'AMPEZZO,,,CORTINA D'AMPEZZO  CADEMAI
+LOCALITA' COJANA STRADA NUOVA,CORTINA D'AMPEZZO,,,CORTINA D'AMPEZZO  COJANA STRADA NUOVA
+LOCALITA' GRAVA DI SOPRA,CORTINA D'AMPEZZO,,,CORTINA D'AMPEZZO  GRAVA DI SOPRA
+LOCALITA' GRAVA DI SOTTO,CORTINA D'AMPEZZO,,,CORTINA D'AMPEZZO  GRAVA DI SOTTO
+LOCALITA' MAION,CORTINA D'AMPEZZO,,,CORTINA D'AMPEZZO  MAION
+LOCALITA' SACUS,CORTINA D'AMPEZZO,,,CORTINA D'AMPEZZO  SACUS
+LOCALITA' RAVINE,DANTA DI CADORE,,,DANTA DI CADORE  RAVINE
+PIAZZA D. LUTTIN,DANTA DI CADORE,,,DANTA DI CADORE PIAZZA D. LUTTIN
+VIA AIARNOLA,DANTA DI CADORE,,,DANTA DI CADORE VIA AIARNOLA
+VIA MONTE PIEDO,DANTA DI CADORE,,,DANTA DI CADORE VIA MONTE PIEDO
+VIA SANTA BARBARA,DANTA DI CADORE,,,DANTA DI CADORE VIA SANTA BARBARA
+VIA SANTO STEFANO,DANTA DI CADORE,,,DANTA DI CADORE VIA SANTO STEFANO
+VIA VANTADEN,DANTA DI CADORE,,,DANTA DI CADORE VIA VANTADEN
+VIA XXIV MAGGIO,DANTA DI CADORE,,,DANTA DI CADORE VIA XXIV MAGGIO
+LA PIAZZA,DOMEGGE DI CADORE,,,DOMEGGE DI CADORE LA PIAZZA
+LOCALITA' MOLIN,DOMEGGE DI CADORE,,,DOMEGGE DI CADORE  MOLIN
+PIAZZA DEI MARTIRI,DOMEGGE DI CADORE,,,DOMEGGE DI CADORE PIAZZA DEI MARTIRI
+PIAZZA IV NOVEMBRE,DOMEGGE DI CADORE,,,DOMEGGE DI CADORE PIAZZA IV NOVEMBRE
+PIAZZA SAN LEONARDO - GREA,DOMEGGE DI CADORE,,,DOMEGGE DI CADORE PIAZZA SAN LEONARDO - GREA
+PIAZZA SAN VIGILIO,DOMEGGE DI CADORE,,,DOMEGGE DI CADORE PIAZZA SAN VIGILIO
+VIA 4 NOVEMBRE - GREA,DOMEGGE DI CADORE,,,DOMEGGE DI CADORE VIA 4 NOVEMBRE - GREA
+VIA A. DI SAVOIA,DOMEGGE DI CADORE,,,DOMEGGE DI CADORE VIA A. DI SAVOIA
+VIA BORGO NUOVO,DOMEGGE DI CADORE,,,DOMEGGE DI CADORE VIA BORGO NUOVO
+VIA DELL'OCCHIALE - GREA,DOMEGGE DI CADORE,,,DOMEGGE DI CADORE VIA DELL'OCCHIALE - GREA
+VIA DELL'OCCHIALE - VALLESELLA,DOMEGGE DI CADORE,,,DOMEGGE DI CADORE VIA DELL'OCCHIALE - VALLESELLA
+VIA DON F.BARNABO',DOMEGGE DI CADORE,,,DOMEGGE DI CADORE VIA DON F.BARNABO'
+VIA DON NATALE TALAMINI,DOMEGGE DI CADORE,,,DOMEGGE DI CADORE VIA DON NATALE TALAMINI
+VIA GORIZIA,DOMEGGE DI CADORE,,,DOMEGGE DI CADORE VIA GORIZIA
+VIA IV NOVEMBRE - CAPOLUOGO,DOMEGGE DI CADORE,,,DOMEGGE DI CADORE VIA IV NOVEMBRE - CAPOLUOGO
+VIA LORIS FRESCURA,DOMEGGE DI CADORE,,,DOMEGGE DI CADORE VIA LORIS FRESCURA
+VIA MONS. MASI,DOMEGGE DI CADORE,,,DOMEGGE DI CADORE VIA MONS. MASI
+VIA MONS.CIANI,DOMEGGE DI CADORE,,,DOMEGGE DI CADORE VIA MONS.CIANI
+VIA MONTE ADAMELLO,DOMEGGE DI CADORE,,,DOMEGGE DI CADORE VIA MONTE ADAMELLO
+CORSO ITALIA,FALCADE,,,FALCADE CORSO ITALIA
+CORSO ROMA,FALCADE,,,FALCADE CORSO ROMA
+LOC.TABIADON DI CANES,FALCADE,,,FALCADE LOC.TABIADON DI CANES
+LOCALITA' COSTA,FALCADE,,,FALCADE  COSTA
+LOCALITA' FUCHIADE,FALCADE,,,FALCADE  FUCHIADE
+LOCALITA' GANZ,FALCADE,,,FALCADE  GANZ
+LOCALITA' LE BUSCHE,FALCADE,,,FALCADE  LE BUSCHE
+LOCALITA' VAL FREDDA,FALCADE,,,FALCADE  VAL FREDDA
+PIAZZA 4 NOVEMBRE 1966,FALCADE,,,FALCADE PIAZZA 4 NOVEMBRE 1966
+PIAZZA COL DE RIF,FALCADE,,,FALCADE PIAZZA COL DE RIF
+PIAZZA S. SEBASTIANO,FALCADE,,,FALCADE PIAZZA S. SEBASTIANO
+PIAZZA XX AGOSTO,FALCADE,,,FALCADE PIAZZA XX AGOSTO
+PIAZZALE 4 NOVEMBRE 1918,FALCADE,,,FALCADE PIAZZALE 4 NOVEMBRE 1918
+SALITA MADONNA DELLA SALUTE,FALCADE,,,FALCADE SALITA MADONNA DELLA SALUTE
+VIA 7^ALPINI,FALCADE,,,FALCADE VIA 7^ALPINI
+VIA AGOSTINO MURER,FALCADE,,,FALCADE VIA AGOSTINO MURER
+GALLERIA ISOLA,FELTRE,,,FELTRE GALLERIA ISOLA
+LARGO P. CASTALDI,FELTRE,,,FELTRE LARGO P. CASTALDI
+P.LE TANCREDI PARMEGGIANI,FELTRE,,,FELTRE P.LE TANCREDI PARMEGGIANI
+PIAZZA A. E L. ZANCANARO,FELTRE,,,FELTRE PIAZZA A. E L. ZANCANARO
+"PIAZZA BTG ALPINI ""FELTRE""",FELTRE,,,"FELTRE PIAZZA BTG ALPINI ""FELTRE"""
+PIAZZA DE LA CESA - PREN,FELTRE,,,FELTRE PIAZZA DE LA CESA - PREN
+PIAZZA I^NOVEMBRE,FONZASO,,,FONZASO PIAZZA I^NOVEMBRE
+PIAZZA NOGARE' BILLESIMO,FONZASO,,,FONZASO PIAZZA NOGARE' BILLESIMO
+PIAZZA NORCEN,FONZASO,,,FONZASO PIAZZA NORCEN
+PIAZZA SAN GOTTARDO,FONZASO,,,FONZASO PIAZZA SAN GOTTARDO
+VIA A. DE GASPERI,FONZASO,,,FONZASO VIA A. DE GASPERI
+VIA BOVE,FONZASO,,,FONZASO VIA BOVE
+VIA CALZEN,FONZASO,,,FONZASO VIA CALZEN
+VIA CASE LIRA,FONZASO,,,FONZASO VIA CASE LIRA
+VIA CESARE BATTISTI,FONZASO,,,FONZASO VIA CESARE BATTISTI
+VIA COL BIANCO,FONZASO,,,FONZASO VIA COL BIANCO
+VIA CONTE MENGOTTI,FONZASO,,,FONZASO VIA CONTE MENGOTTI
+PIAZZA S. GIACOMO,GOSALDO,,,GOSALDO PIAZZA S. GIACOMO
+VIA CASTELLO,GOSALDO,,,GOSALDO VIA CASTELLO
+VIA CENTRO-LOC.TISER,GOSALDO,,,GOSALDO VIA CENTRO-LOC.TISER
+VIA DEI CUCH-LOC.TISER,GOSALDO,,,GOSALDO VIA DEI CUCH-LOC.TISER
+VIA DELLA SCUOLA-LOC.TISER,GOSALDO,,,GOSALDO VIA DELLA SCUOLA-LOC.TISER
+VIA DENEORE,GOSALDO,,,GOSALDO VIA DENEORE
+VIA FOCHE,GOSALDO,,,GOSALDO VIA FOCHE
+VIA IV NOVEMBRE,GOSALDO,,,GOSALDO VIA IV NOVEMBRE
+LOCALITA' LE VIZZE,LA VALLE AGORDINA,,,LA VALLE AGORDINA  LE VIZZE
+VIA LA MUDA (dal civico 19 in poi),LA VALLE AGORDINA,,,LA VALLE AGORDINA VIA LA MUDA (dal civico 19 in poi)
+VIA LA MUDA (fino al civico 18),LA VALLE AGORDINA,,,LA VALLE AGORDINA VIA LA MUDA (fino al civico 18)
+VIA NOACH,LA VALLE AGORDINA,,,LA VALLE AGORDINA VIA NOACH
+LOCALITA' GUANA,LAMON,,,LAMON  GUANA
+LOCALITA' SCHEID,LAMON,,,LAMON  SCHEID
+VIA BECCAROI,LAMON,,,LAMON VIA BECCAROI
+VIA BILLO',LAMON,,,LAMON VIA BILLO'
+VIA BROCCON,LAMON,,,LAMON VIA BROCCON
+VIA BRODI,LAMON,,,LAMON VIA BRODI
+VIA C.BATTISTI,LAMON,,,LAMON VIA C.BATTISTI
+VIA C.G.BALIN,LAMON,,,LAMON VIA C.G.BALIN
+VIA CANTONI,LAMON,,,LAMON VIA CANTONI
+VIA CATESUNA,LAMON,,,LAMON VIA CATESUNA
+VIA CAV.DI VITTORIO VENETO,LAMON,,,LAMON VIA CAV.DI VITTORIO VENETO
+VIA CAVALEA,LAMON,,,LAMON VIA CAVALEA
+VIA CHIOE',LAMON,,,LAMON VIA CHIOE'
+VIA COL SECH,LAMON,,,LAMON VIA COL SECH
+FRAZ. COLDERU' PIAN DI CULTURA,LENTIAI,,,LENTIAI FRAZ. COLDERU' PIAN DI CULTURA
+FRAZIONE BOSCHI,LENTIAI,,,LENTIAI  BOSCHI
+FRAZIONE CANAI LA VENA,LENTIAI,,,LENTIAI  CANAI LA VENA
+FRAZIONE COLDERU' S.GERVASIO,LENTIAI,,,LENTIAI  COLDERU' S.GERVASIO
+FRAZIONE MARZIAI,LENTIAI,,,LENTIAI  MARZIAI
+LARGO MARCONI,LENTIAI,,,LENTIAI LARGO MARCONI
+VIA A. BORTOLINI,LENTIAI,,,LENTIAI VIA A. BORTOLINI
+VIA ARISTIDE GABELLI,LENTIAI,,,LENTIAI VIA ARISTIDE GABELLI
+VIA CA' MONTAGN,LENTIAI,,,LENTIAI VIA CA' MONTAGN
+VIA CAL DE SACH,LENTIAI,,,LENTIAI VIA CAL DE SACH
+VIA CASTELLIR,LENTIAI,,,LENTIAI VIA CASTELLIR
+VIA COI DI RONCHENA,LENTIAI,,,LENTIAI VIA COI DI RONCHENA
+VIA A. VIVALDI,LIMANA,,,LIMANA VIA A. VIVALDI
+VIA A. ZAMPIERI,LIMANA,,,LIMANA VIA A. ZAMPIERI
+VIA CASE SPARSE CESA,LIMANA,,,LIMANA VIA CASE SPARSE CESA
+VIA CASE SPARSE FAICH,LIMANA,,,LIMANA VIA CASE SPARSE FAICH
+VIA CASE SPARSE PIOMBEI,LIMANA,,,LIMANA VIA CASE SPARSE PIOMBEI
+VIA CASE SPARSE VILLA,LIMANA,,,LIMANA VIA CASE SPARSE VILLA
+VIA COI,LIMANA,,,LIMANA VIA COI
+VIA COI DI NAVASA,LIMANA,,,LIMANA VIA COI DI NAVASA
+VIA COL DI MEZZO,LIMANA,,,LIMANA VIA COL DI MEZZO
+VIA COLVENDRAMEL,LIMANA,,,LIMANA VIA COLVENDRAMEL
+VIA D. BUZZATI,LIMANA,,,LIMANA VIA D. BUZZATI
+VIA G. GARIBALDI,LIMANA,,,LIMANA VIA G. GARIBALDI
+VIA G. MAZZINI,LIMANA,,,LIMANA VIA G. MAZZINI
+BIVIO DI SALESEI,LIVINALLONGO DEL COL DI LANA,,,LIVINALLONGO DEL COL DI LANA BIVIO DI SALESEI
+LOCALITA' COLESEL,LIVINALLONGO DEL COL DI LANA,,,LIVINALLONGO DEL COL DI LANA  COLESEL
+LOCALITA' GLIERA DI ARABBA,LIVINALLONGO DEL COL DI LANA,,,LIVINALLONGO DEL COL DI LANA  GLIERA DI ARABBA
+VIA CAMPI DI PLAJAZ,LIVINALLONGO DEL COL DI LANA,,,LIVINALLONGO DEL COL DI LANA VIA CAMPI DI PLAJAZ
+VIA COL D'ORNELLA,LIVINALLONGO DEL COL DI LANA,,,LIVINALLONGO DEL COL DI LANA VIA COL D'ORNELLA
+VIA COLSOTTOCHIESA,LIVINALLONGO DEL COL DI LANA,,,LIVINALLONGO DEL COL DI LANA VIA COLSOTTOCHIESA
+VIA COSTA DI PIAN,LIVINALLONGO DEL COL DI LANA,,,LIVINALLONGO DEL COL DI LANA VIA COSTA DI PIAN
+VIA COSTA DI SALESEI,LIVINALLONGO DEL COL DI LANA,,,LIVINALLONGO DEL COL DI LANA VIA COSTA DI SALESEI
+LOCALITA' BAS LA VAL,LONGARONE,,,LONGARONE  BAS LA VAL
+LOCALITA' CAMPESINE,LONGARONE,,,LONGARONE  CAMPESINE
+LOCALITA' COPPEDELLO,LONGARONE,,,LONGARONE  COPPEDELLO
+LOCALITA' COSTA DEI GAI,LONGARONE,,,LONGARONE  COSTA DEI GAI
+LOCALITA' IN COLLE,LONGARONE,,,LONGARONE  IN COLLE
+LOCALITA' LE VARE,LONGARONE,,,LONGARONE  LE VARE
+LOCALITA' MORO,LONGARONE,,,LONGARONE  MORO
+LOCALITA' NOIERA,LONGARONE,,,LONGARONE  NOIERA
+LOCALITA' SORAGA',LONGARONE,,,LONGARONE  SORAGA'
+LOCALITA' TORCO,LONGARONE,,,LONGARONE  TORCO
+PIAZZA 9 OTTOBRE,LONGARONE,,,LONGARONE PIAZZA 9 OTTOBRE
+PIAZZA DEGLI SCALPELLINI,LONGARONE,,,LONGARONE PIAZZA DEGLI SCALPELLINI
+PIAZZA DELLA CHIESA,LONGARONE,,,LONGARONE PIAZZA DELLA CHIESA
+PIAZZETTA DELLA FONTANA,LONGARONE,,,LONGARONE PIAZZETTA DELLA FONTANA
+SALITA SARTORI,LONGARONE,,,LONGARONE SALITA SARTORI
+VIA 12 MARZO 1916,LONGARONE,,,LONGARONE VIA 12 MARZO 1916
+VIA 16 FEBBRAIO 1925,LONGARONE,,,LONGARONE VIA 16 FEBBRAIO 1925
+VIA 2 GIUGNO - CODISSAGO,LONGARONE,,,LONGARONE VIA 2 GIUGNO - CODISSAGO
+VIA A. MANZONI,LONGARONE,,,LONGARONE VIA A. MANZONI
+LOC. PESIN,LORENZAGO DI CADORE,,,LORENZAGO DI CADORE LOC. PESIN
+LOC. RIAUTO,LORENZAGO DI CADORE,,,LORENZAGO DI CADORE LOC. RIAUTO
+LOC.RONCO GIAL,LORENZAGO DI CADORE,,,LORENZAGO DI CADORE LOC.RONCO GIAL
+LOCALITA' NOAIA,LORENZAGO DI CADORE,,,LORENZAGO DI CADORE  NOAIA
+LOCALITA' RUERE,LORENZAGO DI CADORE,,,LORENZAGO DI CADORE  RUERE
+LOCALITA' STRADA DELLA SEGA,LORENZAGO DI CADORE,,,LORENZAGO DI CADORE  STRADA DELLA SEGA
+VIA A. DE LORENZO,LORENZAGO DI CADORE,,,LORENZAGO DI CADORE VIA A. DE LORENZO
+VIA CESAROL - FRAZ.VILLAGRANDE,LORENZAGO DI CADORE,,,LORENZAGO DI CADORE VIA CESAROL - FRAZ.VILLAGRANDE
+VIA MONS.GIOVANNI DE DONA',LORENZAGO DI CADORE,,,LORENZAGO DI CADORE VIA MONS.GIOVANNI DE DONA'
+VIA PARCO DEI SOGNI,LORENZAGO DI CADORE,,,LORENZAGO DI CADORE VIA PARCO DEI SOGNI
+LOCALITA' SANT'ANNA,LOZZO DI CADORE,,,LOZZO DI CADORE  SANT'ANNA
+PIAZZA DA RIN,LOZZO DI CADORE,,,LOZZO DI CADORE PIAZZA DA RIN
+PIAZZA IV NOVEMBRE,LOZZO DI CADORE,,,LOZZO DI CADORE PIAZZA IV NOVEMBRE
+PIAZZA P.F. CALVI,LOZZO DI CADORE,,,LOZZO DI CADORE PIAZZA P.F. CALVI
+VIA ARCID. MONTI,LOZZO DI CADORE,,,LOZZO DI CADORE VIA ARCID. MONTI
+VIA DEGLI ALPINI,LOZZO DI CADORE,,,LOZZO DI CADORE VIA DEGLI ALPINI
+VIALE DEGLI ARTIGIANI,LOZZO DI CADORE,,,LOZZO DI CADORE VIALE DEGLI ARTIGIANI
+VIALE DELL'INDUSTRIA,LOZZO DI CADORE,,,LOZZO DI CADORE VIALE DELL'INDUSTRIA
