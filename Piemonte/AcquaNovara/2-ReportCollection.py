@@ -15,14 +15,15 @@ driver = webdriver.Chrome("chromedriver", options=options)
 driver.implicitly_wait(10)
 driver.get("https://www.acquanovaravco.eu/AnalisiAcqua?id=qualita-dell-acqua")
 ##
+soup = BeautifulSoup(driver.page_source, 'html.parser')
+data_report_ = soup.find(id="Semestre").findAll("option", {"selected": "selected"})
+data_report = data_report_[0].get_text()
+##
 locationList = pd.read_csv('Definitions/LocationList.csv')
-#listaComuni = locationList.iloc[0:2]['alias_city']
 listaComuni = locationList['alias_city']
-
 reportFoundList = {}
 #%%
 for i,loc in enumerate(listaComuni):
-    #i=2
     location =  locationList.iloc[i]
     alias = (location.alias_city,location.alias_address)
     logging.info(">> %s (%s/%s)",alias,i,len(listaComuni))
@@ -44,7 +45,8 @@ for i,loc in enumerate(listaComuni):
     df.columns = parametri
     try:
         parameters = df.loc[location.alias_city].to_dict()
-        reportFoundList.update({alias:parameters})
+        report = {'data_report':data_report,'parameters':parameters}
+        reportFoundList.update({alias:report})
         logging.info("Updated reportFoundList for %s",alias)
     except KeyError:
         logging.critical("No label for %s. Skiped!",alias)
@@ -52,7 +54,7 @@ for i,loc in enumerate(listaComuni):
 driver.close()
 ##
 import pickle
-f = open("Definitions/FoundReportList.pkl","wb")
+f = open("Definitions/FoundReportList.pickle","wb")
 pickle.dump(reportFoundList,f)
 f.close()
 logging.info('Finish: %s',datetime.datetime.now())

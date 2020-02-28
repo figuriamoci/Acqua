@@ -23,7 +23,7 @@
             <meta name="viewport" content="width=device-width,
                 initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
             <style>
-                #map_41464ec46f1f495f85c7df60befd021d {
+                #map_7e3d7abf654a409fa17affebf5fd14c3 {
                     position: relative;
                     width: 100.0%;
                     height: 100.0%;
@@ -35,115 +35,96 @@
 </head>
 <body>    
     
-            <div class="folium-map" id="map_41464ec46f1f495f85c7df60befd021d" ></div>
+            <div class="folium-map" id="map_7e3d7abf654a409fa17affebf5fd14c3" ></div>
         
 </body>
 <script>    
     
-            var map_41464ec46f1f495f85c7df60befd021d = L.map(
-                "map_41464ec46f1f495f85c7df60befd021d",
+            var map_7e3d7abf654a409fa17affebf5fd14c3 = L.map(
+                "map_7e3d7abf654a409fa17affebf5fd14c3",
                 {
-                    center: [45.4791909, 9.2263127],
+                    center: [45.3563564, 9.3192801],
                     crs: L.CRS.EPSG3857,
                     zoom: 10,
                     zoomControl: true,
                     preferCanvas: false,
                 }
             );
-            L.control.scale().addTo(map_41464ec46f1f495f85c7df60befd021d);
+            L.control.scale().addTo(map_7e3d7abf654a409fa17affebf5fd14c3);
 
             
 
         
     
-            var tile_layer_fcd44c8d8b304494a5e62e0e2a7dee86 = L.tileLayer(
+            var tile_layer_ffa68770a3ae41ffb3f9d29961444706 = L.tileLayer(
                 "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
                 {"attribution": "Data by \u0026copy; \u003ca href=\"http://openstreetmap.org\"\u003eOpenStreetMap\u003c/a\u003e, under \u003ca href=\"http://www.openstreetmap.org/copyright\"\u003eODbL\u003c/a\u003e.", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
-            ).addTo(map_41464ec46f1f495f85c7df60befd021d);
+            ).addTo(map_7e3d7abf654a409fa17affebf5fd14c3);
         
     
-        function geo_json_3aa67da116a34951a219434ec6421a3c_onEachFeature(feature, layer) {
+        function geo_json_787655218f0d4297b8efb3514722e816_onEachFeature(feature, layer) {
             layer.on({
                 click: function(e) {
-                    map_41464ec46f1f495f85c7df60befd021d.fitBounds(e.target.getBounds());
+                    map_7e3d7abf654a409fa17affebf5fd14c3.fitBounds(e.target.getBounds());
                 }
             });
         };
-        var geo_json_3aa67da116a34951a219434ec6421a3c = L.geoJson(null, {
-                onEachFeature: geo_json_3aa67da116a34951a219434ec6421a3c_onEachFeature,
+        var geo_json_787655218f0d4297b8efb3514722e816 = L.geoJson(null, {
+                onEachFeature: geo_json_787655218f0d4297b8efb3514722e816_onEachFeature,
             
         });
-        function geo_json_3aa67da116a34951a219434ec6421a3c_add (data) {
-            geo_json_3aa67da116a34951a219434ec6421a3c.addData(data)
-                .addTo(map_41464ec46f1f495f85c7df60befd021d);
+        function geo_json_787655218f0d4297b8efb3514722e816_add (data) {
+            geo_json_787655218f0d4297b8efb3514722e816.addData(data)
+                .addTo(map_7e3d7abf654a409fa17affebf5fd14c3);
         }
-            geo_json_3aa67da116a34951a219434ec6421a3c_add({"geometry": {"coordinates": [[[[9.234405, 45.468949], [9.23407, 45.468799], [9.232639, 45.468194], [9.232433, 45.468104], [9.231802, 45.468105], [9.231279, 45.468111], [9.23119, 45.468111], [9.230115, 45.468117], [9.229413, 45.468107], [9.228312, 45.468114], [9.228186, 45.468113], [9.227434, 45.46811], [9.227105, 45.468107], [9.226656, 45.468101], [9.224887, 45.468085], [9.223804, 45.468054], [9.223806, 45.468745], [9.223799, 45.468886], [9.22376, 45.470886], [9.223751, 45.471349], [9.22375, 45.472564], [9.223735, 45.472811], [9.22374, 45.473404], [9.223733, 45.473879], [9.22374, 45.474203], [9.223738, 45.475098], [9.22373, 45.475673], [9.223702, 45.47609], [9.223683, 45.47663], [9.223676, 45.477683], [9.223677, 45.477946], [9.223679, 45.478528], [9.223689, 45.479731], [9.223672, 45.480306], [9.223633, 45.480827], [9.223607, 45.482103], [9.223599, 45.483247], [9.223581, 45.484233], [9.223562, 45.486032], [9.224651, 45.486034], [9.225399, 45.486037], [9.226435, 45.48605], [9.226788, 45.486047], [9.227219, 45.486047], [9.227928, 45.48605], [9.228847, 45.486064], [9.229861, 45.486081], [9.231451, 45.486088], [9.231609, 45.486092], [9.231891, 45.486096], [9.233484, 45.486119], [9.234484, 45.486121], [9.234735, 45.48612], [9.236309, 45.486134], [9.236739, 45.485565], [9.237269, 45.484985], [9.237656, 45.484386], [9.237895, 45.484008], [9.238074, 45.483564], [9.238449, 45.482075], [9.238628, 45.478789], [9.238542, 45.477316], [9.238413, 45.476524], [9.238301, 45.475782], [9.238215, 45.474552], [9.238164, 45.473594], [9.238146, 45.47332], [9.238085, 45.471885], [9.23802, 45.470947], [9.237965, 45.469705], [9.23671, 45.469662], [9.23609, 45.469551], [9.235069, 45.469183], [9.234405, 45.468949]]]], "type": "MultiPolygon"}, "properties": {"comune": "Milano", "name": "CITTA\u0027 STUDI", "regione": "Lombardia"}, "type": "Feature"});
+            geo_json_787655218f0d4297b8efb3514722e816_add({"geometry": {"coordinates": [[[9.306731, 45.342988, 0.0], [9.307189, 45.342627, 0.0], [9.31298, 45.346773, 0.0], [9.316095, 45.349182, 0.0], [9.320012, 45.352019, 0.0], [9.321094, 45.352787, 0.0], [9.332854, 45.350386, 0.0], [9.334171, 45.349683, 0.0], [9.335351, 45.347915, 0.0], [9.33605, 45.346704, 0.0], [9.333992, 45.367926, 0.0], [9.333098, 45.368037, 0.0], [9.29724, 45.352955, 0.0], [9.306731, 45.342988, 0.0]]], "type": "Polygon"}, "properties": {"name": "MELEGNANO", "regione": "Lombardia"}, "type": "Feature"});
         
     
-            var marker_995fb2c7bb1f4faa8e99f8cc68cb8bf0 = L.marker(
-                [45.473297, 9.226792],
+            var marker_cc9b9e6be5cf44da88a7e278858f2abd = L.marker(
+                [45.356356, 9.31928],
                 {}
-            ).addTo(map_41464ec46f1f495f85c7df60befd021d);
+            ).addTo(map_7e3d7abf654a409fa17affebf5fd14c3);
         
     
-            var icon_f124320e4c164a87b4576812ddda37b9 = L.AwesomeMarkers.icon(
+            var icon_cf7fa777f9ff4504964e0d3bf9fb5245 = L.AwesomeMarkers.icon(
                 {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
             );
-            marker_995fb2c7bb1f4faa8e99f8cc68cb8bf0.setIcon(icon_f124320e4c164a87b4576812ddda37b9);
+            marker_cc9b9e6be5cf44da88a7e278858f2abd.setIcon(icon_cf7fa777f9ff4504964e0d3bf9fb5245);
         
     
-        var popup_c50c375db2f848c7b44e79e7c69dc185 = L.popup({"maxWidth": "100%"});
+        var popup_73fde8304cb64f05ae6658aff34904d0 = L.popup({"maxWidth": "100%"});
 
         
-            var html_5001e16346f240449cfd55ca268b2be3 = $(`<div id="html_5001e16346f240449cfd55ca268b2be3" style="width: 100.0%; height: 100.0%;"><table><tr><td>geoname</td><td>Piazza Giuseppe "Beppo" Occhialini, Città Studi, Milano, Lombardia, 20133, Italia<td></tr><tr><td>gestore</td><td>MM S.P.A.<td></tr><tr><td>web</td><td>http://www.mmspa.eu<td></tr><tr><td>report</td><td>https://www.milanoblu.com/la-tua-acqua/controlla-le-analisi/<td></tr><tr><td>data</td><td> quarto trimestre 2019.<td></tr><tr><td>reference</td><td>Milano, piazza occhialini giuseppe<td></tr><tr><td>timestamp</td><td>21/02/2020, 01:22<td></tr><tr><td>residuo_fisso</td><td>391 mg/l<td></tr><tr><td>durezza</td><td>31 °F<td></tr><tr><td>ph</td><td>7.6 unità pH<td></tr><tr><td>calcio</td><td>85 mg/l<td></tr><tr><td>sodio</td><td>19 mg/l<td></tr><tr><td>magnesio</td><td>19.3 mg/l Mg<td></tr><tr><td>potassio</td><td>2 mg/l K<td></tr><tr><td>solfato</td><td>55 mg/l SO4<td></tr><tr><td>nitrato</td><td>30 mg/l<td></tr><tr><td>nitrito</td><td><0,20 mg/l<td></tr><tr><td>cloruro</td><td>34 mg/l Cl<td></tr><tr><td>conducibilita</td><td>602 µS/cm<td></tr><tr><td>fluoruri</td><td><0,5 mg/L<td></tr><tr><td>ammoniaca</td><td><0,10 mg/L<td></tr><tr><td>manganese</td><td><1 µg/L<td></tr><tr><td>arsenico</td><td><2 µg/L<td></tr><tr><td>bicarbonato</td><td>234 mg/L<td></tr><tr><td>cloro_residuo</td><td>0.01 mg/l<td></tr><tr><td>marker-color</td><td>#b5a4b0<td></tr><tr><td>marker-size</td><td>small<td></tr></table></div>`)[0];
-            popup_c50c375db2f848c7b44e79e7c69dc185.setContent(html_5001e16346f240449cfd55ca268b2be3);
+            var html_ffe84e4e95a94543a447884b6959b9cd = $(`<div id="html_ffe84e4e95a94543a447884b6959b9cd" style="width: 100.0%; height: 100.0%;"><table><tr><td>geoname</td><td>Melegnano, Milano, Lombardia, 20077, Italia<td></tr><tr><td>gestore</td><td>CAP HOLDING S.P.A<td></tr><tr><td>web</td><td>http://www.gruppocap.it<td></tr><tr><td>report</td><td>https://www.gruppocap.it/attivita/servizio-idrico-integrato/qualita-dell-acqua<td></tr><tr><td>data</td><td>Medie ponderate 2018<td></tr><tr><td>reference</td><td>MELEGNANO, Territorio comunale<td></tr><tr><td>timestamp</td><td>21/02/2020, 00:33<td></tr><tr><td>residuo_fisso</td><td>196 mg/l<td></tr><tr><td>durezza</td><td>13 °F<td></tr><tr><td>ph</td><td>7,80 unità pH<td></tr><tr><td>calcio</td><td>35 mg/l<td></tr><tr><td>sodio</td><td>6 mg/l<td></tr><tr><td>magnesio</td><td>10 mg/l Mg<td></tr><tr><td>potassio</td><td>2 mg/l K<td></tr><tr><td>solfato</td><td><5 mg/l SO4<td></tr><tr><td>nitrato</td><td><5 mg/l<td></tr><tr><td>nitrito</td><td><0,02 mg/l<td></tr><tr><td>cloruro</td><td><5 mg/l Cl<td></tr><tr><td>conducibilita</td><td>255 µS/cm<td></tr><tr><td>fluoruri</td><td><0,3 mg/L<td></tr><tr><td>ammoniaca</td><td><0,1 mg/L<td></tr><tr><td>manganese</td><td><5 µg/L<td></tr><tr><td>arsenico</td><td>3 µg/L<td></tr><tr><td>bicarbonato</td><td>215 mg/L<td></tr><tr><td>cromo</td><td><5 µg/l<td></tr><tr><td>marker-color</td><td>#3d0af7<td></tr><tr><td>marker-size</td><td>small<td></tr></table></div>`)[0];
+            popup_73fde8304cb64f05ae6658aff34904d0.setContent(html_ffe84e4e95a94543a447884b6959b9cd);
         
 
-        marker_995fb2c7bb1f4faa8e99f8cc68cb8bf0.bindPopup(popup_c50c375db2f848c7b44e79e7c69dc185)
+        marker_cc9b9e6be5cf44da88a7e278858f2abd.bindPopup(popup_73fde8304cb64f05ae6658aff34904d0)
         ;
 
         
     
     
-            var marker_ae4a927e0c9d4fc2adc0203e679ebee9 = L.marker(
-                [45.475788, 9.224184],
+            var marker_d6c2bbdcf02440899e244c4e9b29da7c = L.marker(
+                [45.3563564, 9.3192801],
                 {}
-            ).addTo(map_41464ec46f1f495f85c7df60befd021d);
+            ).addTo(map_7e3d7abf654a409fa17affebf5fd14c3);
         
     
-        var popup_826be3a68a4f4d57b6128a6ee64a8c51 = L.popup({"maxWidth": "100%"});
-
-        
-            var html_e56cf4f5bcfd46dfb74639f6c807a17f = $(`<div id="html_e56cf4f5bcfd46dfb74639f6c807a17f" style="width: 100.0%; height: 100.0%;"><table><tr><td>geoname</td><td>Il Barotto, Via Francesco Denti, Città Studi, Milano, Lombardia, 20100, Italia<td></tr><tr><td>gestore</td><td>MM S.P.A.<td></tr><tr><td>web</td><td>http://www.mmspa.eu<td></tr><tr><td>report</td><td>https://www.milanoblu.com/la-tua-acqua/controlla-le-analisi/<td></tr><tr><td>data</td><td> quarto trimestre 2019.<td></tr><tr><td>reference</td><td>Milano, via denti francesco<td></tr><tr><td>timestamp</td><td>21/02/2020, 01:22<td></tr><tr><td>residuo_fisso</td><td>391 mg/l<td></tr><tr><td>durezza</td><td>31 °F<td></tr><tr><td>ph</td><td>7.6 unità pH<td></tr><tr><td>calcio</td><td>85 mg/l<td></tr><tr><td>sodio</td><td>19 mg/l<td></tr><tr><td>magnesio</td><td>19.3 mg/l Mg<td></tr><tr><td>potassio</td><td>2 mg/l K<td></tr><tr><td>solfato</td><td>55 mg/l SO4<td></tr><tr><td>nitrato</td><td>30 mg/l<td></tr><tr><td>nitrito</td><td><0,20 mg/l<td></tr><tr><td>cloruro</td><td>34 mg/l Cl<td></tr><tr><td>conducibilita</td><td>602 µS/cm<td></tr><tr><td>fluoruri</td><td><0,5 mg/L<td></tr><tr><td>ammoniaca</td><td><0,10 mg/L<td></tr><tr><td>manganese</td><td><1 µg/L<td></tr><tr><td>arsenico</td><td><2 µg/L<td></tr><tr><td>bicarbonato</td><td>234 mg/L<td></tr><tr><td>cloro_residuo</td><td>0.01 mg/l<td></tr><tr><td>marker-color</td><td>#b5a4b0<td></tr><tr><td>marker-size</td><td>small<td></tr></table></div>`)[0];
-            popup_826be3a68a4f4d57b6128a6ee64a8c51.setContent(html_e56cf4f5bcfd46dfb74639f6c807a17f);
-        
-
-        marker_ae4a927e0c9d4fc2adc0203e679ebee9.bindPopup(popup_826be3a68a4f4d57b6128a6ee64a8c51)
-        ;
-
-        
-    
-    
-            var marker_049a05040de84acaa4e4da10a7c75434 = L.marker(
-                [45.4791909, 9.2263127],
-                {}
-            ).addTo(map_41464ec46f1f495f85c7df60befd021d);
-        
-    
-            var icon_cd9e0bb8c98e40dea488ead20f3d63d1 = L.AwesomeMarkers.icon(
-                {"extraClasses": "fa-rotate-0", "icon": "home", "iconColor": "white", "markerColor": "green", "prefix": "glyphicon", "tooltip": "IT MI001 0011, Piazza Leonardo da Vinci, Citt\u00e0 Studi, Milano, Lombardia, 20131, Italia"}
+            var icon_e965f7668ed24f9ba12058de9d7888da = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "home", "iconColor": "white", "markerColor": "green", "prefix": "glyphicon", "tooltip": "Melegnano, Via Monsignore Angelino Bianchi, Cascina Bertarella, Melegnano, Milano, Lombardia, 20077, Italia"}
             );
-            marker_049a05040de84acaa4e4da10a7c75434.setIcon(icon_cd9e0bb8c98e40dea488ead20f3d63d1);
+            marker_d6c2bbdcf02440899e244c4e9b29da7c.setIcon(icon_e965f7668ed24f9ba12058de9d7888da);
         
     
-        var popup_40659bb422aa44269e57c37f3e8fcb63 = L.popup({"maxWidth": "100%"});
+        var popup_f4d15c3cea72482d97fd42a190a6cb96 = L.popup({"maxWidth": "100%"});
 
         
-            var html_cdde879e5c4e4603bd8648363238170d = $(`<div id="html_cdde879e5c4e4603bd8648363238170d" style="width: 100.0%; height: 100.0%;"><table><tr><td>geoname</td><td>Piazza Giuseppe "Beppo" Occhialini, Città Studi, Milano, Lombardia, 20133, Italia<td></tr><tr><td>gestore</td><td>MM S.P.A.<td></tr><tr><td>web</td><td>http://www.mmspa.eu<td></tr><tr><td>report</td><td>https://www.milanoblu.com/la-tua-acqua/controlla-le-analisi/<td></tr><tr><td>data</td><td> quarto trimestre 2019.<td></tr><tr><td>reference</td><td>Milano, piazza occhialini giuseppe<td></tr><tr><td>timestamp</td><td>21/02/2020, 01:22<td></tr><tr><td>residuo_fisso</td><td>391 mg/l<td></tr><tr><td>durezza</td><td>31 °F<td></tr><tr><td>ph</td><td>7.6 unità pH<td></tr><tr><td>calcio</td><td>85 mg/l<td></tr><tr><td>sodio</td><td>19 mg/l<td></tr><tr><td>magnesio</td><td>19.3 mg/l Mg<td></tr><tr><td>potassio</td><td>2 mg/l K<td></tr><tr><td>solfato</td><td>55 mg/l SO4<td></tr><tr><td>nitrato</td><td>30 mg/l<td></tr><tr><td>nitrito</td><td><0,20 mg/l<td></tr><tr><td>cloruro</td><td>34 mg/l Cl<td></tr><tr><td>conducibilita</td><td>602 µS/cm<td></tr><tr><td>fluoruri</td><td><0,5 mg/L<td></tr><tr><td>ammoniaca</td><td><0,10 mg/L<td></tr><tr><td>manganese</td><td><1 µg/L<td></tr><tr><td>arsenico</td><td><2 µg/L<td></tr><tr><td>bicarbonato</td><td>234 mg/L<td></tr><tr><td>cloro_residuo</td><td>0.01 mg/l<td></tr><tr><td>marker-color</td><td>#b5a4b0<td></tr><tr><td>marker-size</td><td>small<td></tr></table></div>`)[0];
-            popup_40659bb422aa44269e57c37f3e8fcb63.setContent(html_cdde879e5c4e4603bd8648363238170d);
+            var html_94c8ed279ecf4502813f947973be89c6 = $(`<div id="html_94c8ed279ecf4502813f947973be89c6" style="width: 100.0%; height: 100.0%;"><table><tr><td>geoname</td><td>Melegnano, Milano, Lombardia, 20077, Italia<td></tr><tr><td>gestore</td><td>CAP HOLDING S.P.A<td></tr><tr><td>web</td><td>http://www.gruppocap.it<td></tr><tr><td>report</td><td>https://www.gruppocap.it/attivita/servizio-idrico-integrato/qualita-dell-acqua<td></tr><tr><td>data</td><td>Medie ponderate 2018<td></tr><tr><td>reference</td><td>MELEGNANO, Territorio comunale<td></tr><tr><td>timestamp</td><td>21/02/2020, 00:33<td></tr><tr><td>residuo_fisso</td><td>196 mg/l<td></tr><tr><td>durezza</td><td>13 °F<td></tr><tr><td>ph</td><td>7,80 unità pH<td></tr><tr><td>calcio</td><td>35 mg/l<td></tr><tr><td>sodio</td><td>6 mg/l<td></tr><tr><td>magnesio</td><td>10 mg/l Mg<td></tr><tr><td>potassio</td><td>2 mg/l K<td></tr><tr><td>solfato</td><td><5 mg/l SO4<td></tr><tr><td>nitrato</td><td><5 mg/l<td></tr><tr><td>nitrito</td><td><0,02 mg/l<td></tr><tr><td>cloruro</td><td><5 mg/l Cl<td></tr><tr><td>conducibilita</td><td>255 µS/cm<td></tr><tr><td>fluoruri</td><td><0,3 mg/L<td></tr><tr><td>ammoniaca</td><td><0,1 mg/L<td></tr><tr><td>manganese</td><td><5 µg/L<td></tr><tr><td>arsenico</td><td>3 µg/L<td></tr><tr><td>bicarbonato</td><td>215 mg/L<td></tr><tr><td>cromo</td><td><5 µg/l<td></tr><tr><td>marker-color</td><td>#3d0af7<td></tr><tr><td>marker-size</td><td>small<td></tr></table></div>`)[0];
+            popup_f4d15c3cea72482d97fd42a190a6cb96.setContent(html_94c8ed279ecf4502813f947973be89c6);
         
 
-        marker_049a05040de84acaa4e4da10a7c75434.bindPopup(popup_40659bb422aa44269e57c37f3e8fcb63)
+        marker_d6c2bbdcf02440899e244c4e9b29da7c.bindPopup(popup_f4d15c3cea72482d97fd42a190a6cb96)
         ;
 
         

@@ -6,7 +6,7 @@ import time, geojson,numpy as np,logging,math
 
 def create_label (synonimous,id_gestore,data_report,parms):
     data = {}
-    data['gestore'] = id_gestore
+    data['id_gestore'] = id_gestore
     man = aq.name(id_gestore)
     data['gestore'] = man['descrizione_gestore']
     data['web'] = man['sito_internet']
@@ -45,7 +45,7 @@ def to_geojson(geoLabel,rgb):
     location = geoLabel['location']
     separator = ', '
     location = separator.join( location )
-    prop = {"geoname":geoLabel['geoname'],"gestore":geoLabel['gestore'],"web":geoLabel['web'],"report":geoLabel['report'],"data":geoLabel['data'],"reference":location,"timestamp":geoLabel['timestamp']}
+    prop = {"geoname":geoLabel['geoname'],"gestore":geoLabel['gestore'],"web":geoLabel['web'],"report":geoLabel['report'],"data":geoLabel['data'],"reference":location,"timestamp":geoLabel['timestamp'],"id_gestore":geoLabel['id_gestore']}
     parms_ = geoLabel['parameters']
     parms = {str(k):str(v)+' '+par.getUM(str(k)) for k,v in parms_.items()}
     prop.update(parms)

@@ -220,7 +220,7 @@ def findCoordinates(geoReferencedLocationsListFile):
 
 def createMapOnGeoReferencedDataCollection(geoReferencedLocationsFile,reteAcquedottiFile,output_file):
     ##
-    import pandas as pd, folium, os, logging, geojson
+    import pandas as pd, folium, logging, geojson
     from folium.plugins import MarkerCluster  # for clustering the markers
 
     df = pd.read_csv( geoReferencedLocationsFile )

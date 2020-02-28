@@ -1,137 +1,295 @@
 alias_city,alias_address,georeferencingString,type
-Agrate Conturbia,Comune,"Agrate Conturbia, Piemonte, Italia",POINT
-Ameno,Comune,"Ameno, Piemonte, Italia",POINT
-Arizzano,Comune,"Arizzano, Piemonte, Italia",POINT
-Armeno,Comune,"Armeno, Piemonte, Italia",POINT
-Arola,Comune,"Arola, Piemonte, Italia",POINT
-Arona,Comune,"Arona, Piemonte, Italia",POINT
-Aurano,Comune,"Aurano, Piemonte, Italia",POINT
-Bannio Anzino,Comune,"Bannio Anzino, Piemonte, Italia",POINT
-Barengo,Comune,"Barengo, Piemonte, Italia",POINT
-Baveno,Comune,"Baveno, Piemonte, Italia",POINT
-Bee,Comune,"Bee, Piemonte, Italia",POINT
-Belgirate,Comune,"Belgirate, Piemonte, Italia",POINT
-Bellinzago Novarese,Comune,"Bellinzago Novarese, Piemonte, Italia",POINT
-Biandrate,Comune,"Biandrate, Piemonte, Italia",POINT
-Boca,Comune,"Boca, Piemonte, Italia",POINT
-Bogogno,Comune,"Bogogno, Piemonte, Italia",POINT
-Bolzano Novarese,Comune,"Bolzano Novarese, Piemonte, Italia",POINT
-Borgo Ticino,Comune,"Borgo Ticino, Piemonte, Italia",POINT
-Borgolavezzaro,Comune,"Borgolavezzaro, Piemonte, Italia",POINT
-Borgomanero,Comune,"Borgomanero, Piemonte, Italia",POINT
-Borgomezzavalle,Comune,"Borgomezzavalle, Piemonte, Italia",POINT
-Briga Novarese,Comune,"Briga Novarese, Piemonte, Italia",POINT
-Briona,Comune,"Briona, Piemonte, Italia",POINT
-Brovello Carpugnino,Comune,"Brovello Carpugnino, Piemonte, Italia",POINT
-Caltignaga,Comune,"Caltignaga, Piemonte, Italia",POINT
-Cambiasca,Comune,"Cambiasca, Piemonte, Italia",POINT
-Cameri,Comune,"Cameri, Piemonte, Italia",POINT
-Cannero Riviera,Comune,"Cannero Riviera, Piemonte, Italia",POINT
-Cannobio,Comune,"Cannobio, Piemonte, Italia",POINT
-Caprezzo,Comune,"Caprezzo, Piemonte, Italia",POINT
-Carpignano Sesia,Comune,"Carpignano Sesia, Piemonte, Italia",POINT
-Casalbeltrame,Comune,"Casalbeltrame, Piemonte, Italia",POINT
-Casale Corte Cerro,Comune,"Casale Corte Cerro, Piemonte, Italia",POINT
-Casaleggio Novara,Comune,"Casaleggio Novara, Piemonte, Italia",POINT
-Casalino,Comune,"Casalino, Novara, Piemonte, Italia",POINT
-Casalvolone,Comune,"Casalvolone, Piemonte, Italia",POINT
-Castellazzo Novarese,Comune,"Castellazzo Novarese, Piemonte, Italia",POINT
-Castelletto Sopra Ticino,Comune,"Castelletto Sopra Ticino, Piemonte, Italia",POINT
-Cavaglietto,Comune,"Cavaglietto, Piemonte, Italia",POINT
-Cavaglio d'Agogna,Comune,"Cavaglio d'Agogna, Piemonte, Italia",POINT
-Cavaglio Spoccia,Comune,"Cavaglio San Donnino, Piemonte, Italia",POINT
-Cavallirio,Comune,"Cavallirio, Piemonte, Italia",POINT
-Ceppo Morelli,Comune,"Ceppo Morelli, Piemonte, Italia",POINT
-Cerano,Comune,"Cerano, Piemonte, Italia",POINT
-Cesara,Comune,"Cesara, Piemonte, Italia",POINT
-Colazza,Comune,"Colazza, Piemonte, Italia",POINT
-Comignago,Comune,"Comignago, Piemonte, Italia",POINT
-Cossogno,Comune,"Cossogno, Piemonte, Italia",POINT
-Cressa,Comune,"Cressa, Piemonte, Italia",POINT
-Cureggio,Comune,"Cureggio, Piemonte, Italia",POINT
-Cursolo Orasso,Comune,"Cursolo Orasso, Piemonte, Italia",POINT
-Divignano,Comune,"Divignano, Piemonte, Italia",POINT
-Dormelletto,Comune,"Dormelletto, Piemonte, Italia",POINT
-Falmenta,Comune,"Falmenta, Piemonte, Italia",POINT
-Fara Novarese,Comune,"Fara Novarese, Piemonte, Italia",POINT
-Fontaneto d'Agogna,Comune,"Fontaneto d'Agogna, Piemonte, Italia",POINT
-Galliate,Comune,"Galliate, Piemonte, Italia",POINT
-Garbagna Novarese,Comune,"Garbagna Novarese, Piemonte, Italia",POINT
-Gargallo,Comune,"Gargallo, Piemonte, Italia",POINT
-Gattico,Comune,"Gattico, Piemonte, Italia",POINT
-Germagno,Comune,"Germagno, Piemonte, Italia",POINT
-Ghemme,Comune,"Ghemme, Piemonte, Italia",POINT
-Ghiffa,Comune,"Ghiffa, Piemonte, Italia",POINT
-Gignese,Comune,"Gignese, Piemonte, Italia",POINT
-Gozzano,Comune,"Gozzano, Piemonte, Italia",POINT
-Granozzo con Monticello,Comune,"Granozzo con Monticello, Piemonte, Italia",POINT
-Gravellona Toce,Comune,"Gravellona Toce, Piemonte, Italia",POINT
-Grignasco,Comune,"Grignasco, Piemonte, Italia",POINT
-Intragna,Comune,"Intragna, Piemonte, Italia",POINT
-Invorio,Comune,"Invorio, Piemonte, Italia",POINT
-Landiona,Comune,"Landiona, Piemonte, Italia",POINT
-Lesa,Comune,"Lesa, Piemonte, Italia",POINT
-Loreglia,Comune,"Loreglia, Piemonte, Italia",POINT
-Macugnaga,Comune,"Macugnaga, Piemonte, Italia",POINT
-Madonna del Sasso,Comune,"Madonna del Sasso, Piemonte, Italia",POINT
-Maggiora,Comune,"Maggiora, Piemonte, Italia",POINT
-Mandello Vitta,Comune,"Mandello Vitta, Piemonte, Italia",POINT
-Marano Ticino,Comune,"Marano Ticino, Piemonte, Italia",POINT
-Massino Visconti,Comune,"Massino Visconti, Piemonte, Italia",POINT
-Massiola,Comune,"Massiola, Piemonte, Italia",POINT
-Meina,Comune,"Meina, Piemonte, Italia",POINT
-Mergozzo,Comune,"Mergozzo, Piemonte, Italia",POINT
-Mezzomerico,Comune,"Mezzomerico, Piemonte, Italia",POINT
-Miasino,Comune,"Miasino, Piemonte, Italia",POINT
-Momo,Comune,"Momo, Piemonte, Italia",POINT
-Montescheno,Comune,"Montescheno, Piemonte, Italia",POINT
-Nebbiuno,Comune,"Nebbiuno, Piemonte, Italia",POINT
-Nibbiola,Comune,"Nibbiola, Piemonte, Italia",POINT
-Nonio,Comune,"Nonio, Piemonte, Italia",POINT
-Novara,Comune,"Novara, Piemonte, Italia",POINT
-Oggebbio,Comune,"Oggebbio, Piemonte, Italia",POINT
-Oleggio,Comune,"Oleggio, Piemonte, Italia",POINT
-Oleggio Castello,Comune,"Oleggio Castello, Piemonte, Italia",POINT
-Omegna,Comune,"Omegna, Piemonte, Italia",POINT
-Ornavasso,Comune,"Ornavasso, Piemonte, Italia",POINT
-Orta San Giulio,Comune,"Orta San Giulio, Piemonte, Italia",POINT
-Paruzzaro,Comune,"Paruzzaro, Piemonte, Italia",POINT
-Pella,Comune,"Pella, Piemonte, Italia",POINT
-Pettenasco,Comune,"Pettenasco, Piemonte, Italia",POINT
-Piedimulera,Comune,"Piedimulera, Piemonte, Italia",POINT
-Pieve Vergonte,Comune,"Pieve Vergonte, Piemonte, Italia",POINT
-Pisano Novarese,Comune,"Pisano Novarese, Piemonte, Italia",POINT
-Pogno,Comune,"Pogno, Piemonte, Italia",POINT
-Pombia,Comune,"Pombia, Piemonte, Italia",POINT
-Prato Sesia,Comune,"Prato Sesia, Piemonte, Italia",POINT
-Premeno,Comune,"Premeno, Piemonte, Italia",POINT
-Premosello Chiovenda,Comune,"Premosello Chiovenda, Piemonte, Italia",POINT
-Quarna Sopra,Comune,"Quarna Sopra, Piemonte, Italia",POINT
-Quarna Sotto,Comune,"Quarna Sotto, Piemonte, Italia",POINT
-Recetto,Comune,"Recetto, Piemonte, Italia",POINT
-Romagnano Sesia,Comune,"Romagnano Sesia, Piemonte, Italia",POINT
-Romentino,Comune,"Romentino, Piemonte, Italia",POINT
-San Bernardino Verbano,Comune,"San Bernardino Verbano, Piemonte, Italia",POINT
-San Maurizio d'Opaglio,Comune,"San Maurizio d'Opaglio, Piemonte, Italia",POINT
-San Nazzaro Sesia,Comune,"San Nazzaro Sesia, Piemonte, Italia",POINT
-San Pietro Mosezzo,Comune,"San Pietro Mosezzo, Piemonte, Italia",POINT
-Sillavengo,Comune,"Sillavengo, Piemonte, Italia",POINT
-Sizzano,Comune,"Sizzano, Piemonte, Italia",POINT
-Soriso,Comune,"Soriso, Piemonte, Italia",POINT
-Sozzago,Comune,"Sozzago, Piemonte, Italia",POINT
-Stresa,Comune,"Stresa, Piemonte, Italia",POINT
-Suno,Comune,"Suno, Piemonte, Italia",POINT
-Terdobbiate,Comune,"Terdobbiate, Piemonte, Italia",POINT
-Tornaco,Comune,"Tornaco, Piemonte, Italia",POINT
-Trarego Viggiona,Comune,"Trarego Viggiona, Piemonte, Italia",POINT
-Trecate,Comune,"Trecate, Piemonte, Italia",POINT
-Valstrona,Comune,"Valstrona, Piemonte, Italia",POINT
-Vaprio d'Agogna,Comune,"Vaprio d'Agogna, Piemonte, Italia",POINT
-Varallo Pombia,Comune,"Varallo Pombia, Piemonte, Italia",POINT
-Verbania,Comune,"Verbania, Piemonte, Italia",POINT
-Veruno,Comune,"Veruno, Piemonte, Italia",POINT
-Vespolate,Comune,"Vespolate, Piemonte, Italia",POINT
-Vicolungo,Comune,"Vicolungo, Piemonte, Italia",POINT
-Vignone,Comune,"Vignone, Piemonte, Italia",POINT
-Villadossola,Comune,"Villadossola, Piemonte, Italia",POINT
-Vogogna,Comune,"Vogogna, Piemonte, Italia",POINT
+AGLIE’,Comune,"AGLIE’, Piemonte, Italia",POINT
+AIRASCA,Comune,"AIRASCA, Piemonte, Italia",POINT
+ALA DI STURA,Comune,"ALA DI STURA, Piemonte, Italia",POINT
+ALBIANO D’IVREA,Comune,"ALBIANO D’IVREA, Piemonte, Italia",POINT
+ALMESE,Comune,"ALMESE, Piemonte, Italia",POINT
+ALPETTE,Comune,"ALPETTE, Piemonte, Italia",POINT
+ANDEZENO,Comune,"ANDEZENO, Piemonte, Italia",POINT
+ANDRATE,Comune,"ANDRATE, Piemonte, Italia",POINT
+ANGROGNA,Comune,"ANGROGNA, Piemonte, Italia",POINT
+ARIGNANO,Comune,"ARIGNANO, Piemonte, Italia",POINT
+AVIGLIANA,Comune,"AVIGLIANA, Piemonte, Italia",POINT
+BAIRO,Comune,"BAIRO, Piemonte, Italia",POINT
+BALANGERO,Comune,"BALANGERO, Piemonte, Italia",POINT
+BALDISSERO CANAVESE,Comune,"BALDISSERO CANAVESE, Piemonte, Italia",POINT
+BALDISSERO TORINESE,Comune,"BALDISSERO TORINESE, Piemonte, Italia",POINT
+BALME,Comune,"BALME, Piemonte, Italia",POINT
+BANCHETTE,Comune,"BANCHETTE, Piemonte, Italia",POINT
+BARBANIA,Comune,"BARBANIA, Piemonte, Italia",POINT
+BARDONECCHIA,Comune,"BARDONECCHIA, Piemonte, Italia",POINT
+BARONE CANAVESE,Comune,"BARONE CANAVESE, Piemonte, Italia",POINT
+BEINASCO,Comune,"BEINASCO, Piemonte, Italia",POINT
+BIBIANA,Comune,"BIBIANA, Piemonte, Italia",POINT
+BOBBIO PELLICE,Comune,"BOBBIO PELLICE, Piemonte, Italia",POINT
+BOLLENGO,Comune,"BOLLENGO, Piemonte, Italia",POINT
+BORGARO TORINESE,Comune,"BORGARO TORINESE, Piemonte, Italia",POINT
+BORGIALLO,Comune,"BORGIALLO, Piemonte, Italia",POINT
+BORGOFRANCO D’IVREA,Comune,"BORGOFRANCO D’IVREA, Piemonte, Italia",POINT
+BORGOMASINO,Comune,"BORGOMASINO, Piemonte, Italia",POINT
+BORGONE SUSA,Comune,"BORGONE SUSA, Piemonte, Italia",POINT
+BOSCONERO,Comune,"BOSCONERO, Piemonte, Italia",POINT
+BRANDIZZO,Comune,"BRANDIZZO, Piemonte, Italia",POINT
+BRICHERASIO,Comune,"BRICHERASIO, Piemonte, Italia",POINT
+BROSSO,Comune,"BROSSO, Piemonte, Italia",POINT
+BRUINO,Comune,"BRUINO, Piemonte, Italia",POINT
+BURIASCO,Comune,"BURIASCO, Piemonte, Italia",POINT
+BUSANO,Comune,"BUSANO, Piemonte, Italia",POINT
+BUSSOLENO,Comune,"BUSSOLENO, Piemonte, Italia",POINT
+BUTTIGLIERA ALTA,Comune,"BUTTIGLIERA ALTA, Piemonte, Italia",POINT
+CAFASSE,Comune,"CAFASSE, Piemonte, Italia",POINT
+CALUSO,Comune,"CALUSO, Piemonte, Italia",POINT
+CAMBIANO,Comune,"CAMBIANO, Piemonte, Italia",POINT
+CAMPIGLIONE FENILE,Comune,"CAMPIGLIONE FENILE, Piemonte, Italia",POINT
+CANDIA CANAVESE,Comune,"CANDIA CANAVESE, Piemonte, Italia",POINT
+CANDIOLO,Comune,"CANDIOLO, Piemonte, Italia",POINT
+CANISCHIO,Comune,"CANISCHIO, Piemonte, Italia",POINT
+CANTALUPA,Comune,"CANTALUPA, Piemonte, Italia",POINT
+CANTOIRA,Comune,"CANTOIRA, Piemonte, Italia",POINT
+CAPRIE,Comune,"CAPRIE, Piemonte, Italia",POINT
+CARAVINO,Comune,"CARAVINO, Piemonte, Italia",POINT
+CAREMA,Comune,"CAREMA, Piemonte, Italia",POINT
+CARIGNANO,Comune,"CARIGNANO, Piemonte, Italia",POINT
+CARMAGNOLA,Comune,"CARMAGNOLA, Piemonte, Italia",POINT
+CASALBORGONE,Comune,"CASALBORGONE, Piemonte, Italia",POINT
+CASCINETTE D’IVREA,Comune,"CASCINETTE D’IVREA, Piemonte, Italia",POINT
+CASELETTE,Comune,"CASELETTE, Piemonte, Italia",POINT
+CASELLE TORINESE,Comune,"CASELLE TORINESE, Piemonte, Italia",POINT
+CASTAGNETO PO,Comune,"CASTAGNETO PO, Piemonte, Italia",POINT
+CASTAGNOLE PIEMONTE,Comune,"CASTAGNOLE PIEMONTE, Piemonte, Italia",POINT
+CASTELLAMONTE,Comune,"CASTELLAMONTE, Piemonte, Italia",POINT
+CASTELNUOVO NIGRA,Comune,"CASTELNUOVO NIGRA, Piemonte, Italia",POINT
+CASTIGLIONE TORINESE,Comune,"CASTIGLIONE TORINESE, Piemonte, Italia",POINT
+CAVOUR,Comune,"CAVOUR, Piemonte, Italia",POINT
+CERCENASCO,Comune,"CERCENASCO, Piemonte, Italia",POINT
+CERES,Comune,"CERES, Piemonte, Italia",POINT
+CERESOLE REALE,Comune,"CERESOLE REALE, Piemonte, Italia",POINT
+CESANA TORINESE,Comune,"CESANA TORINESE, Piemonte, Italia",POINT
+CHIALAMBERTO,Comune,"CHIALAMBERTO, Piemonte, Italia",POINT
+CHIANOCCO,Comune,"CHIANOCCO, Piemonte, Italia",POINT
+CHIERI,Comune,"CHIERI, Piemonte, Italia",POINT
+CHIESANUOVA,Comune,"CHIESANUOVA, Piemonte, Italia",POINT
+CHIOMONTE,Comune,"CHIOMONTE, Piemonte, Italia",POINT
+CHIUSA DI SAN MICHELE,Comune,"CHIUSA DI SAN MICHELE, Piemonte, Italia",POINT
+CHIVASSO,Comune,"CHIVASSO, Piemonte, Italia",POINT
+CICONIO,Comune,"CICONIO, Piemonte, Italia",POINT
+CINTANO,Comune,"CINTANO, Piemonte, Italia",POINT
+CINZANO,Comune,"CINZANO, Piemonte, Italia",POINT
+CIRIE’,Comune,"CIRIE’, Piemonte, Italia",POINT
+CLAVIERE,Comune,"CLAVIERE, Piemonte, Italia",POINT
+COASSOLO TORINESE,Comune,"COASSOLO TORINESE, Piemonte, Italia",POINT
+COAZZE,Comune,"COAZZE, Piemonte, Italia",POINT
+COLLEGNO,Comune,"COLLEGNO, Piemonte, Italia",POINT
+COLLERETTO CASTELNUOVO,Comune,"COLLERETTO CASTELNUOVO, Piemonte, Italia",POINT
+COLLERETTO GIACOSA,Comune,"COLLERETTO GIACOSA, Piemonte, Italia",POINT
+CONDOVE,Comune,"CONDOVE, Piemonte, Italia",POINT
+CORIO,Comune,"CORIO, Piemonte, Italia",POINT
+COSSANO CANAVESE,Comune,"COSSANO CANAVESE, Piemonte, Italia",POINT
+CUCEGLIO,Comune,"CUCEGLIO, Piemonte, Italia",POINT
+CUMIANA,Comune,"CUMIANA, Piemonte, Italia",POINT
+CUORGNE’,Comune,"CUORGNE’, Piemonte, Italia",POINT
+DRUENTO,Comune,"DRUENTO, Piemonte, Italia",POINT
+EXILLES,Comune,"EXILLES, Piemonte, Italia",POINT
+FAVRIA,Comune,"FAVRIA, Piemonte, Italia",POINT
+FELETTO,Comune,"FELETTO, Piemonte, Italia",POINT
+FIANO,Comune,"FIANO, Piemonte, Italia",POINT
+FIORANO CANAVESE,Comune,"FIORANO CANAVESE, Piemonte, Italia",POINT
+FOGLIZZO,Comune,"FOGLIZZO, Piemonte, Italia",POINT
+FORNO CANAVESE,Comune,"FORNO CANAVESE, Piemonte, Italia",POINT
+FRASSINETTO,Comune,"FRASSINETTO, Piemonte, Italia",POINT
+FRONT,Comune,"FRONT, Piemonte, Italia",POINT
+FROSSASCO,Comune,"FROSSASCO, Piemonte, Italia",POINT
+GARZIGLIANA,Comune,"GARZIGLIANA, Piemonte, Italia",POINT
+GASSINO TORINESE,Comune,"GASSINO TORINESE, Piemonte, Italia",POINT
+GERMAGNANO,Comune,"GERMAGNANO, Piemonte, Italia",POINT
+GIAGLIONE,Comune,"GIAGLIONE, Piemonte, Italia",POINT
+GIAVENO,Comune,"GIAVENO, Piemonte, Italia",POINT
+GIVOLETTO,Comune,"GIVOLETTO, Piemonte, Italia",POINT
+GRAVERE,Comune,"GRAVERE, Piemonte, Italia",POINT
+GROSCAVALLO,Comune,"GROSCAVALLO, Piemonte, Italia",POINT
+GROSSO,Comune,"GROSSO, Piemonte, Italia",POINT
+GRUGLIASCO,Comune,"GRUGLIASCO, Piemonte, Italia",POINT
+INGRIA,Comune,"INGRIA, Piemonte, Italia",POINT
+INVERSO PINASCA,Comune,"INVERSO PINASCA, Piemonte, Italia",POINT
+ISOLABELLA,Comune,"ISOLABELLA, Piemonte, Italia",POINT
+ISSIGLIO,Comune,"ISSIGLIO, Piemonte, Italia",POINT
+IVREA,Comune,"IVREA, Piemonte, Italia",POINT
+LA CASSA,Comune,"LA CASSA, Piemonte, Italia",POINT
+LA LOGGIA,Comune,"LA LOGGIA, Piemonte, Italia",POINT
+LANZO TORINESE,Comune,"LANZO TORINESE, Piemonte, Italia",POINT
+LEINI’,Comune,"LEINI’, Piemonte, Italia",POINT
+LEMIE,Comune,"LEMIE, Piemonte, Italia",POINT
+LESSOLO,Comune,"LESSOLO, Piemonte, Italia",POINT
+LEVONE,Comune,"LEVONE, Piemonte, Italia",POINT
+LOCANA,Comune,"LOCANA, Piemonte, Italia",POINT
+LOMBARDORE,Comune,"LOMBARDORE, Piemonte, Italia",POINT
+LOMBRIASCO,Comune,"LOMBRIASCO, Piemonte, Italia",POINT
+LORANZE’,Comune,"LORANZE’, Piemonte, Italia",POINT
+LUSERNA SAN GIOVANNI,Comune,"LUSERNA SAN GIOVANNI, Piemonte, Italia",POINT
+LUSERNETTA,Comune,"LUSERNETTA, Piemonte, Italia",POINT
+LUSIGLIE’,Comune,"LUSIGLIE’, Piemonte, Italia",POINT
+MACELLO,Comune,"MACELLO, Piemonte, Italia",POINT
+MAGLIONE,Comune,"MAGLIONE, Piemonte, Italia",POINT
+MAPPANO,Comune,"MAPPANO, Piemonte, Italia",POINT
+MARENTINO,Comune,"MARENTINO, Piemonte, Italia",POINT
+MASSELLO,Comune,"MASSELLO, Piemonte, Italia",POINT
+MATHI,Comune,"MATHI, Piemonte, Italia",POINT
+MATTIE,Comune,"MATTIE, Piemonte, Italia",POINT
+MAZZE’,Comune,"MAZZE’, Piemonte, Italia",POINT
+MEANA DI SUSA,Comune,"MEANA DI SUSA, Piemonte, Italia",POINT
+MERCENASCO,Comune,"MERCENASCO, Piemonte, Italia",POINT
+MEZZENILE,Comune,"MEZZENILE, Piemonte, Italia",POINT
+MOMBELLO DI TORINO,Comune,"MOMBELLO DI TORINO, Piemonte, Italia",POINT
+MOMPANTERO,Comune,"MOMPANTERO, Piemonte, Italia",POINT
+MONASTERO DI LANZO,Comune,"MONASTERO DI LANZO, Piemonte, Italia",POINT
+MONCALIERI,Comune,"MONCALIERI, Piemonte, Italia",POINT
+MONCENISIO,Comune,"MONCENISIO, Piemonte, Italia",POINT
+MONTALDO TORINESE,Comune,"MONTALDO TORINESE, Piemonte, Italia",POINT
+MONTALENGHE,Comune,"MONTALENGHE, Piemonte, Italia",POINT
+MONTALTO DORA,Comune,"MONTALTO DORA, Piemonte, Italia",POINT
+MONTANARO,Comune,"MONTANARO, Piemonte, Italia",POINT
+NICHELINO,Comune,"NICHELINO, Piemonte, Italia",POINT
+NOASCA,Comune,"NOASCA, Piemonte, Italia",POINT
+NOLE,Comune,"NOLE, Piemonte, Italia",POINT
+NOMAGLIO,Comune,"NOMAGLIO, Piemonte, Italia",POINT
+NONE,Comune,"NONE, Piemonte, Italia",POINT
+NOVALESA,Comune,"NOVALESA, Piemonte, Italia",POINT
+OGLIANICO,Comune,"OGLIANICO, Piemonte, Italia",POINT
+ORBASSANO,Comune,"ORBASSANO, Piemonte, Italia",POINT
+ORIO CANAVESE,Comune,"ORIO CANAVESE, Piemonte, Italia",POINT
+OSASCO,Comune,"OSASCO, Piemonte, Italia",POINT
+OSASIO,Comune,"OSASIO, Piemonte, Italia",POINT
+OULX,Comune,"OULX, Piemonte, Italia",POINT
+OZEGNA,Comune,"OZEGNA, Piemonte, Italia",POINT
+PANCALIERI,Comune,"PANCALIERI, Piemonte, Italia",POINT
+PARELLA,Comune,"PARELLA, Piemonte, Italia",POINT
+PAVAROLO,Comune,"PAVAROLO, Piemonte, Italia",POINT
+PAVONE CANAVESE,Comune,"PAVONE CANAVESE, Piemonte, Italia",POINT
+PECETTO TORINESE,Comune,"PECETTO TORINESE, Piemonte, Italia",POINT
+PEROSA ARGENTINA,Comune,"PEROSA ARGENTINA, Piemonte, Italia",POINT
+PEROSA CANAVESE,Comune,"PEROSA CANAVESE, Piemonte, Italia",POINT
+PERTUSIO,Comune,"PERTUSIO, Piemonte, Italia",POINT
+PESSINETTO,Comune,"PESSINETTO, Piemonte, Italia",POINT
+PIANEZZA,Comune,"PIANEZZA, Piemonte, Italia",POINT
+PINASCA,Comune,"PINASCA, Piemonte, Italia",POINT
+PINEROLO,Comune,"PINEROLO, Piemonte, Italia",POINT
+PINO TORINESE,Comune,"PINO TORINESE, Piemonte, Italia",POINT
+PIOBESI TORINESE,Comune,"PIOBESI TORINESE, Piemonte, Italia",POINT
+PIOSSASCO,Comune,"PIOSSASCO, Piemonte, Italia",POINT
+PISCINA,Comune,"PISCINA, Piemonte, Italia",POINT
+POIRINO,Comune,"POIRINO, Piemonte, Italia",POINT
+POMARETTO,Comune,"POMARETTO, Piemonte, Italia",POINT
+PONT CANAVESE,Comune,"PONT CANAVESE, Piemonte, Italia",POINT
+PORTE,Comune,"PORTE, Piemonte, Italia",POINT
+PRAGELATO,Comune,"PRAGELATO, Piemonte, Italia",POINT
+PRALORMO,Comune,"PRALORMO, Piemonte, Italia",POINT
+PRAMOLLO,Comune,"PRAMOLLO, Piemonte, Italia",POINT
+PRAROSTINO,Comune,"PRAROSTINO, Piemonte, Italia",POINT
+PRASCORSANO,Comune,"PRASCORSANO, Piemonte, Italia",POINT
+PRATIGLIONE,Comune,"PRATIGLIONE, Piemonte, Italia",POINT
+QUAGLIUZZO,Comune,"QUAGLIUZZO, Piemonte, Italia",POINT
+QUASSOLO,Comune,"QUASSOLO, Piemonte, Italia",POINT
+QUINCINETTO,Comune,"QUINCINETTO, Piemonte, Italia",POINT
+REANO,Comune,"REANO, Piemonte, Italia",POINT
+RIBORDONE,Comune,"RIBORDONE, Piemonte, Italia",POINT
+RIVA PRESSO CHIERI,Comune,"RIVA PRESSO CHIERI, Piemonte, Italia",POINT
+RIVALBA,Comune,"RIVALBA, Piemonte, Italia",POINT
+RIVALTA DI TORINO,Comune,"RIVALTA DI TORINO, Piemonte, Italia",POINT
+RIVARA,Comune,"RIVARA, Piemonte, Italia",POINT
+RIVAROLO CANAVESE,Comune,"RIVAROLO CANAVESE, Piemonte, Italia",POINT
+RIVAROSSA,Comune,"RIVAROSSA, Piemonte, Italia",POINT
+RIVOLI,Comune,"RIVOLI, Piemonte, Italia",POINT
+ROBASSOMERO,Comune,"ROBASSOMERO, Piemonte, Italia",POINT
+ROCCA CANAVESE,Comune,"ROCCA CANAVESE, Piemonte, Italia",POINT
+ROLETTO,Comune,"ROLETTO, Piemonte, Italia",POINT
+ROMANO CANAVESE,Comune,"ROMANO CANAVESE, Piemonte, Italia",POINT
+RONCO CANAVESE,Comune,"RONCO CANAVESE, Piemonte, Italia",POINT
+RONDISSONE,Comune,"RONDISSONE, Piemonte, Italia",POINT
+RORA’,Comune,"RORA’, Piemonte, Italia",POINT
+ROSTA,Comune,"ROSTA, Piemonte, Italia",POINT
+RUBIANA,Comune,"RUBIANA, Piemonte, Italia",POINT
+RUEGLIO,Comune,"RUEGLIO, Piemonte, Italia",POINT
+SALASSA,Comune,"SALASSA, Piemonte, Italia",POINT
+SALBERTRAND,Comune,"SALBERTRAND, Piemonte, Italia",POINT
+SALERANO CANAVESE,Comune,"SALERANO CANAVESE, Piemonte, Italia",POINT
+SAMONE,Comune,"SAMONE, Piemonte, Italia",POINT
+SAN BENIGNO CANAVESE,Comune,"SAN BENIGNO CANAVESE, Piemonte, Italia",POINT
+SAN CARLO CANAVESE,Comune,"SAN CARLO CANAVESE, Piemonte, Italia",POINT
+SAN COLOMBANO BELMONTE,Comune,"SAN COLOMBANO BELMONTE, Piemonte, Italia",POINT
+SAN DIDERO,Comune,"SAN DIDERO, Piemonte, Italia",POINT
+SAN FRANCESCO AL CAMPO,Comune,"SAN FRANCESCO AL CAMPO, Piemonte, Italia",POINT
+SAN GERMANO CHISONE,Comune,"SAN GERMANO CHISONE, Piemonte, Italia",POINT
+SAN GILLIO,Comune,"SAN GILLIO, Piemonte, Italia",POINT
+SAN GIORGIO CANAVESE,Comune,"SAN GIORGIO CANAVESE, Piemonte, Italia",POINT
+SAN GIORIO DI SUSA,Comune,"SAN GIORIO DI SUSA, Piemonte, Italia",POINT
+SAN GIUSTO CANAVESE,Comune,"SAN GIUSTO CANAVESE, Piemonte, Italia",POINT
+SAN MARTINO CANAVESE,Comune,"SAN MARTINO CANAVESE, Piemonte, Italia",POINT
+SAN MAURIZIO CANAVESE,Comune,"SAN MAURIZIO CANAVESE, Piemonte, Italia",POINT
+SAN MAURO TORINESE,Comune,"SAN MAURO TORINESE, Piemonte, Italia",POINT
+SAN PIETRO VAL LEMINA,Comune,"SAN PIETRO VAL LEMINA, Piemonte, Italia",POINT
+SAN PONSO,Comune,"SAN PONSO, Piemonte, Italia",POINT
+SAN RAFFAELE CIMENA,Comune,"SAN RAFFAELE CIMENA, Piemonte, Italia",POINT
+SAN SEBASTIANO DA PO,Comune,"SAN SEBASTIANO DA PO, Piemonte, Italia",POINT
+SAN SECONDO DI PINEROLO,Comune,"SAN SECONDO DI PINEROLO, Piemonte, Italia",POINT
+SANGANO,Comune,"SANGANO, Piemonte, Italia",POINT
+SANT’ AMBROGIO DI TORINO,Comune,"SANT’ AMBROGIO DI TORINO, Piemonte, Italia",POINT
+SANT’ ANTONINO DI SUSA,Comune,"SANT’ ANTONINO DI SUSA, Piemonte, Italia",POINT
+SANTENA,Comune,"SANTENA, Piemonte, Italia",POINT
+SAUZE D’OULX,Comune,"SAUZE D’OULX, Piemonte, Italia",POINT
+SAUZE DI CESANA,Comune,"SAUZE DI CESANA, Piemonte, Italia",POINT
+SCALENGHE,Comune,"SCALENGHE, Piemonte, Italia",POINT
+SCARMAGNO,Comune,"SCARMAGNO, Piemonte, Italia",POINT
+SCIOLZE,Comune,"SCIOLZE, Piemonte, Italia",POINT
+SESTRIERE,Comune,"SESTRIERE, Piemonte, Italia",POINT
+SETTIMO ROTTARO,Comune,"SETTIMO ROTTARO, Piemonte, Italia",POINT
+SETTIMO TORINESE,Comune,"SETTIMO TORINESE, Piemonte, Italia",POINT
+SETTIMO VITTONE,Comune,"SETTIMO VITTONE, Piemonte, Italia",POINT
+SPARONE,Comune,"SPARONE, Piemonte, Italia",POINT
+STRAMBINO,Comune,"STRAMBINO, Piemonte, Italia",POINT
+SUSA,Comune,"SUSA, Piemonte, Italia",POINT
+TAVAGNASCO,Comune,"TAVAGNASCO, Piemonte, Italia",POINT
+CIRCOSCRIZIONE 1 TORINO,Comune,"CIRCOSCRIZIONE 1 TORINO, Piemonte, Italia",POINT
+CIRCOSCRIZIONE 2 TORINO,Comune,"CIRCOSCRIZIONE 2 TORINO, Piemonte, Italia",POINT
+CIRCOSCRIZIONE 3 TORINO,Comune,"CIRCOSCRIZIONE 3 TORINO, Piemonte, Italia",POINT
+CIRCOSCRIZIONE 4 TORINO,Comune,"CIRCOSCRIZIONE 4 TORINO, Piemonte, Italia",POINT
+CIRCOSCRIZIONE 5 TORINO,Comune,"CIRCOSCRIZIONE 5 TORINO, Piemonte, Italia",POINT
+CIRCOSCRIZIONE 6 TORINO,Comune,"CIRCOSCRIZIONE 6 TORINO, Piemonte, Italia",POINT
+CIRCOSCRIZIONE 7 TORINO,Comune,"CIRCOSCRIZIONE 7 TORINO, Piemonte, Italia",POINT
+CIRCOSCRIZIONE 8 TORINO,Comune,"CIRCOSCRIZIONE 8 TORINO, Piemonte, Italia",POINT
+TORRAZZA PIEMONTE,Comune,"TORRAZZA PIEMONTE, Piemonte, Italia",POINT
+TORRE CANAVESE,Comune,"TORRE CANAVESE, Piemonte, Italia",POINT
+TORRE PELLICE,Comune,"TORRE PELLICE, Piemonte, Italia",POINT
+TRANA,Comune,"TRANA, Piemonte, Italia",POINT
+TRAVERSELLA,Comune,"TRAVERSELLA, Piemonte, Italia",POINT
+TROFARELLO,Comune,"TROFARELLO, Piemonte, Italia",POINT
+USSEAUX,Comune,"USSEAUX, Piemonte, Italia",POINT
+USSEGLIO,Comune,"USSEGLIO, Piemonte, Italia",POINT
+VAIE,Comune,"VAIE, Piemonte, Italia",POINT
+VAL DELLA TORRE,Comune,"VAL DELLA TORRE, Piemonte, Italia",POINT
+VAL DI CHY,Comune,"VAL DI CHY, Piemonte, Italia",POINT
+VALCHIUSA,Comune,"VALCHIUSA, Piemonte, Italia",POINT
+VALGIOIE,Comune,"VALGIOIE, Piemonte, Italia",POINT
+VALPERGA,Comune,"VALPERGA, Piemonte, Italia",POINT
+VAUDA CANAVESE,Comune,"VAUDA CANAVESE, Piemonte, Italia",POINT
+VENARIA REALE,Comune,"VENARIA REALE, Piemonte, Italia",POINT
+VENAUS,Comune,"VENAUS, Piemonte, Italia",POINT
+VEROLENGO,Comune,"VEROLENGO, Piemonte, Italia",POINT
+VESTIGNE’,Comune,"VESTIGNE’, Piemonte, Italia",POINT
+VIALFRE’,Comune,"VIALFRE’, Piemonte, Italia",POINT
+VIDRACCO,Comune,"VIDRACCO, Piemonte, Italia",POINT
+VIGONE,Comune,"VIGONE, Piemonte, Italia",POINT
+VILLAFRANCA PIEMONTE,Comune,"VILLAFRANCA PIEMONTE, Piemonte, Italia",POINT
+VILLANOVA CANAVESE,Comune,"VILLANOVA CANAVESE, Piemonte, Italia",POINT
+VILLAR DORA,Comune,"VILLAR DORA, Piemonte, Italia",POINT
+VILLAR PELLICE,Comune,"VILLAR PELLICE, Piemonte, Italia",POINT
+VILLAR PEROSA,Comune,"VILLAR PEROSA, Piemonte, Italia",POINT
+VILLARBASSE,Comune,"VILLARBASSE, Piemonte, Italia",POINT
+VILLAREGGIA,Comune,"VILLAREGGIA, Piemonte, Italia",POINT
+VILLASTELLONE,Comune,"VILLASTELLONE, Piemonte, Italia",POINT
+VINOVO,Comune,"VINOVO, Piemonte, Italia",POINT
+VIRLE PIEMONTE,Comune,"VIRLE PIEMONTE, Piemonte, Italia",POINT
+VISCHE,Comune,"VISCHE, Piemonte, Italia",POINT
+VISTRORIO,Comune,"VISTRORIO, Piemonte, Italia",POINT
+VIU’,Comune,"VIU’, Piemonte, Italia",POINT
+VOLPIANO,Comune,"VOLPIANO, Piemonte, Italia",POINT
+VOLVERA,Comune,"VOLVERA, Piemonte, Italia",POINT

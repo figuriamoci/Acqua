@@ -179,4 +179,19 @@ def createChoroplethDataCollection(geoReferencedLocationsFile,reteAcquedottiFile
     logging.info( 'Saving new maps...' )
     map.save( output_file )
 
+def removeEtichette(id_gestore):
+    logging.basicConfig(level=logging.INFO)
+    logging.info("Connecting to MongoDB...")
+    mongoString = 'mongodb+srv://Acqua:nato1968@principal-4g7w8.mongodb.net/test?retryWrites=true&w=majority'
+    conn = py.MongoClient(mongoString)
+    db = conn.Acqua
+    logging.info("Connected!")
+    logging.info("Switch to Acqua/etichette collection...")
+    collection = db.etichette
+    logging.info("Removing GeoJeson Features to Acqua/etichette collection....")
+    queryString = {"properties.id_gestore":id_gestore}
+    n = collection.delete_many(queryString)
+    logging.info("Done. Removed %s feature(s)",n)
+    return n
+
 

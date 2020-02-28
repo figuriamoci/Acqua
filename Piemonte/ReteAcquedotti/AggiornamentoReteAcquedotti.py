@@ -10,7 +10,7 @@ def create_water_supply_network(geoJsonfile, regione):
         if f['geometry']['type'] == 'Point':
             logging.info('Skip %s',f)
         else:
-            name = f['properties']['Name']
+            name = f['properties']['name']
             new_properties = {'name': name, 'regione': regione}
             f['properties'] = new_properties
             fc.append( f )

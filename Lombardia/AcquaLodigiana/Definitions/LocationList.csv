@@ -1,62 +1,62 @@
-name,provincia,alias
-Abbadia Cerreto,Lodi,Abbadia Cerreto
-Bertonico,Lodi,Bertonico
-Boffalora d'Adda,Lodi,Boffalora d'Adda
-Borghetto Lodigiano,Lodi,Borghetto Lodigiano
-Borgo San Giovanni,Lodi,Borgo San Giovanni
-Brembio,Lodi,Brembio
-Camairago Castelgerundo,Lodi,Castelgerundo (Fraz. Camairago)
-Casaletto Lodigiano,Lodi,Casaletto Lodigiano
-Casalmaiocco,Lodi,Casalmaiocco
-Casalpusterlengo,Lodi,Casalpusterlengo
-Caselle Landi,Lodi,Caselle Landi
-Caselle Lurani,Lodi,Caselle Lurani
-Castelnuovo Bocca d'Adda,Lodi,Castelnuovo Bocca d'Adda
-Castiglione d'Adda,Lodi,Castiglione d'Adda
-Castiraga Vidardo,Lodi,Castiraga Vidardo
-Cavacurta Castelgerundo,Lodi,Castelgerundo (Fraz. Cavacurta)
-Cavenago d'Adda,Lodi,Cavenago d'Adda
-Cervignano d'Adda,Lodi,Cervignano d'Adda
-Codogno,Lodi,Codogno
-Comazzo,Lodi,Comazzo
-Cornegliano Laudense,Lodi,Cornegliano Laudense
-Corno Giovine,Lodi,Corno Giovine
-Cornovecchio,Lodi,Cornovecchio
-Corte Palasio,Lodi,Corte Palasio
-Crespiatica,Lodi,Crespiatica
-Fombio,Lodi,Fombio
-Galgagnano,Lodi,Galgagnano
-Graffignana,Lodi,Graffignana
-Guardamiglio,Lodi,Guardamiglio
-Livraga,Lodi,Livraga
-Lodi,Lodi,Lodi
-Lodi Vecchio,Lodi,Lodi Vecchio
-Maccastorna,Lodi,Maccastorna
-Mairago,Lodi,Mairago
-Maleo,Lodi,Maleo
-Marudo,Lodi,Marudo
-Massalengo,Lodi,Massalengo
-Meleti,Lodi,Meleti
-Merlino,Lodi,Merlino
-Montanaso Lombardo,Lodi,Montanaso Lombardo
-Mulazzano,Lodi,Mulazzano
-Orio Litta,Lodi,Orio Litta
-Ospedaletto Lodigiano,Lodi,Ospedaletto Lodigiano
-Ossago Lodigiano,Lodi,Ossago Lodigiano
-Pieve Fissiraga,Lodi,Pieve Fissiraga
-Salerano sul Lambro,Lodi,Salerano sul Lambro
-San Fiorano,Lodi,San Fiorano
-San Martino in Strada,Lodi,San Martino in Strada
-San Rocco al Porto,Lodi,San Rocco al Porto
-Sant'Angelo Lodigiano,Lodi,Sant'Angelo Lodigiano
-Santo Stefano Lodigiano,Lodi,Santo Stefano Lodigiano
-Secugnago,Lodi,Secugnago
-Senna Lodigiana,Lodi,Senna Lodigiana
-Somaglia,Lodi,Somaglia
-Sordio,Lodi,Sordio
-Tavazzano con Villavesco,Lodi,Tavazzano con Villavesco
-Terranova dei Passerini,Lodi,Terranova dei Passerini
-Turano Lodigiano,Lodi,Turano Lodigiano
-Valera Fratta,Lodi,Valera Fratta
-Villanova del Sillaro,Lodi,Villanova del Sillaro
-Zelo Buon Persico,Lodi,Zelo Buon Persico
+alias_city,alias_address,georeferencingString,type
+Abbadia Cerreto,Territorio,"Abbadia Cerreto , Lodi, Lombardia, Italia",POINT
+Bertonico,Territorio,"Bertonico , Lodi, Lombardia, Italia",POINT
+Boffalora d'Adda,Territorio,"Boffalora d'Adda , Lodi, Lombardia, Italia",POINT
+Borghetto Lodigiano,Territorio,"Borghetto Lodigiano , Lodi, Lombardia, Italia",POINT
+Borgo San Giovanni,Territorio,"Borgo San Giovanni , Lodi, Lombardia, Italia",POINT
+Brembio,Territorio,"Brembio , Lodi, Lombardia, Italia",POINT
+Castelgerundo (Fraz. Camairago),Territorio,"Castelgerundo (Fraz. Camairago) , Lodi, Lombardia, Italia",POINT
+Casaletto Lodigiano,Territorio,"Casaletto Lodigiano , Lodi, Lombardia, Italia",POINT
+Casalmaiocco,Territorio,"Casalmaiocco , Lodi, Lombardia, Italia",POINT
+Casalpusterlengo,Territorio,"Casalpusterlengo , Lodi, Lombardia, Italia",POINT
+Caselle Landi,Territorio,"Caselle Landi , Lodi, Lombardia, Italia",POINT
+Caselle Lurani,Territorio,"Caselle Lurani , Lodi, Lombardia, Italia",POINT
+Castelnuovo Bocca d'Adda,Territorio,"Castelnuovo Bocca d'Adda , Lodi, Lombardia, Italia",POINT
+Castiglione d'Adda,Territorio,"Castiglione d'Adda , Lodi, Lombardia, Italia",POINT
+Castiraga Vidardo,Territorio,"Castiraga Vidardo , Lodi, Lombardia, Italia",POINT
+Castelgerundo (Fraz. Cavacurta),Territorio,"Castelgerundo (Fraz. Cavacurta) , Lodi, Lombardia, Italia",POINT
+Cavenago d'Adda,Territorio,"Cavenago d'Adda , Lodi, Lombardia, Italia",POINT
+Cervignano d'Adda,Territorio,"Cervignano d'Adda , Lodi, Lombardia, Italia",POINT
+Codogno,Territorio,"Codogno , Lodi, Lombardia, Italia",POINT
+Comazzo,Territorio,"Comazzo , Lodi, Lombardia, Italia",POINT
+Cornegliano Laudense,Territorio,"Cornegliano Laudense , Lodi, Lombardia, Italia",POINT
+Corno Giovine,Territorio,"Corno Giovine , Lodi, Lombardia, Italia",POINT
+Cornovecchio,Territorio,"Cornovecchio , Lodi, Lombardia, Italia",POINT
+Corte Palasio,Territorio,"Corte Palasio , Lodi, Lombardia, Italia",POINT
+Crespiatica,Territorio,"Crespiatica , Lodi, Lombardia, Italia",POINT
+Fombio,Territorio,"Fombio , Lodi, Lombardia, Italia",POINT
+Galgagnano,Territorio,"Galgagnano , Lodi, Lombardia, Italia",POINT
+Graffignana,Territorio,"Graffignana , Lodi, Lombardia, Italia",POINT
+Guardamiglio,Territorio,"Guardamiglio , Lodi, Lombardia, Italia",POINT
+Livraga,Territorio,"Livraga , Lodi, Lombardia, Italia",POINT
+Lodi,Territorio,"Lodi , Lodi, Lombardia, Italia",POINT
+Lodi Vecchio,Territorio,"Lodi Vecchio , Lodi, Lombardia, Italia",POINT
+Maccastorna,Territorio,"Maccastorna , Lodi, Lombardia, Italia",POINT
+Mairago,Territorio,"Mairago , Lodi, Lombardia, Italia",POINT
+Maleo,Territorio,"Maleo , Lodi, Lombardia, Italia",POINT
+Marudo,Territorio,"Marudo , Lodi, Lombardia, Italia",POINT
+Massalengo,Territorio,"Massalengo , Lodi, Lombardia, Italia",POINT
+Meleti,Territorio,"Meleti , Lodi, Lombardia, Italia",POINT
+Merlino,Territorio,"Merlino , Lodi, Lombardia, Italia",POINT
+Montanaso Lombardo,Territorio,"Montanaso Lombardo , Lodi, Lombardia, Italia",POINT
+Mulazzano,Territorio,"Mulazzano , Lodi, Lombardia, Italia",POINT
+Orio Litta,Territorio,"Orio Litta , Lodi, Lombardia, Italia",POINT
+Ospedaletto Lodigiano,Territorio,"Ospedaletto Lodigiano , Lodi, Lombardia, Italia",POINT
+Ossago Lodigiano,Territorio,"Ossago Lodigiano , Lodi, Lombardia, Italia",POINT
+Pieve Fissiraga,Territorio,"Pieve Fissiraga , Lodi, Lombardia, Italia",POINT
+Salerano sul Lambro,Territorio,"Salerano sul Lambro , Lodi, Lombardia, Italia",POINT
+San Fiorano,Territorio,"San Fiorano , Lodi, Lombardia, Italia",POINT
+San Martino in Strada,Territorio,"San Martino in Strada , Lodi, Lombardia, Italia",POINT
+San Rocco al Porto,Territorio,"San Rocco al Porto , Lodi, Lombardia, Italia",POINT
+Sant'Angelo Lodigiano,Territorio,"Sant'Angelo Lodigiano , Lodi, Lombardia, Italia",POINT
+Santo Stefano Lodigiano,Territorio,"Santo Stefano Lodigiano , Lodi, Lombardia, Italia",POINT
+Secugnago,Territorio,"Secugnago , Lodi, Lombardia, Italia",POINT
+Senna Lodigiana,Territorio,"Senna Lodigiana , Lodi, Lombardia, Italia",POINT
+Somaglia,Territorio,"Somaglia , Lodi, Lombardia, Italia",POINT
+Sordio,Territorio,"Sordio , Lodi, Lombardia, Italia",POINT
+Tavazzano con Villavesco,Territorio,"Tavazzano con Villavesco , Lodi, Lombardia, Italia",POINT
+Terranova dei Passerini,Territorio,"Terranova dei Passerini , Lodi, Lombardia, Italia",POINT
+Turano Lodigiano,Territorio,"Turano Lodigiano , Lodi, Lombardia, Italia",POINT
+Valera Fratta,Territorio,"Valera Fratta , Lodi, Lombardia, Italia",POINT
+Villanova del Sillaro,Territorio,"Villanova del Sillaro , Lodi, Lombardia, Italia",POINT
+Zelo Buon Persico,Territorio,"Zelo Buon Persico , Lodi, Lombardia, Italia",POINT
