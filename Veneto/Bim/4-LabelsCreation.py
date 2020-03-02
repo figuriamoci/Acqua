@@ -6,7 +6,7 @@ import os,logging,pickle
 
 os.chdir('/Users/andrea/PycharmProjects/Acqua/Veneto/Bim')
 logging.basicConfig(level=logging.DEBUG)
-idGestore = 692 ##BIM GESTIONE SERVIZI PUBBLICI SPA,
+idGestore = 'Bim' ##BIM GESTIONE SERVIZI PUBBLICI SPA,
 useThisDictionary = parm.crea_dizionario('Definitions/SynParametri.csv')
 
 with open('Definitions/FoundReportList.pickle', 'rb') as f: foundReportList = pickle.load(f)

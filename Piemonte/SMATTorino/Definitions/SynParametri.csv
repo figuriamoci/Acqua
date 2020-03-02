@@ -1,20 +1,19 @@
 parametro,syn0,syn1,syn2,syn3,syn4,syn5,syn6,syn7,syn8,syn9
-residuo_fisso,Residuofisso.png
-durezza,Durezza.png
-ph,Ph.png
-calcio,Calcio.png
-sodio,Sodio.png
-magnesio,Magnesio.png
-potassio,Potassio.png
-solfato,Solfato.png
-nitrato,Nitrato.png
-nitrito,Nitrito.png
-cloruro,Cloruro.png
-conducibilita,Conducibilita.png
-fluoruri,Floruro.png
-ammoniaca,ammonio.png
-manganese,Manganese.png
-arsenico,Arsenico.png
-bicarbonato,Bicarbonato.png
-cloro_residuo,Cloro residuo.png
-cromo,Cromo.png
+residuo_fisso,Residuo Secco a 180°C
+durezza,Durezza totale
+ph,pH (Concentrazione ioni idrogeno)
+calcio,Calcio
+sodio,Sodio
+magnesio,Magnesio
+potassio,Potassio
+solfato,Solfati
+nitrato,Nitrati (come NO3)
+nitrito,Nitriti (come NO2)
+cloruro,Cloruri
+conducibilita,Conducibilità elettr. spec. 20°C
+fluoruri,Fluoruri
+ammoniaca,Ammonio
+manganese,Manganese
+arsenico,Arsenico
+bicarbonato,Bicarbonati
+cloro_residuo,Cloro residuo libero

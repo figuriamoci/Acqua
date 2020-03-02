@@ -2,40 +2,49 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7f07049d-118d-41b2-902c-f0e231157e01" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Lombardia/AcquaLodigiana/1-LocationsCollection.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lombardia/AcquaLodigiana/2-ReportCollection.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lombardia/AcquaLodigiana/3-GeoReferenceDataCollection.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lombardia/AcquaLodigiana/4-LabelsCreation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lombardia/AcquaLodigiana/5-LabelsPublishing.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lombardia/AcquaLodigiana/AcquaLodigiana.geojson" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lombardia/AcquaLodigiana/AcquaLodigiana.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lombardia/AcquaLodigiana/Definitions/ReportListFound.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lombardia/AcquaLodigiana/Definitions/SynParametri.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Piemonte/AcquaNovara/5-LabelsPublishing.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Piemonte/SMATTorino/1-LocationsCollection.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Piemonte/SMATTorino/2-ReportCollection.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Piemonte/SMATTorino/3-GeoReferenceDataCollection.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Piemonte/SMATTorino/Definitions/SynParametri.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Piemonte/SMATTorino/5-LabelsPublishing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Piemonte/SMATTorino/Definitions/FoundReportList.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Piemonte/SMATTorino/SMATTorino.geojson" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Piemonte/SMATTorino/SMATTorino.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Veneto/AcqueVenete/1-LocationCollection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Veneto/AcqueVenete/Definitions/FoundReportList.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Veneto/AcqueVenete/Definitions/FoundReportList.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Veneto/AcqueVenete/Definitions/GeoReferencedLocationsList.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Veneto/AcqueVenete/Definitions/LocationList.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Veneto/AcqueVenete/Definitions/SynParametri.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Veneto/Bim/5-LabelsPublishing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Veneto/Veritas/1-LocationCollection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Veneto/Veritas/2-ReportCollection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Veneto/Veritas/3-GeoReferenceDataCollection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Veneto/Veritas/4-LabelsCreation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Veneto/Veritas/5-LabelsPublishing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Veneto/Veritas/Definitions/GeoReferencedLocationsList.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Veneto/Veritas/Definitions/LocationList.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Veneto/Veritas/Definitions/ReportFoundList.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Veneto/Veritas/Definitions/SynParametri.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Veneto/Veritas/Veritas.geojson" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Veneto/Veritas/Veritas.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DashBoard/DensitaParametrica.html" beforeDir="false" afterPath="$PROJECT_DIR$/Dashboard/DensitaParametrica.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DashBoard/Scripts/DensitaParametrica.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dashboard/Scripts/DensitaParametrica.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lombardia/AcquaLodigiana/AcquaLodigiana.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lombardia/AcquaLodigiana/Definitions/GeoReferencedLocationsList.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Lombardia/AcquaLodigiana/Definitions/GeoReferencedLocationsList.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lombardia/AcquaLodigiana/Definitions/LocationList.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Lombardia/AcquaLodigiana/Definitions/LocationList.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lombardia/AcquaLodigiana/GeoReferencingLocation.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lombardia/AcquaLodigiana/SynParametri.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Piemonte/AcquaNovara/2-ReportCollection.py" beforeDir="false" afterPath="$PROJECT_DIR$/Piemonte/AcquaNovara/2-ReportCollection.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Piemonte/AcquaNovara/4-LabelsCreation.py" beforeDir="false" afterPath="$PROJECT_DIR$/Piemonte/AcquaNovara/4-LabelsCreation.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Piemonte/AcquaNovara/Definitions/FoundReportList.pkl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Piemonte/AcquaNovara/Definitions/LocationList.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Piemonte/AcquaNovara/Definitions/LocationList.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Piemonte/ReteAcquedotti/AggiornamentoReteAcquedotti.py" beforeDir="false" afterPath="$PROJECT_DIR$/Piemonte/ReteAcquedotti/AggiornamentoReteAcquedotti.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Piemonte/ReteAcquedotti/ConfiniComuniPiemonte.geojson" beforeDir="false" afterPath="$PROJECT_DIR$/Piemonte/ReteAcquedotti/ConfiniComuniPiemonte.geojson" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Piemonte/ReteAcquedotti/rete_acquedotti_piemonte.geojson" beforeDir="false" afterPath="$PROJECT_DIR$/Piemonte/ReteAcquedotti/rete_acquedotti_piemonte.geojson" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dashboard/DensitaParametrica.html" beforeDir="false" afterPath="$PROJECT_DIR$/Dashboard/DensitaParametrica.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Piemonte/SMATTorino/1-LocationsCollection.py" beforeDir="false" afterPath="$PROJECT_DIR$/Piemonte/SMATTorino/1-LocationsCollection.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Piemonte/SMATTorino/2-ReportCollection.py" beforeDir="false" afterPath="$PROJECT_DIR$/Piemonte/SMATTorino/2-ReportCollection.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Piemonte/SMATTorino/3-GeoReferenceDataCollection.py" beforeDir="false" afterPath="$PROJECT_DIR$/Piemonte/SMATTorino/3-GeoReferenceDataCollection.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Piemonte/SMATTorino/4-LabelsCreation.py" beforeDir="false" afterPath="$PROJECT_DIR$/Piemonte/SMATTorino/4-LabelsCreation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Piemonte/SMATTorino/Definitions/GeoReferencedLocationsList.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Piemonte/SMATTorino/Definitions/GeoReferencedLocationsList.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Piemonte/SMATTorino/Definitions/SynParametri.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Piemonte/SMATTorino/Definitions/SynParametri.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Veneto/Bim/1-LocationCollection.py" beforeDir="false" afterPath="$PROJECT_DIR$/Veneto/Bim/1-LocationCollection.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Veneto/Bim/2-ReportCollection.py" beforeDir="false" afterPath="$PROJECT_DIR$/Veneto/Bim/2-ReportCollection.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Veneto/Bim/3-GeoReferenceDataCollection.py" beforeDir="false" afterPath="$PROJECT_DIR$/Veneto/Bim/3-GeoReferenceDataCollection.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Veneto/Bim/4-LabelsCreation.py" beforeDir="false" afterPath="$PROJECT_DIR$/Veneto/Bim/4-LabelsCreation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Veneto/Bim/Bim.geojson" beforeDir="false" afterPath="$PROJECT_DIR$/Veneto/Bim/Bim.geojson" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Veneto/Bim/Bim.html" beforeDir="false" afterPath="$PROJECT_DIR$/Veneto/Bim/Bim.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Veneto/Bim/Definitions/FoundReportList.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/Veneto/Bim/Definitions/FoundReportList.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Veneto/Bim/Definitions/GeoReferencedLocationsList.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Veneto/Bim/Definitions/GeoReferencedLocationsList.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Veneto/Bim/Definitions/LocationList.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Veneto/Bim/Definitions/LocationList.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WebApp/FoliumClient.py" beforeDir="false" afterPath="$PROJECT_DIR$/WebApp/FoliumClient.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WebApp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/WebApp/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/acqua/geoCode.py" beforeDir="false" afterPath="$PROJECT_DIR$/acqua/geoCode.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/acqua/label.py" beforeDir="false" afterPath="$PROJECT_DIR$/acqua/label.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/acqua/labelCollection.py" beforeDir="false" afterPath="$PROJECT_DIR$/acqua/labelCollection.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resource/ANAGRAFICA_GESTORI.csv" beforeDir="false" afterPath="$PROJECT_DIR$/resource/ANAGRAFICA_GESTORI.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +91,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Piemonte/SMATTorino" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Veneto/AcqueVenete" />
     <property name="run.code.analysis.last.selected.profile" value="aDefault" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
@@ -97,6 +106,13 @@
     <option name="myShowDebugConsoleByDefault" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Veneto/AcqueVenete" />
+      <recent name="$PROJECT_DIR$/Veneto/Veritas" />
+      <recent name="$PROJECT_DIR$/Veneto/Bim" />
+      <recent name="$PROJECT_DIR$/Piemonte/SMATTorino" />
+      <recent name="$PROJECT_DIR$/Piemonte/SMATTorino/Definitions" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/DashBoard/Script" />
       <recent name="$PROJECT_DIR$/DashBoard" />
@@ -104,36 +120,8 @@
       <recent name="$PROJECT_DIR$/Veneto/Bim/Definitions" />
       <recent name="$PROJECT_DIR$/Veneto/Bim" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Piemonte/SMATTorino" />
-      <recent name="$PROJECT_DIR$/Piemonte/SMATTorino/Definitions" />
-      <recent name="$PROJECT_DIR$/Piemonte/AcquaNovara" />
-      <recent name="$PROJECT_DIR$/Lombardia/AcquaLodigiana" />
-      <recent name="$APPLICATION_CONFIG_DIR$/scratches" />
-    </key>
   </component>
-  <component name="RunManager" selected="Python.1-LocationsCollection">
-    <configuration name="1-LocationsCollection" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Acqua" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Piemonte/SMATTorino" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Piemonte/SMATTorino/1-LocationsCollection.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.DensitaParametrica">
     <configuration name="2-ReportCollection" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Acqua" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -142,11 +130,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Piemonte/AcquaNovara" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Veneto/Veritas" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Piemonte/AcquaNovara/2-ReportCollection.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Veneto/Veritas/2-ReportCollection.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -155,7 +143,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="4-LabelsCreation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="4-LabelsCreation (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Acqua" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -163,11 +151,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Piemonte/AcquaNovara" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Veneto/Veritas" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Piemonte/AcquaNovara/4-LabelsCreation.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Veneto/Veritas/4-LabelsCreation.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -176,7 +164,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="5-LabelsPublishing" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="5-LabelsPublishing (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Acqua" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -184,11 +172,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Piemonte/AcquaNovara" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Veneto/Veritas" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Piemonte/AcquaNovara/5-LabelsPublishing.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Veneto/Veritas/5-LabelsPublishing.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -197,7 +185,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="AggiornamentoReteAcquedotti" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="DensitaParametrica" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Acqua" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -205,11 +193,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Piemonte/ReteAcquedotti" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Dashboard/Scripts" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Piemonte/ReteAcquedotti/AggiornamentoReteAcquedotti.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Dashboard/Scripts/DensitaParametrica.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="FoliumClient" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Acqua" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/WebApp" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/WebApp/FoliumClient.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -219,19 +228,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.AggiornamentoReteAcquedotti" />
       <item itemvalue="Python.2-ReportCollection" />
-      <item itemvalue="Python.4-LabelsCreation" />
-      <item itemvalue="Python.5-LabelsPublishing" />
-      <item itemvalue="Python.1-LocationsCollection" />
+      <item itemvalue="Python.FoliumClient" />
+      <item itemvalue="Python.4-LabelsCreation (1)" />
+      <item itemvalue="Python.5-LabelsPublishing (1)" />
+      <item itemvalue="Python.DensitaParametrica" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.1-LocationsCollection" />
-        <item itemvalue="Python.5-LabelsPublishing" />
-        <item itemvalue="Python.4-LabelsCreation" />
+        <item itemvalue="Python.DensitaParametrica" />
+        <item itemvalue="Python.5-LabelsPublishing (1)" />
+        <item itemvalue="Python.4-LabelsCreation (1)" />
         <item itemvalue="Python.2-ReportCollection" />
-        <item itemvalue="Python.AggiornamentoReteAcquedotti" />
+        <item itemvalue="Python.FoliumClient" />
       </list>
     </recent_temporary>
   </component>
@@ -486,7 +495,14 @@
       <option name="project" value="LOCAL" />
       <updated>1582763266503</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="Merge remote-tracking branch 'github/master'&#10;&#10;# Conflicts:&#10;#&#9;AltoAdige/7-ReteAcquedotti.py">
+      <created>1582849750685</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1582849750685</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -578,9 +594,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="669" y="173" key="#test_(2)/0.0.1920.1080@0.0.1920.1080" timestamp="1577728548500" />
-    <state x="114" y="300" key="#xdebugger.XInspectDialog" timestamp="1578604684620">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state x="76" y="222" key="#xdebugger.XInspectDialog" timestamp="1583021467721">
+      <screen x="0" y="0" width="1280" height="800" />
     </state>
+    <state x="76" y="222" key="#xdebugger.XInspectDialog/0.0.1280.800@0.0.1280.800" timestamp="1583021467721" />
     <state x="114" y="300" key="#xdebugger.XInspectDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1578604684620" />
     <state x="403" y="110" key="#xdebugger.evaluate" timestamp="1579560801221">
       <screen x="0" y="0" width="1280" height="800" />
@@ -590,16 +607,16 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="712" y="403" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1080@0.0.1920.1080" timestamp="1581117411236" />
-    <state x="369" y="0" key="CommitChangelistDialog2" timestamp="1582763262604">
+    <state x="369" y="0" key="CommitChangelistDialog2" timestamp="1582849748699">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="369" y="0" key="CommitChangelistDialog2/0.0.1280.800@0.0.1280.800" timestamp="1582763262604" />
+    <state x="369" y="0" key="CommitChangelistDialog2/0.0.1280.800@0.0.1280.800" timestamp="1582849748699" />
     <state x="605" y="144" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1582245272950" />
     <state x="605" y="157" key="CommitChangelistDialog2/0.23.1920.1008@0.23.1920.1008" timestamp="1578958992036" />
-    <state x="67" y="67" width="1147" height="688" key="DiffContextDialog" timestamp="1581636551276">
+    <state x="67" y="23" width="1147" height="728" key="DiffContextDialog" timestamp="1583021444517">
       <screen x="0" y="23" width="1280" height="728" />
     </state>
-    <state x="67" y="67" width="1147" height="688" key="DiffContextDialog/0.23.1280.728@0.23.1280.728" timestamp="1581636551276" />
+    <state x="67" y="23" width="1147" height="728" key="DiffContextDialog/0.23.1280.728@0.23.1280.728" timestamp="1583021444517" />
     <state x="100" y="107" width="1720" height="866" key="DiffContextDialog/0.23.1920.1008@0.23.1920.1008" timestamp="1580260742284" />
     <state x="776" y="463" key="Github.CreateGistDialog" timestamp="1578265652618">
       <screen x="0" y="0" width="1920" height="1080" />
@@ -626,67 +643,67 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1899" height="398" key="GridCell.Tab.-1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1581271377320" />
-    <state width="635" height="204" key="GridCell.Tab.0.bottom" timestamp="1582848163607">
+    <state width="629" height="135" key="GridCell.Tab.0.bottom" timestamp="1583103801522">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="635" height="204" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1582848163607" />
+    <state width="629" height="135" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1583103801522" />
     <state width="1899" height="160" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1582309902616" />
     <state width="1259" height="244" key="GridCell.Tab.0.bottom/0.23.1280.728@0.23.1280.728" timestamp="1581376408765" />
     <state width="1899" height="276" key="GridCell.Tab.0.bottom/0.23.1920.1008@0.23.1920.1008" timestamp="1581123661087" />
-    <state width="635" height="204" key="GridCell.Tab.0.center" timestamp="1582848163603">
+    <state width="629" height="135" key="GridCell.Tab.0.center" timestamp="1583103801520">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="635" height="204" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1582848163603" />
+    <state width="629" height="135" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1583103801520" />
     <state width="1899" height="160" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1582309902615" />
     <state width="1259" height="244" key="GridCell.Tab.0.center/0.23.1280.728@0.23.1280.728" timestamp="1581376408764" />
     <state width="1899" height="276" key="GridCell.Tab.0.center/0.23.1920.1008@0.23.1920.1008" timestamp="1581123661085" />
-    <state width="635" height="204" key="GridCell.Tab.0.left" timestamp="1582848163602">
+    <state width="629" height="135" key="GridCell.Tab.0.left" timestamp="1583103801518">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="635" height="204" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1582848163602" />
+    <state width="629" height="135" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1583103801518" />
     <state width="1899" height="297" key="GridCell.Tab.0.left/0.0.1920.1031@0.0.1920.1031" timestamp="1582075857535" />
     <state width="1899" height="160" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1582309902614" />
     <state width="1259" height="244" key="GridCell.Tab.0.left/0.23.1280.728@0.23.1280.728" timestamp="1581376408763" />
     <state width="1899" height="276" key="GridCell.Tab.0.left/0.23.1920.1008@0.23.1920.1008" timestamp="1581123661085" />
-    <state width="635" height="204" key="GridCell.Tab.0.right" timestamp="1582848163605">
+    <state width="629" height="135" key="GridCell.Tab.0.right" timestamp="1583103801521">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="635" height="204" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1582848163605" />
+    <state width="629" height="135" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1583103801521" />
     <state width="1899" height="160" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1582309902616" />
     <state width="1259" height="244" key="GridCell.Tab.0.right/0.23.1280.728@0.23.1280.728" timestamp="1581376408764" />
     <state width="1899" height="276" key="GridCell.Tab.0.right/0.23.1920.1008@0.23.1920.1008" timestamp="1581123661086" />
-    <state width="1259" height="243" key="GridCell.Tab.1.bottom" timestamp="1582842451174">
+    <state width="1259" height="153" key="GridCell.Tab.1.bottom" timestamp="1583087431222">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1259" height="243" key="GridCell.Tab.1.bottom/0.0.1280.800@0.0.1280.800" timestamp="1582842451174" />
+    <state width="1259" height="153" key="GridCell.Tab.1.bottom/0.0.1280.800@0.0.1280.800" timestamp="1583087431222" />
     <state width="1899" height="297" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1582309714184" />
     <state width="1259" height="246" key="GridCell.Tab.1.bottom/0.23.1280.728@0.23.1280.728" timestamp="1582589487011" />
     <state width="1899" height="262" key="GridCell.Tab.1.bottom/0.23.1920.1008@0.23.1920.1008" timestamp="1581266570772" />
-    <state width="1259" height="243" key="GridCell.Tab.1.center" timestamp="1582842451172">
+    <state width="1259" height="153" key="GridCell.Tab.1.center" timestamp="1583087431221">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1259" height="243" key="GridCell.Tab.1.center/0.0.1280.800@0.0.1280.800" timestamp="1582842451172" />
+    <state width="1259" height="153" key="GridCell.Tab.1.center/0.0.1280.800@0.0.1280.800" timestamp="1583087431221" />
     <state width="1899" height="297" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1582309714182" />
     <state width="1259" height="246" key="GridCell.Tab.1.center/0.23.1280.728@0.23.1280.728" timestamp="1582589487004" />
     <state width="1899" height="262" key="GridCell.Tab.1.center/0.23.1920.1008@0.23.1920.1008" timestamp="1581266570771" />
-    <state width="1259" height="243" key="GridCell.Tab.1.left" timestamp="1582842451171">
+    <state width="1259" height="153" key="GridCell.Tab.1.left" timestamp="1583087431221">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1259" height="243" key="GridCell.Tab.1.left/0.0.1280.800@0.0.1280.800" timestamp="1582842451171" />
+    <state width="1259" height="153" key="GridCell.Tab.1.left/0.0.1280.800@0.0.1280.800" timestamp="1583087431220" />
     <state width="1899" height="297" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1582309714181" />
     <state width="1259" height="246" key="GridCell.Tab.1.left/0.23.1280.728@0.23.1280.728" timestamp="1582589487001" />
     <state width="1899" height="262" key="GridCell.Tab.1.left/0.23.1920.1008@0.23.1920.1008" timestamp="1581266570770" />
-    <state width="1259" height="243" key="GridCell.Tab.1.right" timestamp="1582842451174">
+    <state width="1259" height="153" key="GridCell.Tab.1.right" timestamp="1583087431222">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1259" height="243" key="GridCell.Tab.1.right/0.0.1280.800@0.0.1280.800" timestamp="1582842451174" />
+    <state width="1259" height="153" key="GridCell.Tab.1.right/0.0.1280.800@0.0.1280.800" timestamp="1583087431221" />
     <state width="1899" height="297" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1582309714183" />
     <state width="1259" height="246" key="GridCell.Tab.1.right/0.23.1280.728@0.23.1280.728" timestamp="1582589487008" />
     <state width="1899" height="262" key="GridCell.Tab.1.right/0.23.1920.1008@0.23.1920.1008" timestamp="1581266570771" />
-    <state x="228" y="142" key="IDE.errors.dialog" timestamp="1582665686831">
+    <state x="228" y="142" key="IDE.errors.dialog" timestamp="1583014314855">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="228" y="142" key="IDE.errors.dialog/0.0.1280.800@0.0.1280.800" timestamp="1582665686831" />
+    <state x="228" y="142" key="IDE.errors.dialog/0.0.1280.800@0.0.1280.800" timestamp="1583014314855" />
     <state x="342" y="192" key="IDE.errors.dialog/0.0.1920.1080@0.0.1920.1080" timestamp="1582063620356" />
     <state x="676" y="263" key="MultipleFileMergeDialog" timestamp="1581554981176">
       <screen x="0" y="0" width="1920" height="1080" />
@@ -699,19 +716,23 @@
     <state x="224" y="23" width="1257" height="722" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1581695897234" />
     <state x="149" y="26" key="SettingsEditor/0.23.1280.728@0.23.1280.728" timestamp="1577496118374" />
     <state x="224" y="27" key="SettingsEditor/0.23.1920.1008@0.23.1920.1008" timestamp="1579029497245" />
-    <state x="373" y="207" key="Vcs.Push.Dialog.v2" timestamp="1582763326537">
+    <state x="373" y="207" key="Vcs.Push.Dialog.v2" timestamp="1582849767725">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="373" y="207" key="Vcs.Push.Dialog.v2/0.0.1280.800@0.0.1280.800" timestamp="1582763326537" />
+    <state x="373" y="207" key="Vcs.Push.Dialog.v2/0.0.1280.800@0.0.1280.800" timestamp="1582849767725" />
     <state x="560" y="280" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1582245287627" />
     <state x="560" y="284" key="Vcs.Push.Dialog.v2/0.23.1920.1008@0.23.1920.1008" timestamp="1578959048175" />
-    <state width="1008" height="285" key="XDebugger.FullValuePopup" timestamp="1582839431749">
+    <state width="1008" height="285" key="XDebugger.FullValuePopup" timestamp="1583099989805">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1008" height="285" key="XDebugger.FullValuePopup/0.0.1280.800@0.0.1280.800" timestamp="1582839431749" />
+    <state width="1008" height="285" key="XDebugger.FullValuePopup/0.0.1280.800@0.0.1280.800" timestamp="1583099989805" />
     <state width="960" height="540" key="XDebugger.FullValuePopup/0.0.1920.1080@0.0.1920.1080" timestamp="1582307582143" />
-    <state width="1008" height="400" key="XDebugger.FullValuePopup/0.23.1280.728@0.23.1280.728" timestamp="1581258217213" />
+    <state width="1008" height="285" key="XDebugger.FullValuePopup/0.23.1280.728@0.23.1280.728" timestamp="1583017236611" />
     <state width="960" height="540" key="XDebugger.FullValuePopup/0.23.1920.1008@0.23.1920.1008" timestamp="1582072056914" />
+    <state x="168" y="112" key="com.intellij.execution.console.ConsoleHistoryController$MyBrowseAction$1" timestamp="1583014330635">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="168" y="112" key="com.intellij.execution.console.ConsoleHistoryController$MyBrowseAction$1/0.0.1280.800@0.0.1280.800" timestamp="1583014330635" />
     <state x="67" y="74" width="1147" height="652" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1582763521400">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
@@ -728,10 +749,10 @@
     <state x="479" y="294" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1580240264684" />
     <state x="319" y="219" key="com.intellij.ide.util.TipDialog/0.23.1280.728@0.23.1280.728" timestamp="1579983825714" />
     <state x="479" y="294" key="com.intellij.ide.util.TipDialog/0.23.1920.1008@0.23.1920.1008" timestamp="1580157174147" />
-    <state x="412" y="44" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1582664644420">
+    <state x="412" y="44" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1582924234612">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="412" y="44" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1280.800@0.0.1280.800" timestamp="1582664644420" />
+    <state x="412" y="44" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1280.800@0.0.1280.800" timestamp="1582924234612" />
     <state x="618" y="162" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1580078915985" />
     <state x="765" y="464" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1581291604814">
       <screen x="0" y="0" width="1920" height="1080" />
@@ -755,10 +776,10 @@
     </state>
     <state x="507" y="290" key="git4idea.ui.GitTagDialog/0.0.1280.800@0.0.1280.800" timestamp="1579478496747" />
     <state x="761" y="392" key="git4idea.ui.GitTagDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1577927668649" />
-    <state x="417" y="179" width="670" height="501" key="search.everywhere.popup" timestamp="1582581491273">
+    <state x="417" y="179" width="670" height="501" key="search.everywhere.popup" timestamp="1582937490475">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="417" y="179" width="670" height="501" key="search.everywhere.popup/0.0.1280.800@0.0.1280.800" timestamp="1582581491273" />
+    <state x="417" y="179" width="670" height="501" key="search.everywhere.popup/0.0.1280.800@0.0.1280.800" timestamp="1582937490475" />
     <state x="625" y="241" width="670" height="676" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1582307287652" />
     <state x="625" y="248" width="670" height="631" key="search.everywhere.popup/0.23.1920.1008@0.23.1920.1008" timestamp="1580155693733" />
     <state x="798" y="338" key="svn.repositoryBrowser" timestamp="1577928137065">
@@ -965,11 +986,6 @@
           <option name="timeStamp" value="417" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/acqua/label.py</url>
-          <line>49</line>
-          <option name="timeStamp" value="422" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Lombardia/Milano/ReteAcquedotti/AggiornamentoReteAcquedotti.py</url>
           <line>4</line>
           <option name="timeStamp" value="426" />
@@ -980,18 +996,8 @@
           <option name="timeStamp" value="427" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Veneto/Bim/1-LocationCollection.py</url>
-          <line>34</line>
-          <option name="timeStamp" value="444" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Veneto/Bim/1-LocationCollection.py</url>
-          <line>52</line>
-          <option name="timeStamp" value="445" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Veneto/Bim/2-ReportCollection.py</url>
-          <line>79</line>
+          <line>75</line>
           <option name="timeStamp" value="465" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
@@ -1003,11 +1009,6 @@
           <url>file://$PROJECT_DIR$/acqua/geoCode.py</url>
           <line>299</line>
           <option name="timeStamp" value="471" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Veneto/Bim/4-LabelsCreation.py</url>
-          <line>1</line>
-          <option name="timeStamp" value="472" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Dashboard/Scripts/DensitaParametrica.py</url>
@@ -1031,8 +1032,22 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Piemonte/SMATTorino/2-ReportCollection.py</url>
-          <line>1</line>
           <option name="timeStamp" value="490" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Veneto/Bim/1-LocationCollection.py</url>
+          <line>44</line>
+          <option name="timeStamp" value="495" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Veneto/Bim/2-ReportCollection.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="497" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Veneto/Veritas/2-ReportCollection.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="498" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>

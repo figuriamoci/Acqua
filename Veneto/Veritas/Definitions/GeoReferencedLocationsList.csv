@@ -1,0 +1,37 @@
+alias_address,alias_city,geocode,geometry,georeferencingString,type
+Territorio,Mogliano Veneto,"Mogliano Veneto, Treviso, Veneto, 31021, Italia","{'type': 'Point', 'coordinates': [12.275033, 45.5694333]}","Mogliano Veneto, Veneto, Italia",POINT
+Territorio,Preganziol,"Preganziol, Treviso, Veneto, 31022, Italia","{'type': 'Point', 'coordinates': [12.231442, 45.6037397]}","Preganziol, Veneto, Italia",POINT
+Territorio,Cessalto,"Cessalto, Treviso, Veneto, Italia","{'type': 'Point', 'coordinates': [12.6123141, 45.7125964]}","Cessalto, Veneto, Italia",POINT
+Territorio,Quinto di Treviso,"Quinto di Treviso, Treviso, Veneto, 31055, Italia","{'type': 'Point', 'coordinates': [12.1664816, 45.6452121]}","Quinto di Treviso, Veneto, Italia",POINT
+Territorio,Venezia centro storico e isole,"Venezia, Veneto, Italia","{'type': 'Point', 'coordinates': [12.3345898, 45.4371908]}","Venezia, Veneto, Italia",POINT
+Territorio,Terraferma di Venezia,"Mestre, Venezia, Veneto, 30170, Italia","{'type': 'Point', 'coordinates': [12.2418053, 45.4943063]}","Mestre, Veneto, Italia",POINT
+Territorio,Zenson di Piave,"Zenson di Piave, Treviso, Veneto, Italia","{'type': 'Point', 'coordinates': [12.4920994, 45.6789734]}","Zenson di Piave, Veneto, Italia",POINT
+Territorio,Campagna Lupia,"Campagna Lupia, Venezia, Veneto, 30010, Italia","{'type': 'Point', 'coordinates': [12.096814, 45.354994]}","Campagna Lupia, Venezia, Veneto, Italia",POINT
+Territorio,Campolongo Maggiore,"Campolongo Maggiore, Venezia, Veneto, Italia","{'type': 'Point', 'coordinates': [12.0483135, 45.3305355]}","Campolongo Maggiore, Venezia, Veneto, Italia",POINT
+Territorio,Camponogara,"Camponogara, Venezia, Veneto, Italia","{'type': 'Point', 'coordinates': [12.0721215, 45.3850683]}","Camponogara, Venezia, Veneto, Italia",POINT
+Territorio,Caorle,"Caorle, Venezia, Veneto, 30021, Italia","{'type': 'Point', 'coordinates': [12.8880075, 45.5990039]}","Caorle, Venezia, Veneto, Italia",POINT
+Territorio,Cavallino Treporti,"Cavallino-Treporti, Venezia, Veneto, 30013, Italia","{'type': 'Point', 'coordinates': [12.515257, 45.4792171]}","Cavallino Treporti, Venezia, Veneto, Italia",POINT
+Territorio,Ceggia,"Ceggia, Venezia, Veneto, 30022, Italia","{'type': 'Point', 'coordinates': [12.6373006, 45.6863054]}","Ceggia, Venezia, Veneto, Italia",POINT
+Territorio,Chioggia,"Chioggia, Venezia, Veneto, 30015, Italia","{'type': 'Point', 'coordinates': [12.2785805, 45.218894]}","Chioggia, Venezia, Veneto, Italia",POINT
+Territorio,Dolo,"Dolo, Venezia, Veneto, 30031, Italia","{'type': 'Point', 'coordinates': [12.076313, 45.424996]}","Dolo, Venezia, Veneto, Italia",POINT
+Territorio,Eraclea,"Eraclea, Venezia, Veneto, Italia","{'type': 'Point', 'coordinates': [12.673818, 45.5770336]}","Eraclea, Venezia, Veneto, Italia",POINT
+Territorio,Fiesso d'Artico,"Fiesso d'Artico, Venezia, Veneto, 30032, Italia","{'type': 'Point', 'coordinates': [12.0331806, 45.417348]}","Fiesso d'Artico, Venezia, Veneto, Italia",POINT
+Territorio,Fossalta di Piave,"Fossalta di Piave, Venezia, Veneto, Italia","{'type': 'Point', 'coordinates': [12.5132561, 45.6457471]}","Fossalta di Piave, Venezia, Veneto, Italia",POINT
+Territorio,Fossò,"Fossò, Venezia, Veneto, Italia","{'type': 'Point', 'coordinates': [12.048577, 45.3856495]}","Fossò, Venezia, Veneto, Italia",POINT
+Territorio,Jesolo,"Jesolo, Venezia, Veneto, Italia","{'type': 'Point', 'coordinates': [12.6383337, 45.5367094]}","Jesolo, Venezia, Veneto, Italia",POINT
+Territorio,Martellago,"Martellago, Venezia, Veneto, 30330, Italia","{'type': 'Point', 'coordinates': [12.1623562, 45.5457957]}","Martellago, Venezia, Veneto, Italia",POINT
+Territorio,Mira,"Mira, Venezia, Veneto, 30034, Italia","{'type': 'Point', 'coordinates': [12.1328047, 45.4377736]}","Mira, Venezia, Veneto, Italia",POINT
+Territorio,Mirano,"Mirano, Venezia, Veneto, 30035, Italia","{'type': 'Point', 'coordinates': [12.1098768, 45.4927695]}","Mirano, Venezia, Veneto, Italia",POINT
+Territorio,Musile di Piave,"Musile di Piave, Venezia, Veneto, 30024, Italia","{'type': 'Point', 'coordinates': [12.5618873, 45.6173586]}","Musile di Piave, Venezia, Veneto, Italia",POINT
+Territorio,Noale,"Noale, Venezia, Veneto, 30033, Italia","{'type': 'Point', 'coordinates': [12.0720877, 45.5501229]}","Noale, Venezia, Veneto, Italia",POINT
+Territorio,Noventa di Piave,"Noventa di Piave, Venezia, Veneto, Italia","{'type': 'Point', 'coordinates': [12.5299422, 45.6618875]}","Noventa di Piave, Venezia, Veneto, Italia",POINT
+Territorio,Pianiga,"Pianiga, Venezia, Veneto, Italia","{'type': 'Point', 'coordinates': [12.0311061, 45.4562987]}","Pianiga, Venezia, Veneto, Italia",POINT
+Territorio,Salzano,"Salzano, Venezia, Veneto, Italia","{'type': 'Point', 'coordinates': [12.1066574, 45.5212087]}","Salzano, Venezia, Veneto, Italia",POINT
+Territorio,San Donà di Piave,"San Donà di Piave, Venezia, Veneto, Italia","{'type': 'Point', 'coordinates': [12.5641057, 45.6294811]}","San Donà di Piave, Venezia, Veneto, Italia",POINT
+Territorio,Santa Maria di Sala,"Santa Maria di Sala, Venezia, Veneto, 30036, Italia","{'type': 'Point', 'coordinates': [12.0338683, 45.5050364]}","Santa Maria di Sala, Venezia, Veneto, Italia",POINT
+Territorio,Scorzè,"Scorzè, Venezia, Veneto, 30037, Italia","{'type': 'Point', 'coordinates': [12.1954208, 45.5635277]}","Scorzè, Veneto, Italia",POINT
+Territorio,Spinea,"Spinea, Venezia, Veneto, 30038, Italia","{'type': 'Point', 'coordinates': [12.165018, 45.4911604]}","Spinea, Veneto, Italia",POINT
+Territorio,Stra,"Stra, Venezia, Veneto, 30039, Italia","{'type': 'Point', 'coordinates': [12.0023037, 45.4168454]}","Stra, Venezia, Veneto, Italia",POINT
+Territorio,Torre di Mosto,"Torre di Mosto, Venezia, Veneto, Italia","{'type': 'Point', 'coordinates': [12.7095406, 45.687455]}","Torre di Mosto, Venezia, Veneto, Italia",POINT
+Territorio,Lido di Venezia e Pellestrina,"Lido Di Venezia, Lido-Pellestrina, Venezia, Veneto, 30132, Italia","{'type': 'Point', 'coordinates': [12.3684096, 45.4175184]}","Lido di Venezia e Pellestrina, Venezia, Veneto, Italia",POINT
+Territorio,Vigonovo,"Vigonovo, Venezia, Veneto, Italia","{'type': 'Point', 'coordinates': [12.0075139, 45.387011]}","Vigonovo, Venezia, Veneto, Italia",POINT

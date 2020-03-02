@@ -2,6 +2,7 @@ from selenium import webdriver
 from bs4 import BeautifulSoup
 import pandas as pd,os,logging
 os.chdir('//Users//andrea//PycharmProjects//Acqua')
+#os.chdir('D://Python//Acqua')
 os.chdir('Piemonte//SMATTorino')
 logging.basicConfig(level=logging.INFO)
 options = webdriver.ChromeOptions()

@@ -1,9 +1,27 @@
 alias_address,alias_city,geocode,geometry,georeferencingString,type
+Comune,ALA DI STURA,"Ala di Stura, Ceronda e Casternone, Torino, Piemonte, Italia","{'type': 'Point', 'coordinates': [7.305909, 45.31515]}","ALA DI STURA, Piemonte, Italia",POINT
+Comune,BALANGERO,"Balangero,  Ceronda e Casternone, Torino, Piemonte, Italia","{'type': 'Point', 'coordinates': [7.5202821, 45.2753229]}","BALANGERO, Piemonte, Italia",POINT
+Comune,BALME,"Balme,  Ceronda e Casternone, Torino, Piemonte, Italia","{'type': 'Point', 'coordinates': [7.2154316, 45.3025045]}","BALME, Piemonte, Italia",POINT
+Comune,CAFASSE,"Cafasse,  Ceronda e Casternone, Torino, Piemonte, Italia","{'type': 'Point', 'coordinates': [7.5172354, 45.2459605]}","CAFASSE, Piemonte, Italia",POINT
+Comune,CANTOIRA,"Cantoira,  Ceronda e Casternone, Torino, Piemonte, Italia","{'type': 'Point', 'coordinates': [7.3801242, 45.3433486]}","CANTOIRA, Piemonte, Italia",POINT
+Comune,CERES,"Ceres,  Ceronda e Casternone, Torino, Piemonte, Italia","{'type': 'Point', 'coordinates': [7.3896883, 45.3133772]}","CERES, Piemonte, Italia",POINT
+Comune,CHIALAMBERTO,"Chialamberto,  Ceronda e Casternone, Torino, Piemonte, Italia","{'type': 'Point', 'coordinates': [7.3414713, 45.3636694]}","CHIALAMBERTO, Piemonte, Italia",POINT
+Comune,COASSOLO TORINESE,"Coassolo Torinese,  Ceronda e Casternone, Torino, Piemonte, Italia","{'type': 'Point', 'coordinates': [7.4604581, 45.2975828]}","COASSOLO TORINESE, Piemonte, Italia",POINT
+Comune,CORIO,"Corio,  Ceronda e Casternone, Torino, Piemonte, Italia","{'type': 'Point', 'coordinates': [7.5320874, 45.3134988]}","CORIO, Piemonte, Italia",POINT
+Comune,FIANO,"Fiano,  Ceronda e Casternone, Torino, Piemonte, Italia","{'type': 'Point', 'coordinates': [7.5226852, 45.2168706]}","FIANO, Piemonte, Italia",POINT
+Comune,GERMAGNANO,"Germagnano,  Ceronda e Casternone, Torino, Piemonte, Italia","{'type': 'Point', 'coordinates': [7.4694832, 45.2638716]}","GERMAGNANO, Piemonte, Italia",POINT
+Comune,GIVOLETTO,"Givoletto,  Ceronda e Casternone, Torino, Piemonte, Italia","{'type': 'Point', 'coordinates': [7.496416, 45.162248]}","GIVOLETTO, Piemonte, Italia",POINT
+Comune,LA CASSA,"La Cassa,  Ceronda e Casternone, Torino, Piemonte, Italia","{'type': 'Point', 'coordinates': [7.516316, 45.180348]}","LA CASSA, Piemonte, Italia",POINT
+Comune,LANZO TORINESE,"Lanzo Torinese,  Ceronda e Casternone, Torino, Piemonte, 10074, Italia","{'type': 'Point', 'coordinates': [7.4774108, 45.2733505]}","LANZO TORINESE, Piemonte, Italia",POINT
+Comune,MEZZENILE,"Mezzenile,  Ceronda e Casternone, Torino, Piemonte, Italia","{'type': 'Point', 'coordinates': [7.3944587, 45.2951292]}","MEZZENILE, Piemonte, Italia",POINT
+Comune,MONASTERO DI LANZO,"Monastero di Lanzo,  Ceronda e Casternone, Torino, Piemonte, Italia","{'type': 'Point', 'coordinates': [7.4396812, 45.3018726]}","MONASTERO DI LANZO, Piemonte, Italia",POINT
+Comune,PESSINETTO,"Pessinetto, Ceronda e Casternone, Torino, Piemonte, Italia","{'type': 'Point', 'coordinates': [7.4041615, 45.289093]}","PESSINETTO, Piemonte, Italia",POINT
+Comune,VAL DELLA TORRE,"Val della Torre, Ceronda e Casternone, Torino, Piemonte, Italia","{'type': 'Point', 'coordinates': [7.445015, 45.155147]}","VAL DELLA TORRE, Piemonte, Italia",POINT
+Comune,CIRCOSCRIZIONE 6 TORINO,"Strada Settimo, Circoscrizione 6, San Mauro Torinese, Torino, Piemonte, 10156, Italia","{'type': 'Point', 'coordinates': [7.7451,45.1227]}","Strada Settimo, Circoscrizione 6, San Mauro Torinese, Torino, Piemonte, 10156, Italia",POINT
 Comune,SANT’ AMBROGIO DI TORINO,"Sant'Ambrogio di Torino, Torino, Piemonte, 10057, Italia","{'type': 'Point', 'coordinates': [7.362315, 45.099445]}","SANT’AMBROGIO DI TORINO, Piemonte, Italia",POINT
 Comune,SANT’ ANTONINO DI SUSA,"Sant'Antonino di Susa, Torino, Piemonte, Italia","{'type': 'Point', 'coordinates': [7.273613, 45.107044]}","SANT’ANTONINO DI SUSA, Piemonte, Italia",POINT
 Comune,AGLIE’,"Agliè, Torino, Piemonte, 10011, Italia","{'type': 'Point', 'coordinates': [7.7687226, 45.3633748]}","AGLIE’, Piemonte, Italia",POINT
 Comune,AIRASCA,"Airasca, Torino, Piemonte, Italia","{'type': 'Point', 'coordinates': [7.484321, 44.917042]}","AIRASCA, Piemonte, Italia",POINT
-Comune,ALA DI STURA,"Ala di Stura, Unione Montana di Comuni delle Valli di Lanzo, Ceronda e Casternone, Torino, Piemonte, Italia",,"ALA DI STURA, Piemonte, Italia",POINT
 Comune,ALBIANO D’IVREA,"Albiano d'Ivrea, Torino, Piemonte, Italia","{'type': 'Point', 'coordinates': [7.950621, 45.432959]}","ALBIANO D’IVREA, Piemonte, Italia",POINT
 Comune,ALMESE,"Almese, Torino, Piemonte, Italia","{'type': 'Point', 'coordinates': [7.39455, 45.1168763]}","ALMESE, Piemonte, Italia",POINT
 Comune,ALPETTE,"Alpette, Torino, Piemonte, Italia","{'type': 'Point', 'coordinates': [7.578978, 45.408916]}","ALPETTE, Piemonte, Italia",POINT
@@ -13,10 +31,8 @@ Comune,ANGROGNA,"Angrogna, Torino, Piemonte, Italia","{'type': 'Point', 'coordin
 Comune,ARIGNANO,"Arignano, Torino, Piemonte, Italia","{'type': 'Point', 'coordinates': [7.9015941, 45.0402748]}","ARIGNANO, Piemonte, Italia",POINT
 Comune,AVIGLIANA,"Avigliana, Torino, Piemonte, 10051, Italia","{'type': 'Point', 'coordinates': [7.398616, 45.077145]}","AVIGLIANA, Piemonte, Italia",POINT
 Comune,BAIRO,"Bairo, Torino, Piemonte, Italia","{'type': 'Point', 'coordinates': [7.7554467, 45.3865872]}","BAIRO, Piemonte, Italia",POINT
-Comune,BALANGERO,"Balangero, Unione Montana di Comuni delle Valli di Lanzo, Ceronda e Casternone, Torino, Piemonte, Italia",,"BALANGERO, Piemonte, Italia",POINT
 Comune,BALDISSERO CANAVESE,"Baldissero Canavese, Torino, Piemonte, Italia","{'type': 'Point', 'coordinates': [7.744217, 45.410256]}","BALDISSERO CANAVESE, Piemonte, Italia",POINT
 Comune,BALDISSERO TORINESE,"Baldissero Torinese, Torino, Piemonte, Italia","{'type': 'Point', 'coordinates': [7.8165308, 45.0686356]}","BALDISSERO TORINESE, Piemonte, Italia",POINT
-Comune,BALME,"Balme, Unione Montana di Comuni delle Valli di Lanzo, Ceronda e Casternone, Torino, Piemonte, Italia",,"BALME, Piemonte, Italia",POINT
 Comune,BANCHETTE,"Banchette, Torino, Piemonte, Italia","{'type': 'Point', 'coordinates': [7.856318, 45.453558]}","BANCHETTE, Piemonte, Italia",POINT
 Comune,BARBANIA,"Barbania, Torino, Piemonte, Italia","{'type': 'Point', 'coordinates': [7.630317, 45.291252]}","BARBANIA, Piemonte, Italia",POINT
 Comune,BARDONECCHIA,"Bardonecchia, Torino, Piemonte, 10052, Italia","{'type': 'Point', 'coordinates': [6.7127908, 45.0782514]}","BARDONECCHIA, Piemonte, Italia",POINT
@@ -39,7 +55,6 @@ Comune,BURIASCO,"Buriasco, Torino, Piemonte, Italia","{'type': 'Point', 'coordin
 Comune,BUSANO,"Busano, Torino, Piemonte, Italia","{'type': 'Point', 'coordinates': [7.6557322, 45.3294385]}","BUSANO, Piemonte, Italia",POINT
 Comune,BUSSOLENO,"Bussoleno, Torino, Piemonte, 10053, Italia","{'type': 'Point', 'coordinates': [7.1447103, 45.1396795]}","BUSSOLENO, Piemonte, Italia",POINT
 Comune,BUTTIGLIERA ALTA,"Buttigliera Alta, Torino, Piemonte, Italia","{'type': 'Point', 'coordinates': [7.434488, 45.068804]}","BUTTIGLIERA ALTA, Piemonte, Italia",POINT
-Comune,CAFASSE,"Cafasse, Unione Montana di Comuni delle Valli di Lanzo, Ceronda e Casternone, Torino, Piemonte, Italia",,"CAFASSE, Piemonte, Italia",POINT
 Comune,CALUSO,"Caluso, Torino, Piemonte, 10014, Italia","{'type': 'Point', 'coordinates': [7.895722, 45.304955]}","CALUSO, Piemonte, Italia",POINT
 Comune,CAMBIANO,"Cambiano, Torino, Piemonte, Italia","{'type': 'Point', 'coordinates': [7.772026, 44.968346]}","CAMBIANO, Piemonte, Italia",POINT
 Comune,CAMPIGLIONE FENILE,"Campiglione-Fenile, Torino, Piemonte, Italia","{'type': 'Point', 'coordinates': [7.322312759550277, 44.8045985]}","CAMPIGLIONE FENILE, Piemonte, Italia",POINT
@@ -47,7 +62,6 @@ Comune,CANDIA CANAVESE,"Candia Canavese, Torino, Piemonte, Italia","{'type': 'Po
 Comune,CANDIOLO,"Candiolo, Torino, Piemonte, Italia","{'type': 'Point', 'coordinates': [7.601722, 44.959244]}","CANDIOLO, Piemonte, Italia",POINT
 Comune,CANISCHIO,"Canischio, Torino, Piemonte, Italia","{'type': 'Point', 'coordinates': [7.5961265, 45.373987]}","CANISCHIO, Piemonte, Italia",POINT
 Comune,CANTALUPA,"Cantalupa, Torino, Piemonte, Italia","{'type': 'Point', 'coordinates': [7.330317, 44.945941]}","CANTALUPA, Piemonte, Italia",POINT
-Comune,CANTOIRA,"Cantoira, Unione Montana di Comuni delle Valli di Lanzo, Ceronda e Casternone, Torino, Piemonte, Italia",,"CANTOIRA, Piemonte, Italia",POINT
 Comune,CAPRIE,"Caprie, Torino, Piemonte, Italia","{'type': 'Point', 'coordinates': [7.331914, 45.118845]}","CAPRIE, Piemonte, Italia",POINT
 Comune,CARAVINO,"Caravino, Torino, Piemonte, Italia","{'type': 'Point', 'coordinates': [7.960322, 45.398258]}","CARAVINO, Piemonte, Italia",POINT
 Comune,CAREMA,"Carema, Torino, Piemonte, Italia","{'type': 'Point', 'coordinates': [7.8104064, 45.5833024]}","CAREMA, Piemonte, Italia",POINT
@@ -64,10 +78,8 @@ Comune,CASTELNUOVO NIGRA,"Castelnuovo Nigra, Torino, Piemonte, Italia","{'type':
 Comune,CASTIGLIONE TORINESE,"Castiglione Torinese, Torino, Piemonte, Italia","{'type': 'Point', 'coordinates': [7.807124, 45.11905]}","CASTIGLIONE TORINESE, Piemonte, Italia",POINT
 Comune,CAVOUR,"Cavour, Torino, Piemonte, 10061, Italia","{'type': 'Point', 'coordinates': [7.3738413, 44.7854988]}","CAVOUR, Piemonte, Italia",POINT
 Comune,CERCENASCO,"Cercenasco, Torino, Piemonte, Italia","{'type': 'Point', 'coordinates': [7.5012695, 44.8612913]}","CERCENASCO, Piemonte, Italia",POINT
-Comune,CERES,"Ceres, Unione Montana di Comuni delle Valli di Lanzo, Ceronda e Casternone, Torino, Piemonte, Italia",,"CERES, Piemonte, Italia",POINT
 Comune,CERESOLE REALE,"Ceresole Reale, Torino, Piemonte, Italia","{'type': 'Point', 'coordinates': [7.235706, 45.431952]}","CERESOLE REALE, Piemonte, Italia",POINT
 Comune,CESANA TORINESE,"Cesana Torinese, Torino, Piemonte, 10054, Italia","{'type': 'Point', 'coordinates': [6.790805, 44.952236]}","CESANA TORINESE, Piemonte, Italia",POINT
-Comune,CHIALAMBERTO,"Chialamberto, Unione Montana di Comuni delle Valli di Lanzo, Ceronda e Casternone, Torino, Piemonte, Italia",,"CHIALAMBERTO, Piemonte, Italia",POINT
 Comune,CHIANOCCO,"Chianocco, Torino, Piemonte, Italia","{'type': 'Point', 'coordinates': [7.1693304, 45.1480942]}","CHIANOCCO, Piemonte, Italia",POINT
 Comune,CHIERI,"Chieri, Torino, Piemonte, 10023, Italia","{'type': 'Point', 'coordinates': [7.8223544, 45.0138842]}","CHIERI, Piemonte, Italia",POINT
 Comune,CHIESANUOVA,"Chiesanuova, Torino, Piemonte, Italia","{'type': 'Point', 'coordinates': [7.6557874, 45.4179247]}","CHIESANUOVA, Piemonte, Italia",POINT
@@ -79,14 +91,12 @@ Comune,CINTANO,"Cintano, Torino, Piemonte, Italia","{'type': 'Point', 'coordinat
 Comune,CINZANO,"Cinzano, Torino, Piemonte, Italia","{'type': 'Point', 'coordinates': [7.925627, 45.09425]}","CINZANO, Piemonte, Italia",POINT
 Comune,CIRIE’,"Ciriè, Torino, Piemonte, 10073, Italia","{'type': 'Point', 'coordinates': [7.602493424329654, 45.2302172]}","CIRIE’, Piemonte, Italia",POINT
 Comune,CLAVIERE,"Claviere, Torino, Piemonte, Italia","{'type': 'Point', 'coordinates': [6.7502942, 44.9387991]}","CLAVIERE, Piemonte, Italia",POINT
-Comune,COASSOLO TORINESE,"Coassolo Torinese, Unione Montana di Comuni delle Valli di Lanzo, Ceronda e Casternone, Torino, Piemonte, Italia",,"COASSOLO TORINESE, Piemonte, Italia",POINT
 Comune,COAZZE,"Coazze, Torino, Piemonte, Italia","{'type': 'Point', 'coordinates': [7.2979015, 45.0521938]}","COAZZE, Piemonte, Italia",POINT
 Comune,COLLEGNO,"Collegno, Torino, Piemonte, 10093, Italia","{'type': 'Point', 'coordinates': [7.5741956, 45.0788692]}","COLLEGNO, Piemonte, Italia",POINT
 Comune,COLLERETTO CASTELNUOVO,"Colleretto Castelnuovo, Torino, Piemonte, 10080, Italia","{'type': 'Point', 'coordinates': [7.6806743, 45.4228281]}","COLLERETTO CASTELNUOVO, Piemonte, Italia",POINT
 Comune,COLLERETTO GIACOSA,"Colleretto Giacosa, Torino, Piemonte, Italia","{'type': 'Point', 'coordinates': [7.7995915, 45.4318872]}","COLLERETTO GIACOSA, Piemonte, Italia",POINT
 Comune,CONDOVE,"Condove, Torino, Piemonte, 10055, Italia","{'type': 'Point', 'coordinates': [7.3094552, 45.1174186]}","CONDOVE, Piemonte, Italia",POINT
-Comune,CORIO,"Corio, Unione Montana di Comuni delle Valli di Lanzo, Ceronda e Casternone, Torino, Piemonte, Italia",,"CORIO, Piemonte, Italia",POINT
-Comune,COSSANO CANAVESE,"Cossano Canavese, Torino, Piemonte, Italia","{'type': 'Point', 'coordinates': [7.991523, 45.387758]}","COSSANO CANAVESE, Piemonte, Italia",POINT
+Comune,COSSANO CANAVESE,"Cossano Canavese, Torino, Piemonte, Italia","{'type': 'Point', 'coordinates': [7.9962,45.3875]}","COSSANO CANAVESE, Piemonte, Italia",POINT
 Comune,CUCEGLIO,"Cuceglio, Torino, Piemonte, Italia","{'type': 'Point', 'coordinates': [7.8151868, 45.3594346]}","CUCEGLIO, Piemonte, Italia",POINT
 Comune,CUMIANA,"Cumiana, Torino, Piemonte, Italia","{'type': 'Point', 'coordinates': [7.376717, 44.979742]}","CUMIANA, Piemonte, Italia",POINT
 Comune,CUORGNE’,"Cuorgnè, Torino, Piemonte, 10082, Italia","{'type': 'Point', 'coordinates': [7.6498168, 45.3897204]}","CUORGNE’, Piemonte, Italia",POINT
@@ -94,7 +104,6 @@ Comune,DRUENTO,"Druento, Torino, Piemonte, Italia","{'type': 'Point', 'coordinat
 Comune,EXILLES,"Exilles, Torino, Piemonte, Italia","{'type': 'Point', 'coordinates': [6.9290646, 45.0973834]}","EXILLES, Piemonte, Italia",POINT
 Comune,FAVRIA,"Favria, Torino, Piemonte, 10083, Italia","{'type': 'Point', 'coordinates': [7.690617, 45.331154]}","FAVRIA, Piemonte, Italia",POINT
 Comune,FELETTO,"Feletto, Torino, Piemonte, Italia","{'type': 'Point', 'coordinates': [7.744719, 45.303853]}","FELETTO, Piemonte, Italia",POINT
-Comune,FIANO,"Fiano, Unione Montana di Comuni delle Valli di Lanzo, Ceronda e Casternone, Torino, Piemonte, Italia",,"FIANO, Piemonte, Italia",POINT
 Comune,FIORANO CANAVESE,"Fiorano Canavese, Torino, Piemonte, Italia","{'type': 'Point', 'coordinates': [7.833718, 45.467758]}","FIORANO CANAVESE, Piemonte, Italia",POINT
 Comune,FOGLIZZO,"Foglizzo, Torino, Piemonte, Italia","{'type': 'Point', 'coordinates': [7.8222647, 45.2712723]}","FOGLIZZO, Piemonte, Italia",POINT
 Comune,FORNO CANAVESE,"Forno Canavese, Torino, Piemonte, 10084, Italia","{'type': 'Point', 'coordinates': [7.591015, 45.345353]}","FORNO CANAVESE, Piemonte, Italia",POINT
@@ -103,10 +112,8 @@ Comune,FRONT,"Front, Torino, Piemonte, Italia","{'type': 'Point', 'coordinates':
 Comune,FROSSASCO,"Frossasco, Torino, Piemonte, Italia","{'type': 'Point', 'coordinates': [7.350017, 44.933041]}","FROSSASCO, Piemonte, Italia",POINT
 Comune,GARZIGLIANA,"Garzigliana, Torino, Piemonte, Italia","{'type': 'Point', 'coordinates': [7.37442, 44.837239]}","GARZIGLIANA, Piemonte, Italia",POINT
 Comune,GASSINO TORINESE,"Gassino Torinese, Torino, Piemonte, Italia","{'type': 'Point', 'coordinates': [7.827624, 45.13165]}","GASSINO TORINESE, Piemonte, Italia",POINT
-Comune,GERMAGNANO,"Germagnano, Unione Montana di Comuni delle Valli di Lanzo, Ceronda e Casternone, Torino, Piemonte, Italia",,"GERMAGNANO, Piemonte, Italia",POINT
 Comune,GIAGLIONE,"Giaglione, Torino, Piemonte, Italia","{'type': 'Point', 'coordinates': [7.0147562, 45.1402386]}","GIAGLIONE, Piemonte, Italia",POINT
 Comune,GIAVENO,"Giaveno, Torino, Piemonte, 10094, Italia","{'type': 'Point', 'coordinates': [7.3519942, 45.0420053]}","GIAVENO, Piemonte, Italia",POINT
-Comune,GIVOLETTO,"Givoletto, Unione Montana di Comuni delle Valli di Lanzo, Ceronda e Casternone, Torino, Piemonte, Italia",,"GIVOLETTO, Piemonte, Italia",POINT
 Comune,GRAVERE,"Gravere, Torino, Piemonte, Italia","{'type': 'Point', 'coordinates': [7.017507, 45.125342]}","GRAVERE, Piemonte, Italia",POINT
 Comune,GROSCAVALLO,"Groscavallo, Unione Montana Alpi Graie, Torino, Piemonte, Italia","{'type': 'Point', 'coordinates': [7.2339668326681545, 45.369225349999994]}","GROSCAVALLO, Piemonte, Italia",POINT
 Comune,GROSSO,"Grosso, Torino, Piemonte, Italia","{'type': 'Point', 'coordinates': [7.5580143, 45.257798]}","GROSSO, Piemonte, Italia",POINT
@@ -116,9 +123,7 @@ Comune,INVERSO PINASCA,"Inverso Pinasca, Torino, Piemonte, Italia","{'type': 'Po
 Comune,ISOLABELLA,"Isolabella, Torino, Piemonte, Italia","{'type': 'Point', 'coordinates': [7.9101512, 44.9067269]}","ISOLABELLA, Piemonte, Italia",POINT
 Comune,ISSIGLIO,"Issiglio, Torino, Piemonte, Italia","{'type': 'Point', 'coordinates': [7.753216, 45.446257]}","ISSIGLIO, Piemonte, Italia",POINT
 Comune,IVREA,"Ivrea, Torino, Piemonte, 10015, Italia","{'type': 'Point', 'coordinates': [7.8763444, 45.4614624]}","IVREA, Piemonte, Italia",POINT
-Comune,LA CASSA,"La Cassa, Unione Montana di Comuni delle Valli di Lanzo, Ceronda e Casternone, Torino, Piemonte, Italia",,"LA CASSA, Piemonte, Italia",POINT
 Comune,LA LOGGIA,"La Loggia, Torino, Piemonte, Italia","{'type': 'Point', 'coordinates': [7.667324, 44.957744]}","LA LOGGIA, Piemonte, Italia",POINT
-Comune,LANZO TORINESE,"Lanzo Torinese, Unione Montana di Comuni delle Valli di Lanzo, Ceronda e Casternone, Torino, Piemonte, 10074, Italia",,"LANZO TORINESE, Piemonte, Italia",POINT
 Comune,LEINI’,"Leini, Torino, Piemonte, Italia","{'type': 'Point', 'coordinates': [7.7132706, 45.1845815]}","LEINI’, Piemonte, Italia",POINT
 Comune,LEMIE,"Lemie, Unione Montana Alpi Graie, Torino, Piemonte, Italia","{'type': 'Point', 'coordinates': [7.294111, 45.228647]}","LEMIE, Piemonte, Italia",POINT
 Comune,LESSOLO,"Lessolo, Torino, Piemonte, Italia","{'type': 'Point', 'coordinates': [7.814717, 45.478258]}","LESSOLO, Piemonte, Italia",POINT
@@ -140,10 +145,8 @@ Comune,MATTIE,"Mattie, Torino, Piemonte, Italia","{'type': 'Point', 'coordinates
 Comune,MAZZE’,"Mazzè, Torino, Piemonte, 10035, Italia","{'type': 'Point', 'coordinates': [7.932723, 45.300255]}","MAZZE’, Piemonte, Italia",POINT
 Comune,MEANA DI SUSA,"Meana di Susa, Torino, Piemonte, Italia","{'type': 'Point', 'coordinates': [7.064708, 45.122043]}","MEANA DI SUSA, Piemonte, Italia",POINT
 Comune,MERCENASCO,"Mercenasco, Torino, Piemonte, Italia","{'type': 'Point', 'coordinates': [7.8823593, 45.3571822]}","MERCENASCO, Piemonte, Italia",POINT
-Comune,MEZZENILE,"Mezzenile, Unione Montana di Comuni delle Valli di Lanzo, Ceronda e Casternone, Torino, Piemonte, Italia",,"MEZZENILE, Piemonte, Italia",POINT
 Comune,MOMBELLO DI TORINO,"Mombello di Torino, Torino, Piemonte, Italia","{'type': 'Point', 'coordinates': [7.920827, 45.045749]}","MOMBELLO DI TORINO, Piemonte, Italia",POINT
-Comune,MOMPANTERO,"Mompantero, Torino, Piemonte, Italia","{'type': 'Point', 'coordinates': [7.0646093, 45.1420427]}","MOMPANTERO, Piemonte, Italia",POINT
-Comune,MONASTERO DI LANZO,"Monastero di Lanzo, Unione Montana di Comuni delle Valli di Lanzo, Ceronda e Casternone, Torino, Piemonte, Italia",,"MONASTERO DI LANZO, Piemonte, Italia",POINT
+Comune,MOMPANTERO,"Mompantero, Torino, Piemonte, Italia","{'type': 'Point', 'coordinates': [7.0669,45.1427]}","MOMPANTERO, Piemonte, Italia",POINT
 Comune,MONCALIERI,"Moncalieri, Torino, Piemonte, Italia","{'type': 'Point', 'coordinates': [7.6847543, 45.0004614]}","MONCALIERI, Piemonte, Italia",POINT
 Comune,MONCENISIO,"Moncenisio, Torino, Piemonte, Italia","{'type': 'Point', 'coordinates': [6.9824996, 45.2052852]}","MONCENISIO, Piemonte, Italia",POINT
 Comune,MONTALDO TORINESE,"Montaldo Torinese, Torino, Piemonte, Italia","{'type': 'Point', 'coordinates': [7.8496013, 45.0654869]}","MONTALDO TORINESE, Piemonte, Italia",POINT
@@ -171,7 +174,6 @@ Comune,PECETTO TORINESE,"Pecetto Torinese, Torino, Piemonte, Italia","{'type': '
 Comune,PEROSA ARGENTINA,"Perosa Argentina, Torino, Piemonte, 10063, Italia","{'type': 'Point', 'coordinates': [7.190914, 44.95744]}","PEROSA ARGENTINA, Piemonte, Italia",POINT
 Comune,PEROSA CANAVESE,"Perosa Canavese, Torino, Piemonte, Italia","{'type': 'Point', 'coordinates': [7.830819, 45.397057]}","PEROSA CANAVESE, Piemonte, Italia",POINT
 Comune,PERTUSIO,"Pertusio, Torino, Piemonte, Italia","{'type': 'Point', 'coordinates': [7.6385012, 45.3567879]}","PERTUSIO, Piemonte, Italia",POINT
-Comune,PESSINETTO,"Pessinetto, Unione Montana di Comuni delle Valli di Lanzo, Ceronda e Casternone, Torino, Piemonte, Italia",,"PESSINETTO, Piemonte, Italia",POINT
 Comune,PIANEZZA,"Pianezza, Torino, Piemonte, 10044, Italia","{'type': 'Point', 'coordinates': [7.543418, 45.105847]}","PIANEZZA, Piemonte, Italia",POINT
 Comune,PINASCA,"Pinasca, Torino, Piemonte, Italia","{'type': 'Point', 'coordinates': [7.229115, 44.94264]}","PINASCA, Piemonte, Italia",POINT
 Comune,PINEROLO,"Pinerolo, Torino, Piemonte, 10064, Italia","{'type': 'Point', 'coordinates': [7.3319454, 44.8873086]}","PINEROLO, Piemonte, Italia",POINT
@@ -265,7 +267,6 @@ Comune,TROFARELLO,"Trofarello, Torino, Piemonte, 10028, Italia","{'type': 'Point
 Comune,USSEAUX,"Usseaux, Torino, Piemonte, Italia","{'type': 'Point', 'coordinates': [7.028508, 45.048941]}","USSEAUX, Piemonte, Italia",POINT
 Comune,USSEGLIO,"Usseglio, Unione Montana Alpi Graie, Torino, Piemonte, 10, Italia","{'type': 'Point', 'coordinates': [7.2177346, 45.2331973]}","USSEGLIO, Piemonte, Italia",POINT
 Comune,VAIE,"Vaie, Torino, Piemonte, Italia","{'type': 'Point', 'coordinates': [7.289413, 45.102344]}","VAIE, Piemonte, Italia",POINT
-Comune,VAL DELLA TORRE,"Val della Torre, Unione Montana di Comuni delle Valli di Lanzo, Ceronda e Casternone, Torino, Piemonte, Italia",,"VAL DELLA TORRE, Piemonte, Italia",POINT
 Comune,VAL DI CHY,"Val di Chy, Torino, Piemonte, Italia","{'type': 'Point', 'coordinates': [7.7928302, 45.4611249]}","VAL DI CHY, Piemonte, Italia",POINT
 Comune,VALCHIUSA,"Valchiusa, Torino, Piemonte, Italia","{'type': 'Point', 'coordinates': [7.7413272, 45.4972632]}","VALCHIUSA, Piemonte, Italia",POINT
 Comune,VALGIOIE,"Valgioie, Torino, Piemonte, Italia","{'type': 'Point', 'coordinates': [7.340715, 45.076144]}","VALGIOIE, Piemonte, Italia",POINT

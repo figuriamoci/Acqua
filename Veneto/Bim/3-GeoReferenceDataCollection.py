@@ -16,7 +16,9 @@ def rimuoviTermini():
     df.to_csv( geoReferencedLocationsFile, index=False )
     return 0
 ##
-#rimuoviTermini():
-#gc.findGeoName(geoReferencedLocationsFile)
-#gc.findCoordinates(geoReferencedLocationsFile)
+#gc.createGeoReferencedLocationsList(locationListFile,geoReferencedLocationsFile)
+#rimuoviTermini()
+gc.findGeoName(geoReferencedLocationsFile)
+gc.findCoordinates(geoReferencedLocationsFile)
 gc.createChoroplethDataCollection(geoReferencedLocationsFile,quartieriFile,mapFile)
+

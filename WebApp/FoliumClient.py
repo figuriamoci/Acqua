@@ -1,7 +1,7 @@
 #Location di interesse per i parametri dell'acqua
 #targetLocation = 'Isola Morosini Via due fiumi'
 ##
-targetLocation = "Melegnano, Milano, Lombardia, 20077, Italia"
+targetLocation = "Agordo"
 
 import folium,os,geojson as js,logging
 from geopy.geocoders import Nominatim

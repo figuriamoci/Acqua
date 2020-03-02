@@ -284,7 +284,7 @@ def createChoroplethDataCollection(geoReferencedLocationsFile,reteAcquedottiFile
     f = pd.DataFrame()
     for i,feature in enumerate(listFeature):
         a = feature['geometry']['coordinates'][0]
-        #if len(a)>=1: a = a[0]
+        if len(a)>=1: a = a[0]
         poligonGeoJson = Polygon(a)
         n = 0
         for j,poi in enumerate(points):

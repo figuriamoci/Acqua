@@ -1,0 +1,19 @@
+parametro,syn0,syn1,syn2,syn3,syn4,syn5,syn6,syn7,syn8,syn9
+residuo_fisso,Residuo 180,Residuo secco a 180°C
+durezza,Durezza totale,
+ph,pH,Concentrazione ioni idrogeno
+calcio,Calcio
+sodio,Sodio
+magnesio,Magnesio
+nitrato,Nitrato,Nitrato (come NO3)
+nitrito,Nitrito,Nitrito (come NO2)
+cloruro,Cloruro
+conducibilita,Conducibilità,Conduttività
+fluoruri,Fluoruro
+ammoniaca,Ammoniaca,Ammonio
+manganese,Manganese
+arsenico,Arsenico
+cloro_residuo,Disinfettante residuo (Cloro libero),Cloro residuo libero
+cromo,Cromo
+ferro,Ferro
+solfato,Solfato
