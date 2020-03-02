@@ -13,20 +13,16 @@ gestori = df.to_dict(orient='index')
 def name(id_gestore):
     return gestori[id_gestore]
 
+def setEnv(path):
+    logging.basicConfig( level=logging.INFO )
+    path = path
+    #os.chdir( "D://Python//Acqua" )
+    os.chdir( "/Users/andrea/PycharmProjects/Acqua/")
+    os.chdir(path)
+    return path
 
 
 def createChoroplethFormDB(geoReferencedLocationsFile,reteAcquedottiFile,output_file):
-
-
-
-
-
-
-
-
-
-
-    ##
     import pandas as pd, folium, os, logging, geojson
     from folium.plugins import MarkerCluster  # for clustering the markers
 
