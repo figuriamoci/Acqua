@@ -117,7 +117,7 @@ Veneto,BL,Belluno,Bim S.p.A.,Bim,https://www.bimgsp.it,https://www.bimgsp.it/idr
 Veneto,TV,Treviso,Alto Trevigiano Servizi s.r.l.,AtsTrevigiano,https://altotrevigianoservizi.it/reti-e-impianti/acqua-potabile,https://altotrevigianoservizi.it/reti-e-impianti/acqua-potabile,HTML,PER_ZONA,SEMESTRALE,2019,MEDIO,,0
 Veneto,TV,Treviso,Piave Servizi S.p.A.,PiaveServizi,https://www.piaveservizi.eu,https://www.piaveservizi.eu/home/Acqua/Qualita.html,PDF,PER_ZONA,SEMESTRALE,2019,ELEVATO,Le zone sono sullo stesso PDF,5
 Veneto,VE,Venezia,Livenza Tagliamento Acque S.p.A.,Lta,https://www.lta.it/le-analisi-della-tua-acqua,https://www.lta.it/le-analisi-della-tua-acqua,,,,,,,0
-Veneto,VE,Venezia,Veritas S.p.A.,Veritas,https://www.gruppoveritas.it,https://www.gruppoveritas.it/servizio-idrico-integrato/qualita-dell-acqua.html,PDF,PER_COMUNE,SEMESTRALE,2019,BASSO,,0
+Veneto,VE,Venezia,Veritas S.p.A.,VeritasVenezia,https://www.gruppoveritas.it,https://www.gruppoveritas.it/servizio-idrico-integrato/qualita-dell-acqua.html,PDF,PER_COMUNE,SEMESTRALE,2019,BASSO,,0
 Veneto,VE,Venezia,AcegasApsAmga S.p.A.,AceGasAmga,http://www.acegasapsamga.it,http://www.acegasapsamga.it/attivita_servizi/acqua_ciclo_idrico/qualita_controllo/,PDF,PER_COMUNE,MENSILE,,BASSO,,1
 Veneto,PD,Padova,Etra S.p.A.,EtraPadova,https://www.etraspa.it/resana/impresa/acqua/analisi-dellacqua,https://www.etraspa.it,HTML,PER_ZONA,MENSILE,,MEDIO,,4
 Veneto,RO,Rovigo,Acque Venete S.p.A.,AcqueVenete,http://www.acquevenete.it,http://www.acquevenete.it/it_IT/consulta-le-analisi,HTML,PER_POZZO,SEMESTRALE,2019,MEDIO,Necessaria mappa acquedotti,0
