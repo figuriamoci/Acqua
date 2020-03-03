@@ -58,7 +58,7 @@ Lombardia,LC,Lecco,Lario Reti Holding S.p.A.,LarioLecco,https://www.larioreti.it
 Lombardia,LO,Lodi,SAL s.r.l.,AcquaLodigiana,http://www.acqualodigiana.it/,http://www.acqualodigiana.it/acqua-del-rubinetto/,HTML,PER_COMUNE,SEMESTRALE,2019,BASSO,,1
 Lombardia,MB,Monza E Della Brianza,BrianzAcque s.r.l.,BrianzAcque,http://www.brianzacque.it,https://richiesteassistenza.brianzacque.it/servizi/punti-prelievo,HTML,PER_COMUNE,MENSILE,202,ELEVATO,Serve stradario,5
 Marche,PU,Pesaro E Urbino,Marche Multiservizi S.p.A.,,http://www.gruppomarchemultiservizi.it/,http://www.gruppomarchemultiservizi.it/#comuni,PDF,PER_PUNTO_PRELIEVO,ANNUALE,2019,MEDIO,COMPLESSITA NAVIGAZIONE,5
-Marche,AN,Ancona,Viva Servizi S.p.A.,,https://www.vivaservizi.it,https://www.vivaservizi.it/home/servizi/acqua,-fognatura-e-depurazione/analisi-acqua-del-tuo-comune.html,HTML,PER_PUNTO_PRELIEVO,SEMESTRALE,2020,BASSO,,2
+Marche,AN,Ancona,Viva Servizi S.p.A.,,https://www.vivaservizi.it,"https://www.vivaservizi.it/home/servizi/acqua,-fognatura-e-depurazione/analisi-acqua-del-tuo-comune.html",HTML,PER_PUNTO_PRELIEVO,SEMESTRALE,2020,BASSO,,2
 Marche,MC,Macerata,ASSM SPA,,http://www.assm.it/,http://www.assm.it/Analisi/le-analisi.html,PDF,PER_PUNTO_PRELIEVO,ANNUALE,2019,ELEVATO,Tabelle complesse,10
 Marche,AP,Ascoli Piceno,CIIP spa,,https://www.ciip.it/,https://www.ciip.it/informazioni-clienti/caratteristichenostra-acqua,HTML,PER_PUNTO_PRELIEVO,ANNUALE,2019,MEDIO,Lavoro a mappare gli indirizzi,3
 Marche,FM,Fermo,CIIP spa,,https://www.ciip.it/,https://www.ciip.it/informazioni-clienti/caratteristichenostra-acqua,HTML,PER_PUNTO_PRELIEVO,ANNUALE,2019,MEDIO,Lavoro a mappare gli indirizzi,3
