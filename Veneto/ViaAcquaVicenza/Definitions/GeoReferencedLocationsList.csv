@@ -1,0 +1,273 @@
+alias_address,alias_city,geocode,geometry,georeferencingString,type
+PIAZZA UMBERTO I,Albettone,"Piazza Umberto I, Ramin, Albettone, Vicenza, Veneto, 36021, Italia","{'type': 'Point', 'coordinates': [11.5803583, 45.3578316]}","PIAZZA UMBERTO I, Albettone, Veneto, Italia",POINT
+VIA ALCIDE DE GASPERI,Albettone,"Via Alcide de Gasperi, Albettone, Vicenza, Veneto, Italia","{'type': 'Point', 'coordinates': [11.6085419, 45.3806817]}","VIA ALCIDE DE GASPERI, Albettone, Veneto, Italia",POINT
+VIA ANTONIO PIGAFETTA,Albettone,"Via Antonio Pigafetta, Ponti Nuovi, Albettone, Vicenza, Veneto, Italia","{'type': 'Point', 'coordinates': [11.6051429, 45.3454803]}","VIA ANTONIO PIGAFETTA, Albettone, Veneto, Italia",POINT
+VIA BOLDRIN,Albettone,"Strada Boldrin, Ponti Nuovi, Albettone, Vicenza, Veneto, Italia","{'type': 'Point', 'coordinates': [11.6073673, 45.3532385]}","VIA BOLDRIN, Albettone, Veneto, Italia",POINT
+PIAZZA DELLA LIBERTA',Altavilla Vicentina,"Piazza della Libertà, Altavilla Vicentina, Vicenza, Veneto, 36077, Italia","{'type': 'Point', 'coordinates': [11.4650614, 45.5124664]}","PIAZZA DELLA LIBERTA', Altavilla Vicentina, Veneto, Italia",POINT
+PIAZZA MARIANO RUMOR,Arcugnano,"Piazza Mariano Rumor, Palù, Arcugnano, Vicenza, Veneto, Italia","{'type': 'Point', 'coordinates': [11.551170960578087, 45.4958929]}","PIAZZA MARIANO RUMOR, Arcugnano, Veneto, Italia",POINT
+STRADA DEL TORMENO,Arcugnano,"Strada del Tormeno, Palù, Arcugnano, Vicenza, Veneto, 46057, Italia","{'type': 'Point', 'coordinates': [11.5531178, 45.4963681]}","STRADA DEL TORMENO, Arcugnano, Veneto, Italia",POINT
+CONTRÀ DEI MUNARI,Barbarano Mossano,"collegamento fra contrà dei Munari e via giuseppe Garibaldi in Mossano, Mossano, Sammartin, Barbarano Mossano, Vicenza, Veneto, 36024, Italia","{'type': 'Point', 'coordinates': [11.5522433, 45.4191749]}","CONTRÀ DEI MUNARI, Barbarano Mossano, Veneto, Italia",POINT
+PIAZZA ROMA,Bolzano Vicentino,"Piazza Roma, Camatte, Bolzano Vicentino, Vicenza, Veneto, 36050, Italia","{'type': 'Point', 'coordinates': [11.6227972, 45.6026787]}","PIAZZA ROMA, Bolzano Vicentino, Veneto, Italia",POINT
+VIA ACQUE,Bolzano Vicentino,"Via Acque, Camatte, Bolzano Vicentino, Vicenza, Veneto, 36020, Italia","{'type': 'Point', 'coordinates': [11.6060272, 45.5801405]}","VIA ACQUE, Bolzano Vicentino, Veneto, Italia",POINT
+BORGO PIO X,Breganze,"Borgo Pio X, Crosara di Breganze, Breganze, Vicenza, Veneto, 36042, Italia","{'type': 'Point', 'coordinates': [11.558517, 45.7062808]}","BORGO PIO X, Breganze, Veneto, Italia",POINT
+PIAZZA DEGLI AUTIERI,Breganze,"Piazza degli Autieri, Crosara di Breganze, Breganze, Vicenza, Veneto, 36042, Italia","{'type': 'Point', 'coordinates': [11.5627493, 45.7074541]}","PIAZZA DEGLI AUTIERI, Breganze, Veneto, Italia",POINT
+CONTRA' GIUDEA,Bressanvido,"Contrà Giudea, Croxaròn, Bressanvido, Vicenza, Veneto, 36066, Italia","{'type': 'Point', 'coordinates': [11.6324015, 45.6430664]}","CONTRA' GIUDEA, Bressanvido, Veneto, Italia",POINT
+PIAZZA GUGLIELMO MARCONI,Bressanvido,"Piazza Guglielmo Marconi, Bressanvido, Vicenza, Veneto, 36050, Italia","{'type': 'Point', 'coordinates': [11.6251662, 45.6317735]}","PIAZZA GUGLIELMO MARCONI, Bressanvido, Veneto, Italia",POINT
+STRADA LUPIA,Bressanvido,"Strada Lupia, Bressanvido, Vicenza, Veneto, 36066, Italia","{'type': 'Point', 'coordinates': [11.6285398, 45.6440647]}","STRADA LUPIA, Bressanvido, Veneto, Italia",POINT
+PIAZZA ROMA,Brogliano,"Piazza Roma, Carlassara I, Brogliano, Comunità Montana Agno-Chiampo, Vicenza, Veneto, 36073, Italia","{'type': 'Point', 'coordinates': [11.3649646, 45.5887515]}","PIAZZA ROMA, Brogliano, Veneto, Italia",POINT
+VIA 25 APRILE,Brogliano,"Via 25 Aprile, Brogliano, Comunità Montana Agno-Chiampo, Vicenza, Veneto, 36073, Italia","{'type': 'Point', 'coordinates': [11.3711921, 45.591827]}","VIA 25 APRILE, Brogliano, Veneto, Italia",POINT
+VIA BOLEO,Brogliano,"Via Boleo, Rigon, Brogliano, Comunità Montana Agno-Chiampo, Vicenza, Veneto, 36073, Italia","{'type': 'Point', 'coordinates': [11.3430022, 45.5871815]}","VIA BOLEO, Brogliano, Veneto, Italia",POINT
+VIA BORGOLOCO,Brogliano,"Via Borgoloco, Brogliano, Comunità Montana Agno-Chiampo, Vicenza, Veneto, 36073, Italia","{'type': 'Point', 'coordinates': [11.3634962, 45.5886573]}","VIA BORGOLOCO, Brogliano, Veneto, Italia",POINT
+CIRO MENOTTI,Caldogno,"Vicolo Ciro Menotti, Risareta, Caldogno, Vicenza, Veneto, 36100, Italia","{'type': 'Point', 'coordinates': [11.5308935, 45.5878968]}","CIRO MENOTTI, Caldogno, Veneto, Italia",POINT
+PIAZZA BRUNO VIOLA,Caldogno,"Piazza Bruno Viola, Via Dante, Capovilla, Caldogno, Vicenza, Veneto, 36033, Italia","{'type': 'Point', 'coordinates': [11.500383048204402, 45.61373165]}","PIAZZA BRUNO VIOLA, Caldogno, Veneto, Italia",POINT
+PIAZZA EUROPA,Caldogno,"Piazza Europa, Capovilla, Caldogno, Vicenza, Veneto, Italia","{'type': 'Point', 'coordinates': [11.50688566267388, 45.6155144]}","PIAZZA EUROPA, Caldogno, Veneto, Italia",POINT
+PIAZZA DANTE,Caltrano,"Piazza Dante, Via Roma, Camisino, Caltrano, Vicenza, Veneto, 36013, Italia","{'type': 'Point', 'coordinates': [11.460368581908831, 45.77020255]}","PIAZZA DANTE, Caltrano, Veneto, Italia",POINT
+PIAZZA S. MARCO,Caltrano,"Piazza San Marco, San Donato, Caltrano, Vicenza, Veneto, 36010, Italia","{'type': 'Point', 'coordinates': [11.4793832, 45.7702273]}","PIAZZA S. MARCO, Caltrano, Veneto, Italia",POINT
+VIA 25 APRILE,Caltrano,"Via 25 Aprile, Caltrano, Vicenza, Veneto, 36013, Italia","{'type': 'Point', 'coordinates': [11.442694, 45.7788264]}","VIA 25 APRILE, Caltrano, Veneto, Italia",POINT
+PIAZZA RESISTENZA,Calvene,"Piazza resistenza, Bordogni, Calvene, Vicenza, Veneto, Italia","{'type': 'Point', 'coordinates': [11.511709, 45.7660765]}","PIAZZA RESISTENZA, Calvene, Veneto, Italia",POINT
+VIA 25 APRILE,Calvene,"Via 25 Aprile, Maglio, Calvene, Vicenza, Veneto, Italia","{'type': 'Point', 'coordinates': [11.5097262, 45.761248]}","VIA 25 APRILE, Calvene, Veneto, Italia",POINT
+VIA ASTICO,Calvene,"Via Astico, Magan, Calvene, Vicenza, Veneto, Italia","{'type': 'Point', 'coordinates': [11.5023803, 45.7631598]}","VIA ASTICO, Calvene, Veneto, Italia",POINT
+VIA BISOZZO,Calvene,"Via Bisozzo, Bordogni, Calvene, Vicenza, Veneto, Italia","{'type': 'Point', 'coordinates': [11.5110551, 45.7663571]}","VIA BISOZZO, Calvene, Veneto, Italia",POINT
+PIAZZA DELLA COSTITUZIONE,Camisano Vicentino,"Piazza della Costituzione, Camisano Vicentino, Vicenza, Veneto, 36043, Italia","{'type': 'Point', 'coordinates': [11.712471, 45.5238854]}","PIAZZA DELLA COSTITUZIONE, Camisano Vicentino, Veneto, Italia",POINT
+PIAZZA UMBERTO I,Camisano Vicentino,"Piazza Umberto I, Camisano Vicentino, Vicenza, Veneto, 36043, Italia","{'type': 'Point', 'coordinates': [11.7136587, 45.5219638]}","PIAZZA UMBERTO I, Camisano Vicentino, Veneto, Italia",POINT
+LOCALITA' PRA' SECCO,Carre',"Località Pra' Secco, Tavani, Carrè, Vicenza, Veneto, 36010, Italia","{'type': 'Point', 'coordinates': [11.4573525, 45.7402671]}","LOCALITA' PRA' SECCO, Carre', Veneto, Italia",POINT
+VIA ALBANIGO,Carre',"Via Albanigo, Tavani, Carrè, Vicenza, Veneto, 36010, Italia","{'type': 'Point', 'coordinates': [11.4674416, 45.7372017]}","VIA ALBANIGO, Carre', Veneto, Italia",POINT
+PIAZZETTA S. GIORGIO,Castegnero,"Piazzetta San Giorgio, Contrada Berno, Castegnero, Vicenza, Veneto, 36023, Italia","{'type': 'Point', 'coordinates': [11.5988982, 45.4379012]}","PIAZZETTA S. GIORGIO, Castegnero, Veneto, Italia",POINT
+VIA BAGNOLO,Castegnero,"Via Bagnolo, Ca' Storta, Castegnero, Vicenza, Veneto, 36023, Italia","{'type': 'Point', 'coordinates': [11.6172934, 45.4414706]}","VIA BAGNOLO, Castegnero, Veneto, Italia",POINT
+PIAZZA SERRAGLI,Chiuppano,"Piazza Serragli, Via Bortoli, Chiuppano, Vicenza, Veneto, 36010, Italia","{'type': 'Point', 'coordinates': [11.460901973210323, 45.762156950000005]}","PIAZZA SERRAGLI, Chiuppano, Veneto, Italia",POINT
+VIA 25 APRILE,Chiuppano,"Via 25 Aprile, Chiuppano, Vicenza, Veneto, 36013, Italia","{'type': 'Point', 'coordinates': [11.4599556, 45.7634936]}","VIA 25 APRILE, Chiuppano, Veneto, Italia",POINT
+VIA AMPURI,Cogollo del Cengio,"Via Ampuri, Mosson, Cogollo del Cengio, Vicenza, Veneto, 36013, Italia","{'type': 'Point', 'coordinates': [11.4311147, 45.7832687]}","VIA AMPURI, Cogollo del Cengio, Veneto, Italia",POINT
+STRADA DEL PASUBIO,Costabissara,"Strada del Pasubio, Costabissara, Vicenza, Veneto, Italia","{'type': 'Point', 'coordinates': [11.5004735, 45.5887625]}","STRADA DEL PASUBIO, Costabissara, Veneto, Italia",POINT
+STRADA DELLE PIGNARE,Costabissara,"Via Martiri delle Foibe, Pignare, Costabissara, Vicenza, Veneto, 36033, Italia","{'type': 'Point', 'coordinates': [11.4864708, 45.5891716]}","STRADA DELLE PIGNARE, Costabissara, Veneto, Italia",POINT
+LARGO TIEPOLO,Creazzo,"Largo Tiepolo, Creazzo, Vicenza, Veneto, 36051, Italia","{'type': 'Point', 'coordinates': [11.4783044, 45.532516]}","LARGO TIEPOLO, Creazzo, Veneto, Italia",POINT
+PIAZZA ROMA,Creazzo,"Piazza Roma, Creazzo, Vicenza, Veneto, 36051, Italia","{'type': 'Point', 'coordinates': [11.4707866, 45.5365715]}","PIAZZA ROMA, Creazzo, Veneto, Italia",POINT
+PIAZZA SAN PIO X,Dueville,"Piazza San Pio X, Dueville, Vicenza, Veneto, 36031, Italia","{'type': 'Point', 'coordinates': [11.5465153, 45.6104639]}","PIAZZA SAN PIO X, Dueville, Veneto, Italia",POINT
+VIA BACCHIGLIONE,Dueville,"Via Bacchiglione, Dueville, Vicenza, Veneto, 36031, Italia","{'type': 'Point', 'coordinates': [11.5446954, 45.6099709]}","VIA BACCHIGLIONE, Dueville, Veneto, Italia",POINT
+VIA DUE PONTI,Dueville,"Via Due Ponti, Risareta, Caldogno, Vicenza, Veneto, 36031, Italia","{'type': 'Point', 'coordinates': [11.5312714, 45.6142741]}","VIA DUE PONTI, Dueville, Veneto, Italia",POINT
+CONTRÀ CARLOTTI,Gambugliano,"Via Contrà Carlotti, Carletti, Gambugliano, Vicenza, Veneto, Italia","{'type': 'Point', 'coordinates': [11.4334434, 45.5751468]}","CONTRÀ CARLOTTI, Gambugliano, Veneto, Italia",POINT
+STRADA FALSE,Gambugliano,"Strada False, Sella, Gambugliano, Vicenza, Veneto, 36033, Italia","{'type': 'Point', 'coordinates': [11.4550049, 45.5775591]}","STRADA FALSE, Gambugliano, Veneto, Italia",POINT
+PIAZZA GIOVANNI XXIII,Grumolo delle Abbadesse,"Piazza Giovanni XXIII, Rasega, Grumolo delle Abbadesse, Vicenza, Veneto, 36043, Italia","{'type': 'Point', 'coordinates': [11.6581622, 45.5163252]}","PIAZZA GIOVANNI XXIII, Grumolo delle Abbadesse, Veneto, Italia",POINT
+VIA BUSATTI,Lastebasse,"Busatti, Lastebasse, Vicenza, Veneto, 38046, Italia","{'type': 'Point', 'coordinates': [11.2590549, 45.9197941]}","VIA BUSATTI, Lastebasse, Veneto, Italia",POINT
+VIA MONTEPIANO,Lastebasse,"Montepiano, Lastebasse, Vicenza, Veneto, Italia","{'type': 'Point', 'coordinates': [11.3221848, 45.8993041]}","VIA MONTEPIANO, Lastebasse, Veneto, Italia",POINT
+VIA BELLINI,Lugo di Vicenza,"Via Bellini, Valdellette, Lugo di Vicenza, Vicenza, Veneto, 36030, Italia","{'type': 'Point', 'coordinates': [11.5296833, 45.7439018]}","VIA BELLINI, Lugo di Vicenza, Veneto, Italia",POINT
+VIA BERNARDI,Lugo di Vicenza,"Via Bernardi, Mare, Lugo di Vicenza, Vicenza, Veneto, Italia","{'type': 'Point', 'coordinates': [11.5357674, 45.7667898]}","VIA BERNARDI, Lugo di Vicenza, Veneto, Italia",POINT
+VIA BOSCHETTI,Lugo di Vicenza,"Via Boschetti, Boschetti, Lugo di Vicenza, Vicenza, Veneto, Italia","{'type': 'Point', 'coordinates': [11.5224531, 45.7580422]}","VIA BOSCHETTI, Lugo di Vicenza, Veneto, Italia",POINT
+CORTE MADDALENA,Malo,"Corte Maddalena, Malo, Vicenza, Veneto, 36034, Italia","{'type': 'Point', 'coordinates': [11.4009418, 45.6571046]}","CORTE MADDALENA, Malo, Veneto, Italia",POINT
+LARGO BOLIVIA,Malo,"Largo Bolivia, Malo, Vicenza, Veneto, 36034, Italia","{'type': 'Point', 'coordinates': [11.399814, 45.6575167]}","LARGO BOLIVIA, Malo, Veneto, Italia",POINT
+VIA ACCADEMIA,Monte di Malo,"Via Accademia, Maruffa, Monte di Malo, Vicenza, Veneto, 36076, Italia","{'type': 'Point', 'coordinates': [11.3778897, 45.6489214]}","VIA ACCADEMIA, Monte di Malo, Veneto, Italia",POINT
+VIA ANTONELLA,Monte di Malo,"Via Antonella, Antonella, Monte di Malo, Vicenza, Veneto, 36034, Italia","{'type': 'Point', 'coordinates': [11.3872554, 45.6676545]}","VIA ANTONELLA, Monte di Malo, Veneto, Italia",POINT
+PIAZZA GUGLIELMO MARCONI,Montegalda,"Piazza Guglielmo Marconi, Montegalda, Vicenza, Veneto, 36047, Italia","{'type': 'Point', 'coordinates': [11.6732472, 45.4436617]}","PIAZZA GUGLIELMO MARCONI, Montegalda, Veneto, Italia",POINT
+VIA ANTONIO FOGAZZARO,Montegalda,"Via Antonio Fogazzaro, Palazzo Feriani, Montegalda, Vicenza, Veneto, 36047, Italia","{'type': 'Point', 'coordinates': [11.6695498, 45.4615848]}","VIA ANTONIO FOGAZZARO, Montegalda, Veneto, Italia",POINT
+VIA BORGO,Montegalda,"Via Borgo, Ceron, Montegalda, Vicenza, Veneto, 36023, Italia","{'type': 'Point', 'coordinates': [11.6315089, 45.4653621]}","VIA BORGO, Montegalda, Veneto, Italia",POINT
+VIA AMERIGO VESPUCCI,Montegaldella,"Via Amerigo Vespucci, Rialto, Montegaldella, Vicenza, Veneto, 36047, Italia","{'type': 'Point', 'coordinates': [11.6720125, 45.4356776]}","VIA AMERIGO VESPUCCI, Montegaldella, Veneto, Italia",POINT
+VIA BERNARDE,Montegaldella,"Via Bernarde, Bosco, Montegaldella, Vicenza, Veneto, 36047, Italia","{'type': 'Point', 'coordinates': [11.6551159, 45.4224137]}","VIA BERNARDE, Montegaldella, Veneto, Italia",POINT
+STRADA AMBROSINI,Monteviale,"Strada Ambrosini, Biron, Monteviale, Vicenza, Veneto, 36051, Italia","{'type': 'Point', 'coordinates': [11.4902391, 45.5521935]}","STRADA AMBROSINI, Monteviale, Veneto, Italia",POINT
+PIAZZA DEL SIMPOSIO,Nanto,"Piazza del Simposio, C. Maralta, Nanto, Vicenza, Veneto, Italia","{'type': 'Point', 'coordinates': [11.59317680515568, 45.4250877]}","PIAZZA DEL SIMPOSIO, Nanto, Veneto, Italia",POINT
+STRADA MEDIANA,Nanto,"Via Mediana, Contrada Campese, Nanto, Vicenza, Veneto, 36047, Italia","{'type': 'Point', 'coordinates': [11.6137498, 45.4169419]}","STRADA MEDIANA, Nanto, Veneto, Italia",POINT
+LOCALITA' CALIFORNIA,Noventa Vicentina,"Località California, Noventa Vicentina, Vicenza, Veneto, 36025, Italia","{'type': 'Point', 'coordinates': [11.5406968, 45.2770719]}","LOCALITA' CALIFORNIA, Noventa Vicentina, Veneto, Italia",POINT
+PIAZZA FORZIANA,Piovene Rocchette,"Piazza Forziana, Via Fratelli Martini, Rocchette, Piovene Rocchette, Vicenza, Veneto, 36013, Italia","{'type': 'Point', 'coordinates': [11.4296543, 45.7613709]}","PIAZZA FORZIANA, Piovene Rocchette, Veneto, Italia",POINT
+PIAZZA PAPIRIA,Piovene Rocchette,"Piazza Papiria, Via Libertà, Rocchette, Piovene Rocchette, Vicenza, Veneto, 36013, Italia","{'type': 'Point', 'coordinates': [11.430829165292934, 45.7602188]}","PIAZZA PAPIRIA, Piovene Rocchette, Veneto, Italia",POINT
+PIAZZALE VITTORIA,Piovene Rocchette,"Piazzale Vittoria, Rocchette, Piovene Rocchette, Vicenza, Veneto, 36013, Italia","{'type': 'Point', 'coordinates': [11.4309965, 45.7625863]}","PIAZZALE VITTORIA, Piovene Rocchette, Veneto, Italia",POINT
+PIAZZA GIUSEPPE MAZZINI,Quinto Vicentino,"Piazza Giuseppe Mazzini, Crosara, Quinto Vicentino, Vicenza, Veneto, 36020, Italia","{'type': 'Point', 'coordinates': [11.6612549, 45.5850912]}","PIAZZA GIUSEPPE MAZZINI, Quinto Vicentino, Veneto, Italia",POINT
+PIAZZETTA DEL DONATORE,Quinto Vicentino,"Piazzetta del Donatore, Crosara, Quinto Vicentino, Vicenza, Veneto, 36020, Italia","{'type': 'Point', 'coordinates': [11.6627497, 45.5832719]}","PIAZZETTA DEL DONATORE, Quinto Vicentino, Veneto, Italia",POINT
+VIA ADIGE,Quinto Vicentino,"Via Adige, Crosara, Quinto Vicentino, Vicenza, Veneto, 36020, Italia","{'type': 'Point', 'coordinates': [11.6477321, 45.5557377]}","VIA ADIGE, Quinto Vicentino, Veneto, Italia",POINT
+CONTRADA ANGRIMANI,Recoaro Terme,"contrada Sberar, Angrimani, Recoaro Terme, Comunità Montana Agno-Chiampo, Vicenza, Veneto, Italia","{'type': 'Point', 'coordinates': [11.2435567, 45.7076803]}","CONTRADA ANGRIMANI, Recoaro Terme, Veneto, Italia",POINT
+CONTRADA ASNICAR,Recoaro Terme,"Contrada Asnicar, Giorgetti, Recoaro Terme, Comunità Montana Agno-Chiampo, Vicenza, Veneto, Italia","{'type': 'Point', 'coordinates': [11.2071308, 45.6990604]}","CONTRADA ASNICAR, Recoaro Terme, Veneto, Italia",POINT
+VIA ANGONESE,Salcedo,"Via Angonese, Angonese, Salcedo, Vicenza, Veneto, 36046, Italia","{'type': 'Point', 'coordinates': [11.5719475, 45.7577639]}","VIA ANGONESE, Salcedo, Veneto, Italia",POINT
+VIA CA' BIANCA,Salcedo,"Via Cà Bianca, Noncenigo, Salcedo, Vicenza, Veneto, Italia","{'type': 'Point', 'coordinates': [11.5501344, 45.758658]}","VIA CA' BIANCA, Salcedo, Veneto, Italia",POINT
+VIA CAMPODIRONDO,Salcedo,"Via Campodirondo, Lazzaretti, Salcedo, Vicenza, Veneto, 36046, Italia","{'type': 'Point', 'coordinates': [11.5814271, 45.7519784]}","VIA CAMPODIRONDO, Salcedo, Veneto, Italia",POINT
+PIAZZA DEL BORGO VECCHIO,San Vito di Leguzzano,"Piazza del Borgo Vecchio, Case Ongari, San Vito di Leguzzano, Vicenza, Veneto, 36076, Italia","{'type': 'Point', 'coordinates': [11.3773626, 45.6813301]}","PIAZZA DEL BORGO VECCHIO, San Vito di Leguzzano, Veneto, Italia",POINT
+VIA ANCETTI,San Vito di Leguzzano,"Via Ancetti, Ancetti, San Vito di Leguzzano, Vicenza, Veneto, 36076, Italia","{'type': 'Point', 'coordinates': [11.358669, 45.6792825]}","VIA ANCETTI, San Vito di Leguzzano, Veneto, Italia",POINT
+PIAZZA GUGLIELMO MARCONI,Sandrigo,"Piazza Guglielmo Marconi, Astichello, Sandrigo, Vicenza, Veneto, 36066, Italia","{'type': 'Point', 'coordinates': [11.60279, 45.6620164]}","PIAZZA GUGLIELMO MARCONI, Sandrigo, Veneto, Italia",POINT
+VIA 4 NOVEMBRE,Santorso,"Via Quattro Novembre, Località Gorlini, Santorso, Vicenza, Veneto, 36014, Italia","{'type': 'Point', 'coordinates': [11.3865299, 45.7322701]}","VIA 4 NOVEMBRE, Santorso, Veneto, Italia",POINT
+STRADA GASPARONA,Sarcedo,"Galleria Gasparona, Contrà, Sarcedo, Vicenza, Veneto, 36042, Italia","{'type': 'Point', 'coordinates': [11.5394153, 45.6933464]}","STRADA GASPARONA, Sarcedo, Veneto, Italia",POINT
+CONTRA' CANOVA,Schio,"Contrà Canova di Tretto, Schio, Vicenza, Veneto, 36015, Italia","{'type': 'Point', 'coordinates': [11.3595744, 45.7415404]}","CONTRA' CANOVA, Schio, Veneto, Italia",POINT
+CONTRA' COVOLE,Schio,"Contrà Còvole, Schio, Vicenza, Veneto, 36011, Italia","{'type': 'Point', 'coordinates': [11.3385035, 45.7628553]}","CONTRA' COVOLE, Schio, Veneto, Italia",POINT
+VIA ALDO MORO,Sossano,"Via Aldo Moro, C. Ponte Canale, Sossano, Vicenza, Veneto, 36044, Italia","{'type': 'Point', 'coordinates': [11.500172, 45.3572775]}","VIA ALDO MORO, Sossano, Veneto, Italia",POINT
+CONTRÀ DONADELLO,Sovizzo,"Contrà Donadello, Punta, Sovizzo, Vicenza, Veneto, 36077, Italia","{'type': 'Point', 'coordinates': [11.4413552, 45.5469726]}","CONTRÀ DONADELLO, Sovizzo, Veneto, Italia",POINT
+PIAZZA ALESSANDRO MANZONI,Sovizzo,"Piazza Alessandro Manzoni, Tavernelle, Sovizzo, Vicenza, Veneto, 36077, Italia","{'type': 'Point', 'coordinates': [11.4457049, 45.5275249]}","PIAZZA ALESSANDRO MANZONI, Sovizzo, Veneto, Italia",POINT
+BORGO BELVIGO,Thiene,"Piazza Borgo Belvigo, Conca, Thiene, Vicenza, Veneto, Italia","{'type': 'Point', 'coordinates': [11.478084834106301, 45.707899100000006]}","BORGO BELVIGO, Thiene, Veneto, Italia",POINT
+CORSO GARIBALDI,Thiene,"Corso Garibaldi, Conca, Thiene, Vicenza, Veneto, 36016, Italia","{'type': 'Point', 'coordinates': [11.4777555, 45.7072043]}","CORSO GARIBALDI, Thiene, Veneto, Italia",POINT
+CONTRA' BARCHI,Tonezza del Cimone,"Contrà Tezza, Costa, Tonezza del Cimone, Vicenza, Veneto, 36011, Italia","{'type': 'Point', 'coordinates': [11.3437831, 45.8556481]}","CONTRA' BARCHI, Tonezza del Cimone, Veneto, Italia",POINT
+CONTRA' CAMPANA,Tonezza del Cimone,"Contrà Campana, Campana, Tonezza del Cimone, Vicenza, Veneto, 36011, Italia","{'type': 'Point', 'coordinates': [11.3491187, 45.8452626]}","CONTRA' CAMPANA, Tonezza del Cimone, Veneto, Italia",POINT
+CONTRA' COSTA,Tonezza del Cimone,"Contrà Tezza, Costa, Tonezza del Cimone, Vicenza, Veneto, 36011, Italia","{'type': 'Point', 'coordinates': [11.3437831, 45.8556481]}","CONTRA' COSTA, Tonezza del Cimone, Veneto, Italia",POINT
+CONTRADA COSTALUNGA,Torrebelvicino,"Contrada Costalunga, Costalunga, Torrebelvicino, Vicenza, Veneto, 36036, Italia","{'type': 'Point', 'coordinates': [11.2884631, 45.7248745]}","CONTRADA COSTALUNGA, Torrebelvicino, Veneto, Italia",POINT
+VIA ADAMELLO,Torri di Quartesolo,"Via Adamello, Quartiere Montesanto, Torri di Quartesolo, Vicenza, Veneto, 36040, Italia","{'type': 'Point', 'coordinates': [11.6197695, 45.5411695]}","VIA ADAMELLO, Torri di Quartesolo, Veneto, Italia",POINT
+VIA ADIGE,Torri di Quartesolo,"Via Adige, Quartiere Montesanto, Stradone, Torri di Quartesolo, Vicenza, Veneto, 36040, Italia","{'type': 'Point', 'coordinates': [11.6202405, 45.5430853]}","VIA ADIGE, Torri di Quartesolo, Veneto, Italia",POINT
+VIA ALDO MORO,Torri di Quartesolo,"Via Aldo Moro, Quartiere Betulle, Torri di Quartesolo, Vicenza, Veneto, 36040, Italia","{'type': 'Point', 'coordinates': [11.6142438, 45.5178853]}","VIA ALDO MORO, Torri di Quartesolo, Veneto, Italia",POINT
+CONTRADA ALBIERI,Valdagno,"Contrada Albieri di Castelvecchio, Albieri di Castelvecchio, Valdagno, Comunità Montana Agno-Chiampo, Vicenza, Veneto, 36070, Italia","{'type': 'Point', 'coordinates': [11.2658203, 45.6246248]}","CONTRADA ALBIERI, Valdagno, Veneto, Italia",POINT
+CONTRADA AMBROSINI,Valdagno,"Contrada Ambrosini, Ambrosini, Contrada Massignani, Valdagno, Comunità Montana Agno-Chiampo, Vicenza, Veneto, 36078, Italia","{'type': 'Point', 'coordinates': [11.3215149, 45.6427043]}","CONTRADA AMBROSINI, Valdagno, Veneto, Italia",POINT
+PIAZZA S. MARTINO,Velo dAstico,"Piazza San Martino, Via Francesco Rossi, Seghe di Velo, Velo d'Astico, Vicenza, Veneto, 36011, Italia","{'type': 'Point', 'coordinates': [11.364980668148796, 45.789883849999995]}","PIAZZA S. MARTINO, Velo dAstico, Veneto, Italia",POINT
+BORGO CASALE,Vicenza,"borgo Casale, Barche, San Pio X, Vicenza, Veneto, 36100, Italia","{'type': 'Point', 'coordinates': [11.5621816, 45.544083]}","BORGO CASALE, Vicenza, Veneto, Italia",POINT
+BORGO SANTA LUCIA,Vicenza,"Borgo Santa Lucia, Barche, Contrà S. Bortolo, Vicenza, Veneto, 36100, Italia","{'type': 'Point', 'coordinates': [11.5520011, 45.5532241]}","BORGO SANTA LUCIA, Vicenza, Veneto, Italia",POINT
+BORGO SCROFFA,Vicenza,"Borgo Scroffa, Barche, Contrà S. Bortolo, Vicenza, Veneto, 36100, Italia","{'type': 'Point', 'coordinates': [11.5535692, 45.5526112]}","BORGO SCROFFA, Vicenza, Veneto, Italia",POINT
+CANDIA ELEONORA,Vicenza,"Via Eleonora Candia, Anconetta, Vicenza, Veneto, 36020, Italia","{'type': 'Point', 'coordinates': [11.5941864, 45.5757561]}","CANDIA ELEONORA, Vicenza, Veneto, Italia",POINT
+VIA 1 MAGGIO,Villaverla,"Via Primo Maggio, Novoledo, Villaverla, Vicenza, Veneto, Italia","{'type': 'Point', 'coordinates': [11.5027965, 45.645255]}","VIA 1 MAGGIO, Villaverla, Veneto, Italia",POINT
+VIA 2 GIUGNO,Villaverla,"Via Due Giugno, Novoledo, Villaverla, Vicenza, Veneto, Italia","{'type': 'Point', 'coordinates': [11.5063958, 45.6458521]}","VIA 2 GIUGNO, Villaverla, Veneto, Italia",POINT
+PIAZZALE ROMA,Zane',"Piazzale Roma, Zanè, Vicenza, Veneto, 36010, Italia","{'type': 'Point', 'coordinates': [11.4612031, 45.7199519]}","PIAZZALE ROMA, Zane', Veneto, Italia",POINT
+STRADA DEL ROVERE,Zane',"Strada del Rovere, Zanè, Vicenza, Veneto, 36010, Italia","{'type': 'Point', 'coordinates': [11.4651474, 45.7284533]}","STRADA DEL ROVERE, Zane', Veneto, Italia",POINT
+PIAZZA GIOVANNI PAOLO II,Zugliano,"Piazza Giovanni Paolo II, Via Codalunga, Zugliano, Vicenza, Veneto, 36030, Italia","{'type': 'Point', 'coordinates': [11.480049152111786, 45.72844775]}","PIAZZA GIOVANNI PAOLO II, Zugliano, Veneto, Italia",POINT
+VIA 4 NOVEMBRE,Zugliano,"Via Quattro Novembre, Zugliano, Vicenza, Veneto, 36030, Italia","{'type': 'Point', 'coordinates': [11.52903, 45.7348698]}","VIA 4 NOVEMBRE, Zugliano, Veneto, Italia",POINT
+VIA ADIGE,Zugliano,"Via Adige, Zugliano, Vicenza, Veneto, 36030, Italia","{'type': 'Point', 'coordinates': [11.4827557, 45.725964]}","VIA ADIGE, Zugliano, Veneto, Italia",POINT
+MILANO VENEZIA AUTOSTARDA,Altavilla Vicentina,,,"MILANO VENEZIA AUTOSTARDA, Altavilla Vicentina, Veneto, Italia",POINT
+PIAZZA A. DE GASPERI,Altavilla Vicentina,,,"PIAZZA A. DE GASPERI, Altavilla Vicentina, Veneto, Italia",POINT
+PIAZZA VENEZIA,Altavilla Vicentina,,,"PIAZZA VENEZIA, Altavilla Vicentina, Veneto, Italia",POINT
+PIAZZETTA PADRE TULLIO MARUZZO,Arcugnano,,,"PIAZZETTA PADRE TULLIO MARUZZO, Arcugnano, Veneto, Italia",POINT
+STRADA SECONDINA,Arcugnano,,,"STRADA SECONDINA, Arcugnano, Veneto, Italia",POINT
+CONTRA' COSTABRONZARA,Arsiero,,,"CONTRA' COSTABRONZARA, Arsiero, Veneto, Italia",POINT
+CONTRA' FACCI A.,Arsiero,,,"CONTRA' FACCI A., Arsiero, Veneto, Italia",POINT
+CONTRA' GARIONI,Arsiero,,,"CONTRA' GARIONI, Arsiero, Veneto, Italia",POINT
+CONTRA' GROTTE,Arsiero,,,"CONTRA' GROTTE, Arsiero, Veneto, Italia",POINT
+ALTA VIA DEI BERICI,Barbarano Mossano,,,"ALTA VIA DEI BERICI, Barbarano Mossano, Veneto, Italia",POINT
+PANORAMICA SAN FRANCESCO,Barbarano Mossano,,,"PANORAMICA SAN FRANCESCO, Barbarano Mossano, Veneto, Italia",POINT
+PIAZZA BREGANZATO,Barbarano Mossano,,,"PIAZZA BREGANZATO, Barbarano Mossano, Veneto, Italia",POINT
+PIAZZA SCREMIN,Bolzano Vicentino,,,"PIAZZA SCREMIN, Bolzano Vicentino, Veneto, Italia",POINT
+PIAZZALE OPPI,Bolzano Vicentino,,,"PIAZZALE OPPI, Bolzano Vicentino, Veneto, Italia",POINT
+BORGO S. MARIA,Breganze,,,"BORGO S. MARIA, Breganze, Veneto, Italia",POINT
+PIAZZA MAZZINI,Breganze,,,"PIAZZA MAZZINI, Breganze, Veneto, Italia",POINT
+PIAZZA 4 NOVEMBRE,Bressanvido,,,"PIAZZA 4 NOVEMBRE, Bressanvido, Veneto, Italia",POINT
+PIAZZA CHIESA,Caldogno,,,"PIAZZA CHIESA, Caldogno, Veneto, Italia",POINT
+PIAZZA MADONNA SALUTE,Caltrano,,,"PIAZZA MADONNA SALUTE, Caltrano, Veneto, Italia",POINT
+PIAZZA 29 APRILE,Camisano Vicentino,,,"PIAZZA 29 APRILE, Camisano Vicentino, Veneto, Italia",POINT
+PIAZZA PIEVE,Camisano Vicentino,,,"PIAZZA PIEVE, Camisano Vicentino, Veneto, Italia",POINT
+PIAZZA 11 FEBBRAIO,Carre',,,"PIAZZA 11 FEBBRAIO, Carre', Veneto, Italia",POINT
+PIAZZA 4 NOVEMBRE,Carre',,,"PIAZZA 4 NOVEMBRE, Carre', Veneto, Italia",POINT
+PIAZZA G.B. CLEMENTI,Castegnero,,,"PIAZZA G.B. CLEMENTI, Castegnero, Veneto, Italia",POINT
+PIAZZA ORTIGARA,Castegnero,,,"PIAZZA ORTIGARA, Castegnero, Veneto, Italia",POINT
+BORGO S. PIO X,Castelgomberto,,,"BORGO S. PIO X, Castelgomberto, Veneto, Italia",POINT
+CONTRADA CANOVA,Castelgomberto,,,"CONTRADA CANOVA, Castelgomberto, Veneto, Italia",POINT
+CONTRADA CESTARI,Castelgomberto,,,"CONTRADA CESTARI, Castelgomberto, Veneto, Italia",POINT
+CONTRADA ROCCHI,Castelgomberto,,,"CONTRADA ROCCHI, Castelgomberto, Veneto, Italia",POINT
+STRADA MARTIRI DELLE FOIBE,Chiuppano,,,"STRADA MARTIRI DELLE FOIBE, Chiuppano, Veneto, Italia",POINT
+VIA 4 NOVEMBRE,Chiuppano,,,"VIA 4 NOVEMBRE, Chiuppano, Veneto, Italia",POINT
+PIAZZA DELLA LIBERTA',Cogollo del Cengio,,,"PIAZZA DELLA LIBERTA', Cogollo del Cengio, Veneto, Italia",POINT
+VIA ALIGHIERI,Cogollo del Cengio,,,"VIA ALIGHIERI, Cogollo del Cengio, Veneto, Italia",POINT
+VIA ARTIGIANATO,Cogollo del Cengio,,,"VIA ARTIGIANATO, Cogollo del Cengio, Veneto, Italia",POINT
+CONTRADA CAECCHIONI,Cornedo Vic.,,,"CONTRADA CAECCHIONI, Cornedo Vic., Veneto, Italia",POINT
+CONTRADA CANTON,Cornedo Vic.,,,"CONTRADA CANTON, Cornedo Vic., Veneto, Italia",POINT
+CONTRADA FERMI,Cornedo Vic.,,,"CONTRADA FERMI, Cornedo Vic., Veneto, Italia",POINT
+CONTRADA GOBBI ALTI,Cornedo Vic.,,,"CONTRADA GOBBI ALTI, Cornedo Vic., Veneto, Italia",POINT
+PIAZZA VITTORIO VENETO,Costabissara,,,"PIAZZA VITTORIO VENETO, Costabissara, Veneto, Italia",POINT
+PIAZZETTA S. STEFANO,Costabissara,,,"PIAZZETTA S. STEFANO, Costabissara, Veneto, Italia",POINT
+PIAZZA DEL COMUNE,Creazzo,,,"PIAZZA DEL COMUNE, Creazzo, Veneto, Italia",POINT
+PIAZZA SAN NICOLA,Creazzo,,,"PIAZZA SAN NICOLA, Creazzo, Veneto, Italia",POINT
+VIA DELLA RISARA,Dueville,,,"VIA DELLA RISARA, Dueville, Veneto, Italia",POINT
+PIAZZA ARNALDI,Fara Vic.no,,,"PIAZZA ARNALDI, Fara Vic.no, Veneto, Italia",POINT
+VIA 4 NOVEMBRE,Fara Vic.no,,,"VIA 4 NOVEMBRE, Fara Vic.no, Veneto, Italia",POINT
+VIA ALIGHIERI,Fara Vic.no,,,"VIA ALIGHIERI, Fara Vic.no, Veneto, Italia",POINT
+VIA ASTICO,Fara Vic.no,,,"VIA ASTICO, Fara Vic.no, Veneto, Italia",POINT
+CONTRÀ ZANOTTI,Gambugliano,,,"CONTRÀ ZANOTTI, Gambugliano, Veneto, Italia",POINT
+PIAZZA COROBBO,Gambugliano,,,"PIAZZA COROBBO, Gambugliano, Veneto, Italia",POINT
+LARGO GALILEI,Grisignano di Zocco,,,"LARGO GALILEI, Grisignano di Zocco, Veneto, Italia",POINT
+PARCO DEL DONATORE,Grisignano di Zocco,,,"PARCO DEL DONATORE, Grisignano di Zocco, Veneto, Italia",POINT
+PIAZZA DON CORRADIN,Grisignano di Zocco,,,"PIAZZA DON CORRADIN, Grisignano di Zocco, Veneto, Italia",POINT
+PIAZZA EUROPA UNITA,Grisignano di Zocco,,,"PIAZZA EUROPA UNITA, Grisignano di Zocco, Veneto, Italia",POINT
+VIA ALESSANDRO MANZONI,Grumolo delle Abbadesse,,,"VIA ALESSANDRO MANZONI, Grumolo delle Abbadesse, Veneto, Italia",POINT
+VIA ALESSANDRO VOLTA,Grumolo delle Abbadesse,,,"VIA ALESSANDRO VOLTA, Grumolo delle Abbadesse, Veneto, Italia",POINT
+VIA ANDREA MANTEGNA,Grumolo delle Abbadesse,,,"VIA ANDREA MANTEGNA, Grumolo delle Abbadesse, Veneto, Italia",POINT
+PIAZZA ARASELLA,Isola Vic.,,,"PIAZZA ARASELLA, Isola Vic., Veneto, Italia",POINT
+PIAZZA DONATORI DI SANGUE,Isola Vic.,,,"PIAZZA DONATORI DI SANGUE, Isola Vic., Veneto, Italia",POINT
+PIAZZA IGNAGO,Isola Vic.,,,"PIAZZA IGNAGO, Isola Vic., Veneto, Italia",POINT
+PIAZZA MARCONI,Isola Vic.,,,"PIAZZA MARCONI, Isola Vic., Veneto, Italia",POINT
+CONTRA' BERTA,Laghi,,,"CONTRA' BERTA, Laghi, Veneto, Italia",POINT
+CONTRA' BRAGIOLI,Laghi,,,"CONTRA' BRAGIOLI, Laghi, Veneto, Italia",POINT
+CONTRA' CHEZZI,Laghi,,,"CONTRA' CHEZZI, Laghi, Veneto, Italia",POINT
+CONTRA' CRUZZI,Laghi,,,"CONTRA' CRUZZI, Laghi, Veneto, Italia",POINT
+LOCALITA' VAL DELLE LANZE,Lastebasse,,,"LOCALITA' VAL DELLE LANZE, Lastebasse, Veneto, Italia",POINT
+VIA GIACONI,Lastebasse,,,"VIA GIACONI, Lastebasse, Veneto, Italia",POINT
+PIAZZA GARZADORI DA SCHIO,Longare,,,"PIAZZA GARZADORI DA SCHIO, Longare, Veneto, Italia",POINT
+PIAZZA LUIGI MAZZARETTO,Longare,,,"PIAZZA LUIGI MAZZARETTO, Longare, Veneto, Italia",POINT
+PIAZZA VALAUGURIE,Longare,,,"PIAZZA VALAUGURIE, Longare, Veneto, Italia",POINT
+PIAZZETTA MONSIGOR CANEUS,Longare,,,"PIAZZETTA MONSIGOR CANEUS, Longare, Veneto, Italia",POINT
+PIAZZA 25 APRILE,Lugo di Vicenza,,,"PIAZZA 25 APRILE, Lugo di Vicenza, Veneto, Italia",POINT
+CORTE FILANDA CORIELI,Malo,,,"CORTE FILANDA CORIELI, Malo, Veneto, Italia",POINT
+LARGO 25 MARZO,Malo,,,"LARGO 25 MARZO, Malo, Veneto, Italia",POINT
+PIAZZA SILVA,Marano Vic.,,,"PIAZZA SILVA, Marano Vic., Veneto, Italia",POINT
+VIA 1 MAGGIO,Marano Vic.,,,"VIA 1 MAGGIO, Marano Vic., Veneto, Italia",POINT
+VIA 25 APRILE,Marano Vic.,,,"VIA 25 APRILE, Marano Vic., Veneto, Italia",POINT
+VIA 4 NOVEMBRE,Marano Vic.,,,"VIA 4 NOVEMBRE, Marano Vic., Veneto, Italia",POINT
+PIAZZA DON MONTANARO,Monte di Malo,,,"PIAZZA DON MONTANARO, Monte di Malo, Veneto, Italia",POINT
+VIA 1 MAGGIO,Monte di Malo,,,"VIA 1 MAGGIO, Monte di Malo, Veneto, Italia",POINT
+CORTE MILLEARTE,Montecchio Precalcino,,,"CORTE MILLEARTE, Montecchio Precalcino, Veneto, Italia",POINT
+VIA ALESSANDRO MAGANZA,Montecchio Precalcino,,,"VIA ALESSANDRO MAGANZA, Montecchio Precalcino, Veneto, Italia",POINT
+VIA ANDREA PALLADIO,Montecchio Precalcino,,,"VIA ANDREA PALLADIO, Montecchio Precalcino, Veneto, Italia",POINT
+VIA ARTIGIANATO,Montecchio Precalcino,,,"VIA ARTIGIANATO, Montecchio Precalcino, Veneto, Italia",POINT
+VIA ANTONIO VIVALDI,Montegalda,,,"VIA ANTONIO VIVALDI, Montegalda, Veneto, Italia",POINT
+PIAZZA GUGLIELMO MARCONI,Montegaldella,,,"PIAZZA GUGLIELMO MARCONI, Montegaldella, Veneto, Italia",POINT
+VIA BERTONIERA,Montegaldella,,,"VIA BERTONIERA, Montegaldella, Veneto, Italia",POINT
+CA' SETTECAMINI,Monteviale,,,"CA' SETTECAMINI, Monteviale, Veneto, Italia",POINT
+CORTE ALDO MORO,Monteviale,,,"CORTE ALDO MORO, Monteviale, Veneto, Italia",POINT
+PIAZZA LIBERTÀ,Monteviale,,,"PIAZZA LIBERTÀ, Monteviale, Veneto, Italia",POINT
+CAVAZZALE PARMESANA CICLABILE,Monticello Conte Otto,,,"CAVAZZALE PARMESANA CICLABILE, Monticello Conte Otto, Veneto, Italia",POINT
+CAVAZZALE VICENZA CICLABILE,Monticello Conte Otto,,,"CAVAZZALE VICENZA CICLABILE, Monticello Conte Otto, Veneto, Italia",POINT
+LARGO MONTE GRAPPA,Monticello Conte Otto,,,"LARGO MONTE GRAPPA, Monticello Conte Otto, Veneto, Italia",POINT
+PIAZZA DEL DONATORE,Monticello Conte Otto,,,"PIAZZA DEL DONATORE, Monticello Conte Otto, Veneto, Italia",POINT
+PIAZZA MERCATO,Nanto,,,"PIAZZA MERCATO, Nanto, Veneto, Italia",POINT
+VIA ANDREA PALLADIO,Nanto,,,"VIA ANDREA PALLADIO, Nanto, Veneto, Italia",POINT
+PIAZZA COLONNA,Noventa Vicentina,,,"PIAZZA COLONNA, Noventa Vicentina, Veneto, Italia",POINT
+PIAZZA IV NOVEMBRE,Noventa Vicentina,,,"PIAZZA IV NOVEMBRE, Noventa Vicentina, Veneto, Italia",POINT
+SANTA MARIA MADDALENA,Noventa Vicentina,,,"SANTA MARIA MADDALENA, Noventa Vicentina, Veneto, Italia",POINT
+PIAZZA BELFIORE,Pedemonte,,,"PIAZZA BELFIORE, Pedemonte, Veneto, Italia",POINT
+PIAZZA SAMOGGIA,Pedemonte,,,"PIAZZA SAMOGGIA, Pedemonte, Veneto, Italia",POINT
+VIA 1 MAGGIO,Pedemonte,,,"VIA 1 MAGGIO, Pedemonte, Veneto, Italia",POINT
+VIA BATTISTI C.,Pedemonte,,,"VIA BATTISTI C., Pedemonte, Veneto, Italia",POINT
+PIAZZA ALPINI,Piovene Rocchette,,,"PIAZZA ALPINI, Piovene Rocchette, Veneto, Italia",POINT
+CONTRADA BOARO,Posina,,,"CONTRADA BOARO, Posina, Veneto, Italia",POINT
+CONTRADA MOGENTALE,Posina,,,"CONTRADA MOGENTALE, Posina, Veneto, Italia",POINT
+PIAZZA LIBERTA',Posina,,,"PIAZZA LIBERTA', Posina, Veneto, Italia",POINT
+VIA ARREDO,Posina,,,"VIA ARREDO, Posina, Veneto, Italia",POINT
+PIAZZA QUATTRO NOVEMBRE,Quinto Vicentino,,,"PIAZZA QUATTRO NOVEMBRE, Quinto Vicentino, Veneto, Italia",POINT
+CONTRADA ALPE,Recoaro Terme,,,"CONTRADA ALPE, Recoaro Terme, Veneto, Italia",POINT
+CONTRADA BALLESTRI,Recoaro Terme,,,"CONTRADA BALLESTRI, Recoaro Terme, Veneto, Italia",POINT
+VIA BATTISTI,Salcedo,,,"VIA BATTISTI, Salcedo, Veneto, Italia",POINT
+PIAZZA MARCONI,San Vito di Leguzzano,,,"PIAZZA MARCONI, San Vito di Leguzzano, Veneto, Italia",POINT
+VIA C.B. CAVOUR,San Vito di Leguzzano,,,"VIA C.B. CAVOUR, San Vito di Leguzzano, Veneto, Italia",POINT
+PIAZZA GIACOMO ZANELLA,Sandrigo,,,"PIAZZA GIACOMO ZANELLA, Sandrigo, Veneto, Italia",POINT
+PIAZZA GUGLIELMO ZANNINI,Sandrigo,,,"PIAZZA GUGLIELMO ZANNINI, Sandrigo, Veneto, Italia",POINT
+PIAZZA MATTEOTTI,Sandrigo,,,"PIAZZA MATTEOTTI, Sandrigo, Veneto, Italia",POINT
+PIAZZA MORO,Santorso,,,"PIAZZA MORO, Santorso, Veneto, Italia",POINT
+VIA 29 APRILE,Santorso,,,"VIA 29 APRILE, Santorso, Veneto, Italia",POINT
+VIA ACATE,Santorso,,,"VIA ACATE, Santorso, Veneto, Italia",POINT
+PIAZZA CAVALLINO,Sarcedo,,,"PIAZZA CAVALLINO, Sarcedo, Veneto, Italia",POINT
+PIAZZA VELLERE A.,Sarcedo,,,"PIAZZA VELLERE A., Sarcedo, Veneto, Italia",POINT
+VIA 1 MAGGIO,Sarcedo,,,"VIA 1 MAGGIO, Sarcedo, Veneto, Italia",POINT
+CONTRADA ANGELINI,Schio,,,"CONTRADA ANGELINI, Schio, Veneto, Italia",POINT
+CONTRADA BALLARE,Schio,,,"CONTRADA BALLARE, Schio, Veneto, Italia",POINT
+PIAZZA LUIGI MURANO,Sossano,,,"PIAZZA LUIGI MURANO, Sossano, Veneto, Italia",POINT
+PIAZZA MAZZINI,Sossano,,,"PIAZZA MAZZINI, Sossano, Veneto, Italia",POINT
+VIA ALBARELLA,Sossano,,,"VIA ALBARELLA, Sossano, Veneto, Italia",POINT
+PIAZZA SANTA REPARATA,Sovizzo,,,"PIAZZA SANTA REPARATA, Sovizzo, Veneto, Italia",POINT
+PIAZZALE DEL DONATORE,Sovizzo,,,"PIAZZALE DEL DONATORE, Sovizzo, Veneto, Italia",POINT
+CORSO CAMPAGNA,Thiene,,,"CORSO CAMPAGNA, Thiene, Veneto, Italia",POINT
+CORTE PASINATI ARCH.CLARO,Thiene,,,"CORTE PASINATI ARCH.CLARO, Thiene, Veneto, Italia",POINT
+CONTRA' CANALE,Tonezza del Cimone,,,"CONTRA' CANALE, Tonezza del Cimone, Veneto, Italia",POINT
+CONTRA' RIOLO,Torrebelvicino,,,"CONTRA' RIOLO, Torrebelvicino, Veneto, Italia",POINT
+CONTRA' VALLE,Torrebelvicino,,,"CONTRA' VALLE, Torrebelvicino, Veneto, Italia",POINT
+CONTRADA NASIERON,Torrebelvicino,,,"CONTRADA NASIERON, Torrebelvicino, Veneto, Italia",POINT
+MILANO VENEZIA AUTOSTARDA,Torri di Quartesolo,,,"MILANO VENEZIA AUTOSTARDA, Torri di Quartesolo, Veneto, Italia",POINT
+CONTRA' LORA,Trissino,,,"CONTRA' LORA, Trissino, Veneto, Italia",POINT
+CONTRA' SIMONI,Trissino,,,"CONTRA' SIMONI, Trissino, Veneto, Italia",POINT
+CONTRADA GIACOMONI,Trissino,,,"CONTRADA GIACOMONI, Trissino, Veneto, Italia",POINT
+CONTRADA MANZINI,Trissino,,,"CONTRADA MANZINI, Trissino, Veneto, Italia",POINT
+CONTRADA ASNICAR,Valdagno,,,"CONTRADA ASNICAR, Valdagno, Veneto, Italia",POINT
+CONTRADA BARBARANA,Valdagno,,,"CONTRADA BARBARANA, Valdagno, Veneto, Italia",POINT
+LOCALITA' ROCCHETTA,Valdastico,,,"LOCALITA' ROCCHETTA, Valdastico, Veneto, Italia",POINT
+PIAZZA 7 COMUNI,Valdastico,,,"PIAZZA 7 COMUNI, Valdastico, Veneto, Italia",POINT
+PIAZZA ORTIGARA,Valdastico,,,"PIAZZA ORTIGARA, Valdastico, Veneto, Italia",POINT
+PIAZZA PRIMA ARMATA,Valdastico,,,"PIAZZA PRIMA ARMATA, Valdastico, Veneto, Italia",POINT
+CONTRA' FECCHIERA MALUNGA,Valli del Pasubio,,,"CONTRA' FECCHIERA MALUNGA, Valli del Pasubio, Veneto, Italia",POINT
+CONTRA' LORENZI,Valli del Pasubio,,,"CONTRA' LORENZI, Valli del Pasubio, Veneto, Italia",POINT
+LOCALITA' S.CARLO SAVENA,Valli del Pasubio,,,"LOCALITA' S.CARLO SAVENA, Valli del Pasubio, Veneto, Italia",POINT
+VIA 4 NOVEMBRE,Valli del Pasubio,,,"VIA 4 NOVEMBRE, Valli del Pasubio, Veneto, Italia",POINT
+PIAZZA 29 APRILE,Velo dAstico,,,"PIAZZA 29 APRILE, Velo dAstico, Veneto, Italia",POINT
+PIAZZA 4 NOVEMBRE,Velo dAstico,,,"PIAZZA 4 NOVEMBRE, Velo dAstico, Veneto, Italia",POINT
+PIAZZALE ALPINI,Velo dAstico,,,"PIAZZALE ALPINI, Velo dAstico, Veneto, Italia",POINT
+ALTA VIA DEI BERICI,Villaga,,,"ALTA VIA DEI BERICI, Villaga, Veneto, Italia",POINT
+VIA ALESSANDRO VOLTA,Villaga,,,"VIA ALESSANDRO VOLTA, Villaga, Veneto, Italia",POINT
+VIA ANDREATTA,Villaga,,,"VIA ANDREATTA, Villaga, Veneto, Italia",POINT
+VIA BERICO EUGANEA,Villaga,,,"VIA BERICO EUGANEA, Villaga, Veneto, Italia",POINT
+PIAZZA MARCONI,Villaverla,,,"PIAZZA MARCONI, Villaverla, Veneto, Italia",POINT
+PIAZZA POPOLO,Villaverla,,,"PIAZZA POPOLO, Villaverla, Veneto, Italia",POINT
+PIAZZALE MORO,Zane',,,"PIAZZALE MORO, Zane', Veneto, Italia",POINT
+STRADA DEL GATTO,Zane',,,"STRADA DEL GATTO, Zane', Veneto, Italia",POINT
+VIA ALBERA,Zugliano,,,"VIA ALBERA, Zugliano, Veneto, Italia",POINT
