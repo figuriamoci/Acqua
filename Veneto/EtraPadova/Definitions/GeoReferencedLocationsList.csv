@@ -1,0 +1,75 @@
+alias_address,alias_city,geocode,geometry,georeferencingString,type
+Comune,SAN NAZARIO - COMUNE DI VALBRENTA,"San Nazario, Vicenza, Veneto, Italia","{'type': 'Point', 'coordinates': [11.690567, 45.8400339]}","SAN NAZARIO VALBRENTA, Veneto, Italia",POINT
+Comune,VALSTAGNA - COMUNE DI VALBRENTA,"Valstagna, Vicenza, Veneto, Italia","{'type': 'Point', 'coordinates': [11.6583473, 45.8599717]}","VALSTAGNA VALBRENTA, Veneto, Italia",POINT
+Comune,CAMPOLONGO - COMUNE DI VALBRENTA,"Campolongo sul Brenta, Vicenza, Veneto, Italia","{'type': 'Point', 'coordinates': [11.7002226, 45.828396]}","CAMPOLONGO DI VALBRENTA, Veneto, Italia",POINT
+Comune,CISMON - COMUNE DI VALBRENTA,"Cismon del Grappa, Vicenza, Veneto, 36052, Italia","{'type': 'Point', 'coordinates': [11.7295426, 45.9196911]}","CISMON VALBRENTA, Veneto, Italia",POINT
+Comune,CONCO - COMUNE DI LUSIANA CONCO,"Conco, Vicenza, Veneto, 36046, Italia","{'type': 'Point', 'coordinates': [11.6059638, 45.7992456]}","CONCO LUSIANA CONCO, Veneto, Italia",POINT
+Comune,LUSIANA - COMUNE DI LUSIANA CONCO,"Lusiana, Vicenza, Veneto, 36046, Italia","{'type': 'Point', 'coordinates': [11.576369, 45.7851934]}","LUSIANA LUSIANA CONCO, Veneto, Italia",POINT
+Comune,MASON VICENTINO - COMUNE DI COLCERESA,"Mason Vicentino, Vicenza, Veneto, 36064, Italia","{'type': 'Point', 'coordinates': [11.606797, 45.718599]}","MASON VICENTINO COLCERESA, Veneto, Italia",POINT
+Comune,MOLVENA - COMUNE DI COLCERESA,"Molvena, Vicenza, Veneto, 36064, Italia","{'type': 'Point', 'coordinates': [11.6141474, 45.7441762]}","MOLVENA COLCERESA, Veneto, Italia",POINT
+Comune,ASIAGO,"Asiago, Vicenza, Veneto, 36012, Italia","{'type': 'Point', 'coordinates': [11.5106998, 45.8753771]}","ASIAGO, Veneto, Italia",POINT
+Comune,BASSANO DEL GRAPPA,"Bassano del Grappa, Vicenza, Veneto, Italia","{'type': 'Point', 'coordinates': [11.7343469, 45.7669109]}","BASSANO DEL GRAPPA, Veneto, Italia",POINT
+Comune,BATTAGLIA TERME,"Battaglia Terme, Padova, Veneto, 35041, Italia","{'type': 'Point', 'coordinates': [11.7817426, 45.2880903]}","BATTAGLIA TERME, Veneto, Italia",POINT
+Comune,BORGORICCO,"Borgoricco, Padova, Veneto, Italia","{'type': 'Point', 'coordinates': [11.9658789, 45.5335614]}","BORGORICCO, Veneto, Italia",POINT
+Comune,CADONEGHE,"Cadoneghe, Padova, Veneto, Italia","{'type': 'Point', 'coordinates': [11.9201748, 45.4586481]}","CADONEGHE, Veneto, Italia",POINT
+Comune,CAMPO SAN MARTINO,"Campo San Martino, Padova, Veneto, Italia","{'type': 'Point', 'coordinates': [11.810404, 45.544396]}","CAMPO SAN MARTINO, Veneto, Italia",POINT
+Comune,CAMPODARSEGO,"Campodarsego, Padova, Veneto, 35011, Italia","{'type': 'Point', 'coordinates': [11.9074958, 45.502855]}","CAMPODARSEGO, Veneto, Italia",POINT
+Comune,CAMPODORO,"Campodoro, Padova, Veneto, Italia","{'type': 'Point', 'coordinates': [11.752004, 45.490294]}","CAMPODORO, Veneto, Italia",POINT
+Comune,CAMPOSAMPIERO,"Camposampiero, Padova, Veneto, 35012, Italia","{'type': 'Point', 'coordinates': [11.9319294, 45.57176]}","CAMPOSAMPIERO, Veneto, Italia",POINT
+Comune,CARMIGNANO DI BRENTA,"Carmignano di Brenta, Padova, Veneto, Italia","{'type': 'Point', 'coordinates': [11.6998606, 45.6287707]}","CARMIGNANO DI BRENTA, Veneto, Italia",POINT
+Comune,CARTIGLIANO,"Cartigliano, Vicenza, Veneto, Italia","{'type': 'Point', 'coordinates': [11.6940642, 45.7130543]}","CARTIGLIANO, Veneto, Italia",POINT
+Comune,CASSOLA,"Cassola, Vicenza, Veneto, 36022, Italia","{'type': 'Point', 'coordinates': [11.7942558, 45.7324069]}","CASSOLA, Veneto, Italia",POINT
+Comune,CERVARESE SANTA CROCE,"Cervarese Santa Croce, Padova, Veneto, 35135, Italia","{'type': 'Point', 'coordinates': [11.687904, 45.424392]}","CERVARESE SANTA CROCE, Veneto, Italia",POINT
+Comune,CITTADELLA,"Cittadella, Padova, Veneto, 35013, Italia","{'type': 'Point', 'coordinates': [11.7835801, 45.6487941]}","CITTADELLA, Veneto, Italia",POINT
+Comune,CURTAROLO,"Curtarolo, Padova, Veneto, Italia","{'type': 'Point', 'coordinates': [11.832017, 45.5222551]}","CURTAROLO, Veneto, Italia",POINT
+Comune,ENEGO,"Enego, Vicenza, Veneto, 36052, Italia","{'type': 'Point', 'coordinates': [11.7096122, 45.9404927]}","ENEGO, Veneto, Italia",POINT
+Comune,FONTANIVA,"Fontaniva, Padova, Veneto, 35014, Italia","{'type': 'Point', 'coordinates': [11.7521976, 45.6376293]}","FONTANIVA, Veneto, Italia",POINT
+Comune,FOZA,"Foza, Vicenza, Veneto, Italia","{'type': 'Point', 'coordinates': [11.6307256, 45.8962656]}","FOZA, Veneto, Italia",POINT
+Comune,GALLIERA VENETA,"Galliera Veneta, Padova, Veneto, 35015, Italia","{'type': 'Point', 'coordinates': [11.8284875, 45.6628395]}","GALLIERA VENETA, Veneto, Italia",POINT
+Comune,GALLIO,"Gallio, Vicenza, Veneto, 36032, Italia","{'type': 'Point', 'coordinates': [11.5471016, 45.8926258]}","GALLIO, Veneto, Italia",POINT
+Comune,GALZIGNANO TERME,"Galzignano Terme, Padova, Veneto, Italia","{'type': 'Point', 'coordinates': [11.7339679, 45.3068076]}","GALZIGNANO TERME, Veneto, Italia",POINT
+Comune,GAZZO,"Gazzo, Padova, Veneto, Italia","{'type': 'Point', 'coordinates': [11.7065481, 45.5810003]}","GAZZO, Veneto, Italia",POINT
+Comune,GRANTORTO,"Grantorto, Padova, Veneto, 35010, Italia","{'type': 'Point', 'coordinates': [11.731602, 45.600897]}","GRANTORTO, Veneto, Italia",POINT
+Comune,LIMENA,"Limena, Padova, Veneto, Italia","{'type': 'Point', 'coordinates': [11.8449327, 45.4743763]}","LIMENA, Veneto, Italia",POINT
+Comune,LOREGGIA,"Loreggia, Padova, Veneto, Italia","{'type': 'Point', 'coordinates': [11.9446117, 45.594524]}","LOREGGIA, Veneto, Italia",POINT
+Comune,MAROSTICA,"Marostica, Vicenza, Veneto, 36063, Italia","{'type': 'Point', 'coordinates': [11.6568938, 45.7453924]}","MAROSTICA, Veneto, Italia",POINT
+Comune,MASSANZAGO,"Massanzago, Padova, Veneto, Italia","{'type': 'Point', 'coordinates': [12.0074344, 45.5555115]}","MASSANZAGO, Veneto, Italia",POINT
+Comune,MESTRINO,"Mestrino, Padova, Veneto, 35035, Italia","{'type': 'Point', 'coordinates': [11.7582537, 45.4427579]}","MESTRINO, Veneto, Italia",POINT
+Comune,MONTEGROTTO TERME,"Montegrotto Terme, Padova, Veneto, 35036, Italia","{'type': 'Point', 'coordinates': [11.791208, 45.331491]}","MONTEGROTTO TERME, Veneto, Italia",POINT
+Comune,MUSSOLENTE,"Mussolente, Vicenza, Veneto, 36065, Italia","{'type': 'Point', 'coordinates': [11.8012715, 45.7789522]}","MUSSOLENTE, Veneto, Italia",POINT
+Comune,NOVE,"Nove, Vicenza, Veneto, Italia","{'type': 'Point', 'coordinates': [11.6800583, 45.7256753]}","NOVE, Veneto, Italia",POINT
+Comune,NOVENTA PADOVANA,"Noventa Padovana, Padova, Veneto, 35027, Italia","{'type': 'Point', 'coordinates': [11.9510037, 45.4143019]}","NOVENTA PADOVANA, Veneto, Italia",POINT
+Comune,PIANEZZE,"Pianezze, Vicenza, Veneto, Italia","{'type': 'Point', 'coordinates': [11.6267466, 45.7399971]}","PIANEZZE, Veneto, Italia",POINT
+Comune,PIAZZOLA SUL BRENTA,"Piazzola sul Brenta, Padova, Veneto, 35016, Italia","{'type': 'Point', 'coordinates': [11.784404, 45.541496]}","PIAZZOLA SUL BRENTA, Veneto, Italia",POINT
+Comune,PIOMBINO DESE,"Piombino Dese, Padova, Veneto, 35017, Italia","{'type': 'Point', 'coordinates': [11.9994148, 45.6075204]}","PIOMBINO DESE, Veneto, Italia",POINT
+Comune,POVE DEL GRAPPA,"Pove del Grappa, Vicenza, Veneto, Italia","{'type': 'Point', 'coordinates': [11.7291016, 45.7991169]}","POVE DEL GRAPPA, Veneto, Italia",POINT
+Comune,POZZOLEONE,"Pozzoleone, Vicenza, Veneto, Italia","{'type': 'Point', 'coordinates': [11.6790903, 45.6489562]}","POZZOLEONE, Veneto, Italia",POINT
+Comune,RESANA,"Resana, Treviso, Veneto, 31023, Italia","{'type': 'Point', 'coordinates': [11.9552929, 45.6340237]}","RESANA, Veneto, Italia",POINT
+Comune,ROANA,"Roana, Vicenza, Veneto, Italia","{'type': 'Point', 'coordinates': [11.4626871, 45.875619]}","ROANA, Veneto, Italia",POINT
+Comune,ROMANO D'EZZELINO,"Romano d'Ezzelino, Vicenza, Veneto, Italia","{'type': 'Point', 'coordinates': [11.7583907, 45.7962374]}","ROMANO D'EZZELINO, Veneto, Italia",POINT
+Comune,ROSÀ,"Rosà, Vicenza, Veneto, 36027, Italia","{'type': 'Point', 'coordinates': [11.7626859, 45.7244163]}","ROSÀ, Veneto, Italia",POINT
+Comune,ROSSANO VENETO,"Rossano Veneto, Vicenza, Veneto, 36028, Italia","{'type': 'Point', 'coordinates': [11.7997866, 45.7052727]}","ROSSANO VENETO, Veneto, Italia",POINT
+Comune,ROTZO,"Rotzo, Vicenza, Veneto, Italia","{'type': 'Point', 'coordinates': [11.3993824, 45.8634667]}","ROTZO, Veneto, Italia",POINT
+Comune,ROVOLON,"Rovolon, Padova, Veneto, Italia","{'type': 'Point', 'coordinates': [11.6444028, 45.3780267]}","ROVOLON, Veneto, Italia",POINT
+Comune,RUBANO,"Rubano, Padova, Veneto, 35050, Italia","{'type': 'Point', 'coordinates': [11.7882736, 45.4287288]}","RUBANO, Veneto, Italia",POINT
+Comune,SACCOLONGO,"Saccolongo, Padova, Veneto, Italia","{'type': 'Point', 'coordinates': [11.7475532, 45.4031054]}","SACCOLONGO, Veneto, Italia",POINT
+Comune,SAN GIORGIO DELLE PERTICHE,"San Giorgio delle Pertiche, Padova, Veneto, Italia","{'type': 'Point', 'coordinates': [11.9112369, 45.5416702]}","SAN GIORGIO DELLE PERTICHE, Veneto, Italia",POINT
+Comune,SAN GIORGIO IN BOSCO,"San Giorgio in Bosco, Padova, Veneto, Italia","{'type': 'Point', 'coordinates': [11.8059588, 45.5918514]}","SAN GIORGIO IN BOSCO, Veneto, Italia",POINT
+Comune,SAN MARTINO DI LUPARI,"San Martino di Lupari, Padova, Veneto, 35018, Italia","{'type': 'Point', 'coordinates': [11.8573024, 45.6559003]}","SAN MARTINO DI LUPARI, Veneto, Italia",POINT
+Comune,SAN PIETRO IN GU,"San Pietro in Gu, Padova, Veneto, Italia","{'type': 'Point', 'coordinates': [11.6693937, 45.6140864]}","SAN PIETRO IN GU, Veneto, Italia",POINT
+Comune,SANTA GIUSTINA IN COLLE,"Santa Giustina in Colle, Padova, Veneto, Italia","{'type': 'Point', 'coordinates': [11.906406, 45.563698]}","SANTA GIUSTINA IN COLLE, Veneto, Italia",POINT
+Comune,SAONARA,"Saonara, Padova, Veneto, Italia","{'type': 'Point', 'coordinates': [11.9840665, 45.370221]}","SAONARA, Veneto, Italia",POINT
+Comune,SCHIAVON,"Schiavon, Vicenza, Veneto, Italia","{'type': 'Point', 'coordinates': [11.6442826, 45.6977089]}","SCHIAVON, Veneto, Italia",POINT
+Comune,SELVAZZANO DENTRO,"Selvazzano Dentro, Padova, Veneto, 35030, Italia","{'type': 'Point', 'coordinates': [11.7858919, 45.3897901]}","SELVAZZANO DENTRO, Veneto, Italia",POINT
+Comune,SOLAGNA,"Solagna, Vicenza, Veneto, Italia","{'type': 'Point', 'coordinates': [11.7181699, 45.8167214]}","SOLAGNA, Veneto, Italia",POINT
+Comune,TEOLO,"Teolo, Padova, Veneto, 35033, Italia","{'type': 'Point', 'coordinates': [11.6886055, 45.365421]}","TEOLO, Veneto, Italia",POINT
+Comune,TEZZE SUL BRENTA,"Tezze sul Brenta, Vicenza, Veneto, 36056, Italia","{'type': 'Point', 'coordinates': [11.7041837, 45.6861778]}","TEZZE SUL BRENTA, Veneto, Italia",POINT
+Comune,TOMBOLO,"Tombolo, Padova, Veneto, 35019, Italia","{'type': 'Point', 'coordinates': [11.8304219, 45.6470275]}","TOMBOLO, Veneto, Italia",POINT
+Comune,TORREGLIA,"Torreglia, Padova, Veneto, Italia","{'type': 'Point', 'coordinates': [11.738406, 45.336091]}","TORREGLIA, Veneto, Italia",POINT
+Comune,TREBASELEGHE,"Trebaseleghe, Padova, Veneto, Italia","{'type': 'Point', 'coordinates': [12.0509986, 45.5918117]}","TREBASELEGHE, Veneto, Italia",POINT
+Comune,VEGGIANO,"Veggiano, Padova, Veneto, Italia","{'type': 'Point', 'coordinates': [11.7108215, 45.4483223]}","VEGGIANO, Veneto, Italia",POINT
+Comune,VIGODARZERE,"Vigodarzere, Padova, Veneto, Italia","{'type': 'Point', 'coordinates': [11.8828635, 45.4581932]}","VIGODARZERE, Veneto, Italia",POINT
+Comune,VIGONZA,"Vigonza, Padova, Veneto, Italia","{'type': 'Point', 'coordinates': [11.98338, 45.4433152]}","VIGONZA, Veneto, Italia",POINT
+Comune,VILLA DEL CONTE,"Villa del Conte, Padova, Veneto, Italia","{'type': 'Point', 'coordinates': [11.859005, 45.586598]}","VILLA DEL CONTE, Veneto, Italia",POINT
+Comune,VILLAFRANCA PADOVANA,"Villafranca Padovana, Padova, Veneto, Italia","{'type': 'Point', 'coordinates': [11.7975235, 45.4948512]}","VILLAFRANCA PADOVANA, Veneto, Italia",POINT
+Comune,VILLANOVA DI CAMPOSAMPIERO,"Villanova di Camposampiero, Padova, Veneto, Italia","{'type': 'Point', 'coordinates': [11.9730203, 45.4904556]}","VILLANOVA DI CAMPOSAMPIERO, Veneto, Italia",POINT
