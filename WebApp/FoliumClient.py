@@ -1,7 +1,7 @@
 #Location di interesse per i parametri dell'acqua
 #targetLocation = 'Isola Morosini Via due fiumi'
 ##
-targetLocation = "CUOA Altavilla Vicentina"
+targetLocation = "Via Giovanni Segantini, Ovest, Verona, Veneto, 37138, Italia"
 
 import folium,os,geojson as js,logging
 from geopy.geocoders import Nominatim

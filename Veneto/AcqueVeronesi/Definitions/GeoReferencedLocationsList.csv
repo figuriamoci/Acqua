@@ -1,0 +1,84 @@
+alias_address,alias_city,geocode,geometry,georeferencingString,type
+VIA ADIGE,Zevio,"Zevio, Verona, Veneto, 37059, Italia","{'type': 'Point', 'coordinates': [11.1358815, 45.3751312]}","Zevio, Verona, Veneto, Italia",POINT
+VIA 72° GRUPPO IT,Bovolone,"Via 72° gruppo IT, Bovolone, Verona, Veneto, 37051, Italia","{'type': 'Point', 'coordinates': [11.1175337, 45.2543506]}","VIA 72° GRUPPO IT, Bovolone, Verona, Veneto, Italia",POINT
+VIA ADIGE,Buttapietra,"Via Adige, Buttapietra, Verona, Veneto, Italia","{'type': 'Point', 'coordinates': [10.9931491, 45.3405723]}","VIA ADIGE, Buttapietra, Verona, Veneto, Italia",POINT
+VIA ADIGE,Isola Rizza,"Via Adige, Isola Rizza, Verona, Veneto, 37050, Italia","{'type': 'Point', 'coordinates': [11.1950108, 45.2871568]}","VIA ADIGE, Isola Rizza, Verona, Veneto, Italia",POINT
+VIA 1 MAGGIO,Legnago,"Via Primo Maggio, Legnago, Verona, Veneto, 37045, Italia","{'type': 'Point', 'coordinates': [11.3120176, 45.191309]}","VIA 1 MAGGIO, Legnago, Verona, Veneto, Italia",POINT
+VIA ADIGE,Nogarole Rocca,"Via Adige, Nogarole Rocca, Verona, Veneto, 37060, Italia","{'type': 'Point', 'coordinates': [10.8567724, 45.2749514]}","VIA ADIGE, Nogarole Rocca, Verona, Veneto, Italia",POINT
+VIA GIOVANNI PAOLO II,Pressana,"Via Giovanni Paolo II, Pressana, Verona, Veneto, 37044, Italia","{'type': 'Point', 'coordinates': [11.4001108, 45.2863455]}","VIA GIOVANNI PAOLO II, Pressana, Verona, Veneto, Italia",POINT
+VIA ADIGE,Roverchiara,"Via Adige, Roverchiara, Verona, Veneto, 37050, Italia","{'type': 'Point', 'coordinates': [11.2509062, 45.2730638]}","VIA ADIGE, Roverchiara, Verona, Veneto, Italia",POINT
+VIA ADAMELLO,San Martino Buon Albergo,"Via Adamello, San Martino Buon Albergo, Verona, Veneto, 37036, Italia","{'type': 'Point', 'coordinates': [11.1012144, 45.4256423]}","VIA ADAMELLO, San Martino Buon Albergo, Verona, Veneto, Italia",POINT
+VIA BALDINI DESTRA,Terrazzo,"Via Baldini Destra, Terrazzo, Verona, Veneto, 37049, Italia","{'type': 'Point', 'coordinates': [11.3963769, 45.1737039]}","VIA BALDINI DESTRA, Terrazzo, Verona, Veneto, Italia",POINT
+VIA ALBARE,Tregnago,"Via Albare, Ferrara, Tregnago, Verona, Veneto, 37039, Italia","{'type': 'Point', 'coordinates': [11.1658019, 45.5105764]}","VIA ALBARE, Tregnago, Verona, Veneto, Italia",POINT
+VIA 1 MAGGIO,Sommacampagna,"Via Rezzola, Sommacampagna, Verona, Veneto, 37066, Italia","{'type': 'Point', 'coordinates': [10.8520131, 45.4115561]}","Via Rezzola, Sommacampagna, Verona, Veneto, 37066, Italia",POINT
+Verona,VIA DA QUINTO LEONARDO,"Via Leonardo da Quinto, Nord-Est, Quinto di Valpantena, Verona, Veneto, 37142, Italia","{'type': 'Point', 'coordinates': [11.0177704, 45.49219]}","VIA LEONARDO DA QUINTO, Verona, Verona, Veneto, Italia",POINT
+Verona,VIA FRANCIA,"Via Francia, Sud, Verona, Veneto, 37136, Italia","{'type': 'Point', 'coordinates': [10.9743252, 45.4106765]}","VIA FRANCIA, Verona, Verona, Veneto, Italia",POINT
+Verona,VIA GARDESANE,"Via Gardesane, Chievo, Ovest, Verona, Veneto, 37139, Italia","{'type': 'Point', 'coordinates': [10.9355793, 45.4488882]}","VIA GARDESANE, Verona, Veneto, Italia",POINT
+Verona,VIA BELFIORE,"Via Belfiore, Sud, Verona, Veneto, 37135, Italia","{'type': 'Point', 'coordinates': [10.9949943, 45.3835682]}","VIA BELFIORE, Verona, Verona, Veneto, Italia",POINT
+Verona,VIA GOLOSINE,"Via Golosine, Sud-Ovest, Verona, Veneto, 37136, Italia","{'type': 'Point', 'coordinates': [10.9661895, 45.4192587]}","VIA GOLOSINE, Verona, Verona, Veneto, Italia",POINT
+VIA DA VINCI LEONARDO,Verona,"Via Leonardo da Vinci, Garda, Verona, Veneto, 37016, Italia","{'type': 'Point', 'coordinates': [10.7072237, 45.5802212]}","VIA LEONARDO DA VINCI, Verona, Verona, Veneto, Italia",POINT
+VIA 1 MAGGIO,Roveredo di Guà,"Roveredo di Guà, Verona, Veneto, Italia","{'type': 'Point', 'coordinates': [11.4450622, 45.2739154]}","Roveredo di Guà, Verona, Veneto, Italia",POINT
+VIA CROSARA,Sommacampagna,"Via Crosara, Sommacampagna, Verona, Veneto, 37066, Italia","{'type': 'Point', 'coordinates': [10.8467341, 45.409181]}","VIA CROSARA, Sommacampagna, Verona, Veneto, Italia",POINT
+VIA A. VESPUCCI,Sorgà,"Via Amerigo Vespucci, Sorgà, Verona, Veneto, 46033, Italia","{'type': 'Point', 'coordinates': [11.0060711, 45.1867159]}","VIA AMERIGO VESPUCCI, Sorgà, Verona, Veneto, Italia",POINT
+VIA CAPPELLO,Verona,"Via Cappello, Sommacampagna, Verona, Veneto, 37066, Italia","{'type': 'Point', 'coordinates': [10.8207722, 45.3860441]}","VIA CAPPELLO, Verona, Verona, Veneto, Italia",POINT
+VIA GIARDINO GIUSTI,Verona,"Via Giardino Giusti, Centro Storico, Verona, Veneto, 37129, Italia","{'type': 'Point', 'coordinates': [11.0057671, 45.4436141]}","VIA GIARDINO GIUSTI, Verona, Verona, Veneto, Italia",POINT
+VIA MONTORIO,Verona,"Via Montorio, Est, Verona, Veneto, 37131, Italia","{'type': 'Point', 'coordinates': [11.02471, 45.446192]}","VIA MONTORIO, Verona, Verona, Veneto, Italia",POINT
+VIALE CARDINALE GIROLAMO,Verona,"Viale Cardinale Girolamo, Ovest, Verona, Veneto, 37122, Italia","{'type': 'Point', 'coordinates': [10.9815646, 45.4312785]}","VIALE CARDINALE GIROLAMO, Verona, Verona, Veneto, Italia",POINT
+VIA 25 APRILE,Albaredo d’Adige,"Albaredo d'Adige, Verona, Veneto, 37041, Italia","{'type': 'Point', 'coordinates': [11.2744882, 45.3170457]}","Albaredo d’Adige, Verona, Veneto, Italia",POINT
+VIA A.VOLTA,Angiari,"Via Alessandro Volta, Angiari, Verona, Veneto, 37045, Italia","{'type': 'Point', 'coordinates': [11.2822647, 45.2164727]}","VIA ALESSANDRO VOLTA, Angiari, Verona, Veneto, Italia",POINT
+VIA 13 MAGGIO,Arcole,"Arcole, Verona, Veneto, Italia","{'type': 'Point', 'coordinates': [11.2860916, 45.3582108]}","Arcole, Verona, Veneto, Italia",POINT
+VIA ALESSANDRO MINAZZI,Badia Calavena,"Via Minazzi, Mandola, Badia Calavena, Verona, Veneto, 37039, Italia","{'type': 'Point', 'coordinates': [11.1560255, 45.5624077]}","VIA MINAZZI, Badia Calavena, Verona, Veneto, Italia",POINT
+VIA 1 MAGGIO,Bevilacqua,"Bevilacqua, Verona, Veneto, Italia","{'type': 'Point', 'coordinates': [11.3925, 45.231785]}","Bevilacqua, Verona, Veneto, Italia",POINT
+VIA 1 MAGGIO,Bonavigo,"Bonavigo, Verona, Veneto, Italia","{'type': 'Point', 'coordinates': [11.279332, 45.2575734]}","Bonavigo, Verona, Veneto, Italia",POINT
+VIA ALIGHIERI,Boschi Sant’Anna,"Boschi Sant'Anna, Verona, Veneto, Italia","{'type': 'Point', 'coordinates': [11.3583946, 45.2187835]}","Boschi Sant’Anna, Verona, Veneto, Italia",POINT
+VIA ALEARDI DI BOSCO,Boscochiesanuova,"Chiesa di Boscochiesanuova, Piazza della Chiesa, Contrada Tezza, Bosco Chiesanuova, Verona, Veneto, 37021, Italia","{'type': 'Point', 'coordinates': [11.028984950357557, 45.621972650000004]}","Boscochiesanuova, Verona, Veneto, Italia",POINT
+VIA A. DE GASPERI,Casaleone,"Casaleone, Verona, Veneto, 37052, Italia","{'type': 'Point', 'coordinates': [11.1993652, 45.170669]}","Casaleone, Verona, Veneto, Italia",POINT
+VIA ALFIERI VITTORIO,Castel d’Azzano,"Castel d'Azzano, Verona, Veneto, Italia","{'type': 'Point', 'coordinates': [10.952988, 45.355884]}","Castel d’Azzano, Verona, Veneto, Italia",POINT
+VIA ANGELO SPADA,Cazzano di Tramigna,"Cazzano di Tramigna, Verona, Veneto, Italia","{'type': 'Point', 'coordinates': [11.202892, 45.473089]}","Cazzano di Tramigna, Verona, Veneto, Italia",POINT
+VIA A. BOITO,Cerea,"Cerea, Verona, Veneto, 37053, Italia","{'type': 'Point', 'coordinates': [11.2142287, 45.19581]}","Cerea, Verona, Veneto, Italia",POINT
+VIA ANTI,Cologna Veneta,"Cologna Veneta, Verona, Veneto, 37044, Italia","{'type': 'Point', 'coordinates': [11.3860192, 45.3084411]}","Cologna Veneta, Verona, Veneto, Italia",POINT
+VIA 21 APRILE,Colognola ai Colli,"Colognola ai Colli, Verona, Veneto, 37032, Italia","{'type': 'Point', 'coordinates': [11.1867006, 45.4346311]}","Colognola ai Colli, Verona, Veneto, Italia",POINT
+VIA A.VOLTA,Concamarise,"Concamarise, Verona, Veneto, Italia","{'type': 'Point', 'coordinates': [11.1385011, 45.2072831]}","Concamarise, Verona, Veneto, Italia",POINT
+INT.LATO VIA CASALETTI,Illasi,"Via Casaletti, Illasi, Verona, Veneto, 37031, Italia","{'type': 'Point', 'coordinates': [11.1756701, 45.4689239]}","VIA CASALETTI, Illasi, Verona, Veneto, Italia",POINT
+VIA A. DE GASPERI,Isola della Scala,"Isola della Scala, Verona, Veneto, 37063, Italia","{'type': 'Point', 'coordinates': [11.0131476, 45.2694748]}","Isola della Scala, Verona, Veneto, Italia",POINT
+VIA A. DALLOCA BIANCA,Lavagno,"Lavagno, Verona, Veneto, Italia","{'type': 'Point', 'coordinates': [11.1349412, 45.4473983]}","Lavagno, Verona, Veneto, Italia",POINT
+VIA A. DE GASPERI,Mezzane di Sotto,"Mezzane di Sotto, Verona, Veneto, Italia","{'type': 'Point', 'coordinates': [11.1281533, 45.4820063]}","Mezzane di Sotto, Verona, Veneto, Italia",POINT
+VIA ALIGHIERI,Minerbe,"Minerbe, Verona, Veneto, 37046, Italia","{'type': 'Point', 'coordinates': [11.3348386, 45.2408619]}","Minerbe, Verona, Veneto, Italia",POINT
+VIA 27 APRILE,Monteforte d’Alpone,"Monteforte d'Alpone, Verona, Veneto, Italia","{'type': 'Point', 'coordinates': [11.2836658, 45.4172539]}","Monteforte d’Alpone, Verona, Veneto, Italia",POINT
+VIA A. DE GASPERI,Mozzecane,"Mozzecane, Verona, Veneto, 37060, Italia","{'type': 'Point', 'coordinates': [10.8234678, 45.3067791]}","Mozzecane, Verona, Veneto, Italia",POINT
+VIA A. ALEARDI,Negrar,"Negrar di Valpolicella, Verona, Veneto, Italia","{'type': 'Point', 'coordinates': [10.9400217, 45.5296706]}","Negrar, Verona, Veneto, Italia",POINT
+VIA A. DA GIUSSANO,Oppeano,"Oppeano, Verona, Veneto, Italia","{'type': 'Point', 'coordinates': [11.1823399, 45.3062139]}","Oppeano, Verona, Veneto, Italia",POINT
+VIA A. DE GASPERI,Povegliano Veronese,"Via Alcide De Gasperi, Povegliano Veronese, Verona, Veneto, 37064, Italia","{'type': 'Point', 'coordinates': [10.8855868, 45.3493919]}","VIA Alcide DE GASPERI, Povegliano Veronese, Verona, Veneto, Italia",POINT
+VIA ALIGHIERI DI ROVERE,Roverè Veronese,"Roverè Veronese, Verona, Veneto, 37028, Italia","{'type': 'Point', 'coordinates': [11.0657088, 45.5933263]}","Roverè Veronese, Verona, Veneto, Italia",POINT
+VIA 25 APRILE,Salizzole,"Salizzole, Verona, Veneto, Italia","{'type': 'Point', 'coordinates': [11.0844436, 45.2427902]}","Salizzole, Verona, Veneto, Italia",POINT
+VIA 1 MAGGIO,San Bonifacio,"San Bonifacio, Verona, Veneto, Italia","{'type': 'Point', 'coordinates': [11.2700817, 45.3956425]}","San Bonifacio, Verona, Veneto, Italia",POINT
+VIA 11 SETTEMBRE,San Giovanni Ilarione,"San Giovanni Ilarione, Verona, Veneto, 37035, Italia","{'type': 'Point', 'coordinates': [11.2348944, 45.5240542]}","San Giovanni Ilarione, Verona, Veneto, Italia",POINT
+VIA 20 SETTEMBRE,San Giovanni Lupatoto,"San Giovanni Lupatoto, Verona, Veneto, 37057, Italia","{'type': 'Point', 'coordinates': [11.0448862, 45.3819685]}","San Giovanni Lupatoto, Verona, Veneto, Italia",POINT
+VIA A. DE GASPERI,San Pietro in Cariano,"Via Alcide de Gasperi, San Pietro in Cariano, Verona, Veneto, 37029, Italia","{'type': 'Point', 'coordinates': [10.8907051, 45.5194494]}","VIA ALCIDE DE GASPERI, San Pietro in Cariano, Verona, Veneto, Italia",POINT
+VIA A. DIAZ,Sanguinetto,"Via Armando Diaz, Sanguinetto, Verona, Veneto, 37058, Italia","{'type': 'Point', 'coordinates': [11.147998, 45.1842624]}","VIA ARMANDO DIAZ, Sanguinetto, Verona, Veneto, Italia",POINT
+VIA 25 APRILE,Soave,"Piazza Castagnedi, Via San Matteo, Campagna Bassa, Soave, Verona, Veneto, 37038, Italia","{'type': 'Point', 'coordinates': [11.2476239, 45.4195144]}","Piazza Castagnedi, Via San Matteo, Soave, Verona, Veneto, 37038, Italia",POINT
+VIA A. DE GASPERI,Trevenzuolo,"Via Alcide de Gasperi, Trevenzuolo, Verona, Veneto, Italia","{'type': 'Point', 'coordinates': [10.9341928, 45.267847]}","VIA ALCIDE DE GASPERI, Trevenzuolo, Verona, Veneto, Italia",POINT
+CONTR VIAVERDE,Velo Veronese,"Velo Veronese, Verona, Veneto, Italia","{'type': 'Point', 'coordinates': [11.0956907, 45.6051497]}","Velo Veronese, Verona, Veneto, Italia",POINT
+VIA ABBA GIUSEPPE CESARE,Verona,"Via Giuseppe Cesare Abba, Nord-Ovest, Verona, Veneto, 37126, Italia","{'type': 'Point', 'coordinates': [10.990398, 45.4461745]}","VIA GIUSEPPE CESARE  ABBA, Verona, Verona, Veneto, Italia",POINT
+VIA A. MANZONI,Vigasio,"Vigasio, Verona, Veneto, 37068, Italia","{'type': 'Point', 'coordinates': [10.9421984, 45.3170303]}","Vigasio, Verona, Veneto, Italia",POINT
+VIA A. APRILI,Villafranca,"Via Angela Aprili, Villafranca di Verona, Verona, Veneto, 37069, Italia","{'type': 'Point', 'coordinates': [10.84029, 45.35719]}","VIA Angela APRILI, Villafranca, Verona, Veneto, Italia",POINT
+VIA 2 GIUGNO,Bussolengo,"Via Due Giugno, Porcella, Bussolengo, Verona, Veneto, 37012, Italia","{'type': 'Point', 'coordinates': [10.8703124, 45.4417431]}","VIA 2 GIUGNO, Bussolengo, Verona, Veneto, Italia",POINT
+VIA A. CAMPETTI,Caldiero,"Via A. Campetti, Caldierino, Caldiero, Verona, Veneto, 37042, Italia","{'type': 'Point', 'coordinates': [11.1501268, 45.4100857]}","VIA A. CAMPETTI, Caldiero, Verona, Veneto, Italia",POINT
+VIA ALBRIGI,Cerro Veronese,"Via Don Pietro Albrigi, Roboli, Cerro Veronese, Verona, Veneto, 37023, Italia","{'type': 'Point', 'coordinates': [11.0371697, 45.5650178]}","VIA ALBRIGI, Cerro Veronese, Verona, Veneto, Italia",POINT
+VIA CAMPIONIVA,Erbezzo,"Via Campioniva, Resti, Erbezzo, Verona, Veneto, 37020, Italia","{'type': 'Point', 'coordinates': [11.0014975, 45.6374049]}","VIA CAMPIONIVA, Erbezzo, Verona, Veneto, Italia",POINT
+VIA ALDO MORO,Erbè,"Via Aldo Moro, Erbè, Verona, Veneto, 37063, Italia","{'type': 'Point', 'coordinates': [10.9705392, 45.2443552]}","VIA ALDO MORO, Erbè, Verona, Veneto, Italia",POINT
+VIA ALDO MORO,Fumane,"Via Aldo Moro, Gorgusello di Sotto, Fumane, Verona, Veneto, Italia","{'type': 'Point', 'coordinates': [10.9000397, 45.6224646]}","VIA ALDO MORO, Fumane, Verona, Veneto, Italia",POINT
+VIA ANGIOLINA,Grezzana,"Via Angiolina, Alcenago, Grezzana, Verona, Veneto, 37023, Italia","{'type': 'Point', 'coordinates': [11.0017917, 45.5426534]}","VIA ANGIOLINA, Grezzana, Verona, Veneto, Italia",POINT
+VIA AGNELLA,Marano di Valpolicella,"Via Agnella, Paverno, Marano di Valpolicella, Verona, Veneto, 37022, Italia","{'type': 'Point', 'coordinates': [10.9114515, 45.538172]}","VIA AGNELLA, Marano di Valpolicella, Verona, Veneto, Italia",POINT
+VIA ADIGE,Montecchia di Crosara,"Via Adige, Pergola, Montecchia di Crosara, Verona, Veneto, 36053, Italia","{'type': 'Point', 'coordinates': [11.3053005, 45.451445]}","Montecchia di Crosara, Verona, Veneto, Italia",POINT
+VIA ALESSANDRO VOLTA,Pescantina,"Via Alessandro Volta, Zona industriale di Pescantina, Mirandola Bassa, Pescantina, Verona, Veneto, 37026, Italia","{'type': 'Point', 'coordinates': [10.9102676, 45.4786874]}","VIA ALESSANDRO VOLTA, Pescantina, Verona, Veneto, Italia",POINT
+VIA ADIGE,Ronco all’Adige,"Via Adige, Ronco all'Adige, Verona, Veneto, Italia","{'type': 'Point', 'coordinates': [11.1927269, 45.3584757]}","VIA ADIGE, Ronco all’Adige, Verona, Veneto, Italia",POINT
+VIA AGOSTINI,Roncà,"Via Agostini, Terrossa di Roncà, Roncà, Verona, Veneto, 36053, Italia","{'type': 'Point', 'coordinates': [11.3211006, 45.462379]}","VIA AGOSTINI, Roncà, Verona, Veneto, Italia",POINT
+VIA BENI,San Mauro di Saline,"Beni, San Mauro di Saline, Verona, Veneto, Italia","{'type': 'Point', 'coordinates': [11.1154193, 45.5512912]}","VIA BENI, San Mauro di Saline, Verona, Veneto, Italia",POINT
+VIA ALBARON,San Pietro di Morubio,"Via Albaron, San Pietro di Morubio, Verona, Veneto, 37050, Italia","{'type': 'Point', 'coordinates': [11.1756921, 45.2528514]}","VIA ALBARON, San Pietro di Morubio, Verona, Veneto, Italia",POINT
+VIA ALIANA DI FOSSE,Sant’Anna d’Alfaedo,"Via Aliana, FOSSE, Sant'Anna d'Alfaedo, Verona, Veneto, 37020, Italia","{'type': 'Point', 'coordinates': [10.9369857, 45.6510377]}","VIA ALIANA DI FOSSE, Sant’Anna d’Alfaedo, Verona, Veneto, Italia",POINT
+VIA ALDEGHERI,Selva di Progno,"Aldegheri, Selva di Progno, Verona, Veneto, Italia","{'type': 'Point', 'coordinates': [11.1746352, 45.6078643]}","VIA ALDEGHERI, Selva di Progno, Verona, Veneto, Italia",POINT
+VIA 24 MAGGIO,Sona,"Via 24 Maggio, Sona, Verona, Veneto, 37139, Italia","{'type': 'Point', 'coordinates': [10.8913873, 45.4344339]}","VIA 24 MAGGIO, Sona, Verona, Veneto, Italia",POINT
+VIA 1 MAGGIO,Veronella,"Via Primo Maggio, Veronella, Verona, Veneto, 37040, Italia","{'type': 'Point', 'coordinates': [11.3214188, 45.3244364]}","VIA 1 MAGGIO, Veronella, Verona, Veneto, Italia",POINT
+VIA ALBAROMATTO,Vestenanova,"Via Albaromatto, Sivieri, Vestenanova, Verona, Veneto, 36070, Italia","{'type': 'Point', 'coordinates': [11.237453, 45.5711803]}","VIA ALBAROMATTO, Vestenanova, Verona, Veneto, Italia",POINT
+VIA 25 APRILE,Zimella,"Via 25 Aprile, Zimella, Verona, Veneto, 37044, Italia","{'type': 'Point', 'coordinates': [11.3771131, 45.3319482]}","VIA 25 APRILE, Zimella, Verona, Veneto, Italia",POINT

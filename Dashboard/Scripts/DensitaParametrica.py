@@ -43,7 +43,7 @@ for feature in features:
         if polygon.contains(p):
             n += 1
             lastPoint = p
-    counters[polygonName] = min(n,5)
+    counters[polygonName] = min(n,2)
 ##
 coords = list(lastPoint.coords)[0]
 latitude = coords[0]
