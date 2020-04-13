@@ -27,7 +27,7 @@ Emilia Romagna,FC,Forli'-Cesena,Gruppo Hera S.p.A.,,https://www.gruppohera.it,ht
 Emilia Romagna,RN,Rimini,Gruppo Hera S.p.A.,,https://www.gruppohera.it,https://www.gruppohera.it/gruppo/attivita_servizi/business_acqua/canale_acqua/,HTML,PER_COMUNE,SEMESTRALE,2019,BASSO,,1
 Friuli Venezia Giulia,UD,Udine,CAFC S.p.A.,CACF,https://www.cafcspa.com,https://www.cafcspa.com/solud/it-_qualita_acqua.cfm,,,,,,,
 Friuli Venezia Giulia,GO,Gorizia,IRIS Acque,IRISAcque,http://www.irisacqua.it,http://www.irisacqua.it/it/20617/Qualita-dell-acqua-erogata,,,,,,,
-Friuli Venezia Giulia,TS,Trieste,AcegasApsAmga S.p.A.,AceGasAmga,http://www.acegasapsamga.it,http://www.acegasapsamga.it/attivita_servizi/acqua_ciclo_idrico/qualita_controllo/,,,,,,,
+Friuli Venezia Giulia,TS,Trieste,AcegasApsAmga S.p.A.,AceGasAmgaTrieste,http://www.acegasapsamga.it,http://www.acegasapsamga.it/attivita_servizi/acqua_ciclo_idrico/qualita_controllo/,,,,,,,
 Friuli Venezia Giulia,PN,Pordenone,Hydrogea S.p.A.,HydroGEA,https://www.hydrogea-pn.it,https://www.hydrogea-pn.it/#/menu/informazioni/acqua,,,,,,,
 Friuli Venezia Giulia,PN,Pordenone,Livenza Tagliamento Acque S.p.A.,Lta,https://www.lta.it/le-analisi-della-tua-acqua,https://www.lta.it/le-analisi-della-tua-acqua,,,,,,,
 Friuli Venezia Giulia,UD,Udine,Poiana S.p.A.,Poiana,http://www.poiana.it,http://www.poiana.it/ddocs/DOC_18_ITA/,,,,,,,
@@ -40,7 +40,7 @@ Liguria,IM,Imperia,Amat S.p.A.,,http://www.amat-imperia.it/,http://www.amat-impe
 Liguria,SV,Savona,Iren S.p.A.,,https://www.gruppoiren.it/acqua,https://www.irenacqua.it/qualita-dell-acqua,HTML,PER_COMUNE,SEMESTRALE,43800,MEDIO,,
 Liguria,GE,Genova,Iren S.p.A.,,https://www.gruppoiren.it/acqua,https://www.irenacqua.it/qualita-dell-acqua,HTML,PER_COMUNE,SEMESTRALE,43800,MEDIO,,
 Liguria,SP,La Spezia,Acam spa,,https://www.acamacque.it/,https://www.acamspa.com/qualit%C3%A0-delle-acque-0,PDF,PER_COMUNE,ANNUALE,2017,MEDIO,,1
-Lombardia,VA,Varese,ASPEM SPA,ASPEMVarese,http://www.aspem.it/,http://www.reti.acsm-agam.it/l-acqua-che-bevi,PDF,PER_COMUNE,TRIMESTRE,2019,MEDIO,,2
+Lombardia,VA,Varese,Lereti S.p.A.,LeretiVarese,http://www.leretispa.it,http://www.leretispa.it/l-acqua-che-bevi,PDF,PER_COMUNE,TRIMESTRE,2019,MEDIO,,2
 Lombardia,VA,Varese,Prealpi Servizi S.r.l.,PrealpiVarese,http://www.prealpiservizi.it,http://www.prealpiservizi.it/pages/acqua/analisi.htm,HTML,PER_COMUNE,SEMESTRALE,2019,BASSO,,1
 Lombardia,CO,Como,ACSM-AGAM Reti Acqua S.p.A.,ACSM-AGAMComo,http://www.reti.acsm-agam.i,http://www.reti.acsm-agam.it/l-acqua-che-bevi,PDF,PER_COMUNE,TRIMESTRE,,BASSO,In riorganizzazione,2
 Lombardia,SO,Sondrio,S.EC.AM. S.p.A.,SECAMSondrio,http://www.secam.net/,http://www.secam.net/2013-05-07-13-46-30/servizio-idrico-integrato/le-analisi-dell-acqua.html,PDF,PER_ZONA,SEMESTRALE,2019,MEDIO,,3
@@ -56,7 +56,8 @@ Lombardia,CR,Cremona,Padania Acque S.p.A.,PadaniaAcque,https://www.padania-acque
 Lombardia,MN,Mantova,Tea acque,TeaAcqueMantova,https://www.cometea.it,https://www.cometea.it/verifica-la-tua-acqua/,HTML,PER_COMUNE,SEMESTRALE,2019,MEDIO,,
 Lombardia,LC,Lecco,Lario Reti Holding S.p.A.,LarioLecco,https://www.larioreti.it,http://box.larioreti.it/Box7/#analisi,HTML,PER_ZONA,SEMESTRALE,2019,ELEVATO,,
 Lombardia,LO,Lodi,SAL s.r.l.,AcquaLodigiana,http://www.acqualodigiana.it/,http://www.acqualodigiana.it/acqua-del-rubinetto/,HTML,PER_COMUNE,SEMESTRALE,2019,BASSO,,1
-Lombardia,MB,Monza E Della Brianza,BrianzAcque s.r.l.,BrianzAcque,http://www.brianzacque.it,https://richiesteassistenza.brianzacque.it/servizi/punti-prelievo,HTML,PER_COMUNE,MENSILE,202,ELEVATO,Serve stradario,5
+Lombardia,MB,Monza E Della Brianza,BrianzAcque s.r.l.,BrianzAcque,http://www.brianzacque.it,https://richiesteassistenza.brianzacque.it/servizi/punti-prelievo,HTML,PER_COMUNE,MENSILE,2020,ELEVATO,Serve stradario,5
+Lombardia,VA,Varese,Alfa s.r.l.,AlfaVarese,https://www.alfasii.it,https://www.alfasii.it/la-societa/servizi/acquedotto.html,HTML,PER_COMUNE,SELESTRALE,2020,MEDIO,,3
 Marche,PU,Pesaro E Urbino,Marche Multiservizi S.p.A.,,http://www.gruppomarchemultiservizi.it/,http://www.gruppomarchemultiservizi.it/#comuni,PDF,PER_PUNTO_PRELIEVO,ANNUALE,2019,MEDIO,COMPLESSITA NAVIGAZIONE,5
 Marche,AN,Ancona,Viva Servizi S.p.A.,,https://www.vivaservizi.it,"https://www.vivaservizi.it/home/servizi/acqua,-fognatura-e-depurazione/analisi-acqua-del-tuo-comune.html",HTML,PER_PUNTO_PRELIEVO,SEMESTRALE,2020,BASSO,,2
 Marche,MC,Macerata,ASSM SPA,,http://www.assm.it/,http://www.assm.it/Analisi/le-analisi.html,PDF,PER_PUNTO_PRELIEVO,ANNUALE,2019,ELEVATO,Tabelle complesse,10
@@ -116,9 +117,9 @@ Veneto,VI,Vicenza,Via Acqua S.p.A.,ViaAcquaVicenza,https://www.viacqua.it,https:
 Veneto,BL,Belluno,Bim S.p.A.,Bim,https://www.bimgsp.it,https://www.bimgsp.it/idrico/acqua-di-rubinetto-pura-e-controllata/,HTML,PER_COMUNE,SEMESTRALE,2019,MEDIO,,0
 Veneto,TV,Treviso,Alto Trevigiano Servizi s.r.l.,AtsTrevigiano,https://altotrevigianoservizi.it/reti-e-impianti/acqua-potabile,https://altotrevigianoservizi.it/reti-e-impianti/acqua-potabile,HTML,PER_ZONA,SEMESTRALE,2019,MEDIO,,0
 Veneto,TV,Treviso,Piave Servizi S.p.A.,PiaveServizi,https://www.piaveservizi.eu,https://www.piaveservizi.eu/home/Acqua/Qualita.html,PDF,PER_ZONA,SEMESTRALE,2019,ELEVATO,Le zone sono sullo stesso PDF,5
-Veneto,VE,Venezia,Livenza Tagliamento Acque S.p.A.,Lta,https://www.lta.it/le-analisi-della-tua-acqua,https://www.lta.it/le-analisi-della-tua-acqua,,,,,,,0
+Veneto,VE,Venezia,Livenza Tagliamento Acque S.p.A.,,https://www.lta.it/le-analisi-della-tua-acqua,https://www.lta.it/le-analisi-della-tua-acqua,,,,,,,0
 Veneto,VE,Venezia,Veritas S.p.A.,VeritasVenezia,https://www.gruppoveritas.it,https://www.gruppoveritas.it/servizio-idrico-integrato/qualita-dell-acqua.html,PDF,PER_COMUNE,SEMESTRALE,2019,BASSO,,0
-Veneto,VE,Venezia,AcegasApsAmga S.p.A.,AceGasAmga,http://www.acegasapsamga.it,http://www.acegasapsamga.it/attivita_servizi/acqua_ciclo_idrico/qualita_controllo/,PDF,PER_COMUNE,MENSILE,,BASSO,,1
+Veneto,VE,Venezia,AcegasApsAmga S.p.A.,AceGasAmgaVenezia,http://www.acegasapsamga.it,http://www.acegasapsamga.it/attivita_servizi/acqua_ciclo_idrico/qualita_controllo/,PDF,PER_COMUNE,MENSILE,,BASSO,,1
 Veneto,PD,Padova,Etra S.p.A.,EtraPadova,https://www.etraspa.it/resana/impresa/acqua/analisi-dellacqua,https://www.etraspa.it,HTML,PER_ZONA,MENSILE,,MEDIO,,4
 Veneto,RO,Rovigo,Acque Venete S.p.A.,AcqueVenete,http://www.acquevenete.it,http://www.acquevenete.it/it_IT/consulta-le-analisi,HTML,PER_POZZO,SEMESTRALE,2019,MEDIO,Necessaria mappa acquedotti,0
 Piemonte,VB,Verbano-Cusio-Ossola,Idrablu S.p.A.,IdraBluVerbano,www.idrablu.it,,,,,,,,
