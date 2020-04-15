@@ -103,9 +103,11 @@ Toscana,AR,Arezzo,Nuove Acque,,https://www.nuoveacque.it,https://www.nuoveacque.
 Toscana,SI,Siena,Acquedotto del Fiora,,https://www.fiora.it,https://www.fiora.it/azienda.html#AF,HTML,PER_ZONA,SEMESTRALE,2019,ELEVATO,Serve stradario,3
 Toscana,GR,Grosseto,Acquedotto del Fiora,,https://www.fiora.it,https://www.fiora.it/azienda.html#AF,HTML,PER_ZONA,SEMESTRALE,2019,ELEVATO,Serve stradario,3
 Toscana,PO,Prato,Publiacqua S.p.A,,https://www.publiacqua.it/,https://www.publiacqua.it/acqua-territorio/intorno-a-te/qualita,HTML,PER_ZONA,SEMESTRALE,2018,ELEVATO,Serve stradario,2
-Trentino Alto Adige,BZ,Bolzano - Bozen,Provincia Autonoma BZ,,,,,,,,,,
-Trentino Alto Adige,TN,Trento,Gruppo Dolomiti,,,,,,,,,,
-Trentino Alto Adige,TN,Trento,STET S.p.A.,,,,,,,,,,
+Trentino Alto Adige,BZ,Bolzano - Bozen,Provincia Autonoma BZ,,https://ambiente.provincia.bz.it/acqua/qualita-acqua-nostri-acquedotti-dettaglio.asp,https://ambiente.provincia.bz.it/acqua/qualita-acqua-nostri-acquedotti-dettaglio.asp,XLS,PER_PUNTO_PRELIEVO,ANNUALE,FACILE,,2,
+Trentino Alto Adige,TN,Trento,Alto Garda Servizi SpA,,https://www.altogardaservizi.com,https://www.altogardaservizi.com/acqua-fognatura/qualita-servizio,PDF,SEMESTRALE,04/2020,MEDIO,,3,
+Trentino Alto Adige,TN,Trento,Azienda Intercommunale Rotaliana S.p.A.,,https://www.airspa.it,https://www.airspa.it/Servizi/Acquedotto/Analisi-acqua,SCANNER,SEMESTRALE,01/2020,BASSO,,2,
+Trentino Alto Adige,TN,Trento,Gruppo Dolomiti,,https://www.gruppodolomitienergia.it,https://www.gruppodolomitienergia.it/content/l-acqua-che-beviamo,HTML,ANNUALE,01/2019,ELEVATO,,4,
+Trentino Alto Adige,TN,Trento,STET S.p.A.,,https://www.stetspa.it,https://www.stetspa.it/attivita/acquedotto/qualita-dellacqua#main-content,PDF,SEMESTRALE,2019,ELEVATO,,3,
 Umbria,PG,Perugia,Arpa Umbria,,http://www.lacquachebevo.it/,http://www.lacquachebevo.it/,HTML,PER_PUNTO_PRELIEVO,SEMESTRALE,2020,ELEVATO,,5
 Umbria,TR,Terni,Arpa Umbria,,http://www.lacquachebevo.it/,http://www.lacquachebevo.it/,HTML,PER_PUNTO_PRELIEVO,SEMESTRALE,2020,ELEVATO,,5
 Valle D'Aosta,AO,Aosta,Città di Aosta,,http://www.comune.aosta.it/it/aree_tematiche/ambiente_e_igiene_urbana/acquedotto/,http://www.comune.aosta.it/it/aree_tematiche/ambiente_e_igiene_urbana/acquedotto/qualita_acqua/,HTML,PER_POZZO,SEMESTRALE,2019,ELEVATO,DISEGNARE IL TERRITORIO (http://www.comune.aosta.it/download/file/265.pdf),
