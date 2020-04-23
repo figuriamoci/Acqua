@@ -43,6 +43,8 @@ Liguria,SP,La Spezia,Acam spa,,https://www.acamacque.it/,https://www.acamspa.com
 Lombardia,VA,Varese,Lereti S.p.A.,LeretiVarese,http://www.leretispa.it,http://www.leretispa.it/l-acqua-che-bevi,PDF,PER_COMUNE,TRIMESTRE,2019,MEDIO,,2
 Lombardia,VA,Varese,Prealpi Servizi S.r.l.,PrealpiVarese,http://www.prealpiservizi.it,http://www.prealpiservizi.it/pages/acqua/analisi.htm,HTML,PER_COMUNE,SEMESTRALE,2019,BASSO,,1
 Lombardia,CO,Como,ACSM-AGAM Reti Acqua S.p.A.,ACSM-AGAMComo,http://www.reti.acsm-agam.i,http://www.reti.acsm-agam.it/l-acqua-che-bevi,PDF,PER_COMUNE,TRIMESTRE,,BASSO,In riorganizzazione,2
+Lombardia,CO,Como,Azienda Servizi Integrati Lambro S.p.A.,ASILambro,http://www.asil.it,http://www.asil.it/qualita-acqua-distribuita-2/,PDF,PER_ZONA,ANNULALE,,ELEVATO,,4
+Lombardia,CO,Como,ComoAcqua,ASIComo,https://www.comoacqua.it,https://www.comoacqua.it/qualita-dell-acqua,HTML,PER_COMUNE,ANNULALE,,MEDIO,,2
 Lombardia,SO,Sondrio,S.EC.AM. S.p.A.,SECAMSondrio,http://www.secam.net/,http://www.secam.net/2013-05-07-13-46-30/servizio-idrico-integrato/le-analisi-dell-acqua.html,PDF,PER_ZONA,SEMESTRALE,2019,MEDIO,,3
 Lombardia,MI,Milano,CAP Holding S.p.A.,GruppoCAP,https://www.gruppocap.it,https://www.gruppocap.it/attivita/servizio-idrico-integrato/qualita-dell-acqua,,,,,BASSO,,1
 Lombardia,MI,Milano,MM S.p.A.,MilanoBlu,https://www.milanoblu.com,https://www.milanoblu.com/la-tua-acqua/controlla-le-analisi/,HTML,,,,MEDIO,,3
@@ -53,7 +55,8 @@ Lombardia,BS,Brescia,Azienda Servizi Valtrompia S.p.A.,ASVTValtrompia,https://ww
 Lombardia,BS,Brescia,Servizi Idrici Valle Camonica S.r.L.,ValleCamonicaServizi,https://www.sivsrl.eu/,https://www.sivsrl.eu/carta-servizi/,PDF,PER_COMUNE,ANNUALE,2016,BASSO,,1
 Lombardia,PV,Pavia,Pavia Acque S.p.A.,PaviaAcque,http://www.paviaacque.it,http://www.paviaacque.it/attivita/qualita-dellacqua/,SCANNER,PER_COMUNE,SEMESTRALE,,,,
 Lombardia,CR,Cremona,Padania Acque S.p.A.,PadaniaAcque,https://www.padania-acque.it,https://www.padania-acque.it/it-IT/analisi-on-line.aspx,HTML,PER_ZONA,ANNUALE,2019,BASSO,,
-Lombardia,MN,Mantova,Tea acque,TeaAcqueMantova,https://www.cometea.it,https://www.cometea.it/verifica-la-tua-acqua/,HTML,PER_COMUNE,SEMESTRALE,2019,MEDIO,,
+Lombardia,MN,Mantova,Tea acque S.r.l.,TeaAcqueMantova,https://www.cometea.it,https://www.cometea.it/verifica-la-tua-acqua/,HTML,PER_COMUNE,SEMESTRALE,2019,MEDIO,,1
+Lombardia,MN,Mantova,SISAM S.p.a.,SISAMMantova,http://www.sisamspa.it,http://www.sisamspa.it/index.php?option=com_content&view=article&id=153:qualita-dell-acqua&catid=28&showall=&limitstart=1,HTML,PER_COMUNE,SEMESTRALE,2019,MEDIO,,1
 Lombardia,LC,Lecco,Lario Reti Holding S.p.A.,LarioLecco,https://www.larioreti.it,http://box.larioreti.it/Box7/#analisi,HTML,PER_ZONA,SEMESTRALE,2019,ELEVATO,,
 Lombardia,LO,Lodi,SAL s.r.l.,AcquaLodigiana,http://www.acqualodigiana.it/,http://www.acqualodigiana.it/acqua-del-rubinetto/,HTML,PER_COMUNE,SEMESTRALE,2019,BASSO,,1
 Lombardia,MB,Monza E Della Brianza,BrianzAcque s.r.l.,BrianzAcque,http://www.brianzacque.it,https://richiesteassistenza.brianzacque.it/servizi/punti-prelievo,HTML,PER_COMUNE,MENSILE,2020,ELEVATO,Serve stradario,5
@@ -124,4 +127,4 @@ Veneto,VE,Venezia,Veritas S.p.A.,VeritasVenezia,https://www.gruppoveritas.it,htt
 Veneto,VE,Venezia,AcegasApsAmga S.p.A.,AceGasAmgaVenezia,http://www.acegasapsamga.it,http://www.acegasapsamga.it/attivita_servizi/acqua_ciclo_idrico/qualita_controllo/,PDF,PER_COMUNE,MENSILE,,BASSO,,1
 Veneto,PD,Padova,Etra S.p.A.,EtraPadova,https://www.etraspa.it/resana/impresa/acqua/analisi-dellacqua,https://www.etraspa.it,HTML,PER_ZONA,MENSILE,,MEDIO,,4
 Veneto,RO,Rovigo,Acque Venete S.p.A.,AcqueVenete,http://www.acquevenete.it,http://www.acquevenete.it/it_IT/consulta-le-analisi,HTML,PER_POZZO,SEMESTRALE,2019,MEDIO,Necessaria mappa acquedotti,0
-Piemonte,VB,Verbano-Cusio-Ossola,Idrablu S.p.A.,IdraBluVerbano,www.idrablu.it,,,,,,,,
+Piemonte,VB,Verbano-Cusio-Ossola,Idrablu S.p.A.,IdraBluVerbano,www.idrablu.it,http://www.idrablu.it/qualita-e-sicurezza-dellacqua/,,,,,BASSO,,1
