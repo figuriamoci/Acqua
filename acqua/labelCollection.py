@@ -10,29 +10,14 @@ import geojsonio,geojson,logging,random,sys
 import geojson as js
 import pymongo as py
 
-def toHex(rgb):
-    return '%02x%02x%02x' % rgb
-
-def getRGB():
-    r = random.randint(0,255)
-    g = random.randint(0,255)
-    b = random.randint(0,255)
-    return toHex((r,g,b))
-
-def to_geojson(geoLabel,**kwargs):
-    import pandas as pd
-    rgb = kwargs.get('rgb', '000000')
+def to_geojson(geoLabel):
     ll = []
-    feature_collection = []
     for geo in geoLabel:
         try:
-            ll.append(al.to_geojson(geo,rgb))
+            ll.append(al.to_geojson(geo))
         except:
             logging.critical('Skip label for %s',geo)
-
-
-    feature_collection = geojson.FeatureCollection( ll )
-    return feature_collection
+    return geojson.FeatureCollection( ll )
 
 def to_MDBCollection(geoLabel):
     json = '['
@@ -49,7 +34,7 @@ def display(geoLabel):
 
 def to_file(featureCollection, fileName):
     file = open(fileName, 'w')
-    file.write(geojson.dumps(featureCollection))
+    file.write(geojson.dumps(featureCollection,allow_nan=False))
     file.close()
     return fileName
 
@@ -189,7 +174,7 @@ def removeEtichette(id_gestore):
     logging.info("Switch to Acqua/etichette collection...")
     collection = db.etichette
     logging.info("Removing GeoJeson Features to Acqua/etichette collection....")
-    queryString = {"properties.id_gestore":id_gestore}
+    queryString = {"properties.cod_gestore":id_gestore}
     n = collection.delete_many(queryString)
     logging.info("Done. Removed %s feature(s)",n)
     return n

@@ -28,7 +28,7 @@ dfFoundReportList = pd.concat([dfPoligon,dfPoint],sort=True)
 #dfFoundReportList = dfPoligon
 #dfFoundReportList = pd.concat([dfPoint],sort=True)
 
-dfFoundReportList.to_csv('Definitions/ReviewedReportList.csv',index=False)
+dfFoundReportList.to_csv('Medadata/ReviewedReportList.csv',index=False)
 
 
 listLocations = pd.read_csv('Definitions/LocationList.csv')
@@ -62,6 +62,6 @@ dfReviewedLocationList = pd.concat([dfPoligon,dfPoint,dfAltri],sort=True)
 #dfReviewedLocationList = pd.concat([dfPoint],sort=True)
 
 #Salva l'output
-dfReviewedLocationList.to_csv('Definitions/ReviewedLocationList.csv',index=False)
+dfReviewedLocationList.to_csv('Medadata/ReviewedLocationList.csv',index=False)
 logging.info('Safe %s geoquery location(s).',len(dfReviewedLocationList))
 

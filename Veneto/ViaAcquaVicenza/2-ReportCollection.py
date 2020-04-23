@@ -8,8 +8,7 @@ import acqua.parametri as parm
 aq.setEnv('Veneto//ViaAcquaVicenza')
 url = 'https://www.viacqua.it/it/clienti/acquedotto/qualita-acqua/'
 
-#admitted = ['Ammoniaca (NH4+)','Attività ioni idrogeno''Bicarbonati','Calcio','Cloro residuo','Cloruri','Conduc. elettrica specifica a 20 °C','Durezza totale in gradi francesi','Ferro totale','Fluoruri','Magnesio','Manganese','Nitrati','Nitriti','Potassio','Sodio','Solfati','Torbidità','PFOS','PFOA + PFOS','Somma altri PFAS','Carica batterica a 22 °C','Enterococchi','Escherichia coli']
-parametersAdmitted = parm.getParametersAdmitted('Definitions/SynParametri.csv')
+parametersAdmitted = parm.getParametersAdmitted('Medadata/SynParametri.csv')
 
 logging.basicConfig(level=logging.INFO)
 options = webdriver.ChromeOptions()
@@ -49,7 +48,7 @@ for i,location in locationList.iterrows():
         logging.critical('Skip %s/%s.',alias_city,alias_address)
 #
 driver.close()
-reportFoundList.to_csv('Definitions/ReportFoundList.csv',decimal=',',index=False)
+reportFoundList.to_csv('Medadata/DataReportCollection.csv',decimal=',',index=False)
 logging.info('Finish: %s',datetime.datetime.now())
 
 

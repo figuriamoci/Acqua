@@ -28,5 +28,5 @@ for i,comune in enumerate(comuniList):
 locationList['georeferencingString'] = locationList['alias_city']+", Veneto, Italia"
 locationList['type'] = 'POINT'
 driver.close()
-locationList.to_csv('Definitions/LocationList.csv',index=False)
+locationList.to_csv('Medadata/LocationList.csv',index=False)
 logging.info('Finish: %s',datetime.datetime.now())

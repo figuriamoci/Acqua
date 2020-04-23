@@ -1,0 +1,7 @@
+<pdfxml CreationDate="D:20191113161158+01'00'" Creator="Brother Scanner System : MFC-L8690CDW series" ModDate="D:20200114155507+01'00'" Producer="Brother Scanner System Image Conversion">
+  <LTPage y0="0" y1="821.52" x0="0" x1="576.0" width="576.0" height="821.52" bbox="[0, 0, 576.0, 821.52]" pageid="1" rotate="0" page_index="0" page_label="">
+    <LTImage y0="0.0" y1="821.52" x0="0.0" x1="576.0" width="576.0" height="821.52" bbox="[0.0, 0.0, 576.0, 821.52]" name="Im0" colorspace="[&quot;/DeviceRGB&quot;]" bits="8" imagemask="null" srcsize="[1200, &quot;&lt;PDFObjRef:9&gt;&quot;]" stream="&lt;PDFStream(8): raw=202202, {'BitsPerComponent': 8, 'ColorSpace': /'DeviceRGB', 'Filter': /'DCTDecode', 'Height': &lt;PDFObjRef:9&gt;, 'Length': 202200, 'Subtype': /'Image', 'Type': /'XObject', 'Width': 1200}&gt;">
+      <LTFigure y0="0.0" y1="821.52" x0="0.0" x1="576.0" width="576.0" height="821.52" bbox="[0.0, 0.0, 576.0, 821.52]" name="Im0" matrix="[576.0, 0.0, 0.0, 821.52, 0.0, 0.0]"/>
+    </LTImage>
+  </LTPage>
+</pdfxml>

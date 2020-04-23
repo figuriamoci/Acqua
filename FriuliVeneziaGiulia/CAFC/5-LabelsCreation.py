@@ -17,8 +17,8 @@ os.chdir('/Users/andrea/PycharmProjects/Acqua/FriuliVeneziaGiulia/CAFC')
 logging.basicConfig(level=logging.DEBUG)
 idGestore = 12816
 data_report = 'settembre 2919'
-listParameters = parm.getListSynonyms('Definitions/SynParametri.csv')
-parm.crea_dizionario('Definitions/SynParametri.csv')
+listParameters = parm.getListSynonyms('Medadata/SynParametri.csv')
+parm.crea_dizionario('Medadata/SynParametri.csv')
 listLabels = {}
 ll=[]
 urlAndLocationList = {}
@@ -65,7 +65,7 @@ for url_report in urlList:
                 x = location['alias_address']
                 y = location['alias_city']
                 location_ = (y,x)
-                glb = al.addGeocodeData(lb,location_,'Definitions/GeoReferencedLocationsList.csv')
+                glb = al.addGeocodeData(lb,location_,'Medadata/GeoReferencedLocationsList.csv')
                 for i in range( 0, len( glb ) ): ll.append( glb[i] )
         except:
             logging.critical("The report '%s' was not readeble. Skipped!",url_report)

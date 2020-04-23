@@ -19,8 +19,8 @@ from selenium import webdriver
 os.chdir('/Users/andrea/PycharmProjects/Acqua/AltoAdige')
 logging.basicConfig(level=logging.DEBUG)
 idGestore = 993 #Provincia Autonoma Alto Adige
-listParameters = parm.getListSynonyms('Definitions/SynParametri.csv')
-parm.crea_dizionario('Definitions/SynParametri.csv')
+listParameters = parm.getListSynonyms('Medadata/SynParametri.csv')
+parm.crea_dizionario('Medadata/SynParametri.csv')
 ##
 reportFoundList = pd.read_csv('Definitions/FoundReportList.csv')
 reportFoundList.set_index(['alias_city','alias_address','data_prelievo'],inplace=True)
@@ -43,7 +43,7 @@ for idxRep in reportFoundList.index:
         lb = al.create_label( idGestore, data_report, label )
         logging.info( 'Created label for %s',idxRep)
         loc = (idxRep[0],idxRep[1])
-        glb = al.addGeocodeData( lb, loc, 'Definitions/GeoReferencedLocationsList.csv' )
+        glb = al.addGeocodeData( lb, loc, 'Medadata/GeoReferencedLocationsList.csv' )
         logging.info( 'Georeferenced label for %s', idxRep )
         for j in range( 0, len( glb ) ): ll.append( glb[j] )
 ##

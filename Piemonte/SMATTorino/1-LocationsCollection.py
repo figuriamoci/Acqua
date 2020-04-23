@@ -24,4 +24,4 @@ locationList['type'] = 'POINT'
 ##
 locationList = locationList[locationList['alias_city']!='TORINO']
 driver.close()
-locationList.to_csv('Definitions/LocationList.csv',index=False)
+locationList.to_csv('Medadata/LocationList.csv',index=False)

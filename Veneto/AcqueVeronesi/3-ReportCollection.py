@@ -57,5 +57,5 @@ for i,location in locationList.iterrows():
         logging.critical('Skip %s/%s !',alias_city,alias_address)
 ##
 driver.close()
-reportFoundList.to_csv('Definitions/ReportFoundList.csv',index=False)
+reportFoundList.to_csv('Medadata/DataReportCollection.csv',index=False)
 logging.info('Finish: %s',datetime.datetime.now())

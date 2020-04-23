@@ -32,4 +32,4 @@ locationList = pd.DataFrame({'alias_city':alias_city})
 locationList['alias_address'] = 'Territorio'
 locationList['georeferencingString'] = locationList['alias_city']+' , Lodi, Lombardia, Italia'
 locationList['type'] = 'POINT'
-locationList.to_csv('Definitions/LocationList.csv',index=False)
+locationList.to_csv('Medadata/LocationList.csv',index=False)

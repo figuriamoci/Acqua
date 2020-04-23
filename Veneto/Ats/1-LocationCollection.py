@@ -42,6 +42,6 @@ for l in listRowTable:
 listRemoveString = ['</strong>','<br />','Zona']
 for rs in listRemoveString: locationList['georeferencingString'] = locationList['georeferencingString'].apply(lambda s: s.replace( rs, '' ).strip() )
 
-locationList.to_csv('Definitions/LocationList.csv',index=False)
+locationList.to_csv('Medadata/LocationList.csv',index=False)
 
 logging.info('Finish: %s',datetime.datetime.now())

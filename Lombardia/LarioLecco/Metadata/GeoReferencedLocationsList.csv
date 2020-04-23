@@ -1,0 +1,84 @@
+alias_address,alias_city,geocode,geometry,georeferencingString,type
+Rovagnate,VIA SAN GIORGIO,"Via San Giorgio, 23888, La Valletta Brianza, Lecco","{'type': 'Point', 'coordinates': [9.372574785661973, 45.73880434597835]}","VIA SAN GIORGIO, Rovagnate",POINT
+C.DA DELLA FONTANA,Abbadia Lariana,"Abbadia Lariana, Lecco","{'type': 'Point', 'coordinates': [9.330120000000022, 45.90462000000008]}","Abbadia Lariana, Lecco, Lombardia",POINT
+FRAZ. CERE',Airuno,"Airuno, Lecco","{'type': 'Point', 'coordinates': [9.426720000000046, 45.75574000000006]}","Airuno, Lecco, Lombardia",POINT
+VIA SANT'ANTONIO,Annone Brianza,"Annone di Brianza, Lecco","{'type': 'Point', 'coordinates': [9.331700000000069, 45.80295000000007]}","Annone Brianza, Lecco, Lombardia",POINT
+VIA PRIV.ROCCOLO ALDE' (RESIN),Ballabio,"Ballabio, Lecco","{'type': 'Point', 'coordinates': [9.420170000000041, 45.902730000000076]}","Ballabio, Lecco, Lombardia",POINT
+LOCALITA' CASCINA PELTRAIO - C,Barzago,"Barzago, Lecco","{'type': 'Point', 'coordinates': [9.312750000000051, 45.75425000000007]}","Barzago, Lecco, Lombardia",POINT
+LARGO DIAZ,Barzano,"Barzanò, Lecco","{'type': 'Point', 'coordinates': [9.316980000000058, 45.73392000000007]}","Barzano, Lecco, Lombardia",POINT
+LOC. BALISIO,Barzio,"Barzio, Lecco","{'type': 'Point', 'coordinates': [9.464180000000056, 45.94380000000007]}","Barzio, Lecco, Lombardia",POINT
+FR. BIOSIO,Bellano,"Bellano, Lecco","{'type': 'Point', 'coordinates': [9.30257000000006, 46.04371000000003]}","Bellano, Lecco, Lombardia",POINT
+P.ZA DELL'OSPEDALE,Bosisio Parini,"Bosisio Parini, Lecco","{'type': 'Point', 'coordinates': [9.289550000000077, 45.80207000000007]}","Bosisio Parini, Lecco, Lombardia",POINT
+FRAZIONE CANOSSE,Brivio,"Brivio, Lecco","{'type': 'Point', 'coordinates': [9.44643000000002, 45.74228000000005]}","Brivio, Lecco, Lombardia",POINT
+VIA BELVEDERE,Bulciago,"Bulciago, Lecco","{'type': 'Point', 'coordinates': [9.289560000000051, 45.75410000000005]}","Bulciago, Lecco, Lombardia",POINT
+VIA S. ROCCO,Calco,"Calco, Lecco","{'type': 'Point', 'coordinates': [9.415900000000022, 45.72472000000005]}","Calco, Lecco, Lombardia",POINT
+C.SO DANTE,Calolziocorte,"Calolziocorte, Lecco","{'type': 'Point', 'coordinates': [9.436770000000024, 45.794260000000065]}","Calolziocorte, Lecco, Lombardia",POINT
+FRAZIONE PERTUSINO,Carenno,"Carenno, Lecco","{'type': 'Point', 'coordinates': [9.463570000000061, 45.802220000000034]}","Carenno, Lecco, Lombardia",POINT
+LOC. CHIARELLI,Casargo,"Casargo, Lecco","{'type': 'Point', 'coordinates': [9.388050000000021, 46.03915000000006]}","Casargo, Lecco, Lombardia",POINT
+VIA PRIV. BELLE VILLE,Casatenovo,"Casatenovo, Lecco","{'type': 'Point', 'coordinates': [9.312290000000075, 45.69712000000004]}","Casatenovo, Lecco, Lombardia",POINT
+L.TA' COSTA,Cassago Brianza,"Cassago Brianza, Lecco","{'type': 'Point', 'coordinates': [9.29284000000007, 45.737790000000075]}","Cassago Brianza, Lecco, Lombardia",POINT
+P.ZA CANTELLO,Cassina Valsassina,"Cassina Valsassina, Lecco","{'type': 'Point', 'coordinates': [9.483090000000061, 45.930990000000065]}","Cassina Valsassina, Lecco, Lombardia",POINT
+VIA ROMA,Castello Brianza,"Castello di Brianza, Lecco","{'type': 'Point', 'coordinates': [9.34012000000007, 45.76218000000006]}","Castello Brianza, Lecco, Lombardia",POINT
+L.TA' ANDEGARDO,Cernusco Lombardone,"Cernusco Lombardone, Lecco","{'type': 'Point', 'coordinates': [9.401030000000048, 45.695260000000076]}","Cernusco Lombardone, Lecco, Lombardia",POINT
+VIA A. MORO,Cesana Brianza,"Cesana Brianza, Lecco","{'type': 'Point', 'coordinates': [9.300110000000075, 45.81595000000004]}","Cesana Brianza, Lecco, Lombardia",POINT
+VIA FIUME,Civate,"Civate, Lecco","{'type': 'Point', 'coordinates': [9.344370000000026, 45.828040000000044]}","Civate, Lecco, Lombardia",POINT
+L.GO S. GIORGIO,Colico,"Colico, Lecco","{'type': 'Point', 'coordinates': [9.373990000000049, 46.136970000000076]}","Colico, Lecco, Lombardia",POINT
+VIA LECCO,Colle Brianza,"Colle Brianza, Lecco","{'type': 'Point', 'coordinates': [9.364140000000077, 45.76312000000007]}","Colle Brianza, Lecco, Lombardia",POINT
+LARGO DE' VECCHI,Cortenova,"Cortenova, Lecco","{'type': 'Point', 'coordinates': [9.387100000000032, 46.00219000000004]}","Cortenova, Lecco, Lombardia",POINT
+PZA GIUSEPPE COLOMBO,Costa Masnaga,"Costa Masnaga, Lecco","{'type': 'Point', 'coordinates': [9.273750000000064, 45.76664000000005]}","Costa Masnaga, Lecco, Lombardia",POINT
+P.ZA FONTANA,Crandola Valsassina,"Crandola Valsassina, Lecco","{'type': 'Point', 'coordinates': [9.378340000000037, 46.02348000000006]}","Crandola Valsassina, Lecco, Lombardia",POINT
+GIOVINEZZA,Cremella,"Cremella, Lecco","{'type': 'Point', 'coordinates': [9.303600000000074, 45.73961000000003]}","Cremella, Lecco, Lombardia",POINT
+CASALE ALLA PIAZZA,Cremeno,"Cremeno, Lecco","{'type': 'Point', 'coordinates': [9.471920000000068, 45.934600000000046]}","Cremeno, Lecco, Lombardia",POINT
+FRAZ. CASTELLO,Dervio,"Dervio, Lecco","{'type': 'Point', 'coordinates': [9.30457000000007, 46.076880000000074]}","Dervio, Lecco, Lombardia",POINT
+CASCINA GORLA,Dolzago,"Dolzago, Lecco","{'type': 'Point', 'coordinates': [9.340810000000033, 45.76941000000005]}","Dolzago, Lecco, Lombardia",POINT
+FRAZIONE TORCHIEDO,Dorio,"Dorio, Lecco","{'type': 'Point', 'coordinates': [9.31842000000006, 46.101780000000076]}","Dorio, Lecco, Lombardia",POINT
+CASTELLO BRIANZA,Ello,"Ello, Lecco","{'type': 'Point', 'coordinates': [9.364680000000021, 45.78574000000003]}","Ello, Lecco, Lombardia",POINT
+LOC. LOCALITA' GNET,Erve,"Erve, Lecco","{'type': 'Point', 'coordinates': [9.450810000000047, 45.81941000000006]}","Erve, Lecco, Lombardia",POINT
+LOC. BRACCI,Esino Lario,"Esino Lario, Lecco","{'type': 'Point', 'coordinates': [9.336040000000025, 45.995040000000074]}","Esino Lario, Lecco, Lombardia",POINT
+VIA MONTI ETTORE,Galbiate,"Galbiate, Lecco","{'type': 'Point', 'coordinates': [9.377200000000073, 45.81653000000006]}","Galbiate, Lecco, Lombardia",POINT
+P.ZA BUTTI,Garbagnate Monastero,"Garbagnate Monastero, Lecco","{'type': 'Point', 'coordinates': [9.303160000000048, 45.77439000000004]}","Garbagnate Monastero, Lecco, Lombardia",POINT
+P.ZA FOPPA,Garlate,"Garlate, Lecco","{'type': 'Point', 'coordinates': [9.403050000000064, 45.80659000000003]}","Garlate, Lecco, Lombardia",POINT
+COLOMBE',Imbersago,"Imbersago, Lecco","{'type': 'Point', 'coordinates': [9.449320000000057, 45.70556000000005]}","Imbersago, Lecco, Lombardia",POINT
+AI FORNI,Introbio,"Introbio, Lecco","{'type': 'Point', 'coordinates': [9.448380000000043, 45.97580000000005]}","Introbio, Lecco, Lombardia",POINT
+LUNGO LARIO PIAVE,Lecco,Lecco,"{'type': 'Point', 'coordinates': [9.39187000000004, 45.85166000000004]}","Lecco, Lecco, Lombardia",POINT
+LOC.TA' SAIOLI,Lierna,"Lierna, Lecco","{'type': 'Point', 'coordinates': [9.301410000000033, 45.962000000000046]}","Lierna, Lecco, Lombardia",POINT
+VIA 1° MAGGIO,Lomagna,"Lomagna, Lecco","{'type': 'Point', 'coordinates': [9.374220000000037, 45.67107000000004]}","Lomagna, Lecco, Lombardia",POINT
+VIA SAN MICHELE,Malgrate,"Malgrate, Lecco","{'type': 'Point', 'coordinates': [9.388690000000054, 45.84796000000006]}","Malgrate, Lecco, Lombardia",POINT
+VIA STATALE,Mandello del Lario,"Mandello del Lario, Lecco","{'type': 'Point', 'coordinates': [9.316870000000051, 45.922330000000045]}","Mandello del Lario, Lecco, Lombardia",POINT
+LOC. ALPE GRASSO,Margno,"Margno, Lecco","{'type': 'Point', 'coordinates': [9.380860000000041, 46.03248000000008]}","Margno, Lecco, Lombardia",POINT
+VIA IV NOVEMBRE,Merate,"Merate, Lecco","{'type': 'Point', 'coordinates': [9.417280000000062, 45.69817000000006]}","Merate, Lecco, Lombardia",POINT
+VIA DEL MORO,Missaglia,"Missaglia, Lecco","{'type': 'Point', 'coordinates': [9.339200000000062, 45.70799000000005]}","Missaglia, Lecco, Lombardia",POINT
+LOC. IL PERO,Moggio,"Moggio, Lecco","{'type': 'Point', 'coordinates': [9.488140000000044, 45.93142000000006]}","Moggio, Lecco, Lombardia",POINT
+P.ZA BIFFI DON GIUSEPPE,Molteno,"Molteno, Lecco","{'type': 'Point', 'coordinates': [9.306160000000034, 45.77689000000004]}","Molteno, Lecco, Lombardia",POINT
+VIA PRATO DELLA SORTE,Monte Marenzo,"Monte Marenzo, Lecco","{'type': 'Point', 'coordinates': [9.454810000000066, 45.770170000000064]}","Monte Marenzo, Lecco, Lombardia",POINT
+VIA BASSA DEL POGGIO,Montevecchia,"Montevecchia, Lecco","{'type': 'Point', 'coordinates': [9.380390000000034, 45.70464000000004]}","Montevecchia, Lecco, Lombardia",POINT
+VIA CASATI GAETANO,Monticello Brianza,"Monticello Brianza, Lecco","{'type': 'Point', 'coordinates': [9.313850000000059, 45.707880000000046]}","Monticello Brianza, Lecco, Lombardia",POINT
+LOCALITA' BOSCO,Morterone,"Morterone, Lecco","{'type': 'Point', 'coordinates': [9.48231000000004, 45.87421000000006]}","Morterone, Lecco, Lombardia",POINT
+LOCALITA' CALIFORNIA,Nibionno,"Nibionno, Lecco","{'type': 'Point', 'coordinates': [9.267960000000073, 45.74712000000005]}","Nibionno, Lecco, Lombardia",POINT
+P.ZA GARIBALDI,Oggiono,"Oggiono, Lecco","{'type': 'Point', 'coordinates': [9.341980000000035, 45.78950000000003]}","Oggiono, Lecco, Lombardia",POINT
+VIA AI CAMPI,Olgiate Molgora,"Olgiate Molgora, Lecco","{'type': 'Point', 'coordinates': [9.400960000000055, 45.72842000000003]}","Olgiate Molgora, Lecco, Lombardia",POINT
+VIA REDAELLI,Olginate,"Olginate, Lecco","{'type': 'Point', 'coordinates': [9.410830000000033, 45.798140000000046]}","Olginate, Lecco, Lombardia",POINT
+P.ZA CONCILIAZIONE,Oliveto Lario,"Oliveto Lario, Lecco","{'type': 'Point', 'coordinates': [9.272040000000061, 45.955610000000036]}","Oliveto Lario, Lecco, Lombardia",POINT
+VIA S.ANNA,Osnago,"Osnago, Lecco","{'type': 'Point', 'coordinates': [9.391580000000033, 45.678630000000055]}","Osnago, Lecco, Lombardia",POINT
+CASCINA NUOVA,Paderno d'Adda,"Paderno d'Adda, Lecco","{'type': 'Point', 'coordinates': [9.441410000000076, 45.684330000000045]}","Paderno d'Adda, Lecco, Lombardia",POINT
+LOC. PIAZZOLA,Pagnona,"Pagnona, Lecco","{'type': 'Point', 'coordinates': [9.402950000000033, 46.060190000000034]}","Pagnona, Lecco, Lombardia",POINT
+LOC. CHIARELLO,Parlasco,"Parlasco, Lecco","{'type': 'Point', 'coordinates': [9.344180000000051, 46.01881000000003]}","Parlasco, Lecco, Lombardia",POINT
+DIVERSE MONTI DI PASTURO,Pasturo,"Pasturo, Lecco","{'type': 'Point', 'coordinates': [9.444470000000024, 45.95106000000004]}","Pasturo, Lecco, Lombardia",POINT
+CNT DEGLI OREFICI,Perledo,"Perledo, Lecco","{'type': 'Point', 'coordinates': [9.295000000000073, 46.01494000000008]}","Perledo, Lecco, Lombardia",POINT
+P.ZA DON G. RIVA,Pescate,"Pescate, Lecco","{'type': 'Point', 'coordinates': [9.395290000000045, 45.838820000000055]}","Pescate, Lecco, Lombardia",POINT
+L.TA' PIAZZAGORLA,Premana,"Premana, Lecco","{'type': 'Point', 'coordinates': [9.410750000000064, 46.055810000000065]}","Premana, Lecco, Lombardia",POINT
+CASC. CATTOLOSA,Primaluna,"Primaluna, Lecco","{'type': 'Point', 'coordinates': [9.432290000000023, 45.98548000000005]}","Primaluna, Lecco, Lombardia",POINT
+CASCINA REBUSTA,Robbiate,"Robbiate, Lecco","{'type': 'Point', 'coordinates': [9.434900000000027, 45.68611000000004]}","Robbiate, Lecco, Lombardia",POINT
+P.ZA V. EMANUELE II,Rogeno,"Rogeno, Lecco","{'type': 'Point', 'coordinates': [9.27350000000007, 45.782110000000046]}","Rogeno, Lecco, Lombardia",POINT
+P.ZZA PADRE FAUSTO TENTORIO,Santa Maria Hoe',"Santa Maria Hoè, Lecco","{'type': 'Point', 'coordinates': [9.374120000000062, 45.74415000000005]}","Santa Maria Hoe', Lecco, Lombardia",POINT
+L.TA' BERTA,Sirone,"Sirone, Lecco","{'type': 'Point', 'coordinates': [9.318460000000073, 45.77173000000005]}","Sirone, Lecco, Lombardia",POINT
+LOCALITA' ISOLA D'ELBA,Sirtori,"Sirtori, Lecco","{'type': 'Point', 'coordinates': [9.331600000000037, 45.73807000000005]}","Sirtori, Lecco, Lombardia",POINT
+ARTESSO,Sueglio,"Sueglio, Lecco","{'type': 'Point', 'coordinates': [9.33522000000005, 46.085300000000075]}","Sueglio, Lecco, Lombardia",POINT
+VIA PROVINCIALE,Suello,"Suello, Lecco","{'type': 'Point', 'coordinates': [9.314620000000048, 45.819150000000036]}","Suello, Lecco, Lombardia",POINT
+VIA AI CAMPI,Taceno,"Taceno, Lecco","{'type': 'Point', 'coordinates': [9.362230000000068, 46.02346000000006]}","Taceno, Lecco, Lombardia",POINT
+FRAZ. BORNEDA,Valgreghentino,"Valgreghentino, Lecco","{'type': 'Point', 'coordinates': [9.41288000000003, 45.77669000000003]}","Valgreghentino, Lecco, Lombardia",POINT
+VIA STRECCIOLA,Valmadrera,"Valmadrera, Lecco","{'type': 'Point', 'coordinates': [9.36247000000003, 45.84904000000006]}","Valmadrera, Lecco, Lombardia",POINT
+NON UTILIZ.-COD.CORRETTO 92264,Varenna,"Varenna, Lecco","{'type': 'Point', 'coordinates': [9.283730000000048, 46.010290000000055]}","Varenna, Lecco, Lombardia",POINT
+P.ZA MANZONI,Vercurago,"Vercurago, Lecco","{'type': 'Point', 'coordinates': [9.423880000000054, 45.81033000000008]}","Vercurago, Lecco, Lombardia",POINT
+VERDERIO INFERIORE,Verderio,"Verderio, Lecco","{'type': 'Point', 'coordinates': [9.44219000000004, 45.66729000000004]}","Verderio, Lecco, Lombardia",POINT
+CASCINA GIOVANNA,Vigano',"Viganò, Lecco","{'type': 'Point', 'coordinates': [9.322660000000042, 45.72514000000007]}","Vigano', Lecco, Lombardia",POINT

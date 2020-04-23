@@ -53,7 +53,7 @@ for k,comune in enumerate(comuneList):
         #url documento analisi
         #Scarica il certificato di analisi dell'acqua:
             
-reportList.to_csv('FriuliVeneziaGiulia/CAFC/Definitions/FoundReportList.csv',index=False)
+reportList.to_csv('FriuliVeneziaGiulia/CAFC/Medadata/DataReportCollection.csv',index=False)
 logging.info('Finish: %s',datetime.datetime.now())
 logging.info('Report found: %s',len(reportList))
 

@@ -54,4 +54,4 @@ listRemoveString = ['rubinetto cucina','Fontana pubblica','Fontana Pubblica','Ob
 for rs in listRemoveString:
     df['georeferencingString'] = df['georeferencingString'].apply(lambda s: s.replace( rs, '' ).strip() )
 
-df.to_csv('Definitions/LocationList.csv',index=False)
+df.to_csv('Medadata/LocationList.csv',index=False)

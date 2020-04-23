@@ -9,7 +9,7 @@ xls.dropna(axis=0,subset=['Comune / Gemeinde'],inplace=True)
 xls.columns = xls.columns.str.replace('\n','')
 
 xls.sort_values(by=['Comune / Gemeinde','Punto di prelievo / Entnahmepunkt','Data prelievo / Entnahme Datum '], inplace=True)
-xls.to_csv('Definitions/ReportAnalisiAltoAdige.csv',index=False)
+xls.to_csv('Medadata/ReportAnalisiAltoAdige.csv',index=False)
 
 alias_city = xls['Comune / Gemeinde']
 alias_address = xls['Punto di prelievo / Entnahmepunkt']
@@ -29,4 +29,4 @@ listRemoveString = ['rubinetto cucina','Fontana pubblica','Fontana Pubblica','Ob
 for rs in listRemoveString:
     df['georeferencingString'] = df['georeferencingString'].apply(lambda s: s.replace( rs, '' ).strip() )
 
-df.to_csv('Definitions/LocationList.csv',index=False)
+df.to_csv('Medadata/LocationList.csv',index=False)

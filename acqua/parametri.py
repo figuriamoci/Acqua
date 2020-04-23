@@ -31,10 +31,19 @@ def crea_dizionario(SynParametrifile):
                     sinonimiParametro[row[col].lower()] = row['parametro'].lower()
     return sinonimiParametro
 
-#def crea_dizionario():     return crea_dizionario_parametri('Definitions/SynParametri.csv')
+#def crea_dizionario():     return crea_dizionario_parametri('Medadata/SynParametri.csv')
 
 def getSTDParm(synonimous,parm):
-    return synonimous[parm.lower()]
+    import numpy as np
+    if synonimous is not np.nan:
+        p = synonimous[parm.lower()]
+        if parm not in ['data_report', 'alias_city', 'alias_address']:
+            ps = p.str( p ).replace( ' ', '' )
+        else:
+            ps = p.str( p ).strip()
+        return ps
+    else:
+        return parm.lower().strip()
 
 def getDescrizione(key):
     v = DescrizioneParametro[key.upper()]
@@ -62,9 +71,13 @@ def getListSynonyms(SynParametrifile):
 def getParametersAdmitted(SynParametrifile):
     import pandas as pd
     df = pd.read_csv(SynParametrifile, encoding='utf-8')
-    dfParametersAdmitted = df.iloc[:,1:]#.dropna(axis=1, how='all')
+    dfParametersAdmitted = df.iloc[:,1:]
     output = []
     for parmList in dfParametersAdmitted.values.tolist():
         for p in parmList:
             if not pd.isna(p): output.append( p )
     return output
+
+def standardize(synonimous,parms):
+    return {getSTDParm(synonimous,k): str(v).replace(',','.').replace(' ','') for k, v in parms.items()}
+

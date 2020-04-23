@@ -20,8 +20,8 @@ os.chdir('/Users/andrea/PycharmProjects/Acqua/Veneto/Lta')
 logging.basicConfig(level=logging.DEBUG)
 idGestore = 23007 #lta
 data_report = 'settembre 2919'
-listParameters = parm.getListSynonyms('Definitions/SynParametri.csv')
-parm.crea_dizionario('Definitions/SynParametri.csv')
+listParameters = parm.getListSynonyms('Medadata/SynParametri.csv')
+parm.crea_dizionario('Medadata/SynParametri.csv')
 ##
 df = pd.read_csv('Definitions/LocationList.csv')
 df.set_index(['alias_city','alias_address'],inplace=True)
@@ -55,7 +55,7 @@ for loc in locationList:
     label = label.set_index('Parametro').to_dict()
 
     lb = al.create_label( idGestore, data_report, label['Valore'] )
-    glb = al.addGeocodeData( lb, loc, 'Definitions/GeoReferencedLocationsList.csv' )
+    glb = al.addGeocodeData( lb, loc, 'Medadata/GeoReferencedLocationsList.csv' )
     for j in range(0,len(glb)): ll.append( glb[j] )
 ##
 logging.info('End.')

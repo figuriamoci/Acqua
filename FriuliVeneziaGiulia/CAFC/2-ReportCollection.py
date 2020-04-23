@@ -16,7 +16,7 @@ options.add_argument('--headless')
 driver = webdriver.Chrome("chromedriver", options=options)
 driver.get("https://www.cafcspa.com/solud/it-_qualita_acqua.cfm")
 #print('Http status: ',page.status_code)
-df = pd.read_csv('FriuliVeneziaGiulia/CAFC/Definitions/LocationList.csv')
+df = pd.read_csv('FriuliVeneziaGiulia/CAFC/Medadata/LocationList.csv')
 comuneList = [comune for comune in df['alias_city'].drop_duplicates()]
 reportList = pd.DataFrame()
 logging.info( 'Start: %s', datetime.datetime.now() )
@@ -53,7 +53,7 @@ for k,comune in enumerate(comuneList):
         #url documento analisi
         #Scarica il certificato di analisi dell'acqua:
             
-reportList.to_csv('FriuliVeneziaGiulia/CAFC/Definitions/FoundReportList.csv',index=False)
+reportList.to_csv('FriuliVeneziaGiulia/CAFC/Medadata/DataReportCollection.csv',index=False)
 logging.info('Finish: %s',datetime.datetime.now())
 logging.info('Report found: %s',len(reportList))
 

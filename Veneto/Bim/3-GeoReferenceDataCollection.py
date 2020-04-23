@@ -3,9 +3,9 @@ import os,pandas as pd,logging
 import acqua.geoCode as gc
 logging.basicConfig(level=logging.INFO)
 os.chdir('/Users/andrea/PycharmProjects/Acqua/Veneto/Bim')
-locationListFile = 'Definitions/LocationList.csv'
+locationListFile = 'Medadata/LocationList.csv'
 quartieriFile = '../ReteAcquedotti/rete_acquedotti_veneto.geojson'
-geoReferencedLocationsFile = 'Definitions/GeoReferencedLocationsList.csv'
+geoReferencedLocationsFile = 'Medadata/GeoReferencedLocationsList.csv'
 mapFile = 'Bim.html'
 
 def rimuoviTermini():

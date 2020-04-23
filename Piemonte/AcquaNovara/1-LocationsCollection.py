@@ -21,4 +21,4 @@ locationList['alias_address'] = 'Comune'
 locationList['georeferencingString'] = locationList['alias_city']+', Piemonte, Italia'
 locationList['type'] = 'POINT'
 driver.close()
-locationList.to_csv('Definitions/LocationList.csv',index=False)
+locationList.to_csv('Medadata/LocationList.csv',index=False)

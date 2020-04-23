@@ -1,5 +1,6 @@
 import pandas as pd
-from geopy.geocoders import Nominatim
+from geopy.geocoders import ArcGIS
+#from geopy.geocoders import Here
 from geopy.extra.rate_limiter import RateLimiter
 import logging,os
 import geojson as json
@@ -118,7 +119,8 @@ def findGeoName(geoReferencedLocationsListFile):
     df = pd.read_csv(geoReferencedLocationsListFile)
     logging.info('Load geoReferencedLocationsListFile. Waiting...')
 
-    geolocator = Nominatim(user_agent="water")
+    geolocator = ArcGIS( username='an.fantini@gmail.com', password='primavera2020!', referer='acqua' )
+    #geolocator = Here(app_id="owSLQrCNHb5Z4QhAdE0z",user_agent="acqua")
     geocode = RateLimiter(geolocator.geocode, min_delay_seconds=1)
 
     n = df[df['geocode'].isnull()]
@@ -169,7 +171,8 @@ def findGeometry(geoReferencedLocationsListFile,polygonFile):
     if len( df[point]) > 0:
 
         #Istantiate Nominatim
-        geolocator = Nominatim(user_agent="water")
+        geolocator = ArcGIS( username='an.fantini@gmail.com', password='primavera2020!', referer='acqua' )
+        #geolocator = Here( app_id="owSLQrCNHb5Z4QhAdE0z", user_agent="acqua" )
         geocode = RateLimiter(geolocator.geocode, min_delay_seconds=1)
 
         dfPoint_ = df[point].copy()
@@ -201,7 +204,8 @@ def findCoordinates(geoReferencedLocationsListFile):
     df = pd.read_csv(geoReferencedLocationsListFile)
 
     #Istantiate Nominatim
-    geolocator = Nominatim(user_agent="water")
+    geolocator = ArcGIS( username='an.fantini@gmail.com', password='primavera2020!', referer='acqua' )
+    #geolocator = Here(app_id="owSLQrCNHb5Z4QhAdE0z",user_agent="acqua")
     geocode = RateLimiter(geolocator.geocode, min_delay_seconds=1)
 
     dfPoint_ = df.copy()

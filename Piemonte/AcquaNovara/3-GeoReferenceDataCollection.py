@@ -5,9 +5,9 @@ logging.basicConfig(level=logging.INFO)
 
 os.chdir('/Users/andrea/PycharmProjects/Acqua/Piemonte/AcquaNovara')
 
-locationListFile = 'Definitions/LocationList.csv'
+locationListFile = 'Medadata/LocationList.csv'
 quartieriFile = '../ReteAcquedotti/rete_acquedotti_piemonte.geojson'
-geoReferencedLocationsFile = 'Definitions/GeoReferencedLocationsList.csv'
+geoReferencedLocationsFile = 'Medadata/GeoReferencedLocationsList.csv'
 mapFile = 'AcquaNovara.html'
 
 #gc.createGeoReferencedLocationsList(locationListFile,geoReferencedLocationsFile)

@@ -1,0 +1,34 @@
+alias_address,alias_city,ammoniaca,arsenico,calcio,cloruro,conducibilita,data_report,durezza,fluoruri,magnesio,ph,potassio,residuo_fisso,sodio
+Comune,ponti,0.01,0.6,105.2,11.4,680.0,Dati aggiornati al II semestre 2019,39.0,0.13,30.9,7.6,2.3,487.0,8.9
+Comune,roverbella,0.04,0.4,67.2,9.5,532.0,Dati aggiornati al II semestre 2019,27.8,0.07,26.7,7.7,1.0,381.0,2.8
+Comune,castelbelforte,0.01,5.8,59.1,60.4,742.0,Dati aggiornati al II semestre 2019,24.1,0.27,22.8,7.8,4.4,531.0,42.4
+Comune,bigarello,0.01,3.0,56.2,41.8,458.0,Dati aggiornati al II semestre 2019,22.8,0.24,21.4,7.9,4.0,328.0,34.3
+Comune,casteldario,0.01,6.5,60.7,75.1,792.0,Dati aggiornati al II semestre 2019,25.1,0.26,24.0,7.7,5.0,567.0,48.6
+Comune,marmirolo,0.01,2.9,46.0,13.8,315.0,Dati aggiornati al II semestre 2019,18.1,0.14,16.0,7.7,1.9,242.0,8.8
+Comune,porto,0.01,2.2,46.4,4.7,364.0,Dati aggiornati al II semestre 2019,18.2,0.13,16.2,7.9,2.5,261.0,8.4
+Comune,san giorgio,0.01,3.4,23.0,2.0,405.0,Dati aggiornati al I semestre 2019,9.0,0.08,8.0,7.7,1.0,nan,5.0
+Comune,mantova,0.01,3.2,56.5,3.4,388.0,Dati aggiornati al II semestre 2019,22.0,0.15,19.2,7.8,2.0,278.0,12.6
+Comune,roncoferraro,0.01,2.8,55.7,40.0,408.0,Dati aggiornati al II semestre 2019,22.4,0.22,21.0,7.9,3.5,292.0,30.0
+Comune,sustinente,0.01,2.9,56.6,47.7,489.0,Dati aggiornati al II semestre 2019,23.0,0.25,21.5,7.8,3.8,350.0,34.0
+Comune,serravalle,0.01,3.4,58.9,41.4,463.0,Dati aggiornati al II semestre 2019,23.6,0.23,21.9,7.9,3.6,331.0,30.1
+Comune,ostiglia,0.01,3.5,52.3,19.5,457.0,Dati aggiornati al II semestre 2019,20.9,0.17,19.0,7.9,2.8,327.0,18.2
+Comune,carbonara,0.01,5.1,84.7,19.6,609.0,Dati aggiornati al II semestre 2019,29.6,0.11,20.5,7.6,8.6,436.0,18.7
+Comune,sermide,0.01,4.0,83.4,19.2,590.0,Dati aggiornati al II semestre 2019,29.5,0.12,21.0,7.7,9.0,422.0,18.5
+Comune,magnacavallo,0.01,4.9,50.8,29.6,601.0,Dati aggiornati al II semestre 2019,19.7,0.21,17.0,7.6,1.8,430.0,44.7
+Comune,pieve,0.02,3.9,54.7,29.1,559.0,Dati aggiornati al II semestre 2019,21.6,0.2,18.6,7.8,1.8,400.0,47.6
+Comune,schivenoglia,0.01,4.1,53.4,32.4,555.0,Dati aggiornati al II semestre 2019,20.8,0.2,18.2,7.7,1.9,398.0,46.2
+Comune,quingentole,0.01,6.1,58.6,74.5,684.0,Dati aggiornati al II semestre 2019,22.8,0.22,20.5,7.7,2.1,490.0,69.7
+Comune,pegognaga,0.01,5.4,71.4,53.1,736.0,Dati aggiornati al II semestre 2019,28.4,0.12,25.7,7.7,2.0,527.0,48.0
+Comune,gonzaga,0.02,0.8,34.1,24.5,1029.0,Dati aggiornati al II semestre 2019,39.8,0.17,45.1,7.5,1.2,780.0,46.5
+Comune,bagnolo,0.02,3.5,53.4,4.6,397.0,Dati aggiornati al II semestre 2019,20.8,0.16,18.0,7.7,2.0,284.0,11.0
+Comune,borgovirgilio,0.01,2.8,55.0,3.1,425.0,Dati aggiornati al II semestre 2019,21.5,0.16,18.8,7.8,2.1,305.0,12.0
+Comune,motteggiana,0.01,5.3,68.4,53.1,749.0,Dati aggiornati al II semestre 2019,27.2,0.12,24.7,7.7,1.8,536.0,45.3
+Comune,suzzara,0.02,5.2,72.5,212.1,1195.0,Dati aggiornati al II semestre 2019,29.7,0.1,28.1,7.7,2.2,906.0,142.0
+Comune,curtatone,0.03,3.8,60.5,4.9,426.0,Dati aggiornati al II semestre 2019,23.5,0.12,20.4,7.7,1.6,305.0,16.2
+Comune,marcaria,0.03,3.6,66.7,6.54,510.0,Dati aggiornati al II semestre 2019,25.8,0.7,22.3,7.7,1.3,365.0,22.0
+Comune,acquanegra,0.01,4.2,70.9,5.7,477.0,Dati aggiornati al II semestre 2019,25.2,0.15,18.2,7.6,2.2,342.0,10.1
+Comune,sanmartino,0.02,4.2,63.8,8.1,525.0,Dati aggiornati al II semestre 2019,24.5,0.07,20.9,7.7,1.3,376.0,20.2
+Comune,bozzolo,0.01,4.4,64.0,6.1,587.0,Dati aggiornati al II semestre 2019,25.0,0.08,21.8,7.7,2.2,420.0,21.6
+Comune,rivarolo,0.01,4.6,65.7,9.2,521.0,Dati aggiornati al II semestre 2019,25.8,0.07,22.0,7.8,1.2,373.0,22.0
+Comune,dosolo,0.01,0.5,78.3,8.04,777.0,Dati aggiornati al II semestre 2019,34.8,0.15,36.8,7.5,1.1,556.0,47.4
+Comune,castellucchio,0.01,5.8,64.0,6.0,476.0,Dati aggiornati al II semestre 2019,25.0,0.1,21.8,7.7,2.2,341.0,21.6

@@ -34,5 +34,5 @@ for i,location in locationList.iterrows():
     report.update(parameters)
     reportFoundList = reportFoundList.append(report,ignore_index=True)
 
-reportFoundList.to_csv('Definitions/ReportFoundList.csv',decimal='.',index=False)
+reportFoundList.to_csv('Medadata/DataReportCollection.csv',decimal='.',index=False)
 logging.info('Finish: %s',datetime.datetime.now())

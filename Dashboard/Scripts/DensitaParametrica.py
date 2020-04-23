@@ -22,7 +22,7 @@ for e_ in e:
 # Find the Water supply network target
 searcingString = {"properties.regione":"Veneto"}
 searcingString = {"properties.regione":"Friuli Venezia Giulia"}
-#searcingString = {"properties.regione":"Lombardia"}
+searcingString = {"properties.regione":"Lombardia"}
 f = db.rete_acuquedotti.find( {} )
 features = []
 for m in f:

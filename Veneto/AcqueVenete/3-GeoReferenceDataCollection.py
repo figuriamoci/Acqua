@@ -3,8 +3,8 @@ import acqua.aqueduct as aq
 id_gestore = "AcqueVenete"
 aq.setEnv('Veneto//'+id_gestore)
 
-locationListFile = 'Definitions/LocationList.csv'
-geoReferencedLocationsFile = 'Definitions/GeoReferencedLocationsList.csv'
+locationListFile = 'Medadata/LocationList.csv'
+geoReferencedLocationsFile = 'Medadata/GeoReferencedLocationsList.csv'
 reteAquedottiFile = '../ReteAcquedotti/rete_acquedotti_veneto.geojson'
 mapFile = id_gestore+'.html'
 

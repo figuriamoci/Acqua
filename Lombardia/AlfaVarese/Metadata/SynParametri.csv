@@ -1,0 +1,21 @@
+parametro,syn0,syn1,syn2,syn3,syn4,syn5,syn6,syn7,syn8,syn9
+residuo_fisso,
+durezza,Durezza totale,Durezza (da calcolo)
+ph,pH,Concentrazione ioni idrogeno
+calcio,Calcio (Ca)
+sodio,Sodio (Na)
+magnesio,Magnesio (Mg)
+potassio,
+solfato,Solfati (SO4)
+nitrato,Nitrati (NO3),Azoto nitrico (espresso come NO3)
+nitrito,Nitriti (NO2)
+cloruro,Cloruri (Cl)
+conducibilita,Conducibilità elettrica a 20°C,* Conducibilità a 25°C
+fluoruri,Fluoruri (F)
+ammoniaca,
+manganese,Manganese (Mn)
+arsenico,Arsenico (As)
+bicarbonato,
+cloro_residuo,
+ferro,Ferro (Fe)
+cromo,Cromo (Cr)

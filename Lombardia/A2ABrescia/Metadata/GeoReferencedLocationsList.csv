@@ -1,0 +1,401 @@
+alias_address,alias_city,geocode,geometry,georeferencingString,type
+Via Piazza,BRESCIA,"Via della Piazza, Pendolina, Urago Mella, Zona Ovest, Brescia, Lombardia, 25127, Italia","{'type': 'Point', 'coordinates': [10.2002665, 45.5656367]}","Via della Piazza, BRESCIA, BS, Lombardia",POINT
+Via Raffaello,BRESCIA,"Via Raffaello, San Polo - Parco, Zona Est, Brescia, Lombardia, 25124, Italia","{'type': 'Point', 'coordinates': [10.242387, 45.5161345]}","Via Raffaello, San Polo - Parco, Zona Est, Brescia, Lombardia, 25124, Italia",POINT
+Cimitero,GAVARDO,"Via Venticinque Aprile, Bostone, Gavardo, Comunità montana della valle Sabbia, Brescia, Lombardia, 25085, Italia","{'type': 'Point', 'coordinates': [10.4440268, 45.580841]}","Via venticinque aprile, GAVARDO, BS, Lombardia",POINT
+Via Leopardi,OSPITALETTO,"Via Giacomo Leopardi, Ospitaletto, Brescia, Lombardia, 25035, Italia","{'type': 'Point', 'coordinates': [10.0644588, 45.5572135]}","Via Giacomo Leopardi, OSPITALETTO, BS, Lombardia",POINT
+Via IV Novembre,SAN GERVASIO,"Via Quattro Novembre, San Gervasio Bresciano, Brescia, Lombardia, 25025, Italia","{'type': 'Point', 'coordinates': [10.1440608, 45.3064997]}","VIA QUATTRO NOVEMBRE, SAN GERVASIO BRESCIANO, BS, Lombardia",POINT
+Via Marconi,ACQUAFREDDA,"Via Guglielmo Marconi, Acquafredda, Brescia, Lombardia, 25013, Italia","{'type': 'Point', 'coordinates': [10.41084,45.30777]}","Via Guglielmo Marconi, ACQUAFREDDA, BS, Lombardia",POINT
+Via Repubblica,ACQUAFREDDA,,,"Via della Repubblica, ACQUAFREDDA, BS, Lombardia",POINT
+Via Disciplina,AGNOSINE,,,"Via Disciplina, AGNOSINE, BS, Lombardia",POINT
+Via Chiesa,ALFIANELLO,,,"Via Chiesa, ALFIANELLO, BS, Lombardia",POINT
+Via Libertà,ALFIANELLO,,,"Via Libertà, ALFIANELLO, BS, Lombardia",POINT
+Via Marconi,ANFO,,,"Via Roma, ANFO, BS, Lombardia",POINT
+Via Tre Casali,ANFO,,,"Via Tre Casali, ANFO, BS, Lombardia",POINT
+Strada Provinciale XI,Acquafredda,,,"Strada Provinciale XI, Acquafredda, BS, Lombardia",POINT
+Via Mabellini,Anfo,,,"Via Mabellini, Anfo, BS, Lombardia",POINT
+Via I Maggio,BAGNOLO MELLA,,,"Via I Maggio, BAGNOLO MELLA, BS, Lombardia",POINT
+Via della Repubblica,BAGNOLO MELLA,,,"Via della Repubblica, BAGNOLO MELLA, BS, Lombardia",POINT
+Plompe,BAGOLINO,,,"Plompe, BAGOLINO, BS, Lombardia",POINT
+Via Maniva,BAGOLINO,,,"Via Maniva, BAGOLINO, BS, Lombardia",POINT
+Via San Luca,BAGOLINO,,,"Via San Luca, BAGOLINO, BS, Lombardia",POINT
+Fossane,BARGHE,,,"Fossane, BARGHE, BS, Lombardia",POINT
+Via XXV Aprile,BARGHE,,,"Via XXV Aprile, BARGHE, BS, Lombardia",POINT
+Via Alighieri,BEDIZZOLE,,,"Via Alighieri, BEDIZZOLE, BS, Lombardia",POINT
+Via Arzaga,BEDIZZOLE,,,"Via Arzaga, BEDIZZOLE, BS, Lombardia",POINT
+Via Libertà angolo Via IV Novembre,BEDIZZOLE,,,"Via Libertà angolo Via IV Novembre, BEDIZZOLE, BS, Lombardia",POINT
+Via Signorina angolo Via Barazzola,BEDIZZOLE,,,"Via Signorina angolo Via Barazzola, BEDIZZOLE, BS, Lombardia",POINT
+Via Valsabbia,BEDIZZOLE,,,"Via Valsabbia, BEDIZZOLE, BS, Lombardia",POINT
+Via Ariolo,BIONE,,,"Via Ariolo, BIONE, BS, Lombardia",POINT
+Via Bersenico Sotto,BIONE,,,"Via Bersenico Sotto, BIONE, BS, Lombardia",POINT
+Via Don Albino Festa,BIONE,,,"Via Don Albino Festa, BIONE, BS, Lombardia",POINT
+Via Pascoli,BORGOSATOLLO,,,"Via Pascoli, BORGOSATOLLO, BS, Lombardia",POINT
+Via Toscanini,BORGOSATOLLO,,,"Via Toscanini, BORGOSATOLLO, BS, Lombardia",POINT
+Piazza Aldo Moro,BOTTICINO,,,"Piazza Aldo Moro, BOTTICINO, BS, Lombardia",POINT
+Via Don Milani,BOTTICINO,,,"Via Don Milani, BOTTICINO, BS, Lombardia",POINT
+Via IV Novembre,BOTTICINO,,,"Via IV Novembre, BOTTICINO, BS, Lombardia",POINT
+Via Canossi,BOVEZZO,,,"Via Canossi, BOVEZZO, BS, Lombardia",POINT
+Via IV Novembre,BRANDICO,,,"Via IV Novembre, BRANDICO, BS, Lombardia",POINT
+Corso Matteotti angolo Corso Garibaldi,BRESCIA,,,"Corso Matteotti angolo Corso Garibaldi, BRESCIA, BS, Lombardia",POINT
+Via Benacense angolo Via Canalotto,BRESCIA,,,"Via Benacense angolo Via Canalotto, BRESCIA, BS, Lombardia",POINT
+Via Capretti angolo Via Triumplina,BRESCIA,,,"Via Capretti angolo Via Triumplina, BRESCIA, BS, Lombardia",POINT
+Via Dal Monte,BRESCIA,,,"Via Dal Monte, BRESCIA, BS, Lombardia",POINT
+Via Fiorentini,BRESCIA,,,"Via Fiorentini, BRESCIA, BS, Lombardia",POINT
+Via Micheli,BRESCIA,,,"Via Micheli, BRESCIA, BS, Lombardia",POINT
+Via Moretto angolo Via Santa Croce,BRESCIA,,,"Via Moretto angolo Via Santa Croce, BRESCIA, BS, Lombardia",POINT
+Via Rione,BRESCIA,,,"Via Rione, BRESCIA, BS, Lombardia",POINT
+Via Veneto  angolo Via Salvo d'Acquisto,BRESCIA,,,"Via Veneto  angolo Via Salvo d'Acquisto, BRESCIA, BS, Lombardia",POINT
+Via Gobetti,Bagnolo del Mella,,,"Via Gobetti, Bagnolo del Mella, BS, Lombardia",POINT
+Via Don G. Bazzoli,Bione,,,"Via Don G. Bazzoli, Bione, BS, Lombardia",POINT
+Piazza Castello,Borgosatollo,,,"Piazza Castello, Borgosatollo, BS, Lombardia",POINT
+Via Fontane,CAPOVALLE,,,"Via Fontane, CAPOVALLE, BS, Lombardia",POINT
+Via Garibaldi,CASTENEDOLO,,,"Via Garibaldi, CASTENEDOLO, BS, Lombardia",POINT
+Via Matteotti,CASTENEDOLO,,,"Via Matteotti, CASTENEDOLO, BS, Lombardia",POINT
+Via Pasubio,CASTENEDOLO,,,"Via Pasubio, CASTENEDOLO, BS, Lombardia",POINT
+Via Piazza,CASTO,,,"Via Piazza, CASTO, BS, Lombardia",POINT
+Via Tito Speri,CASTO,,,"Via Tito Speri, CASTO, BS, Lombardia",POINT
+Via San Francesco,COLLEBEATO,,,"Via San Francesco, COLLEBEATO, BS, Lombardia",POINT
+Via Gilli,CONCESIO,,,"Via Gilli, CONCESIO, BS, Lombardia",POINT
+Via Segheria,CONCESIO,,,"Via Segheria, CONCESIO, BS, Lombardia",POINT
+Via 24 Maggio,Capovalle,,,"Via 24 Maggio, Capovalle, BS, Lombardia",POINT
+Via Garibaldi,Capriano del Colle,,,"Via Garibaldi, Capriano del Colle, BS, Lombardia",POINT
+Via Pascoli,Concesio,,,"Via Pascoli, Concesio, BS, Lombardia",POINT
+Piazza Caduti,FIESSE,,,"Piazza Caduti, FIESSE, BS, Lombardia",POINT
+Via Denti,FIESSE,,,"Via Denti, FIESSE, BS, Lombardia",POINT
+Via Nazzari,FIESSE,,,"Via Nazzari, FIESSE, BS, Lombardia",POINT
+Piazza Corioni,GAVARDO,,,"Piazza Corioni, GAVARDO, BS, Lombardia",POINT
+Piazza Moro,GAVARDO,,,"Piazza Moro, GAVARDO, BS, Lombardia",POINT
+Piazza Pesa,GAVARDO,,,"Piazza Pesa, GAVARDO, BS, Lombardia",POINT
+Piazza Martiri della Libertà,GOTTOLENGO,,,"Piazza Martiri della Libertà, GOTTOLENGO, BS, Lombardia",POINT
+Via Alberini,GOTTOLENGO,,,"Via Alberini, GOTTOLENGO, BS, Lombardia",POINT
+Via Kennedy,GUSSAGO,,,"Via Kennedy, GUSSAGO, BS, Lombardia",POINT
+Via Cavour,Gottolengo,,,"Via Cavour, Gottolengo, BS, Lombardia",POINT
+Strada Provinciale 58 per Capovalle,IDRO,,,"Strada Provinciale 58 per Capovalle, IDRO, BS, Lombardia",POINT
+Via Treviso Bresciano,IDRO,,,"Via Treviso Bresciano, IDRO, BS, Lombardia",POINT
+Piazza Castello angolo Via Marconi,ISORELLA,,,"Piazza Castello angolo Via Marconi, ISORELLA, BS, Lombardia",POINT
+Piazza Roma,ISORELLA,,,"Piazza Roma, ISORELLA, BS, Lombardia",POINT
+Via De Gasperi angolo via Berardo Maggi,ISORELLA,,,"Via De Gasperi angolo via Berardo Maggi, ISORELLA, BS, Lombardia",POINT
+Via de Gasperi,Isorella,,,"Via de Gasperi, Isorella, BS, Lombardia",POINT
+Piazza Santo Stefano,LAVENONE,,,"Piazza Santo Stefano, LAVENONE, BS, Lombardia",POINT
+Via Pileca,LAVENONE,,,"Via Pileca, LAVENONE, BS, Lombardia",POINT
+Piazza Corlo,LONATO,,,"Piazza Corlo, LONATO, BS, Lombardia",POINT
+Via Arriga Alta,LONATO,,,"Via Arriga Alta, LONATO, BS, Lombardia",POINT
+Via Ceruti,LONATO,,,"Via Ceruti, LONATO, BS, Lombardia",POINT
+Via Galilei,LONATO,,,"Via Galilei, LONATO, BS, Lombardia",POINT
+Via XXIV Maggio,LONATO,,,"Via XXIV Maggio, LONATO, BS, Lombardia",POINT
+Piazza della Chiesa,LONGHENA,,,"Piazza della Chiesa, LONGHENA, BS, Lombardia",POINT
+Via per Presegno,Lavenone,,,"Via per Presegno, Lavenone, BS, Lombardia",POINT
+Via Colombere Pozze,Lonato del Garda,,,"Via Colombere Pozze, Lonato del Garda, BS, Lombardia",POINT
+Piazza Calini,MAIRANO,,,"Piazza Calini, MAIRANO, BS, Lombardia",POINT
+Via Mazzini,MAIRANO,,,"Via Mazzini, MAIRANO, BS, Lombardia",POINT
+Via Donatori del Sangue,MANERBIO,,,"Via Donatori del Sangue, MANERBIO, BS, Lombardia",POINT
+Via Morandi angolo Via Boccaccio,MANERBIO,,,"Via Morandi angolo Via Boccaccio, MANERBIO, BS, Lombardia",POINT
+Via Offlaga,MANERBIO,,,"Via Offlaga, MANERBIO, BS, Lombardia",POINT
+Via Roncagnani,MANERBIO,,,"Via Roncagnani, MANERBIO, BS, Lombardia",POINT
+Via Garibaldi,MAZZANO,,,"Via Garibaldi, MAZZANO, BS, Lombardia",POINT
+Via Battisti angolo Vicolo Magenta,MILZANO,,,"Via Battisti angolo Vicolo Magenta, MILZANO, BS, Lombardia",POINT
+Via Dott. Galli angolo Via Maestà,MILZANO,,,"Via Dott. Galli angolo Via Maestà, MILZANO, BS, Lombardia",POINT
+Via Europa angolo Via Gramsci,MILZANO,,,"Via Europa angolo Via Gramsci, MILZANO, BS, Lombardia",POINT
+Via Allende,MONTICHIARI,,,"Via Allende, MONTICHIARI, BS, Lombardia",POINT
+Via Arrighini,MONTICHIARI,,,"Via Arrighini, MONTICHIARI, BS, Lombardia",POINT
+Via Bernardino,MONTICHIARI,,,"Via Bernardino, MONTICHIARI, BS, Lombardia",POINT
+Via Boschetti di Mezzo,MONTICHIARI,,,"Via Boschetti di Mezzo, MONTICHIARI, BS, Lombardia",POINT
+Via Dugali,MONTICHIARI,,,"Via Dugali, MONTICHIARI, BS, Lombardia",POINT
+Via Lame,MONTICHIARI,,,"Via Lame, MONTICHIARI, BS, Lombardia",POINT
+Via Marconi,MONTICHIARI,,,"Via Marconi, MONTICHIARI, BS, Lombardia",POINT
+Via Monsignor Quaranta,MONTICHIARI,,,"Via Monsignor Quaranta, MONTICHIARI, BS, Lombardia",POINT
+Via Sant'Eurosia,MONTICHIARI,,,"Via Sant'Eurosia, MONTICHIARI, BS, Lombardia",POINT
+Piazza Risorgimento,MONTIRONE,,,"Piazza Risorgimento, MONTIRONE, BS, Lombardia",POINT
+Piazza Cavour,MURA,,,"Piazza Cavour, MURA, BS, Lombardia",POINT
+Via Castello,MURA,,,"Via Castello, MURA, BS, Lombardia",POINT
+Via San Domenico,MURA,,,"Via San Domenico, MURA, BS, Lombardia",POINT
+Piazzale Ospedale,Manerbio,,,"Piazzale Ospedale, Manerbio, BS, Lombardia",POINT
+Strada Provinciale 50,Marmentino,,,"Strada Provinciale 50, Marmentino, BS, Lombardia",POINT
+Viale della Resistenza (Molinetto),Mazzano,,,"Viale della Resistenza (Molinetto), Mazzano, BS, Lombardia",POINT
+Via C. Inico,Montichiari,,,"Via C. Inico, Montichiari, BS, Lombardia",POINT
+Via Carlo Cattaneo (Novagli),Montichiari,,,"Via Carlo Cattaneo (Novagli), Montichiari, BS, Lombardia",POINT
+Via F. Corridoni,Montirone,,,"Via F. Corridoni, Montirone, BS, Lombardia",POINT
+Via V. Trainini,Mura,,,"Via V. Trainini, Mura, BS, Lombardia",POINT
+Via Monteclana bassa,NAVE,,,"Via Monteclana bassa, NAVE, BS, Lombardia",POINT
+Via Soldo,NUVOLERA,,,"Via Soldo, NUVOLERA, BS, Lombardia",POINT
+Piazza Santa Maria Bambina,ODOLO,,,"Piazza Santa Maria Bambina, ODOLO, BS, Lombardia",POINT
+Via Fratelli Scalvini,ODOLO,,,"Via Fratelli Scalvini, ODOLO, BS, Lombardia",POINT
+Via Conte Fè d'Ostiani,OFFLAGA,,,"Via Conte Fè d'Ostiani, OFFLAGA, BS, Lombardia",POINT
+Piazza Aldo Moro,OME,,,"Piazza Aldo Moro, OME, BS, Lombardia",POINT
+Via Battola,OME,,,"Via Battola, OME, BS, Lombardia",POINT
+Via Goiane angolo via San Michele,OME,,,"Via Goiane angolo via San Michele, OME, BS, Lombardia",POINT
+Via Crispi angolo Via Galilei,ORZINUOVI,,,"Via Crispi angolo Via Galilei, ORZINUOVI, BS, Lombardia",POINT
+Via Don Mazzolari,ORZINUOVI,,,"Via Don Mazzolari, ORZINUOVI, BS, Lombardia",POINT
+Via Ferraroli,ORZINUOVI,,,"Via Ferraroli, ORZINUOVI, BS, Lombardia",POINT
+Via IV Novembre,ORZINUOVI,,,"Via IV Novembre, ORZINUOVI, BS, Lombardia",POINT
+Via Prebenda,ORZINUOVI,,,"Via Prebenda, ORZINUOVI, BS, Lombardia",POINT
+Via Tasso,ORZINUOVI,,,"Via Tasso, ORZINUOVI, BS, Lombardia",POINT
+Via Praes,Odolo,,,"Via Praes, Odolo, BS, Lombardia",POINT
+Piazza del Mercato,Ome,,,"Piazza del Mercato, Ome, BS, Lombardia",POINT
+Via Chiosetto,PAITONE,,,"Via Chiosetto, PAITONE, BS, Lombardia",POINT
+Via Marconi,PAVONE DEL MELLA,,,"Via Marconi, PAVONE DEL MELLA, BS, Lombardia",POINT
+Via Togliatti,PAVONE DEL MELLA,,,"Via Togliatti, PAVONE DEL MELLA, BS, Lombardia",POINT
+Noffo Bassa,PERTICA ALTA,,,"Noffo Bassa, PERTICA ALTA, BS, Lombardia",POINT
+Piazza Marconi,PERTICA ALTA,,,"Piazza Marconi, PERTICA ALTA, BS, Lombardia",POINT
+Via Moro,POLAVENO,,,"Via Moro, POLAVENO, BS, Lombardia",POINT
+Via Peli,POLAVENO,,,"Via Peli, POLAVENO, BS, Lombardia",POINT
+Torchiera,PONTEVICO,,,"Torchiera, PONTEVICO, BS, Lombardia",POINT
+Largo IV Novembre,PRALBOINO,,,"Largo IV Novembre, PRALBOINO, BS, Lombardia",POINT
+Via Mazzini,PRALBOINO,,,"Via Mazzini, PRALBOINO, BS, Lombardia",POINT
+Via XX Settembre,PRALBOINO,,,"Via XX Settembre, PRALBOINO, BS, Lombardia",POINT
+Piazza XX Settembre,PRESEGLIE,,,"Piazza XX Settembre, PRESEGLIE, BS, Lombardia",POINT
+Via Corsini,PRESEGLIE,,,"Via Corsini, PRESEGLIE, BS, Lombardia",POINT
+Via San Rocco,PRESEGLIE,,,"Via San Rocco, PRESEGLIE, BS, Lombardia",POINT
+Via VII Brigata Matteotti,PROVAGLIO VAL SABBIA,,,"Via VII Brigata Matteotti, PROVAGLIO VAL SABBIA, BS, Lombardia",POINT
+Via F. Braga,Paitone,,,"Via F. Braga, Paitone, BS, Lombardia",POINT
+via Petrarca (Gombio),Polaveno,,,"via Petrarca (Gombio), Polaveno, BS, Lombardia",POINT
+Via Pietro Nenni,Pontevico,,,"Via Pietro Nenni, Pontevico, BS, Lombardia",POINT
+Via Dante Alighieri,Pralboino,,,"Via Dante Alighieri, Pralboino, BS, Lombardia",POINT
+Piazza Vittoria,ROCCAFRANCA,,,"Piazza Vittoria, ROCCAFRANCA, BS, Lombardia",POINT
+Via Donizetti,ROCCAFRANCA,,,"Via Donizetti, ROCCAFRANCA, BS, Lombardia",POINT
+Via Paolo VI Angolo Via Francesca,ROCCAFRANCA,,,"Via Paolo VI Angolo Via Francesca, ROCCAFRANCA, BS, Lombardia",POINT
+Via Bonfadio,ROE VOLCIANO,,,"Via Bonfadio, ROE VOLCIANO, BS, Lombardia",POINT
+Via Missane,ROE VOLCIANO,,,"Via Missane, ROE VOLCIANO, BS, Lombardia",POINT
+Via Odorici,ROE VOLCIANO,,,"Via Odorici, ROE VOLCIANO, BS, Lombardia",POINT
+Via Belvedere,SABBIO CHIESE,,,"Via Belvedere, SABBIO CHIESE, BS, Lombardia",POINT
+Via Bertella,SABBIO CHIESE,,,"Via Bertella, SABBIO CHIESE, BS, Lombardia",POINT
+Via Odolo,SABBIO CHIESE,,,"Via Odolo, SABBIO CHIESE, BS, Lombardia",POINT
+Via San Giovanni,SABBIO CHIESE,,,"Via San Giovanni, SABBIO CHIESE, BS, Lombardia",POINT
+Via San Martino,SABBIO CHIESE,,,"Via San Martino, SABBIO CHIESE, BS, Lombardia",POINT
+Villaggio Motta,SALE MARASINO,,,"Villaggio Motta, SALE MARASINO, BS, Lombardia",POINT
+Via Casacce,SAN GERVASIO,,,"Via Casacce, SAN GERVASIO, BS, Lombardia",POINT
+Via Cicogne,SAN GERVASIO,,,"Via Cicogne, SAN GERVASIO, BS, Lombardia",POINT
+Via Giovanni XXIII,SAN PAOLO,,,"Via Giovanni XXIII, SAN PAOLO, BS, Lombardia",POINT
+Via Mazzini angolo Piazza Moro,SAN PAOLO,,,"Via Mazzini angolo Piazza Moro, SAN PAOLO, BS, Lombardia",POINT
+Piazza Marconi,SAN ZENO NAVIGLIO,,,"Piazza Marconi, SAN ZENO NAVIGLIO, BS, Lombardia",POINT
+Piazzale Marcolini,SAN ZENO NAVIGLIO,,,"Piazzale Marcolini, SAN ZENO NAVIGLIO, BS, Lombardia",POINT
+Via Bianchetti,SAN ZENO NAVIGLIO,,,"Via Bianchetti, SAN ZENO NAVIGLIO, BS, Lombardia",POINT
+Via Mascagni,SAN ZENO NAVIGLIO,,,"Via Mascagni, SAN ZENO NAVIGLIO, BS, Lombardia",POINT
+Via Pace,SAN ZENO NAVIGLIO,,,"Via Pace, SAN ZENO NAVIGLIO, BS, Lombardia",POINT
+Via Roda angolo Via Aldo Moro,SENIGA,,,"Via Roda angolo Via Aldo Moro, SENIGA, BS, Lombardia",POINT
+Via Leopardi,SERLE,,,"Via Leopardi, SERLE, BS, Lombardia",POINT
+Via Caduti,Sabbio Chiese,,,"Via Caduti, Sabbio Chiese, BS, Lombardia",POINT
+Piazza G. Marconi,San Zeno Naviglio,,,"Piazza G. Marconi, San Zeno Naviglio, BS, Lombardia",POINT
+Via Fobbia,TREVISO BRESCIANO,,,"Via Fobbia, TREVISO BRESCIANO, BS, Lombardia",POINT
+Via Valledrane,TREVISO BRESCIANO,,,"Via Valledrane, TREVISO BRESCIANO, BS, Lombardia",POINT
+Via Suor S. Bodei,VALLIO TERME,,,"Via Suor S. Bodei, VALLIO TERME, BS, Lombardia",POINT
+Via Puccini,VEROLANUOVA,,,"Via Puccini, VEROLANUOVA, BS, Lombardia",POINT
+Via Volta,VEROLANUOVA,,,"Via Volta, VEROLANUOVA, BS, Lombardia",POINT
+Piazza Mercato,VESTONE,,,"Piazza Mercato, VESTONE, BS, Lombardia",POINT
+Via Toccabelli,VESTONE,,,"Via Toccabelli, VESTONE, BS, Lombardia",POINT
+Via Ponte Chiese,VILLANUOVA SUL CLISI,,,"Via Ponte Chiese, VILLANUOVA SUL CLISI, BS, Lombardia",POINT
+Via Ponte Pier,VILLANUOVA SUL CLISI,,,"Via Ponte Pier, VILLANUOVA SUL CLISI, BS, Lombardia",POINT
+Via XXIV Maggio,VILLANUOVA SUL CLISI,,,"Via XXIV Maggio, VILLANUOVA SUL CLISI, BS, Lombardia",POINT
+Piazza Chiesa,VOBARNO,,,"Piazza Chiesa, VOBARNO, BS, Lombardia",POINT
+Via San Zenone,VOBARNO,,,"Via San Zenone, VOBARNO, BS, Lombardia",POINT
+Via Verdi,Verolanuova,,,"Via Verdi, Verolanuova, BS, Lombardia",POINT
+Via M. Bettinzoli,Vestone,,,"Via M. Bettinzoli, Vestone, BS, Lombardia",POINT
+Via G. Matteotti,Visano,,,"Via G. Matteotti, Visano, BS, Lombardia",POINT
+Via Regona,SENIGA,"Regona, Seniga, Brescia, Lombardia, 26032, Italia","{'type': 'Point', 'coordinates': [10.2060461, 45.2408556]}","Via Regona, SENIGA, BS, Lombardia",POINT
+Binzago,AGNOSINE,"Binzago, Agnosine, Comunità montana della valle Sabbia, Brescia, Lombardia, 25071, Italia","{'type': 'Point', 'coordinates': [10.3523566, 45.6367491]}","Binzago, AGNOSINE, BS, Lombardia",POINT
+Casale,AGNOSINE,"Casale, Agnosine, Comunità montana della valle Sabbia, Brescia, Lombardia, 25071, Italia","{'type': 'Point', 'coordinates': [10.3394147, 45.6479564]}","Casale, AGNOSINE, BS, Lombardia",POINT
+Via Roma,AGNOSINE,"Via Roma, Sant'Andrea, Agnosine, Comunità montana della valle Sabbia, Brescia, Lombardia, 25071, Italia","{'type': 'Point', 'coordinates': [10.345868, 45.655603]}","Via Roma, AGNOSINE, BS, Lombardia",POINT
+"Via Roma, 47",AGNOSINE,"Via Roma, Sant'Andrea, Agnosine, Comunità montana della valle Sabbia, Brescia, Lombardia, 25071, Italia","{'type': 'Point', 'coordinates': [10.345868, 45.655603]}","Via Roma, 47, AGNOSINE, BS, Lombardia",POINT
+Via Santella Mora,AGNOSINE,"Via Santella Mora, Sant'Andrea, Agnosine, Comunità montana della valle Sabbia, Brescia, Lombardia, 25071, Italia","{'type': 'Point', 'coordinates': [10.3422882, 45.6577671]}","Via Santella Mora, AGNOSINE, BS, Lombardia",POINT
+Baremone,ANFO,"Passo del Baremone, Anfo, Comunità montana della valle Sabbia, Brescia, Lombardia, 25072, Italia","{'type': 'Point', 'coordinates': [10.4652696, 45.7919706]}","Baremone, ANFO, BS, Lombardia",POINT
+Via Circonvallazione,Agnosine,"Via Circonvallazione, Trebbio, Agnosine, Comunità montana della valle Sabbia, Brescia, Lombardia, 25071, Italia","{'type': 'Point', 'coordinates': [10.348998, 45.651875]}","Via Circonvallazione, Agnosine, BS, Lombardia",POINT
+Via Roma,BAGNOLO MELLA,"Bagnolo Mella, Brescia, Lombardia, Italia","{'type': 'Point', 'coordinates': [10.18437, 45.429079]}","Via Roma, BAGNOLO MELLA, BS, Lombardia",POINT
+Via Urne di sotto,BAGNOLO MELLA,"Via Urne di Sotto, Revolto, Bagnolo Mella, Brescia, Lombardia, 25021, Italia","{'type': 'Point', 'coordinates': [10.1915403, 45.4183081]}","Via Urne di sotto, BAGNOLO MELLA, BS, Lombardia",POINT
+Viale Europa,BAGNOLO MELLA,"Viale Europa, Revolto, Bagnolo Mella, Brescia, Lombardia, 25021, Italia","{'type': 'Point', 'coordinates': [10.1856833, 45.4364511]}","Viale Europa, BAGNOLO MELLA, BS, Lombardia",POINT
+Via Forno,BAGOLINO,"Via Forno, Fontana, Bagolino, Comunità montana della valle Sabbia, Brescia, Lombardia, 25072, Italia","{'type': 'Point', 'coordinates': [10.4546651, 45.8312213]}","Via Forno, BAGOLINO, BS, Lombardia",POINT
+Via Mignano,BAGOLINO,"Via Mignano, Fontana, Bagolino, Comunità montana della valle Sabbia, Brescia, Lombardia, 25072, Italia","{'type': 'Point', 'coordinates': [10.4576036, 45.8253169]}","Via Mignano, BAGOLINO, BS, Lombardia",POINT
+Via San Giorgio,BAGOLINO,"Via San Giorgio, Bagolino, Comunità montana della valle Sabbia, Brescia, Lombardia, 25072, Italia","{'type': 'Point', 'coordinates': [10.4640109, 45.8219617]}","Via San Giorgio, BAGOLINO, BS, Lombardia",POINT
+Via Brescia,BASSANO BRESCIANO,"Via Brescia, Bassano Bresciano, Brescia, Lombardia, 25025, Italia","{'type': 'Point', 'coordinates': [10.1294973, 45.3347184]}","Via Brescia, BASSANO BRESCIANO, BS, Lombardia",POINT
+Via Lusignolo,BASSANO BRESCIANO,"Via Lusignolo, Bassano Bresciano, Brescia, Lombardia, 25025, Italia","{'type': 'Point', 'coordinates': [10.1248266, 45.328111]}","Via Lusignolo, BASSANO BRESCIANO, BS, Lombardia",POINT
+Via Martinengo,BASSANO BRESCIANO,"Via Martinengo, Bassano Bresciano, Brescia, Lombardia, 25025, Italia","{'type': 'Point', 'coordinates': [10.1271076, 45.3262746]}","Via Martinengo, BASSANO BRESCIANO, BS, Lombardia",POINT
+Via Macesina,BEDIZZOLE,"Macesina, Bedizzole, Brescia, Lombardia, 25081, Italia","{'type': 'Point', 'coordinates': [10.4400476, 45.5186078]}","Via Macesina, BEDIZZOLE, BS, Lombardia",POINT
+Via Pieve,BEDIZZOLE,"Via Pieve, Pontenove, Bedizzole, Brescia, Lombardia, 25081, Italia","{'type': 'Point', 'coordinates': [10.400783, 45.4973424]}","Via Pieve, BEDIZZOLE, BS, Lombardia",POINT
+Via Navezze,BIONE,"Navezze, Bione, Comunità montana della valle Sabbia, Brescia, Lombardia, 25071, Italia","{'type': 'Point', 'coordinates': [10.3373079, 45.675727]}","Via Navezze, BIONE, BS, Lombardia",POINT
+Via IV Novembre,BORGOSATOLLO,"Via Quattro Novembre, Piffione nuova, Piffione, Borgosatollo, Brescia, Lombardia, 25134, Italia","{'type': 'Point', 'coordinates': [10.2374683, 45.4905649]}","Via IV Novembre, BORGOSATOLLO, BS, Lombardia",POINT
+Via Roma,BORGOSATOLLO,"Borgosatollo, Brescia, Lombardia, Italia","{'type': 'Point', 'coordinates': [10.2408108, 45.4772616]}","Via Roma, BORGOSATOLLO, BS, Lombardia",POINT
+Via San Gallo,BOTTICINO,"Via San Gallo, San Gallo, Botticino, Brescia, Lombardia, 25082, Italia","{'type': 'Point', 'coordinates': [10.3042148, 45.5537847]}","Via San Gallo, BOTTICINO, BS, Lombardia",POINT
+Via Vittorio Veneto,BOVEZZO,"Via Vittorio Veneto, Villaggio del Sole, Bovezzo, Comunità montana della valle Trompia, Brescia, Lombardia, 25073, Italia","{'type': 'Point', 'coordinates': [10.2431295, 45.5904901]}","Via Vittorio Veneto, BOVEZZO, BS, Lombardia",POINT
+Piazza della Loggia,BRESCIA,"Piazza della Loggia, Centro Storico Nord, Zona Centro, Brescia, Lombardia, Italia","{'type': 'Point', 'coordinates': [10.220059940242962, 45.539817]}","Piazza della Loggia, BRESCIA, BS, Lombardia",POINT
+Via Caionvico,BRESCIA,"Via Caionvico, Caionvico, Zona Est, Brescia, Lombardia, 25135, Italia","{'type': 'Point', 'coordinates': [10.288518, 45.5254675]}","Via Caionvico, BRESCIA, BS, Lombardia",POINT
+Via Chiesanuova,BRESCIA,"Via Chiesanuova, Chiesanuova, Zona Sud, Brescia, Lombardia, 25126, Italia","{'type': 'Point', 'coordinates': [10.186976, 45.5310363]}","Via Chiesanuova, BRESCIA, BS, Lombardia",POINT
+Via Cremona,BRESCIA,"Via Cremona, Porta Cremona-Volta, Zona Sud, Brescia, Lombardia, 25100, Italia","{'type': 'Point', 'coordinates': [10.222853, 45.5271298]}","Via Cremona, BRESCIA, BS, Lombardia",POINT
+Via Cucca,BRESCIA,"Via Cucca, Chiusure, Zona Ovest, Brescia, Lombardia, 25132, Italia","{'type': 'Point', 'coordinates': [10.1726374, 45.5489528]}","Via Cucca, BRESCIA, BS, Lombardia",POINT
+Via Gabbiane,BRESCIA,"Via Gabbiane (fianco Chiesa), Via delle Gabbiane, Mole, San Bartolomeo, Zona Nord, Brescia, Lombardia, 25128, Italia","{'type': 'Point', 'coordinates': [10.2188117, 45.5669289]}","Via Gabbiane, BRESCIA, BS, Lombardia",POINT
+Via Grandi,BRESCIA,"Via Grandi, Revolto, Bagnolo Mella, Brescia, Lombardia, 25021, Italia","{'type': 'Point', 'coordinates': [10.1878126, 45.4354623]}","Via Grandi, BRESCIA, BS, Lombardia",POINT
+Via Lama,BRESCIA,"Via Lama, Collio, Vobarno, Comunità montana della valle Sabbia, Brescia, Lombardia, 25077, Italia","{'type': 'Point', 'coordinates': [10.5001917, 45.6412874]}","Via Lama, BRESCIA, BS, Lombardia",POINT
+Via Milano,BRESCIA,"Brescia, Lombardia, Italia","{'type': 'Point', 'coordinates': [10.4258729694612, 45.77958045]}","Via Milano, BRESCIA, BS, Lombardia",POINT
+Via San Benedetto,BRESCIA,"Via San Benedetto, Vicina, Desenzano del Garda, Brescia, Lombardia, Italia","{'type': 'Point', 'coordinates': [10.525108569890797, 45.4806997]}","Via San Benedetto, BRESCIA, BS, Lombardia",POINT
+Via Sant'Orsola,BRESCIA,"Via Sant'Orsola, Caionvico, Zona Est, Brescia, Lombardia, 25135, Italia","{'type': 'Point', 'coordinates': [10.2778889, 45.5204897]}","Via Sant'Orsola, BRESCIA, BS, Lombardia",POINT
+Via Vallecamonica,BRESCIA,"Via Vallecamonica, Gussago, Brescia, Lombardia, 25132, Italia","{'type': 'Point', 'coordinates': [10.1530917, 45.5484866]}","Via Vallecamonica, BRESCIA, BS, Lombardia",POINT
+Via Verziano,BRESCIA,"Via Verziano, Fornaci, Zona Sud, Brescia, Lombardia, 25131, Italia","{'type': 'Point', 'coordinates': [10.1771954, 45.5007176]}","Via Verziano, BRESCIA, BS, Lombardia",POINT
+Via Violino di Sotto,BRESCIA,"Via Violino di Sotto, Villaggio Violino, Zona Ovest, Brescia, Lombardia, 25132, Italia","{'type': 'Point', 'coordinates': [10.169361, 45.5383655]}","Via Violino di Sotto, BRESCIA, BS, Lombardia",POINT
+Via XI,BRESCIA,"Centro Alta Tensione Lombardia - Sezione MT di Bovegno, Castello, Bovegno, Comunità montana della valle Trompia, Brescia, Lombardia, Italia","{'type': 'Point', 'coordinates': [10.274367786060903, 45.791826799999996]}","Via XI, BRESCIA, BS, Lombardia",POINT
+Via S.Zenone,BRIONE,"Via San Zenone, Gazzane, Brione, Comunità montana della valle Trompia, Brescia, Lombardia, 25064, Italia","{'type': 'Point', 'coordinates': [10.1416039, 45.6396648]}","Via S.Zenone, BRIONE, BS, Lombardia",POINT
+Piazzale Europa,Bedizzole,"Piazzale Europa, San Tommaso, Bedizzole, Brescia, Lombardia, 25081, Italia","{'type': 'Point', 'coordinates': [10.4210124, 45.5111676]}","Piazzale Europa, Bedizzole, BS, Lombardia",POINT
+Via Dante Alighieri,Botticino,"Via Dante Alighieri, Villaggio Marcolini, Botticino, Brescia, Lombardia, 25082, Italia","{'type': 'Point', 'coordinates': [10.3042305, 45.5346195]}","Via Dante Alighieri, Botticino, BS, Lombardia",POINT
+Piazza 28 Maggio,Bovezzo,"Piazza Ventotto Maggio, Villaggio del Sole, Terzago, Bovezzo, Comunità montana della valle Trompia, Brescia, Lombardia, 25073, Italia","{'type': 'Point', 'coordinates': [10.2374754, 45.5908397]}","Piazza 28 Maggio, Bovezzo, BS, Lombardia",POINT
+Via Martiri della Libertà,Brandico,"Via Martiri della Libertà, Castelgonelle, Brandico, Brescia, Lombardia, 25029, Italia","{'type': 'Point', 'coordinates': [10.0505563, 45.4552079]}","Via Martiri della Libertà, Brandico, BS, Lombardia",POINT
+Corso Luigi Bazoli,Brescia,"Corso Luigi Bazoli, Sanpolino, Zona Est, Brescia, Lombardia, 25135, Italia","{'type': 'Point', 'coordinates': [10.2665803, 45.5163514]}","Corso Luigi Bazoli, Brescia, BS, Lombardia",POINT
+Via Casazza,Brescia,"Via Casazza, Casazza, Zona Nord, Brescia, Lombardia, 25136, Italia","{'type': 'Point', 'coordinates': [10.2301166, 45.5738965]}","Via Casazza, Brescia, BS, Lombardia",POINT
+Via Corsica,Brescia,"Via Corsica, Don Bosco, Zona Sud, Brescia, Lombardia, 25215, Italia","{'type': 'Point', 'coordinates': [10.2060657, 45.528556]}","Via Corsica, Brescia, BS, Lombardia",POINT
+Via Franzinetti,Brescia,"Via Franzinetti, Fiumicello, Zona Ovest, Brescia, Lombardia, 25127, Italia","{'type': 'Point', 'coordinates': [10.1931652, 45.5477604]}","Via Franzinetti, Brescia, BS, Lombardia",POINT
+Via Niccolo Tommaseo,Brescia,"Via Niccolò Tommaseo, Rivoltella del Garda, Desenzano del Garda, Brescia, Lombardia, 25105, Italia","{'type': 'Point', 'coordinates': [10.5630912, 45.4565983]}","Via Niccolo Tommaseo, Brescia, BS, Lombardia",POINT
+Via Prima Villaggio Badia,Brescia,"Via Prima Villaggio Badia, Villaggio Badia, Zona Ovest, Brescia, Lombardia, 25132, Italia","{'type': 'Point', 'coordinates': [10.1560756, 45.5499459]}","Via Prima Villaggio Badia, Brescia, BS, Lombardia",POINT
+Via Sabbioneta,Brescia,"Via Sabbioneta, San Polo - Case, Zona Est, Brescia, Lombardia, 25134, Italia","{'type': 'Point', 'coordinates': [10.2552838, 45.5097456]}","Via Sabbioneta, Brescia, BS, Lombardia",POINT
+Via Verziano,Brescia,"Via Verziano, Fornaci, Zona Sud, Brescia, Lombardia, 25131, Italia","{'type': 'Point', 'coordinates': [10.1771954, 45.5007176]}","Via Verziano, Brescia, BS, Lombardia",POINT
+Via della Palla,Brescia,"Via della Palla, Folzano, Zona Sud, Brescia, Lombardia, 25125, Italia","{'type': 'Point', 'coordinates': [10.2043218, 45.4972057]}","Via della Palla, Brescia, BS, Lombardia",POINT
+Viale Piave,Brescia,"Via Piave, Padenghe sul Garda, Brescia, Lombardia, Italia","{'type': 'Point', 'coordinates': [10.5084678, 45.500422]}","Viale Piave, Brescia, BS, Lombardia",POINT
+Strada Provinciale X,Brione,"Brione, Comunità montana della valle Trompia, Brescia, Lombardia, Italia","{'type': 'Point', 'coordinates': [10.1461559, 45.6429228]}","Strada Provinciale X, Brione, BS, Lombardia",POINT
+Zumiè,CAPOVALLE,"Zumiè, Capovalle, Comunità montana della valle Sabbia, Brescia, Lombardia, Italia","{'type': 'Point', 'coordinates': [10.5429901, 45.7552693]}","Zumiè, CAPOVALLE, BS, Lombardia",POINT
+Via Morari,CAPRIANO DEL COLLE,"Via Morari, Caprianella, Capriano del Colle, Brescia, Lombardia, Italia","{'type': 'Point', 'coordinates': [10.1250382, 45.455088]}","Via Morari, CAPRIANO DEL COLLE, BS, Lombardia",POINT
+Via Tese,CAPRIANO DEL COLLE,"Via Tese, Caprianella, Capriano del Colle, Brescia, Lombardia, Italia","{'type': 'Point', 'coordinates': [10.1362589, 45.4527234]}","Via Tese, CAPRIANO DEL COLLE, BS, Lombardia",POINT
+Via Trento,CAPRIANO DEL COLLE,"Via Trento, Caprianella, Capriano del Colle, Brescia, Lombardia, 25131, Italia","{'type': 'Point', 'coordinates': [10.128734, 45.4738306]}","Via Trento, CAPRIANO DEL COLLE, BS, Lombardia",POINT
+Via Macina,CASTENEDOLO,"Via Macina, Macina, Castenedolo, Brescia, Lombardia, 25014, Italia","{'type': 'Point', 'coordinates': [10.3203235, 45.4709099]}","Via Macina, CASTENEDOLO, BS, Lombardia",POINT
+Via Auro,CASTO,"Auro, Casto, Comunità montana della valle Sabbia, Brescia, Lombardia, Italia","{'type': 'Point', 'coordinates': [10.3208159, 45.7039509]}","Via Auro, CASTO, BS, Lombardia",POINT
+Via Briale,CASTO,"Briale, Casto, Comunità montana della valle Sabbia, Brescia, Lombardia, Italia","{'type': 'Point', 'coordinates': [10.3190365, 45.7012608]}","Via Briale, CASTO, BS, Lombardia",POINT
+Via Comero,CASTO,"Comero, Casto, Comunità montana della valle Sabbia, Brescia, Lombardia, Italia","{'type': 'Point', 'coordinates': [10.315202, 45.7074716]}","Via Comero, CASTO, BS, Lombardia",POINT
+Via Famea,CASTO,"Famea, Casto, Comunità montana della valle Sabbia, Brescia, Lombardia, Italia","{'type': 'Point', 'coordinates': [10.3162454, 45.7043789]}","Via Famea, CASTO, BS, Lombardia",POINT
+Via Roma,CASTO,"Via Roma, Malpaga, Casto, Comunità montana della valle Sabbia, Brescia, Lombardia, Italia","{'type': 'Point', 'coordinates': [10.3239575, 45.6949795]}","Via Roma, CASTO, BS, Lombardia",POINT
+Via S.Giovanni,CASTO,"Via San Giovanni, Auro, Casto, Comunità montana della valle Sabbia, Brescia, Lombardia, Italia","{'type': 'Point', 'coordinates': [10.3198433, 45.6979819]}","Via S.Giovanni, CASTO, BS, Lombardia",POINT
+Via Aldo Moro,CELLATICA,"Via Aldo Moro, Cellatica, Brescia, Lombardia, 25064, Italia","{'type': 'Point', 'coordinates': [10.1674789, 45.5843044]}","Via Aldo Moro, CELLATICA, BS, Lombardia",POINT
+Via Montebello,CELLATICA,"Via Montebello, Fantasina, Cellatica, Brescia, Lombardia, 25064, Italia","{'type': 'Point', 'coordinates': [10.1809923, 45.5890668]}","Via Montebello, CELLATICA, BS, Lombardia",POINT
+Via Risorgimento,CELLATICA,"Viale Risorgimento, Fantasina, Cellatica, Brescia, Lombardia, 25127, Italia","{'type': 'Point', 'coordinates': [10.1793801, 45.5840322]}","Via Risorgimento, CELLATICA, BS, Lombardia",POINT
+Campiani,COLLEBEATO,"Campiani, Collebeato, Brescia, Lombardia, 25127, Italia","{'type': 'Point', 'coordinates': [10.1953308, 45.5813207]}","Campiani, COLLEBEATO, BS, Lombardia",POINT
+Via Ca' de Bosio,CONCESIO,"Via Cà de Bosio, Cà de Bosio, Concesio, Comunità montana della valle Trompia, Brescia, Lombardia, 25062, Italia","{'type': 'Point', 'coordinates': [10.2243103, 45.5967882]}","Via Ca' de Bosio, CONCESIO, BS, Lombardia",POINT
+Via Due Muri,CONCESIO,"Via Due Muri, Campagnola, Concesio, Comunità montana della valle Trompia, Brescia, Lombardia, 25062, Italia","{'type': 'Point', 'coordinates': [10.2222085, 45.5984901]}","Via Due Muri, CONCESIO, BS, Lombardia",POINT
+Via Mazzini,CONCESIO,"Via Mazzini, Via Giuseppe Mazzini, San Vigilio, Concesio, Comunità montana della valle Trompia, Brescia, Lombardia, 25062, Italia","{'type': 'Point', 'coordinates': [10.1983291, 45.6093369]}","Via Mazzini, CONCESIO, BS, Lombardia",POINT
+Fenili Belasi,Capriano del Colle,"Fenili Belasi, Brescia, Lombardia, 25131, Italia","{'type': 'Point', 'coordinates': [10.1302833, 45.4737506]}","Fenili Belasi, Capriano del Colle, BS, Lombardia",POINT
+Via Pietro Pisa,Castenedolo,"Via Pietro Pisa, Capodimonte, Castenedolo, Brescia, Lombardia, 25014, Italia","{'type': 'Point', 'coordinates': [10.2957273, 45.468379]}","Via Pietro Pisa, Castenedolo, BS, Lombardia",POINT
+Via Magenta,Cellatica,"Via Magenta, Fantasina, Cellatica, Brescia, Lombardia, 25127, Italia","{'type': 'Point', 'coordinates': [10.1788288, 45.5858943]}","Via Magenta, Cellatica, BS, Lombardia",POINT
+Via Saletto,Collebeato,"Via Saletto, Villa di Sotto, Collebeato, Brescia, Lombardia, 25136, Italia","{'type': 'Point', 'coordinates': [10.2187014, 45.582264]}","Via Saletto, Collebeato, BS, Lombardia",POINT
+Strada Cadimarco,FIESSE,"Cadimarco, Brescia, Lombardia, Italia","{'type': 'Point', 'coordinates': [10.3545631, 45.2293129]}","Strada Cadimarco, FIESSE, BS, Lombardia",POINT
+Strada San Giacomo,Fiesse,"Strada San Giacomo, Cadimarco, Fiesse, Brescia, Lombardia, Italia","{'type': 'Point', 'coordinates': [10.3211064, 45.2293014]}","Strada San Giacomo, Fiesse, BS, Lombardia",POINT
+Strada Provinciale VIII,GAMBARA,"Gambara, Brescia, Lombardia, Italia","{'type': 'Point', 'coordinates': [10.2934106, 45.2552458]}","Strada Provinciale VIII, GAMBARA, BS, Lombardia",POINT
+Via Lamarmora,GAMBARA,"Via Lamarmora, Gambara, Brescia, Lombardia, 26032, Italia","{'type': 'Point', 'coordinates': [10.2918292, 45.2533112]}","Via Lamarmora, GAMBARA, BS, Lombardia",POINT
+Via Martiri della Libertà,GAMBARA,"Viale Martiri della Libertà, Gambara, Brescia, Lombardia, 26032, Italia","{'type': 'Point', 'coordinates': [10.2780577, 45.2546721]}","Via Martiri della Libertà, GAMBARA, BS, Lombardia",POINT
+Via Marzatica,GAVARDO,"Marzatica, Gavardo, Comunità montana della valle Sabbia, Brescia, Lombardia, 25085, Italia","{'type': 'Point', 'coordinates': [10.4154876, 45.5725741]}","Via Marzatica, GAVARDO, BS, Lombardia",POINT
+Via S. Pellegrino,GAVARDO,"Via San Pellegrino, Bostone, Gavardo, Comunità montana della valle Sabbia, Brescia, Lombardia, 25085, Italia","{'type': 'Point', 'coordinates': [10.4407253, 45.5859898]}","Via S. Pellegrino, GAVARDO, BS, Lombardia",POINT
+Via Sant'Antonio,GAVARDO,"Via Sant'Antonio, Soseto, Gavardo, Comunità montana della valle Sabbia, Brescia, Lombardia, 25085, Italia","{'type': 'Point', 'coordinates': [10.425617, 45.611256]}","Via Sant'Antonio, GAVARDO, BS, Lombardia",POINT
+Via Roma,GOTTOLENGO,"Via Roma, Osteria, Gottolengo, Brescia, Lombardia, 25023, Italia","{'type': 'Point', 'coordinates': [10.2676978, 45.2899805]}","Via Roma, GOTTOLENGO, BS, Lombardia",POINT
+Piazza San Lorenzo,GUSSAGO,"Piazza San Lorenzo, Villaggio Stella, Casaglio, Gussago, Brescia, Lombardia, Italia","{'type': 'Point', 'coordinates': [10.153184704651164, 45.5943539]}","Piazza San Lorenzo, GUSSAGO, BS, Lombardia",POINT
+Via Carrebbio,GUSSAGO,"Via Carrebbio, Navezze, Gussago, Brescia, Lombardia, 25064, Italia","{'type': 'Point', 'coordinates': [10.1503996, 45.6073614]}","Via Carrebbio, GUSSAGO, BS, Lombardia",POINT
+Via Civine,GUSSAGO,"Via Civine, Navezze, Gussago, Brescia, Lombardia, 25064, Italia","{'type': 'Point', 'coordinates': [10.1522144, 45.6187385]}","Via Civine, GUSSAGO, BS, Lombardia",POINT
+Via San Zenone,GUSSAGO,"Via San Zenone, Ronco, Gussago, Brescia, Lombardia, 25064, Italia","{'type': 'Point', 'coordinates': [10.1332523, 45.5974383]}","Via San Zenone, GUSSAGO, BS, Lombardia",POINT
+Via Seriola,GUSSAGO,"Via Seriola, Navezze, Gussago, Brescia, Lombardia, 25064, Italia","{'type': 'Point', 'coordinates': [10.1502769, 45.6022463]}","Via Seriola, GUSSAGO, BS, Lombardia",POINT
+Via Trieste,GUSSAGO,"Via Trieste, Villaggio Stella, Casaglio, Gussago, Brescia, Lombardia, 25064, Italia","{'type': 'Point', 'coordinates': [10.1541244, 45.5839126]}","Via Trieste, GUSSAGO, BS, Lombardia",POINT
+Via Lamarmora,Gambara,"Via Lamarmora, Gambara, Brescia, Lombardia, 26032, Italia","{'type': 'Point', 'coordinates': [10.2918292, 45.2533112]}","Via Lamarmora, Gambara, BS, Lombardia",POINT
+Via Sale,Gussago,"Via Sale, Villaggio Stella, Casaglio, Gussago, Brescia, Lombardia, 25064, Italia","{'type': 'Point', 'coordinates': [10.1504796, 45.5818692]}","Via Sale, Gussago, BS, Lombardia",POINT
+Via San Michele,IDRO,"Via San Michele, Crone, Idro, Comunità montana della valle Sabbia, Brescia, Lombardia, 25074, Italia","{'type': 'Point', 'coordinates': [10.4747803, 45.7374932]}","Via San Michele, IDRO, BS, Lombardia",POINT
+Via Sasse,IDRO,"Via Sasse, Idro, Comunità montana della valle Sabbia, Brescia, Lombardia, Italia","{'type': 'Point', 'coordinates': [10.5228865, 45.7786942]}","Via Sasse, IDRO, BS, Lombardia",POINT
+Via Trento,IDRO,"Via Trento, Pieve Vecchia, Idro, Comunità montana della valle Sabbia, Brescia, Lombardia, 25074, Italia","{'type': 'Point', 'coordinates': [10.4543868, 45.7338177]}","Via Trento, IDRO, BS, Lombardia",POINT
+Bisenzio,LAVENONE,"Bisenzio, Lavenone, Comunità montana della valle Sabbia, Brescia, Lombardia, 25078, Italia","{'type': 'Point', 'coordinates': [10.4045935, 45.7586935]}","Bisenzio, LAVENONE, BS, Lombardia",POINT
+Campagna,LONATO,"Campagna, Lonato del Garda, Brescia, Lombardia, 25017, Italia","{'type': 'Point', 'coordinates': [10.4606963, 45.4520056]}","Campagna, LONATO, BS, Lombardia",POINT
+Madonna della Scoperta,LONATO,"Madonna della Scoperta, Via Madonna della Scoperta, Fenil Nuovo, Scoperta, Lonato del Garda, Brescia, Lombardia, 25105, Italia","{'type': 'Point', 'coordinates': [10.58091255, 45.3907403]}","Madonna della Scoperta, LONATO, BS, Lombardia",POINT
+Piazzale Gramsci,LONATO,"Piazzale Gramsci, San Polo, Lonato del Garda, Brescia, Lombardia, 25017, Italia","{'type': 'Point', 'coordinates': [10.4868136, 45.4593553]}","Piazzale Gramsci, LONATO, BS, Lombardia",POINT
+Via Centenaro,LONATO,"Via Centenaro, Centenaro, Desenzano del Garda, Brescia, Lombardia, 25015, Italia","{'type': 'Point', 'coordinates': [10.5454072, 45.4310454]}","Via Centenaro, LONATO, BS, Lombardia",POINT
+Via Maguzzano,LONATO,"Via Maguzzano, Maguzzano, Lonato del Garda, Brescia, Lombardia, 25017, Italia","{'type': 'Point', 'coordinates': [10.5024368, 45.468834]}","Via Maguzzano, LONATO, BS, Lombardia",POINT
+Via Mancino,LONATO,"Via Mancino, Maguzzano, Lonato del Garda, Brescia, Lombardia, 25017, Italia","{'type': 'Point', 'coordinates': [10.4899077, 45.4687924]}","Via Mancino, LONATO, BS, Lombardia",POINT
+Via Tito Speri,LONATO,"Via Tito Speri, Cascina Fiocchino, Lonato del Garda, Brescia, Lombardia, 25017, Italia","{'type': 'Point', 'coordinates': [10.4787354, 45.4165647]}","Via Tito Speri, LONATO, BS, Lombardia",POINT
+Via Chiesa,Longhena,"Via Chiesa, Zona Produttiva Via Xxiv Maggio, Longhena, Unione dei Comuni Bassa Bresciana Occidentale, Brescia, Lombardia, 25029, Italia","{'type': 'Point', 'coordinates': [10.0579875, 45.4400794]}","Via Chiesa, Longhena, BS, Lombardia",POINT
+Piazza Italia,MANERBIO,"Piazza Italia, Manerbio, Brescia, Lombardia, Italia","{'type': 'Point', 'coordinates': [10.141300970397692, 45.3547852]}","Piazza Italia, MANERBIO, BS, Lombardia",POINT
+Via Lombardia,MANERBIO,"Via Lombardia, Manerbio, Brescia, Lombardia, 25025, Italia","{'type': 'Point', 'coordinates': [10.1599448, 45.3611772]}","Via Lombardia, MANERBIO, BS, Lombardia",POINT
+Dosso,MARMENTINO,"Dosso, Marmentino, Comunità montana della valle Trompia, Brescia, Lombardia, 25061, Italia","{'type': 'Point', 'coordinates': [10.2848002, 45.7554061]}","Dosso, MARMENTINO, BS, Lombardia",POINT
+Ombriano,MARMENTINO,"Ombriano, Marmentino, Comunità montana della valle Trompia, Brescia, Lombardia, 25061, Italia","{'type': 'Point', 'coordinates': [10.2939951, 45.749116]}","Ombriano, MARMENTINO, BS, Lombardia",POINT
+Ville,MARMENTINO,"Ville, Marmentino, Comunità montana della valle Trompia, Brescia, Lombardia, 25061, Italia","{'type': 'Point', 'coordinates': [10.2782342, 45.7527711]}","Ville, MARMENTINO, BS, Lombardia",POINT
+Rotonda Paolo VI,MAZZANO,"Via Rotonda Paolo VI, Ciliverghe, Mazzano, Brescia, Lombardia, 25086, Italia","{'type': 'Point', 'coordinates': [10.3589753, 45.5198292]}","Rotonda Paolo VI, MAZZANO, BS, Lombardia",POINT
+Via Conciliazione,MAZZANO,"Via Conciliazione, Ciliverghe, Mazzano, Brescia, Lombardia, 25086, Italia","{'type': 'Point', 'coordinates': [10.3505816, 45.4928783]}","Via Conciliazione, MAZZANO, BS, Lombardia",POINT
+Via Conti Emili,MAZZANO,"Viale Conti Emili, Ciliverghe, Mazzano, Brescia, Lombardia, 25086, Italia","{'type': 'Point', 'coordinates': [10.3571387, 45.5204118]}","Via Conti Emili, MAZZANO, BS, Lombardia",POINT
+Via Campagnoli,MONTICHIARI,"Via Campagnoli, Vighizzolo, Montichiari, Brescia, Lombardia, 25018, Italia","{'type': 'Point', 'coordinates': [10.3923613, 45.4386365]}","Via Campagnoli, MONTICHIARI, BS, Lombardia",POINT
+Via Fascia d'Oro,MONTICHIARI,"Fascia d'Oro, Montichiari, Brescia, Lombardia, 25014, Italia","{'type': 'Point', 'coordinates': [10.3238667, 45.4534018]}","Via Fascia d'Oro, MONTICHIARI, BS, Lombardia",POINT
+Via Rampina di San Giorgio,MONTICHIARI,"Via Rampina di San Giorgio, Sacca, Montichiari, Brescia, Lombardia, 25018, Italia","{'type': 'Point', 'coordinates': [10.3895357, 45.3995025]}","Via Rampina di San Giorgio, MONTICHIARI, BS, Lombardia",POINT
+Via San Giovanni,MONTICHIARI,"Via San Giovanni, Vighizzolo, Montichiari, Brescia, Lombardia, 25018, Italia","{'type': 'Point', 'coordinates': [10.364823, 45.438327]}","Via San Giovanni, MONTICHIARI, BS, Lombardia",POINT
+Via dell'Artigianato,MONTICHIARI,"Via dell'Artigianato, Sacca, Montichiari, Brescia, Lombardia, 25018, Italia","{'type': 'Point', 'coordinates': [10.3941564, 45.3993561]}","Via dell'Artigianato, MONTICHIARI, BS, Lombardia",POINT
+Via Campagna,MONTIRONE,"Via Campagna, Belleguardo, Montirone, Brescia, Lombardia, 25021, Italia","{'type': 'Point', 'coordinates': [10.2284874, 45.4475174]}","Via Campagna, MONTIRONE, BS, Lombardia",POINT
+Via Puccini,MONTIRONE,"Via Puccini, Belleguardo, Montirone, Brescia, Lombardia, Italia","{'type': 'Point', 'coordinates': [10.2342188, 45.444009]}","Via Puccini, MONTIRONE, BS, Lombardia",POINT
+Veriano,MURA,"Veriano, Mura, Comunità montana della valle Sabbia, Brescia, Lombardia, 25078, Italia","{'type': 'Point', 'coordinates': [10.3493741, 45.7152015]}","Veriano, MURA, BS, Lombardia",POINT
+Via Cabrino da Mairano,Mairano,"Via Cabrino da Mairano, Pievedizio, Mairano, Brescia, Lombardia, 25029, Italia","{'type': 'Point', 'coordinates': [10.0838988, 45.4537111]}","Via Cabrino da Mairano, Mairano, BS, Lombardia",POINT
+via Fratelli Bandiera,Milzano,"Via Fratelli Bandiera, Milzano, Brescia, Lombardia, Italia","{'type': 'Point', 'coordinates': [10.2043748, 45.273594]}","via Fratelli Bandiera, Milzano, BS, Lombardia",POINT
+Via San Giovanni (Vighizzolo),Montichiari,"Via San Giovanni, Vighizzolo, Montichiari, Brescia, Lombardia, 25018, Italia","{'type': 'Point', 'coordinates': [10.364823, 45.438327]}","Via San Giovanni (Vighizzolo), Montichiari, BS, Lombardia",POINT
+Piazza Martiri della Libertà,NAVE,"Piazza Martiri della Libertà, Campanile, Nave, Comunità montana della valle Trompia, Brescia, Lombardia, 25075, Italia","{'type': 'Point', 'coordinates': [10.2786601, 45.5853392]}","Piazza Martiri della Libertà, NAVE, BS, Lombardia",POINT
+Trento,NAVE,"Via Trento, Dernago, Nave, Comunità montana della valle Trompia, Brescia, Lombardia, 25075, Italia","{'type': 'Point', 'coordinates': [10.292843, 45.5866062]}","Trento, NAVE, BS, Lombardia",POINT
+Via Belcolle,NAVE,"Via Belcolle, Sacca, Nave, Comunità montana della valle Trompia, Brescia, Lombardia, 25075, Italia","{'type': 'Point', 'coordinates': [10.2784225, 45.5877282]}","Via Belcolle, NAVE, BS, Lombardia",POINT
+Via Dernago,NAVE,"Via Dernago, Dernago, Nave, Comunità montana della valle Trompia, Brescia, Lombardia, 25075, Italia","{'type': 'Point', 'coordinates': [10.2925496, 45.5875636]}","Via Dernago, NAVE, BS, Lombardia",POINT
+Via Monteclana alta,NAVE,"Via Monteclana, Monteclana, Nave, Comunità montana della valle Trompia, Brescia, Lombardia, 25075, Italia","{'type': 'Point', 'coordinates': [10.2877641, 45.5918441]}","Via Monteclana alta, NAVE, BS, Lombardia",POINT
+Via San Francesco,NAVE,"Via San Francesco, Muratello, Nave, Comunità montana della valle Trompia, Brescia, Lombardia, 25075, Italia","{'type': 'Point', 'coordinates': [10.2771204, 45.5806788]}","Via San Francesco, NAVE, BS, Lombardia",POINT
+Via San Marco,NAVE,"Via San Marco, Cortine, Nave, Comunità montana della valle Trompia, Brescia, Lombardia, 25073, Italia","{'type': 'Point', 'coordinates': [10.2547851, 45.5844161]}","Via San Marco, NAVE, BS, Lombardia",POINT
+Via Livelli,NUVOLERA,"Via Livelli, Bettoletto, Nuvolera, Brescia, Lombardia, 25081, Italia","{'type': 'Point', 'coordinates': [10.395094, 45.5155757]}","Via Livelli, NUVOLERA, BS, Lombardia",POINT
+Via Roma,NUVOLERA,"Nuvolera, Brescia, Lombardia, Italia","{'type': 'Point', 'coordinates': [10.369172, 45.532183]}","Via Roma, NUVOLERA, BS, Lombardia",POINT
+Via Valle,NUVOLERA,"Via Valle, Sorzana, Nuvolera, Brescia, Lombardia, Italia","{'type': 'Point', 'coordinates': [10.3701393, 45.5407359]}","Via Valle, NUVOLERA, BS, Lombardia",POINT
+Via Campanile,Nave,"Via Campanile, Campanile, Nave, Comunità montana della valle Trompia, Brescia, Lombardia, 25075, Italia","{'type': 'Point', 'coordinates': [10.2820431, 45.5848743]}","Via Campanile, Nave, BS, Lombardia",POINT
+Via Camprelle,Nuvolera,"Via Camprelle, Sorzana, Nuvolera, Brescia, Lombardia, 25086, Italia","{'type': 'Point', 'coordinates': [10.3668718, 45.5310269]}","Via Camprelle, Nuvolera, BS, Lombardia",POINT
+Via Brescia,ODOLO,"Via Brescia, Cagnatico, Odolo, Comunità montana della valle Sabbia, Brescia, Lombardia, 25071, Italia","{'type': 'Point', 'coordinates': [10.3726402, 45.6439662]}","Via Brescia, ODOLO, BS, Lombardia",POINT
+Piazza Vittoria,OFFLAGA,"Piazza Vittoria, Offlaga, Brescia, Lombardia, 25020, Italia","{'type': 'Point', 'coordinates': [10.1060903, 45.3764635]}","Piazza Vittoria, OFFLAGA, BS, Lombardia",POINT
+Via Roma,OFFLAGA,"Offlaga, Brescia, Lombardia, Italia","{'type': 'Point', 'coordinates': [10.117457, 45.3861328]}","Via Roma, OFFLAGA, BS, Lombardia",POINT
+Via Milano,ORZINUOVI,"Via Milano, Barco, Orzinuovi, Unione dei Comuni Bassa Bresciana Occidentale, Brescia, Lombardia, 25034, Italia","{'type': 'Point', 'coordinates': [9.917693, 45.4009641]}","Via Milano, ORZINUOVI, BS, Lombardia",POINT
+Via IV Novembre,OSPITALETTO,"Via Quattro Novembre, Lovernato, Ospitaletto, Brescia, Lombardia, 25035, Italia","{'type': 'Point', 'coordinates': [10.0752335, 45.5610668]}","Via IV Novembre, OSPITALETTO, BS, Lombardia",POINT
+Via Martiri della Libertà,OSPITALETTO,"Via Martiri della Libertà, Lovernato, Ospitaletto, Brescia, Lombardia, 25035, Italia","{'type': 'Point', 'coordinates': [10.0725521, 45.5533785]}","Via Martiri della Libertà, OSPITALETTO, BS, Lombardia",POINT
+Via Giotto,Orzinuovi,"Via Giotto, Barco, Orzinuovi, Unione dei Comuni Bassa Bresciana Occidentale, Brescia, Lombardia, 25034, Italia","{'type': 'Point', 'coordinates': [9.9308081, 45.3965771]}","Via Giotto, Orzinuovi, BS, Lombardia",POINT
+Via Sant'Antonio,Ospitaletto,"Via Sant'Antonio, Lovernato, Ospitaletto, Brescia, Lombardia, 25035, Italia","{'type': 'Point', 'coordinates': [10.0729798, 45.5629799]}","Via Sant'Antonio, Ospitaletto, BS, Lombardia",POINT
+Via Pospesio,PAITONE,"Via Pospesio, Pospesio, Paitone, Comunità montana della valle Sabbia, Brescia, Lombardia, 25085, Italia","{'type': 'Point', 'coordinates': [10.405812, 45.5616004]}","Via Pospesio, PAITONE, BS, Lombardia",POINT
+Via Sarzena,PAITONE,"Sarzena, Paitone, Comunità montana della valle Sabbia, Brescia, Lombardia, Italia","{'type': 'Point', 'coordinates': [10.3989754, 45.5690109]}","Via Sarzena, PAITONE, BS, Lombardia",POINT
+Via Don Bosco,PAVONE DEL MELLA,"Via Don Bosco, Pavone del Mella, Brescia, Lombardia, Italia","{'type': 'Point', 'coordinates': [10.2065606, 45.2950053]}","Via Don Bosco, PAVONE DEL MELLA, BS, Lombardia",POINT
+Belprato,PERTICA ALTA,"Belprato, Pertica Alta, Comunità montana della valle Sabbia, Brescia, Lombardia, 25078, Italia","{'type': 'Point', 'coordinates': [10.3709685, 45.7248846]}","Belprato, PERTICA ALTA, BS, Lombardia",POINT
+Lavino,PERTICA ALTA,"Lavino, Pertica Alta, Comunità montana della valle Sabbia, Brescia, Lombardia, Italia","{'type': 'Point', 'coordinates': [10.3191691, 45.7449168]}","Lavino, PERTICA ALTA, BS, Lombardia",POINT
+Navono,PERTICA ALTA,"Navono, Pertica Alta, Comunità montana della valle Sabbia, Brescia, Lombardia, Italia","{'type': 'Point', 'coordinates': [10.325692, 45.7463857]}","Navono, PERTICA ALTA, BS, Lombardia",POINT
+Noffo Alta,PERTICA ALTA,"Noffo, Pertica Alta, Comunità montana della valle Sabbia, Brescia, Lombardia, Italia","{'type': 'Point', 'coordinates': [10.3178408, 45.7419537]}","Noffo Alta, PERTICA ALTA, BS, Lombardia",POINT
+Odeno,PERTICA ALTA,"Odeno, Pertica Alta, Comunità montana della valle Sabbia, Brescia, Lombardia, Italia","{'type': 'Point', 'coordinates': [10.3382659, 45.7468903]}","Odeno, PERTICA ALTA, BS, Lombardia",POINT
+Via Tonetti,POLAVENO,"Via Tonetti, Polaveno, Comunità montana della valle Trompia, Brescia, Lombardia, 25050, Italia","{'type': 'Point', 'coordinates': [10.1504535, 45.6677659]}","Via Tonetti, POLAVENO, BS, Lombardia",POINT
+Bettegno,PONTEVICO,"Bettegno, Pontevico, Brescia, Lombardia, 25026, Italia","{'type': 'Point', 'coordinates': [10.1013726, 45.3018222]}","Bettegno, PONTEVICO, BS, Lombardia",POINT
+Strada Francesca,PONTEVICO,"Strada Francesca, Chiesuola, Pontevico, Brescia, Lombardia, 25026, Italia","{'type': 'Point', 'coordinates': [10.1138509, 45.2714591]}","Strada Francesca, PONTEVICO, BS, Lombardia",POINT
+Via Brescia,PONTEVICO,"Via Brescia, Bettegno, Pontevico, Brescia, Lombardia, 25026, Italia","{'type': 'Point', 'coordinates': [10.0960951, 45.2772653]}","Via Brescia, PONTEVICO, BS, Lombardia",POINT
+Via Campazzo,PONTEVICO,"Campazzo, Pontevico, Brescia, Lombardia, 25028, Italia","{'type': 'Point', 'coordinates': [10.0775116, 45.2978255]}","Via Campazzo, PONTEVICO, BS, Lombardia",POINT
+Via Borgo Sopra,PRALBOINO,"Via Borgo Sopra, Pralboino, Brescia, Lombardia, Italia","{'type': 'Point', 'coordinates': [10.2189735, 45.2701206]}","Via Borgo Sopra, PRALBOINO, BS, Lombardia",POINT
+Via Nuova,PRESEGLIE,"Via Nuova, Quintilago, Preseglie, Comunità montana della valle Sabbia, Brescia, Lombardia, 25070, Italia","{'type': 'Point', 'coordinates': [10.3784234, 45.6616766]}","Via Nuova, PRESEGLIE, BS, Lombardia",POINT
+Strada Provinciale 59,PROVAGLIO VAL SABBIA,"Provaglio Val Sabbia, Comunità montana della valle Sabbia, Brescia, Lombardia, Italia","{'type': 'Point', 'coordinates': [10.4366014, 45.6848636]}","Strada Provinciale 59, PROVAGLIO VAL SABBIA, BS, Lombardia",POINT
+Via Milano,PROVAGLIO VAL SABBIA,"Provaglio Val Sabbia, Comunità montana della valle Sabbia, Brescia, Lombardia, Italia","{'type': 'Point', 'coordinates': [10.4366014, 45.6848636]}","Via Milano, PROVAGLIO VAL SABBIA, BS, Lombardia",POINT
+Via Roma,PROVAGLIO VAL SABBIA,"Provaglio Val Sabbia, Comunità montana della valle Sabbia, Brescia, Lombardia, Italia","{'type': 'Point', 'coordinates': [10.4366014, 45.6848636]}","Via Roma, PROVAGLIO VAL SABBIA, BS, Lombardia",POINT
+Via Trieste,Pavone del Mella,"Via Trieste, Pavone del Mella, Brescia, Lombardia, Italia","{'type': 'Point', 'coordinates': [10.2105525, 45.303467]}","Via Trieste, Pavone del Mella, BS, Lombardia",POINT
+Via Roma,Preseglie,"Preseglie, Comunità montana della valle Sabbia, Brescia, Lombardia, 25070, Italia","{'type': 'Point', 'coordinates': [10.39677, 45.668287]}","Via Roma, Preseglie, BS, Lombardia",POINT
+SAIANO,RODENGO,"Saiano, Brescia, Lombardia, 25045, Italia","{'type': 'Point', 'coordinates': [10.103137, 45.6010183]}","SAIANO, RODENGO, BS, Lombardia",POINT
+Via Ascensione,ROE VOLCIANO,"Via Ascensione, Liano, Roè Volciano, Comunità montana della valle Sabbia, Brescia, Lombardia, 25077, Italia","{'type': 'Point', 'coordinates': [10.4947025, 45.6129165]}","Via Ascensione, ROE VOLCIANO, BS, Lombardia",POINT
+Viale Europa,Rodengo Saiano,"Viale Europa, Padergnone, Rodengo Saiano, Brescia, Lombardia, 25045, Italia","{'type': 'Point', 'coordinates': [10.1059249, 45.5955927]}","Viale Europa, Rodengo Saiano, BS, Lombardia",POINT
+Via San Lorenzo,SABBIO CHIESE,"Via San Lorenzo, Pavone, Sabbio Chiese, Comunità montana della valle Sabbia, Brescia, Lombardia, 25077, Italia","{'type': 'Point', 'coordinates': [10.4575384, 45.6391772]}","Via San Lorenzo, SABBIO CHIESE, BS, Lombardia",POINT
+Cimitero,SALE MARASINO,"Via Vittorio Veneto, Pilzone, Iseo, Comunità montana del Sebino bresciano, Brescia, Lombardia, 25058, Italia","{'type': 'Point', 'coordinates': [10.0846406, 45.6774921]}","Cimitero, SALE MARASINO, BS, Lombardia",POINT
+Via Boschetti,SALE MARASINO,"Via Boschetti, Marasino, Sale Marasino, Comunità montana del Sebino bresciano, Brescia, Lombardia, 25057, Italia","{'type': 'Point', 'coordinates': [10.1147532, 45.7050908]}","Via Boschetti, SALE MARASINO, BS, Lombardia",POINT
+Via Dante,SALE MARASINO,"Via Dante, Presso, Sale Marasino, Comunità montana del Sebino bresciano, Brescia, Lombardia, 25057, Italia","{'type': 'Point', 'coordinates': [10.1085559, 45.7214587]}","Via Dante, SALE MARASINO, BS, Lombardia",POINT
+Via Presso,SALE MARASINO,"Via Presso, Portole, Sale Marasino, Comunità montana del Sebino bresciano, Brescia, Lombardia, 25050, Italia","{'type': 'Point', 'coordinates': [10.129345, 45.7109696]}","Via Presso, SALE MARASINO, BS, Lombardia",POINT
+Via Riva,SALE MARASINO,"Via Riva, Gandizzano, Sale Marasino, Comunità montana del Sebino bresciano, Brescia, Lombardia, 25058, Italia","{'type': 'Point', 'coordinates': [10.1120214, 45.7005761]}","Via Riva, SALE MARASINO, BS, Lombardia",POINT
+Via Valle,SALE MARASINO,"Via valle, Presso, Sale Marasino, Comunità montana del Sebino bresciano, Brescia, Lombardia, 25057, Italia","{'type': 'Point', 'coordinates': [10.1146079, 45.7161596]}","Via Valle, SALE MARASINO, BS, Lombardia",POINT
+Via Chiesa,SAN PAOLO,"Via Chiesa, Cremezzano, San Paolo, Brescia, Lombardia, Italia","{'type': 'Point', 'coordinates': [10.017395, 45.3811385]}","Via Chiesa, SAN PAOLO, BS, Lombardia",POINT
+Via Grande,SAN PAOLO,"Via Grande, Scarpizzolo, San Paolo, Brescia, Lombardia, 25029, Italia","{'type': 'Point', 'coordinates': [10.0563649, 45.3789522]}","Via Grande, SAN PAOLO, BS, Lombardia",POINT
+Via Castello,SENIGA,"Via Castello, Palazzine, Seniga, Brescia, Lombardia, Italia","{'type': 'Point', 'coordinates': [10.1756519, 45.2411432]}","Via Castello, SENIGA, BS, Lombardia",POINT
+Piazza Boifava,SERLE,"Piazza Boifava, Sorsolo, Serle, Comunità montana della valle Sabbia, Brescia, Lombardia, Italia","{'type': 'Point', 'coordinates': [10.368551988802592, 45.56139795]}","Piazza Boifava, SERLE, BS, Lombardia",POINT
+Via Castello,SERLE,"Via Castello, Castello, Serle, Comunità montana della valle Sabbia, Brescia, Lombardia, 25082, Italia","{'type': 'Point', 'coordinates': [10.334817, 45.572854]}","Via Castello, SERLE, BS, Lombardia",POINT
+Via Salvandine,SERLE,"Via Salvandine, Salvadine, Serle, Comunità montana della valle Sabbia, Brescia, Lombardia, Italia","{'type': 'Point', 'coordinates': [10.3629069, 45.5659667]}","Via Salvandine, SERLE, BS, Lombardia",POINT
+Via XXV Aprile,SERLE,"Via Venticinque Aprile, Ronco, Serle, Comunità montana della valle Sabbia, Brescia, Lombardia, Italia","{'type': 'Point', 'coordinates': [10.366278, 45.5708718]}","Via XXV Aprile, SERLE, BS, Lombardia",POINT
+Via Roma,TREVISO BRESCIANO,"Treviso Bresciano, Comunità montana della valle Sabbia, Brescia, Lombardia, Italia","{'type': 'Point', 'coordinates': [10.4636642, 45.7131259]}","Via Roma, TREVISO BRESCIANO, BS, Lombardia",POINT
+Via Roma (Trebbio),Treviso Bresciano,"Via Roma, Trebbio, Treviso Bresciano, Comunità montana della valle Sabbia, Brescia, Lombardia, 25074, Italia","{'type': 'Point', 'coordinates': [10.4617188, 45.7126078]}","Via Roma (Trebbio), Treviso Bresciano, BS, Lombardia",POINT
+Via Caschino,VALLIO TERME,"Via Caschino, Somagro, Vallio Terme, Comunità montana della valle Sabbia, Brescia, Lombardia, Italia","{'type': 'Point', 'coordinates': [10.4001545, 45.6099079]}","Via Caschino, VALLIO TERME, BS, Lombardia",POINT
+Via Paolo VI,VALLIO TERME,"Via Paolo Sesto, Oriolo, Vallio Terme, Comunità montana della valle Sabbia, Brescia, Lombardia, Italia","{'type': 'Point', 'coordinates': [10.390539, 45.613065]}","Via Paolo VI, VALLIO TERME, BS, Lombardia",POINT
+Via Porle,VALLIO TERME,"Via Porle, Porle, Vallio Terme, Comunità montana della valle Sabbia, Brescia, Lombardia, 25071, Italia","{'type': 'Point', 'coordinates': [10.381636, 45.6062373]}","Via Porle, VALLIO TERME, BS, Lombardia",POINT
+Via Repubblica,VALLIO TERME,"Via Repubblica, Oriolo, Vallio Terme, Comunità montana della valle Sabbia, Brescia, Lombardia, Italia","{'type': 'Point', 'coordinates': [10.3932473, 45.610417]}","Via Repubblica, VALLIO TERME, BS, Lombardia",POINT
+Via Roma,VALLIO TERME,"Via Roma, Somagro, Vallio Terme, Comunità montana della valle Sabbia, Brescia, Lombardia, Italia","{'type': 'Point', 'coordinates': [10.4027131, 45.6099042]}","Via Roma, VALLIO TERME, BS, Lombardia",POINT
+Via Sopranico,VALLIO TERME,"Via Sopranico, Sopranico, Vallio Terme, Comunità montana della valle Sabbia, Brescia, Lombardia, Italia","{'type': 'Point', 'coordinates': [10.4038515, 45.6108918]}","Via Sopranico, VALLIO TERME, BS, Lombardia",POINT
+Breda Libera,VEROLANUOVA,"Breda Libera, Verolanuova, Brescia, Lombardia, 25028, Italia","{'type': 'Point', 'coordinates': [10.0893015, 45.348969]}","Breda Libera, VEROLANUOVA, BS, Lombardia",POINT
+Via San Martino,VEROLANUOVA,"Via San Martino, Cadignano, Verolanuova, Brescia, Lombardia, 25028, Italia","{'type': 'Point', 'coordinates': [10.0576235, 45.3588746]}","Via San Martino, VEROLANUOVA, BS, Lombardia",POINT
+Via Chiese,VESTONE,"Via Chiese, Promo, Vestone, Comunità montana della valle Sabbia, Brescia, Lombardia, 25078, Italia","{'type': 'Point', 'coordinates': [10.4056872, 45.7104167]}","Via Chiese, VESTONE, BS, Lombardia",POINT
+Via Mocenigo,VESTONE,"Via Mocenigo, Mocenigo, Vestone, Comunità montana della valle Sabbia, Brescia, Lombardia, 25078, Italia","{'type': 'Point', 'coordinates': [10.4010558, 45.7093048]}","Via Mocenigo, VESTONE, BS, Lombardia",POINT
+Via Promo,VESTONE,"Via Promo, Promo, Vestone, Comunità montana della valle Sabbia, Brescia, Lombardia, 25078, Italia","{'type': 'Point', 'coordinates': [10.4070751, 45.7158064]}","Via Promo, VESTONE, BS, Lombardia",POINT
+Via Tesolo,VESTONE,"Tesolo, Vestone, Comunità montana della valle Sabbia, Brescia, Lombardia, 25078, Italia","{'type': 'Point', 'coordinates': [10.3836477, 45.7031882]}","Via Tesolo, VESTONE, BS, Lombardia",POINT
+Via Berniga,VILLANUOVA SUL CLISI,"Berniga, Villanuova sul Clisi, Comunità montana della valle Sabbia, Brescia, Lombardia, 25089, Italia","{'type': 'Point', 'coordinates': [10.4646727, 45.6124836]}","Via Berniga, VILLANUOVA SUL CLISI, BS, Lombardia",POINT
+Via Mezzane,VILLANUOVA SUL CLISI,"Via Mezzane, Villanuova sul Clisi, Comunità montana della valle Sabbia, Brescia, Lombardia, 25077, Italia","{'type': 'Point', 'coordinates': [10.4840904, 45.6225328]}","Via Mezzane, VILLANUOVA SUL CLISI, BS, Lombardia",POINT
+Piazza Castello,VISANO,"Piazza Castello, Visano, Brescia, Lombardia, Italia","{'type': 'Point', 'coordinates': [10.3691616, 45.3166559]}","Piazza Castello, VISANO, BS, Lombardia",POINT
+Via Padre Piamarta,VISANO,"Via Padre Piamarta, Visano, Brescia, Lombardia, Italia","{'type': 'Point', 'coordinates': [10.3654888, 45.3160671]}","Via Padre Piamarta, VISANO, BS, Lombardia",POINT
+Piazza del  Volontariato,VOBARNO,"Piazza del Volontariato, Pompegnino, Vobarno, Comunità montana della valle Sabbia, Brescia, Lombardia, Italia","{'type': 'Point', 'coordinates': [10.498112676607139, 45.631402699999995]}","Piazza del  Volontariato, VOBARNO, BS, Lombardia",POINT
+Via Carvanno,VOBARNO,"Carvanno, Vobarno, Comunità montana della valle Sabbia, Brescia, Lombardia, 25079, Italia","{'type': 'Point', 'coordinates': [10.4955108, 45.6775692]}","Via Carvanno, VOBARNO, BS, Lombardia",POINT
+Via Ceresigno,VOBARNO,"Via Ceresigno, Fustegnago, Vobarno, Comunità montana della valle Sabbia, Brescia, Lombardia, 25079, Italia","{'type': 'Point', 'coordinates': [10.5069337, 45.6806819]}","Via Ceresigno, VOBARNO, BS, Lombardia",POINT
+Via Comunale,VOBARNO,"Via Comunale, Moglia, Vobarno, Comunità montana della valle Sabbia, Brescia, Lombardia, 25077, Italia","{'type': 'Point', 'coordinates': [10.4685864, 45.6474886]}","Via Comunale, VOBARNO, BS, Lombardia",POINT
+Via Nalmase,VOBARNO,"Nalmase, Vobarno, Comunità montana della valle Sabbia, Brescia, Lombardia, 25079, Italia","{'type': 'Point', 'coordinates': [10.4954233, 45.6603383]}","Via Nalmase, VOBARNO, BS, Lombardia",POINT
+Via Pavoni,VOBARNO,"Via Pavoni, Collio, Vobarno, Comunità montana della valle Sabbia, Brescia, Lombardia, 25077, Italia","{'type': 'Point', 'coordinates': [10.5082832, 45.6402061]}","Via Pavoni, VOBARNO, BS, Lombardia",POINT
+Via Poli,VOBARNO,"Via Poli, Collio, Vobarno, Comunità montana della valle Sabbia, Brescia, Lombardia, 25077, Italia","{'type': 'Point', 'coordinates': [10.5037193, 45.6443627]}","Via Poli, VOBARNO, BS, Lombardia",POINT
+Piazza Roma,Villanuova sul Clisi,"Piazza Roma, Soffia, Villanuova sul Clisi, Comunità montana della valle Sabbia, Brescia, Lombardia, 25089, Italia","{'type': 'Point', 'coordinates': [10.4541513, 45.601714]}","Piazza Roma, Villanuova sul Clisi, BS, Lombardia",POINT
+Via Castegnino,Vobarno,"Via Castegnino, Collio, Vobarno, Comunità montana della valle Sabbia, Brescia, Lombardia, 25077, Italia","{'type': 'Point', 'coordinates': [10.5023154, 45.6438788]}","Via Castegnino, Vobarno, BS, Lombardia",POINT

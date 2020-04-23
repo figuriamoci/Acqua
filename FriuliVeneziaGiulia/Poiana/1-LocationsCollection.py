@@ -1,6 +1,6 @@
 import tabula,os,pandas as pd,logging,datetime
 os.chdir('D:/Python/Acqua/FriuliVeneziaGiulia/Poiana')
-url = 'Definitions/Acque Potabili - Analisi Chimico fisiche 2018_2019.pdf'
+url = 'Medadata/Acque Potabili - Analisi Chimico fisiche 2018_2019.pdf'
 tables = tabula.read_pdf(url,multiple_tables=True,pages='all',encoding='utf-8')
 #%%
 listRawtables = []
@@ -30,6 +30,6 @@ locationList = pd.DataFrame(locationList_,columns=["alias_city","alias_address",
 locationList['type'] = 'Point'
 locationList['polygonKey'] = ''#locationList['alias_city'].apply(lambda s: s.split(':')[1].strip().upper())
 #%%           
-locationList.to_csv('Definitions/LocationList.csv',index=False)
+locationList.to_csv('Medadata/LocationList.csv',index=False)
 
 logging.info('Finish: %s',datetime.datetime.now())

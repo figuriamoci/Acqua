@@ -11,6 +11,6 @@ locationList['georeferencingString']=locationList['alias_address'].apply(lambda 
 locationList['georeferencingString']=locationList['georeferencingString'].apply(lambda x: x.replace('mini acquedotto',''))
 locationList['georeferencingString']=locationList['georeferencingString'].apply(lambda x: x.replace('loc.',''))
 #Salva l'output
-locationList.to_csv('Definitions/GeoReferencingLocationList.csv',index=False)
+locationList.to_csv('Medadata/GeoReferencingLocationList.csv',index=False)
 logging.info('Safe %s geoquery location(s).',len(locationList))
 

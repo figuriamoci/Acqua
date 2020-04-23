@@ -55,6 +55,6 @@ for comune in listaComuni:
             locationList_row['alias_address'] = indirizzo
             locationList = locationList.append(locationList_row,ignore_index=True)
             
-locationList.to_csv('FriuliVeneziaGiulia/CAFC/Definitions/LocationList.csv',index=False)
+locationList.to_csv('FriuliVeneziaGiulia/CAFC/Medadata/LocationList.csv',index=False)
 
 logging.info('Finish: %s',datetime.datetime.now())

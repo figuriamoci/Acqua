@@ -11,7 +11,7 @@ url = 'http://www.acegasapsamga.it/binary/hera_acegas/qualita_acqua_trieste/2019
 df = pd.read_csv('Definitions/LocationList.csv')
 reportList = df.reindex(columns=['alias_city','alias_address'])
 reportList['url']=url
-reportList.to_csv('Definitions/FoundReportList.csv',index=False)
+reportList.to_csv('Medadata/DataReportCollection.csv',index=False)
 logging.info('Finish: %s',datetime.datetime.now())
 logging.info('Report found: %s',len(reportList))
 

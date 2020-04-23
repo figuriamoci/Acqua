@@ -1,0 +1,13 @@
+alias_address,alias_city,ammoniaca,arsenico,bicarbonato,calcio,cloro_residuo,cloruro,conducibilita,cromo,data_report,durezza,ferro,fluoruri,magnesio,manganese,nitrato,nitrito,ph,potassio,residuo_fisso,sodio,solfato
+Comune,PADOVA,<0.05,<1,295,69.9,,8,480,<2,Gennaio 2020,27.0,<10,<0.05,23.5,<5,16,<0.05,7.6,1.0,295,4,17
+Comune,ABANO TERME,<0.05,<1,295,69.9,,8,480,<2,Gennaio 2020,27.0,<10,<0.05,23.5,<5,16,<0.05,7.6,1.0,295,4,17
+Comune,CONA,<0.05,2,,60.0,,7,375,<2,4 trimestre 2019,22.1,<10,0.10,11.2,<5,8,<0.05,7.8,2.0,,5,27
+Comune,CORREZZOLA,<0.05,2,,60.0,,7,375,<2,4 trimestre 2019,22.1,<10,0.10,11.2,<5,8,<0.05,7.8,2.0,,5,27
+Comune,PONTELONGO,<0.05,2,,60.0,,7,375,<2,4 trimestre 2019,22.1,<10,0.10,11.2,<5,8,<0.05,7.8,2.0,,5,27
+Comune,CODEVIGO,<0.05,2,,60.0,,7,375,<2,4 trimestre 2019,22.1,<10,0.10,11.2,<5,8,<0.05,7.8,2.0,,5,27
+Comune,BRUGINE,<0.05,<1,300,72.6,,8,480,<2,4 trimestre 2019,27.6,<10,<0.05,22.8,<5,17,<0.05,7.6,1.0,,4,17
+Comune,LEGNARO,<0.05,<1,300,72.6,,8,480,<2,4 trimestre 2019,27.6,<10,<0.05,22.8,<5,17,<0.05,7.6,1.0,,4,17
+Comune,PIOVE DI SACCO,<0.05,<1,300,72.6,,8,480,<2,4 trimestre 2019,27.6,<10,<0.05,22.8,<5,17,<0.05,7.6,1.0,,4,17
+Comune,S. ANGELO DI PIOVE DI S.,<0.05,<1,300,72.6,,8,480,<2,4 trimestre 2019,27.6,<10,<0.05,22.8,<5,17,<0.05,7.6,1.0,,4,17
+Comune,POLVERARA,<0.05,<1,300,72.6,,8,480,<2,4 trimestre 2019,27.6,<10,<0.05,22.8,<5,17,<0.05,7.6,1.0,,4,17
+Comune,ARZERGRANDE,<0.05,2,,61.9,,9,371,<2,4 trimestre 2019,19.9,15,0.15,10.9,<5,8,<0.02,7.7,2.0,,5,30

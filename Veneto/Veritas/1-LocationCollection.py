@@ -15,5 +15,5 @@ locationList = pd.DataFrame(alias_city)
 locationList['alias_address']='Territorio'
 locationList['georeferencingString'] = locationList['alias_city']+', Venezia, Veneto, Italia'
 locationList['type']='POINT'
-locationList.to_csv('Definitions/LocationList.csv',index=False)
+locationList.to_csv('Medadata/LocationList.csv',index=False)
 logging.info('Finish: %s',datetime.datetime.now())

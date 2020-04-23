@@ -16,8 +16,8 @@ import os,logging,datetime
 os.chdir('/Users/andrea/PycharmProjects/Acqua/Veneto/Ats')
 logging.basicConfig(level=logging.DEBUG)
 idGestore = 14211 #ALTO TREVIGIANO SERVIZI,
-listParameters = parm.getListSynonyms('Definitions/SynParametri.csv')
-parm.crea_dizionario('Definitions/SynParametri.csv')
+listParameters = parm.getListSynonyms('Medadata/SynParametri.csv')
+parm.crea_dizionario('Medadata/SynParametri.csv')
 ##
 listParameters = ['PH','Durezza totale [°f]','Nitriti [mg/l]','Cloro residuo [mg/l]','Calcio [mg/l]','Cloruri [mg/l]','Solfato [mg/l]','Residuo fisso [mg/l]','Conducibilità [µS/cm]','Nitrati NO3 [mg/l]','Ammoniaca NH4 [mg/l]','Ferro [µg/l]','Magnesio [mg/l]','Floruri [mg/l]','Sodio [mg/l]',]
 import pickle
@@ -40,7 +40,7 @@ for report in foundReportList:
     lb = al.create_label( idGestore, data_prelievo, label )
 
     loc = (report['alias_city'],report['alias_address'])
-    glb = al.addGeocodeData( lb, loc, 'Definitions/GeoReferencedLocationsList.csv' )
+    glb = al.addGeocodeData( lb, loc, 'Medadata/GeoReferencedLocationsList.csv' )
     logging.info( 'Georeferenced label for %s', loc )
     for j in range( 0, len( glb ) ): ll.append( glb[j] )
 

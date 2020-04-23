@@ -9,8 +9,8 @@ logging.basicConfig(level=logging.DEBUG)
 idGestore = 'Veritas'
 ##
 reportFoundList = pd.read_csv('Definitions/ReportFoundList.csv')
-useThisDictionary = parm.crea_dizionario('Definitions/SynParametri.csv')
-parametersAdmitted = parm.getParametersAdmitted('Definitions/SynParametri.csv')
+useThisDictionary = parm.crea_dizionario('Medadata/SynParametri.csv')
+parametersAdmitted = parm.getParametersAdmitted('Medadata/SynParametri.csv')
 ll = []
 for i,reportFound in reportFoundList.iterrows():
     #i=5
@@ -25,7 +25,7 @@ for i,reportFound in reportFoundList.iterrows():
     label = table.to_dict()
     data_report = reportFound['data_report']
     lb = al.create_label( useThisDictionary, idGestore, data_report, label )
-    glb = al.addGeocodeData( lb, alias, 'Definitions/GeoReferencedLocationsList.csv' )
+    glb = al.addGeocodeData( lb, alias, 'Medadata/GeoReferencedLocationsList.csv' )
     ll.extend( glb )
     logging.info( 'Done.' )
 ##

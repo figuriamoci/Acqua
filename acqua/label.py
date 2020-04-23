@@ -4,18 +4,19 @@ import pandas as pd
 import acqua.aqueduct as aq
 import time, geojson,numpy as np,logging,math
 
-def create_label (synonimous,id_gestore,data_report,parms):
+def create_label (synonimous,gestore,data_report,parms):
     data = {}
-    data['id_gestore'] = id_gestore
-    man = aq.name(id_gestore)
-    data['gestore'] = man['descrizione_gestore']
-    data['web'] = man['sito_internet']
-    data['report'] = man['url_qualita_acqua']
+    propGestore = aq.name(gestore)
+    data['id_gestore'] = gestore
+    data['gestore'] = propGestore['ENTE_GESTORE']
+    data['web'] = propGestore['SITO_INTERNET']
+    data['report'] = propGestore['URL_QUALITA_ACQUA']
     named_tuple = time.localtime()  # get struct_time
     time_string = time.strftime( "%d/%m/%Y, %H:%M", named_tuple )
     data['timestamp'] = time_string
-    data['data'] = data_report
-    parameters = {sp.getSTDParm(synonimous,k): str(v).replace(' ','') for k, v in parms.items()}
+    #data['data'] = data_report
+    parameters = {sp.getSTDParm(synonimous,k): str(v) for k, v in parms.items()}
+    #parameters = {sp.getSTDParm(synonimous,k): str(v).replace(' ','') for k, v in parms.items()}
     data['parameters'] = parameters
     return data
 
@@ -40,32 +41,26 @@ def addGeocodeData(label,location,geoReferencedLocationsFile):
             geocodeLabelList.append(geocodeLabel)
         return geocodeLabelList
 
-def to_geojson(geoLabel,rgb):
+def to_geojson(geoLabel):
     import pandas as pd
     location = geoLabel['location']
     separator = ', '
     location = separator.join( location )
-    prop = {"geoname":geoLabel['geoname'],"gestore":geoLabel['gestore'],"web":geoLabel['web'],"report":geoLabel['report'],"data":geoLabel['data'],"reference":location,"timestamp":geoLabel['timestamp'],"id_gestore":geoLabel['id_gestore']}
+    prop = {"geoname":geoLabel['geoname'],"gestore":geoLabel['gestore'],"web":geoLabel['web'],"report":geoLabel['report'],"timestamp":geoLabel['timestamp'],"cod_gestore":geoLabel['id_gestore']}
+    #prop = {"geoname": geoLabel['geoname'], "gestore": geoLabel['gestore'], "web": geoLabel['web'],
+    #        "report": geoLabel['report'], "data": geoLabel['data'], "reference": location,
+    #        "timestamp": geoLabel['timestamp'], "cod_gestore": geoLabel['id_gestore']}
     parms_ = geoLabel['parameters']
-    parms = {str(k):str(v)+' '+par.getUM(str(k)) for k,v in parms_.items()}
+    #Sostituisce il punto decimale con la virgola
+    parms = {str(k):str(v).replace(',','.') for k,v in parms_.items()}
+    #parms = {str(k):str(v)+' '+par.getUM(str(k)) for k,v in parms_.items()}
     prop.update(parms)
     s = geoLabel['geometry']
 
     if pd.isna(s):
-        #logging.critical( 'Geometry not found for %s', location )
-        #return ''
         raise Exception('Geometry not found for %s', location )
     else:
         geo = geojson.loads( s.replace( "'", '"' ) )
-        type = geo['type']
-        if type == 'Polygon':
-            extra = {"fill": "#" + rgb}
-        elif type == 'Point':
-            extra = { "marker-color": "#" + rgb, "marker-size": "small"}
-        else:
-            extra = {}
-
-        prop.update( extra )
         feature = geojson.Feature( geometry=geo, properties=prop )
         return feature
 
@@ -84,7 +79,22 @@ def to_GeoJsonFeature(label,locations,geoReferencedLocationsFile):
         geocode = geojson.loads(datiGeo[location]['geocode'])
     return np.nan
 
-
-
-
-
+def createJSONLabels(gestore,dataReportCollectionFile,geoReferencedLocationsListFile):
+    import acqua.label as al
+    import acqua.labelCollection as coll
+    import logging, pandas as pd
+    import numpy as np
+    dataReportCollection = pd.read_csv( dataReportCollectionFile )
+    ll = []
+    for i, reportFound in dataReportCollection.iterrows():
+        alias = (reportFound['alias_city'], reportFound['alias_address'])
+        logging.info( '>>> %s[%s]...', alias, i )
+        label = reportFound.dropna().to_dict()
+        #data_report = reportFound['data_report']
+        lb = al.create_label( np.nan, gestore, np.nan, label )
+        glb = al.addGeocodeData( lb, alias, geoReferencedLocationsListFile )
+        ll.extend( glb )
+        logging.info( 'Done.' )
+    fc = coll.to_geojson( ll )
+    coll.to_file( fc, gestore + '.geojson' )
+    return fc

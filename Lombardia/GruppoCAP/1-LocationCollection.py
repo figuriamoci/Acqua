@@ -11,7 +11,7 @@ loctionList['alias_address'] = 'Territorio comunale'
 loctionList['georeferencingString'] = reportFound['Comune']+' MI'
 loctionList['tyoe'] = 'POINT'
 
-loctionList.to_csv('Definitions/LocationList.csv',index=False)
+loctionList.to_csv('Medadata/LocationList.csv',index=False)
 
 
 

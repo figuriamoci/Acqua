@@ -1,0 +1,80 @@
+alias_address,alias_city,geocode,geometry,georeferencingString,type
+Piazza Marconi,Lodrino,"Via Giacomo Matteotti, 25060, Lodrino, Brescia","{'type': 'Point', 'coordinates': [10.27196055394666, 45.717844415311525]}","Via Matteotti, Lodrino, Brescia, Lombardia",POINT
+Via Nenvilla,Irma,"Via 11 Ottobre, 25061, Irma, Brescia","{'type': 'Point', 'coordinates': [10.28685357773269, 45.77158298094271]}","Via 11 ottobre, Irma, Brescia, Lombardia",POINT
+P.zza Marconi,Collio,"Piazza Gugliemo Marconi, 25060, Collio, Brescia","{'type': 'Point', 'coordinates': [10.334014560483375, 45.80926020161128]}","Piazza Guglielmo Marconi, Collio, Brescia, Lombardia",POINT
+Via Alfieri,Gardone VT,"Via Vittorio Alfieri, 25063, Gardone Val Trompia, BS","{'type': 'Point', 'coordinates': [10.185611947720131, 45.68372146233307]}","Via Alfieri, Gardone Valtrompia, BS, Lombardia",POINT
+Cimitero,Bovegno,"Bovegno, BS","{'type': 'Point', 'coordinates': [10.277050000000031, 45.79347000000007]}","Cimitero, Bovegno, BS, Lombardia",POINT
+Graticelle,Bovegno,"Graticelle, Bovegno, BS","{'type': 'Point', 'coordinates': [10.271250000000066, 45.803510000000074]}","Graticelle, Bovegno, BS, Lombardia",POINT
+Localita' Dossi Piani,Bovegno,"Bovegno, BS","{'type': 'Point', 'coordinates': [10.277050000000031, 45.79347000000007]}","Localita' Dossi Piani, Bovegno, BS, Lombardia",POINT
+Piano Alto,Bovegno,"Bovegno, BS","{'type': 'Point', 'coordinates': [10.277050000000031, 45.79347000000007]}","Piano Alto, Bovegno, BS, Lombardia",POINT
+Querceto,Bovegno,"Bovegno, BS","{'type': 'Point', 'coordinates': [10.277050000000031, 45.79347000000007]}","Querceto, Bovegno, BS, Lombardia",POINT
+Savenone,Bovegno,"Località Savenone di Sopra, 25061, Bovegno, BS","{'type': 'Point', 'coordinates': [10.25926037371771, 45.78225672634015]}","Savenone, Bovegno, BS, Lombardia",POINT
+Toccagni,Bovegno,"Bovegno, BS","{'type': 'Point', 'coordinates': [10.277050000000031, 45.79347000000007]}","Toccagni, Bovegno, BS, Lombardia",POINT
+Via Ca' Delle Bachere,Bovegno,"Via Ca' delle Bachere, 25061, Bovegno, BS","{'type': 'Point', 'coordinates': [10.268604065737662, 45.78901428539367]}","Via Ca' Delle Bachere, Bovegno, BS, Lombardia",POINT
+Via Chiesa,Bovegno,"Bovegno, BS","{'type': 'Point', 'coordinates': [10.277050000000031, 45.79347000000007]}","Via Chiesa, Bovegno, BS, Lombardia",POINT
+Via Pineta,Bovegno,"Via Pineta, 25061, Bovegno, BS","{'type': 'Point', 'coordinates': [10.275697708012755, 45.79787025323697]}","Via Pineta, Bovegno, BS, Lombardia",POINT
+Via Provinciale,Bovegno,"Via Provinciale, 25061, Bovegno, BS","{'type': 'Point', 'coordinates': [10.275021978337996, 45.79248675738482]}","Via Provinciale, Bovegno, BS, Lombardia",POINT
+Via Roma,Bovegno,"Via Roma, 25061, Bovegno, BS","{'type': 'Point', 'coordinates': [10.274041833064421, 45.793858380012054]}","Via Roma, Bovegno, BS, Lombardia",POINT
+Zigole,Bovegno,"Zigole, Bovegno, BS","{'type': 'Point', 'coordinates': [10.265500000000031, 45.77888000000007]}","Zigole, Bovegno, BS, Lombardia",POINT
+Localita' Tolzana,Caino,"Via Tolzana, 25070, Caino, BS","{'type': 'Point', 'coordinates': [10.32296043663561, 45.616409003787396]}","Localita' Tolzana, Caino, BS, Lombardia",POINT
+P.zza Trieste,Caino,"Piazza Trieste, 25070, Caino, BS","{'type': 'Point', 'coordinates': [10.31692970889545, 45.61321693665684]}","P.zza Trieste, Caino, BS, Lombardia",POINT
+Via Don Gino Pirlo,Caino,"Via Don Gino Pirlo, 25070, Caino, BS","{'type': 'Point', 'coordinates': [10.3140635927262, 45.61158133934478]}","Via Don Gino Pirlo, Caino, BS, Lombardia",POINT
+Via Villa Mattina,Caino,"Via Villa Mattina, 25070, Caino, BS","{'type': 'Point', 'coordinates': [10.313415990086458, 45.61243421387895]}","Via Villa Mattina, Caino, BS, Lombardia",POINT
+Ivino,Collio,"Ivino, Collio, BS","{'type': 'Point', 'coordinates': [10.350420000000042, 45.81559000000004]}","Ivino, Collio, BS, Lombardia",POINT
+Piazza S. Barbara,Collio,"Piazza Santa Barbara, 25060, Collio, BS","{'type': 'Point', 'coordinates': [10.367049949002572, 45.81009669582887]}","Piazza S. Barbara, Collio, BS, Lombardia",POINT
+Piazza Tavelli,Collio,"Piazza Tavelli, 25060, Collio, BS","{'type': 'Point', 'coordinates': [10.318273454149752, 45.8108552614992]}","Piazza Tavelli, Collio, BS, Lombardia",POINT
+Via Bagozzi,Collio,"Via Federico Bagozzi, 25060, Collio, BS","{'type': 'Point', 'coordinates': [10.333536948302235, 45.81324546961999]}","Via Bagozzi, Collio, BS, Lombardia",POINT
+Via Tizio,Collio,"Via Tizio, 25060, Collio, BS","{'type': 'Point', 'coordinates': [10.334383731446309, 45.81243391973842]}","Via Tizio, Collio, BS, Lombardia",POINT
+Caregno,Gardone Valtrompia,"Via Caregno, 25063, Gardone Val Trompia, BS","{'type': 'Point', 'coordinates': [10.197783639920985, 45.713753999999994]}","Caregno, Gardone Valtrompia, BS, Lombardia",POINT
+Snodo Dolomite,Gardone Valtrompia,"Gardone Val Trompia, BS","{'type': 'Point', 'coordinates': [10.185880000000054, 45.686960000000056]}","Snodo Dolomite, Gardone Valtrompia, BS, Lombardia",POINT
+Via Foscolo,Gardone Valtrompia,"Via Ugo Foscolo, 25063, Gardone Val Trompia, BS","{'type': 'Point', 'coordinates': [10.185358927469967, 45.6787608115882]}","Via Foscolo, Gardone Valtrompia, BS, Lombardia",POINT
+Via Padile,Gardone Valtrompia,"Via Padile, 25063, Gardone Val Trompia, BS","{'type': 'Point', 'coordinates': [10.200764125557725, 45.70610715521905]}","Via Padile, Gardone Valtrompia, BS, Lombardia",POINT
+Via Pascoli,Gardone Valtrompia,"Via Giovanni Pascoli, 25063, Gardone Val Trompia, BS","{'type': 'Point', 'coordinates': [10.170776853590702, 45.691613921947635]}","Via Pascoli, Gardone Valtrompia, BS, Lombardia",POINT
+Via San Martino,Gardone Valtrompia,"Via San Martino, 25063, Gardone Val Trompia, BS","{'type': 'Point', 'coordinates': [10.195687200708507, 45.70727269110231]}","Via San Martino, Gardone Valtrompia, BS, Lombardia",POINT
+Via Verdi,Gardone Valtrompia,"Via Giuseppe Verdi, 25063, Gardone Val Trompia, BS","{'type': 'Point', 'coordinates': [10.18855501296871, 45.69517704322897]}","Via Verdi, Gardone Valtrompia, BS, Lombardia",POINT
+Via Volta,Gardone Valtrompia,"Via Alessandro Volta, 25063, Gardone Val Trompia, BS","{'type': 'Point', 'coordinates': [10.18667205739039, 45.70151434711292]}","Via Volta, Gardone Valtrompia, BS, Lombardia",POINT
+S.P. 53,Irma,"Irma, BS","{'type': 'Point', 'coordinates': [10.286680000000047, 45.77153000000004]}","S.P. 53, Irma, BS, Lombardia",POINT
+Via Crocette,Lodrino,"Via Crocetta, 25060, Lodrino, BS","{'type': 'Point', 'coordinates': [10.279795836935667, 45.716940753762266]}","Via Crocette, Lodrino, BS, Lombardia",POINT
+Via Roma,Lodrino,"Via Roma, 25060, Lodrino, BS","{'type': 'Point', 'coordinates': [10.278446893129868, 45.71883474482003]}","Via Roma, Lodrino, BS, Lombardia",POINT
+Via San Rocco,Lodrino,"Via San Rocco, 25060, Lodrino, BS","{'type': 'Point', 'coordinates': [10.267161703480726, 45.717452510337615]}","Via San Rocco, Lodrino, BS, Lombardia",POINT
+P.le della Piscina,Lumezzane,"Piazzale della Piscina, 25065, Lumezzane, BS","{'type': 'Point', 'coordinates': [10.238736506896059, 45.654732226995186]}","P.le della Piscina, Lumezzane, BS, Lombardia",POINT
+P.zza Paolo VI,Lumezzane,"Lumezzane, BS","{'type': 'Point', 'coordinates': [10.259960000000035, 45.64998000000003]}","P.zza Paolo VI, Lumezzane, BS, Lombardia",POINT
+Piazza 24 Maggio,Lumezzane,"Piazza 24 Maggio, 25065, Lumezzane, BS","{'type': 'Point', 'coordinates': [10.242408952337124, 45.65842228892869]}","Piazza 24 Maggio, Lumezzane, BS, Lombardia",POINT
+Piazza Cadorna,Lumezzane,"Piazza Luigi Cadorna, 25065, Lumezzane, BS","{'type': 'Point', 'coordinates': [10.25166282645462, 45.65733209544283]}","Piazza Cadorna, Lumezzane, BS, Lombardia",POINT
+Piazza Diaz,Lumezzane,"Piazza Armando Diaz, 25065, Lumezzane, BS","{'type': 'Point', 'coordinates': [10.246451470767557, 45.65639980443958]}","Piazza Diaz, Lumezzane, BS, Lombardia",POINT
+Via M. L. King,Lumezzane,"Via Martin Luther King, 25065, Lumezzane, BS","{'type': 'Point', 'coordinates': [10.262431851480425, 45.648630486592715]}","Via M. L. King, Lumezzane, BS, Lombardia",POINT
+Via Madonnina,Lumezzane,"Via Madonnina, 25065, Lumezzane, BS","{'type': 'Point', 'coordinates': [10.284316335798566, 45.65028229882027]}","Via Madonnina, Lumezzane, BS, Lombardia",POINT
+Via Marcolini,Lumezzane,"Via Guglielmo Marconi, 25065, Lumezzane, BS","{'type': 'Point', 'coordinates': [10.259975680000064, 45.65045551882354]}","Via Marcolini, Lumezzane, BS, Lombardia",POINT
+Via Ruca,Lumezzane,"Via Ruca, 25065, Lumezzane, BS","{'type': 'Point', 'coordinates': [10.266903919784896, 45.64378918941708]}","Via Ruca, Lumezzane, BS, Lombardia",POINT
+Via Veneto,Lumezzane,"Via Vittorio Veneto, 25065, Lumezzane, BS","{'type': 'Point', 'coordinates': [10.268719083105298, 45.65134223235087]}","Via Veneto, Lumezzane, BS, Lombardia",POINT
+Via Zagnagnolo,Lumezzane,"Via Maestro Zanagnolo, 25065, Lumezzane, BS","{'type': 'Point', 'coordinates': [10.224321750000012, 45.65956500000001]}","Via Zagnagnolo, Lumezzane, BS, Lombardia",POINT
+Via Chiesa,Marcheno,"Marcheno, BS","{'type': 'Point', 'coordinates': [10.213990000000024, 45.70625000000007]}","Via Chiesa, Marcheno, BS, Lombardia",POINT
+Via Gitti,Marcheno,"Via Onorevole Angelo Gitti, 25060, Marcheno, BS","{'type': 'Point', 'coordinates': [10.213854523880004, 45.702878871492004]}","Via Gitti, Marcheno, BS, Lombardia",POINT
+Via Parte,Marcheno,"Via Parte, 25060, Marcheno, BS","{'type': 'Point', 'coordinates': [10.219515178174955, 45.70589288121669]}","Via Parte, Marcheno, BS, Lombardia",POINT
+Via Pirle,Marcheno,"Via Pirle, 25060, Marcheno, BS","{'type': 'Point', 'coordinates': [10.218135668820775, 45.71963353130273]}","Via Pirle, Marcheno, BS, Lombardia",POINT
+Piazza Mondaro,Pezzaze,"Piazza Mondaro, 25060, Pezzaze, BS","{'type': 'Point', 'coordinates': [10.234666589568533, 45.77626719388318]}","Piazza Mondaro, Pezzaze, BS, Lombardia",POINT
+Piazza Stravegnino,Pezzaze,"Piazza Stravignino, 25060, Pezzaze, BS","{'type': 'Point', 'coordinates': [10.237575675044932, 45.774055640596934]}","Piazza Stravegnino, Pezzaze, BS, Lombardia",POINT
+Via Aiale,Pezzaze,"Località Aiale, 25060, Pezzaze, BS","{'type': 'Point', 'coordinates': [10.260097293020863, 45.767045051737384]}","Via Aiale, Pezzaze, BS, Lombardia",POINT
+Via Miniera,Pezzaze,"Via Miniera, 25060, Pezzaze, BS","{'type': 'Point', 'coordinates': [10.241177073842882, 45.77525805063116]}","Via Miniera, Pezzaze, BS, Lombardia",POINT
+Via Taverna,Pezzaze,"Via Taverna, 25060, Pezzaze, BS","{'type': 'Point', 'coordinates': [10.249568571518562, 45.76279127478066]}","Via Taverna, Pezzaze, BS, Lombardia",POINT
+Via 1850,Sarezzo,"Via 1850, 25068, Sarezzo, BS","{'type': 'Point', 'coordinates': [10.212264331334673, 45.66030536236322]}","Via 1850, Sarezzo, BS, Lombardia",POINT
+Via Antonini,Sarezzo,"Via Angelo Antonini, 25068, Sarezzo, BS","{'type': 'Point', 'coordinates': [10.214178321207875, 45.64922330711127]}","Via Antonini, Sarezzo, BS, Lombardia",POINT
+Via Gozzano,Sarezzo,"Via Guido Gozzano, 25068, Sarezzo, BS","{'type': 'Point', 'coordinates': [10.186442092430504, 45.66845025529455]}","Via Gozzano, Sarezzo, BS, Lombardia",POINT
+Via I Maggio,Sarezzo,"Via 1 Maggio, 25068, Sarezzo, BS","{'type': 'Point', 'coordinates': [10.19118233183614, 45.669488929038444]}","Via I Maggio, Sarezzo, BS, Lombardia",POINT
+Via Roma,Sarezzo,"Via Roma, 25068, Sarezzo, BS","{'type': 'Point', 'coordinates': [10.204267429957563, 45.653774609678216]}","Via Roma, Sarezzo, BS, Lombardia",POINT
+Via Seradello,Sarezzo,"Via Seradello, 25068, Sarezzo, BS","{'type': 'Point', 'coordinates': [10.161682477627064, 45.66955919552541]}","Via Seradello, Sarezzo, BS, Lombardia",POINT
+Vicolo Mella,Sarezzo,"Via Vicolo Mella, 25068, Sarezzo, BS","{'type': 'Point', 'coordinates': [10.188464415641537, 45.671374372192815]}","Vicolo Mella, Sarezzo, BS, Lombardia",POINT
+Piazza Chiesa,Tavernole Sul Mella,"Tavernole sul Mella, BS","{'type': 'Point', 'coordinates': [10.24069000000003, 45.74816000000004]}","Piazza Chiesa, Tavernole Sul Mella, BS, Lombardia",POINT
+Via Amadini,Tavernole Sul Mella,"Via Amadini, 25060, Tavernole sul Mella, BS","{'type': 'Point', 'coordinates': [10.241289000000004, 45.75018131634431]}","Via Amadini, Tavernole Sul Mella, BS, Lombardia",POINT
+Via Forcella,Tavernole Sul Mella,"Via Forcella, 25060, Tavernole sul Mella, BS","{'type': 'Point', 'coordinates': [10.225927691572933, 45.74426755658891]}","Via Forcella, Tavernole Sul Mella, BS, Lombardia",POINT
+Via Grumello C/O Ponte,Tavernole Sul Mella,"Via Grumello, 25060, Tavernole sul Mella, BS","{'type': 'Point', 'coordinates': [10.238629691894312, 45.745828521321606]}","Via Grumello C/O Ponte, Tavernole Sul Mella, BS, Lombardia",POINT
+Via Grumello C/O Santella,Tavernole Sul Mella,"Via Grumello, 25060, Tavernole sul Mella, BS","{'type': 'Point', 'coordinates': [10.238629691894312, 45.745828521321606]}","Via Grumello C/O Santella, Tavernole Sul Mella, BS, Lombardia",POINT
+Via Mella,Tavernole Sul Mella,"Via Mella, 25060, Tavernole sul Mella, BS","{'type': 'Point', 'coordinates': [10.241232056848782, 45.74594503789919]}","Via Mella, Tavernole Sul Mella, BS, Lombardia",POINT
+Via Missone,Tavernole Sul Mella,"Via Missone, 25060, Tavernole sul Mella, BS","{'type': 'Point', 'coordinates': [10.229140499603231, 45.74166240491997]}","Via Missone, Tavernole Sul Mella, BS, Lombardia",POINT
+Via Pavoni,Tavernole Sul Mella,"Tavernole sul Mella, BS","{'type': 'Point', 'coordinates': [10.24069000000003, 45.74816000000004]}","Via Pavoni, Tavernole Sul Mella, BS, Lombardia",POINT
+Via S. Carlo,Tavernole Sul Mella,"Via San Carlo, 25060, Tavernole sul Mella, BS","{'type': 'Point', 'coordinates': [10.217267813655157, 45.76212215682758]}","Via S. Carlo, Tavernole Sul Mella, BS, Lombardia",POINT
+P.zza del Mercato,Tavernole sul Mella,"Piazza Mercato, 25060, Tavernole sul Mella, BS","{'type': 'Point', 'coordinates': [10.240610494663377, 45.74889112705245]}","P.zza del Mercato, Tavernole sul Mella, BS, Lombardia",POINT
+Cimitero,Villa Carcina,"Via Cimitero, 25069, Villa Carcina, BS","{'type': 'Point', 'coordinates': [10.200234089544228, 45.625971609340645]}","Cimitero, Villa Carcina, BS, Lombardia",POINT
+Via Italia,Villa Carcina,"Via Italia, 25069, Villa Carcina, BS","{'type': 'Point', 'coordinates': [10.200683578125949, 45.62708015625191]}","Via Italia, Villa Carcina, BS, Lombardia",POINT
+Via Marconi,Villa Carcina,"Via Guglielmo Marconi, 25069, Villa Carcina, BS","{'type': 'Point', 'coordinates': [10.193733000000003, 45.63764751624258]}","Via Marconi, Villa Carcina, BS, Lombardia",POINT
+Via S. Giuseppe,Villa Carcina,"Via San Giuseppe, 25069, Villa Carcina, BS","{'type': 'Point', 'coordinates': [10.192046854796072, 45.64463269715898]}","Via S. Giuseppe, Villa Carcina, BS, Lombardia",POINT

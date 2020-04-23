@@ -1,7 +1,7 @@
 #Location di interesse per i parametri dell'acqua
 #targetLocation = 'Isola Morosini Via due fiumi'
-##
-targetLocation = "Via Giovanni Segantini, Ovest, Verona, Veneto, 37138, Italia"
+#%%
+targetLocation = "Via Roma Sondrio"
 
 import folium,os,geojson as js,logging
 from geopy.geocoders import Nominatim
@@ -10,10 +10,10 @@ os.chdir('/Users/andrea/PycharmProjects/Acqua/WebApp' )
 geolocator = Nominatim(user_agent="Acqua")
 location = geolocator.geocode(targetLocation)
 print(location)
-##
+#%%
 # Convert Geopy to GeoJSON model for targetLocation
 import geojson
-from geojson import Feature, Point
+from geojson import Feature
 
 point = geojson.Point( (location.longitude, location.latitude) )
 name = location.address
@@ -54,7 +54,7 @@ gj = folium.GeoJson( data=ra )
 #gj.add_child( folium.Popup( popup ) )
 gj.add_to( m )
 
-##
+#%%
 # Draw reference geometry
 for i,label in enumerate(listEtichette):
     latitude = label['geometry']['coordinates'][1]
@@ -87,3 +87,15 @@ m.add_child( marker )
 # done.
 m.save('index.html')
 
+
+
+# %%
+
+
+# %%
+
+
+# %%
+
+
+# %%

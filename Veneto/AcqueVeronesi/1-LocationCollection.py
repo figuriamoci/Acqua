@@ -47,5 +47,5 @@ locationList = locationList_[['alias_city','alias_address']]
 locationList['georeferencingString'] = locationList_['alias_address']+', '+locationList_['alias_city']+', Verona, Veneto, Italia'
 locationList['type'] = 'POINT'
 #
-locationList.to_csv('Definitions/LocationList.csv',index=False)
+locationList.to_csv('Medadata/LocationList.csv',index=False)
 logging.info('Finish: %s',datetime.datetime.now())

@@ -1,0 +1,331 @@
+alias_address,alias_city,ammoniaca,arsenico,bicarbonato,calcio,cloro_residuo,cloruro,conducibilita,data_report,durezza,fluoruri,magnesio,manganese,nitrato,nitrito,ph,potassio,residuo_fisso,sodio,solfato
+Fontana Piazza S.Marco,Albaredo per San Marco,<0.05,1.9,30.7,5.5,<0.010,0.6,56,Analisi effettuata il 30/01/2019,2.1(1.2),<0.10,1.7,<0.5,2.1,<0.05,7.1,1.4,42,2.7,7.9
+Fontana Via Caselle,Albosaggia,<0.05,1.1,73.2,19.8,<0.010,<0.5,150,Analisi effettuata il 24/07/2019,7.3(4.1),<0.10,5.7,<0.5,2.4,<0.05,7.6,1.3,113,2.0,22.8
+Fontana Via Coltra,Albosaggia,<0.05,0.9,69.3,18.9,<0.010,1.0,146,Analisi effettuata il 24/07/2019,7.0(3.9),0.10,5.6,<0.5,1.9,<0.05,7.5,1.3,110,2.5,20.7
+Fontana Via Moia,Albosaggia,<0.05,0.6,35.6,9.8,<0.010,0.6,86,Analisi effettuata il 24/07/2019,3.6(2.0),<0.10,2.9,<0.5,1.6,<0.05,7.3,1.0,65,2.6,16.4
+Fontana Loc.tà Ca' Boscacci,Albosaggia,<0.05,<0.5,18.2,3.1,<0.010,2.0,44,Analisi effettuata il 24/07/2019,1.7(0.9),<0.10,2.3,<0.5,1.7,<0.05,7.0,0.8,33,1.9,5.3
+Fontana Via Vanoni,Andalo Valtellino,<0.05,0.5,21.0,5.3,<0.010,<0.5,48,Analisi effettuata il 03/07/2019,1.8(1.0),<0.10,1.1,<0.5,3.9,<0.05,7.5,1.3,36,1.4,6.6
+Fontana loc. Dosso,Aprica,<0.05,5.0,27.7,7.2,<0.010,0.6,64,Analisi effettuata il 16/07/2019,2.7(1.5),<0.10,2.3,2.3,1.0,<0.05,7.1,0.5,48,1.8,12.9
+Fontana Via Liscedo,Aprica,<0.05,6.9,28.3,7.3,<0.010,0.6,64,Analisi effettuata il 16/07/2019,2.8(1.6),<0.10,2.3,<0.5,1.0,<0.05,7.2,0.5,48,1.8,13.2
+Fontana Via Europa-S.Pietro,Aprica,<0.05,7.0,28.7,7.4,<0.010,0.6,64,Analisi effettuata il 16/07/2019,2.8(1.6),<0.10,2.3,<0.5,1.0,<0.05,7.2,0.5,48,1.8,13.4
+Fontana Via Italia,Aprica,<0.05,5.9,32.4,8.2,<0.010,1.2,77,Analisi effettuata il 16/07/2018,3.0(1.7),<0.10,2.4,0.6,1.1,<0.05,7.4,0.8,58,2.2,15.0
+Fontana Via Liscidini,Aprica,<0.05,6.0,30.8,8.0,<0.010,0.9,77,Analisi effettuata il 16/07/2018,3.0(1.7),<0.10,2.4,1.7,1.0,<0.05,7.4,0.5,58,1.9,15.0
+Fontana Via Morano,Ardenno,<0.05,<0.5,23.3,6.7,<0.010,<0.5,58,Analisi effettuata il 08/08/2019,2.2(1.2),<0.10,1.2,<0.5,2.9,<0.05,7.4,1.6,44,1.9,7.1
+Fontana Via Visconti Venosta / Via Guasto,Ardenno,<0.05,<0.5,23.3,6.9,<0.010,<0.5,56,Analisi effettuata il 08/08/2019,2.2(1.2),<0.10,1.2,<0.5,2.9,<0.05,7.4,1.5,42,1.8,6.9
+Fontana Loc Gaggio,Ardenno,<0.05,<0.5,32.4,11.1,<0.010,0.8,82,Analisi effettuata il 08/08/2019,3.6(2.0),0.13,1.9,<0.5,2.6,<0.05,7.3,2.3,62,2.9,10.5
+Fontana Loc. Biolo,Ardenno,<0.05,<0.5,24.8,7.1,<0.010,<0.5,58,Analisi effettuata il 08/08/2019,2.3(1.3),<0.10,1.2,<0.5,2.8,<0.05,7.5,1.4,44,1.7,6.8
+Fontana Loc. Masino,Ardenno,<0.05,<0.5,22.6,6.8,<0.010,<0.5,57,Analisi effettuata il 08/08/2019,2.2(1.2),<0.10,1.3,<0.5,3.0,<0.05,7.4,1.8,43,1.8,7.0
+Fontana Via Roma,Bema,<0.05,0.9,18.8,3.4,<0.010,0.5,34,Analisi effettuata il 25/07/2019,1.2(0.7),<0.10,0.9,2.2,2.8,<0.05,7.0,0.9,26,1.9,4.5
+Fontana Centro (Municipio),Berbenno,<0.05,0.5,45.3,14.6,<0.010,<0.5,98,Analisi effettuata il 29/07/2019,4.6(2.6),<0.10,2.2,<0.5,1.2,<0.05,7.8,1.5,74,0.9,13.6
+Fontana Loc. Polaggia (Chiesa),Berbenno,<0.05,0.5,45.7,14.6,<0.010,<0.5,99,Analisi effettuata il 29/07/2019,4.6(2.6),<0.10,2.2,<0.5,1.2,<0.05,7.9,1.4,74,0.9,13.6
+Fontana Loc. Pedemonte,Berbenno,<0.05,<0.5,34.8,14.9,<0.010,<0.5,86,Analisi effettuata il 29/07/2019,4.2(2.3),<0.10,1.1,<0.5,0.9,<0.05,7.7,1.6,65,1.3,16.2
+Fontana Loc. Prato Maslino,Berbenno,<0.05,<0.5,41.3,13.8,<0.010,<0.5,87,Analisi effettuata il 29/07/2019,3.9(2.2),<0.10,1.0,<0.5,3.0,<0.05,7.6,1.4,65,1.8,7.4
+Fontana Piazza Vanoni (Municipio),Bianzone,<0.05,0.6,31.2,8.7,<0.010,<0.5,92,Analisi effettuata il 20/08/2019,3.5(2.0),0.17,3.3,0.6,1.0,<0.05,7.5,1.7,69,2.8,18.6
+Fontana Loc. Prada,Bianzone,<0.05,<0.5,33.0,9.2,<0.010,0.5,97,Analisi effettuata il 20/08/2019,3.7(2.1),0.17,3.5,<0.5,1.0,<0.05,7.5,1.8,73,2.9,19.7
+Fontana Piazza Crocefisso,Bormio,<0.05,1.1,31.4,29.0,<0.010,<0.5,224,Analisi effettuata il 23/07/2019,10.5(5.9),0.13,8.6,1.5,1.0,<0.05,7.6,0.8,168,2.4,90.5
+Fontana Via Alberti,Bormio,<0.05,1.4,33.5,28.8,<0.010,<0.5,231,Analisi effettuata il 23/07/2019,11.1(6.2),0.15,9.4,2.7,1.0,<0.05,7.7,0.7,173,2.2,87.2
+Fontana Via Milano,Bormio,<0.05,2.7,34.6,33.3,<0.010,0.5,231,Analisi effettuata il 23/07/2019,14.2(7.9),0.25,14.3,1.1,1.1,<0.05,7.7,0.5,173,1.2,64.7
+Fontana Via Martiri 16 Giugno,Buglio in Monte,<0.05,<0.5,27.8,10.3,<0.010,0.6,78,Analisi effettuata il 08/08/2019,3.4(1.9),0.10,2.1,<0.5,2.2,<0.05,7.4,2.1,59,2.7,12.3
+Fontana Loc. Ere,Buglio in Monte,<0.05,<0.5,34.0,8.9,<0.010,<0.5,76,Analisi effettuata il 08/08/2019,3.2(1.8),<0.10,2.4,<0.5,1.9,<0.05,7.5,1.4,57,1.8,8.2
+Fontana Loc. Villapinta (Piazza Botterini),Buglio in Monte,<0.05,<0.5,33.6,8.5,<0.010,0.5,76,Analisi effettuata il 08/08/2019,3.1(1.7),<0.10,2.4,<0.5,1.9,<0.05,7.5,1.5,57,1.8,8.3
+Fontana Via Livrio,Caiolo,<0.05,<0.5,42.3,10.1,<0.010,0.5,85,Analisi effettuata il 24/07/2019,3.6(2.0),<0.10,2.7,<0.5,3.7,<0.05,7.6,1.3,64,1.9,9.1
+Fontana Loc. Bachet,Caiolo,<0.05,<0.5,39.7,10.1,<0.010,0.5,84,Analisi effettuata il 24/07/2019,3.6(2.0),<0.10,2.7,1.7,4.6,<0.05,7.6,1.5,63,1.9,10.7
+Fontana Loc.Palù,Caiolo,<0.05,<0.5,22.4,14.2,<0.010,0.6,138,Analisi effettuata il 24/07/2019,5.4(3.0),0.22,4.6,<0.5,3.1,<0.05,7.5,3.1,104,2.7,42.6
+Fontana Loc. S. Bernardo,Caiolo,<0.05,<0.5,33.6,10.6,<0.010,0.8,97,Analisi effettuata il 24/07/2019,3.8(2.1),0.12,2.9,<0.5,7.0,<0.05,7.4,2.3,73,2.7,18.7
+Fontana Via Tini,Campodolcino,<0.05,4.3,26.0,9.8,<0.010,0.8,78,Analisi effettuata il 28/08/2019,3.1(1.7),<0.10,1.5,<0.5,3.5,<0.05,7.3,1.0,59,1.3,12.1
+Fontana Loc. Fraciscio (Casa Don Guanella),Campodolcino,<0.05,3.7,38.0,12.6,<0.010,<0.5,93,Analisi effettuata il 28/08/2019,3.9(2.2),<0.10,1.9,<0.5,1.7,<0.05,7.6,1.2,70,1.2,12.3
+Fontana Loc. Gualdera,Campodolcino,<0.05,5.3,50.6,24.8,<0.010,<0.5,200,Analisi effettuata il 28/08/2019,8.6(4.8),<0.10,5.8,<0.5,2.1,<0.05,7.8,2.3,150,1.2,51.4
+Fontana Loc. Corti,Campodolcino,<0.05,1.8,84.1,23.7,<0.010,<0.5,160,Analisi effettuata il 28/08/2019,7.9(4.4),<0.10,4.7,<0.5,2.2,<0.05,8.0,1.3,120,0.7,7.5
+Fontana Loc. Prestone (Via de Lè),Campodolcino,<0.05,<0.5,77.0,25.4,<0.010,<0.5,157,Analisi effettuata il 28/08/2019,7.1(4.0),<0.10,1.9,<0.5,5.3,<0.05,7.9,3.1,118,1.0,8.7
+Fontana Loc. Motta,Campodolcino,<0.05,6.1,24.6,12.0,<0.010,<0.5,86,Analisi effettuata il 28/08/2019,3.6(2.0),<0.10,1.4,0.5,1.3,<0.05,7.6,0.6,65,0.7,18.9
+Fontana Loc. Splughetta,Campodolcino,<0.05,2.1,75.7,17.0,<0.010,<0.5,135,Analisi effettuata il 28/08/2019,6.8(3.8),<0.10,6.3,<0.5,0.9,<0.05,8.1,1.1,101,0.5,5.5
+Fontana Loc. Starleggia,Campodolcino,<0.05,0.7,79.5,19.1,<0.010,<0.5,143,Analisi effettuata il 28/08/2019,7.0(3.9),<0.10,5.5,<0.5,1.0,<0.05,8.0,0.5,107,<0.5,3.7
+Fontana loc. S. Elisabetta,Caspoggio,<0.05,1.1,119.5,51.2,<0.010,<0.5,334,Analisi effettuata il 16/09/2019,16.9(9.4),0.13,10.1,<0.5,2.2,<0.05,7.7,4.5,251,1.3,63.9
+Fontana via Don Gatti,Caspoggio,<0.05,4.2,56.9,25.7,<0.010,<0.5,184,Analisi effettuata il 16/09/2019,8.7(4.9),<0.10,5.5,<0.5,1.4,<0.05,8.0,2.0,138,1.5,41.3
+Fontana Centro (Chiesa),Castello dell'Acqua,<0.05,1.6,33.6,6.7,<0.010,<0.5,57,Analisi effettuata il 08/01/2019,2.4(1.3),<0.10,1.8,<0.5,4.0,<0.05,7.3,<0.5,43,1.1,1.9
+Fontana Via Cavallari,Castello dell'Acqua,<0.05,6.2,42.9,16.4,<0.010,<0.5,89,Analisi effettuata il 10/07/2019,4.9(2.7),<0.10,1.9,<0.5,4.5,<0.05,7.5,0.5,67,0.9,8.1
+Fontana loc. Baghetto,Castello dell'Acqua,<0.05,6.4,43.9,14.2,<0.010,<0.5,89,Analisi effettuata il 10/07/2019,4.3(2.4),<0.10,1.9,<0.5,4.4,<0.05,7.5,0.5,67,1.0,8.1
+Fontana loc. Piazzola,Castello dell'Acqua,<0.05,3.4,53.9,13.5,<0.010,<0.5,91,Analisi effettuata il 10/07/2019,4.8(2.7),<0.10,3.5,<0.5,3.6,<0.05,7.8,<0.5,68,1.3,3.7
+Fontana Centro (Chiesa S. Rocco),Castione Andevenno,<0.05,2.8,60.9,24.6,<0.010,0.6,158,Analisi effettuata il 29/07/2019,7.3(4.1),<0.10,2.8,<0.5,0.9,<0.05,8.0,1.4,119,2.1,28.6
+Fontana Loc. Moroni,Castione Andevenno,<0.05,3.0,61.1,24.5,<0.010,0.6,158,Analisi effettuata il 29/07/2019,7.3(4.1),<0.10,2.8,<0.5,0.8,<0.05,7.9,1.4,119,2.1,28.2
+Fontana Via Roma (Chiesa),Cedrasco,<0.05,<0.5,16.2,3.1,<0.010,<0.5,35,Analisi effettuata il 01/07/2019,1.2(0.7),<0.10,1.1,<0.5,1.2,<0.05,7.0,0.8,26,1.4,4.9
+Fontana Centro,Cercino,<0.05,<0.5,37.6,8.9,<0.010,0.5,69,Analisi effettuata il 09/07/2019,2.6(1.5),<0.10,1.0,<0.5,2.0,<0.05,7.8,2.6,52,2.8,5.3
+Fontana Loc.tà Piussogno (parco giochi),Cercino,<0.05,<0.5,38.4,8.7,<0.010,0.5,64,Analisi effettuata il 15/01/2019,2.6(1.5),<0.10,1.0,<0.5,1.5,<0.05,7.6,2.3,48,2.7,4.6
+Fontana Loc.tà Piussogno (via alla Chiesa),Cercino,<0.05,<0.5,38.9,8.8,<0.010,0.5,69,Analisi effettuata il 09/07/2019,2.6(1.5),<0.10,1.0,<0.5,2.0,<0.05,7.6,2.4,52,2.7,5.3
+Fontana Via S.Giovanni,Chiavenna,<0.05,1.8,43.3,33.4,<0.010,0.8,210,Analisi effettuata il 11/09/2019,9.9(5.5),0.16,3.9,<0.5,2.4,<0.05,7.5,1.4,158,1.6,56.0
+Fontana Via IV Novembre (Cimitero),Chiavenna,<0.05,1.6,104.6,14.2,<0.010,0.6,237,Analisi effettuata il 11/09/2019,12.2(6.8),<0.10,20.9,<0.5,4.3,<0.05,8.0,1.8,178,0.9,26.2
+Fontana Loc. S.Carlo (Via Campedello),Chiavenna,<0.05,1.0,33.3,16.2,<0.010,0.5,129,Analisi effettuata il 11/09/2019,4.8(2.7),0.82,1.8,<0.5,1.9,<0.05,7.5,2.9,97,3.2,27.9
+Fontana Loc. Bette (Via Barini),Chiavenna,<0.05,1.6,45.1,34.9,<0.010,1.1,236,Analisi effettuata il 11/09/2019,10.4(5.8),0.15,4.0,<0.5,2.7,<0.05,7.5,1.5,177,1.7,66.6
+Fontana Loc. Pianazzola,Chiavenna,<0.05,2.0,44.5,34.9,<0.010,0.9,213,Analisi effettuata il 11/09/2019,10.4(5.8),0.16,4.1,<0.5,2.8,<0.05,7.5,1.5,160,1.7,58.2
+Fontana Via Roma,Chiesa in Valmalenco,<0.05,0.6,31.5,8.1,<0.010,<0.5,67,Analisi effettuata il 16/09/2019,2.9(1.6),<0.10,2.1,<0.5,1.0,<0.05,7.4,<0.5,50,0.7,6.8
+Fontana Loc. Primolo,Chiesa in Valmalenco,<0.05,0.5,33.5,5.8,<0.010,<0.5,60,Analisi effettuata il 16/09/2019,2.7(1.5),<0.10,3.0,<0.5,2.4,<0.05,7.9,<0.5,45,0.8,2.5
+Vasca Loc. Dosselli,Chiesa in Valmalenco,<0.05,<0.5,33.6,4.5,<0.010,<0.5,64,Analisi effettuata il 16/09/2019,3.2(1.8),<0.10,5.0,<0.5,1.7,<0.05,7.6,<0.5,48,<0.5,2.7
+Fontana Loc. Faldrini,Chiesa in Valmalenco,<0.05,0.6,30.9,8.1,<0.010,<0.5,68,Analisi effettuata il 16/09/2019,2.9(1.6),<0.10,2.2,<0.5,1.0,<0.05,7.4,<0.5,51,0.7,6.6
+Fontana Loc. Curlo,Chiesa in Valmalenco,<0.05,0.6,30.3,8.2,<0.010,<0.5,68,Analisi effettuata il 16/09/2019,3.0(1.7),<0.10,2.2,<0.5,1.0,<0.05,7.4,<0.5,51,0.7,6.6
+Fontana Loc. Cà rotte,Chiesa in Valmalenco,<0.05,<0.5,47.4,9.8,<0.010,<0.5,91,Analisi effettuata il 16/09/2019,4.5(2.5),<0.10,4.9,<0.5,0.6,<0.05,7.6,0.6,68,0.5,5.2
+Fontana Loc. Chiareggio,Chiesa in Valmalenco,<0.05,<0.5,47.7,16.7,<0.010,<0.5,105,Analisi effettuata il 16/09/2019,4.5(2.5),<0.10,0.9,<0.5,2.3,<0.05,7.6,1.1,79,0.5,8.9
+Fontana Loc. Bracciascia case Sem,Chiesa in Valmalenco,<0.05,1.6,38.4,8.3,<0.010,<0.5,75,Analisi effettuata il 16/09/2019,3.6(2.0),<0.10,3.8,<0.5,0.9,<0.05,7.8,<0.5,56,<0.5,5.0
+Fontana Piazza Quadrio,Chiuro,<0.05,8.7,62.8,18.0,<0.010,<0.5,131,Analisi effettuata il 12/08/2019,5.9(3.3),0.24,3.4,<0.5,2.1,<0.05,7.8,1.6,98,2.5,15.9
+Fontana Loc.Castionetto (Vicolo S. Gregorio),Chiuro,<0.05,4.6,64.3,17.3,<0.010,0.5,131,Analisi effettuata il 12/08/2019,5.8(3.2),0.23,3.7,<0.5,1.8,<0.05,7.8,1.7,98,3.1,18.7
+Fontana Via Roma (Chiesa),Cino,<0.05,<0.5,55.6,10.9,<0.010,0.8,88,Analisi effettuata il 09/07/2019,3.5(2.0),<0.10,2.0,<0.5,2.3,<0.05,7.8,2.7,66,3.3,4.7
+Fontana loc. Poira,Civo,<0.05,<0.5,15.6,3.5,<0.010,<0.5,30,Analisi effettuata il 21/08/2019,0.9(0.5),<0.10,<0.5,<0.5,2.0,<0.05,7.0,1.0,23,1.2,1.5
+Fontana Loc. S. Croce,Civo,<0.05,<0.5,26.8,6.1,<0.010,<0.5,46,Analisi effettuata il 21/08/2019,1.9(1.1),<0.10,0.9,<0.5,1.7,<0.05,7.6,1.8,35,1.8,2.9
+Fontana Loc. Vallate,Civo,<0.05,<0.5,13.9,3.4,<0.010,<0.5,28,Analisi effettuata il 21/08/2019,0.8(0.4),<0.10,<0.5,<0.5,2.7,<0.05,7.3,1.0,21,1.1,1.4
+Fontana Civo Centro,Civo,<0.05,<0.5,25.8,5.2,<0.010,<0.5,46,Analisi effettuata il 21/08/2019,1.7(0.9),<0.10,0.9,<0.5,1.7,<0.05,7.5,1.8,35,1.8,2.9
+Fontana Loc. Cadelsasso,Civo,<0.05,<0.5,25.9,7.9,<0.010,0.6,63,Analisi effettuata il 21/08/2019,2.3(1.3),<0.10,0.8,<0.5,5.9,<0.05,7.4,1.2,47,2.5,5.8
+Fontana Loc. Cevo,Civo,<0.05,<0.5,35.5,8.3,<0.010,0.7,82,Analisi effettuata il 21/08/2019,2.9(1.6),<0.10,2.0,<0.5,1.1,<0.05,7.5,1.8,62,3.6,11.3
+Fontana Loc. Selvetta,Colorina,<0.05,<0.5,16.8,3.9,<0.010,0.6,65,Analisi effettuata il 01/07/2019,2.0(1.1),0.12,2.5,<0.5,3.1,<0.05,7.1,1.8,49,3.1,13.1
+Fontana Loc. Valle Ovest (Via ai Camparei),Colorina,<0.05,<0.5,17.3,3.9,<0.010,0.5,62,Analisi effettuata il 01/07/2019,2.0(1.1),0.11,2.4,<0.5,2.6,<0.05,7.1,1.7,47,2.9,13.5
+Fontana Loc. Valle Est (Via Garibaldi),Colorina,<0.05,<0.5,9.8,2.6,<0.010,<0.5,24,Analisi effettuata il 01/07/2019,0.9(0.5),<0.10,0.6,<0.5,2.2,<0.05,7.0,0.7,18,0.7,3.0
+Fontana Via Stelvio/Via Don Provino,Cosio Valtellino,<0.05,5.9,25.9,6.4,<0.010,<0.5,65,Analisi effettuata il 09/07/2019,2.4(1.3),0.20,1.9,<0.5,3.5,<0.05,7.3,1.4,49,3.0,10.1
+Fontana Loc.Regoledo (Via Adda),Cosio Valtellino,<0.05,1.4,26.3,6.1,<0.010,0.5,65,Analisi effettuata il 09/07/2019,2.3(1.3),0.13,2.0,<0.5,3.2,<0.05,7.5,1.2,49,3.1,10.6
+Fontana Loc. Piagno (Via Grande),Cosio Valtellino,<0.05,0.9,28.9,6.0,<0.010,<0.5,63,Analisi effettuata il 09/07/2019,2.3(1.3),0.12,1.9,<0.5,3.6,<0.05,7.4,1.2,47,2.8,10.0
+Fontana Loc. Sacco (Piazza S. Lorenzo),Cosio Valtellino,<0.05,<0.5,18.4,3.0,<0.010,<0.5,36,Analisi effettuata il 09/07/2019,1.3(0.7),<0.10,1.3,<0.5,1.3,<0.05,7.2,0.8,27,2.5,5.6
+Fontana Loc. Mellarolo (Via Ronchi),Cosio Valtellino,<0.05,<0.5,24.7,3.7,<0.010,0.7,58,Analisi effettuata il 09/07/2019,1.6(0.9),0.12,1.7,<0.5,0.9,<0.05,7.2,1.5,44,4.4,9.4
+Fontana Via Battisti (Municipio vecchio),Dazio,<0.05,<0.5,25.1,7.7,<0.010,<0.5,62,Analisi effettuata il 21/08/2019,2.3(1.3),<0.10,0.8,<0.5,5.8,<0.05,7.3,1.2,47,2.3,5.7
+Fontana Via della Battaglia (dietro Municipio),Delebio,<0.05,6.1,39.7,11.1,<0.010,0.6,82,Analisi effettuata il 03/07/2019,3.4(1.9),0.40,1.6,0.8,2.2,<0.05,7.4,1.1,62,2.7,12.2
+Fontana Loc. La Motta,Delebio,<0.05,8.1,22.3,13.2,<0.010,<0.5,86,Analisi effettuata il 15/10/2019,3.7(2.1),<0.10,1.0,<0.5,1.6,<0.05,7.3,0.7,65,1.3,19.0
+Fontana loc. Ossiccio,Delebio,<0.05,9.3,23.4,13.2,<0.010,<0.5,85,Analisi effettuata il 15/10/2019,3.7(2.1),<0.10,1.0,1.6,1.6,<0.05,7.3,0.7,64,1.3,19.2
+Fontana Via Roma/Via Cavour,Dubino,<0.05,<0.5,43.5,9.3,<0.010,0.5,66,Analisi effettuata il 03/07/2019,2.6(1.5),<0.10,0.6,<0.5,2.6,<0.05,7.6,1.8,50,2.3,5.4
+Fontana Loc. Nuova Olonio (Via Valeriana),Dubino,<0.05,<0.5,35.2,10.1,<0.010,0.6,73,Analisi effettuata il 04/07/2019,2.9(1.6),<0.10,1.0,<0.5,4.0,<0.05,7.4,1.9,55,2.4,5.6
+Fontana Via Piano (Loc.tà Molino),Faedo Valtellino,<0.05,3.3,53.1,15.2,<0.010,0.7,106,Analisi effettuata il 08/07/2019,5.1(2.8),<0.10,3.1,<0.5,2.0,<0.05,7.6,0.6,80,2.2,12.6
+Fontana Via Roma,Forcola,<0.05,<0.5,20.1,4.0,<0.010,0.6,65,Analisi effettuata il 01/07/2019,2.1(1.2),0.13,2.6,<0.5,3.1,<0.05,7.2,1.8,49,3.3,13.2
+Fontana Via Cedrasco (Lavatoio),Fusine,<0.05,<0.5,17.0,4.4,<0.010,<0.5,36,Analisi effettuata il 01/07/2019,1.5(0.8),<0.10,1.0,<0.5,1.4,<0.05,7.1,<0.5,27,0.8,4.3
+Fontana Via Cedrasco (Centro),Fusine,<0.05,<0.5,20.3,4.6,<0.010,<0.5,44,Analisi effettuata il 07/01/2019,1.6(0.9),<0.10,1.0,<0.5,2.0,<0.05,7.2,<0.5,33,0.8,5.2
+Fontana Piazza Pizzo Tre Signori,Gerola Alta,<0.05,3.5,26.0,6.4,<0.010,<0.5,50,Analisi effettuata il 30/07/2019,2.3(1.3),<0.10,1.7,<0.5,2.2,<0.05,7.4,0.5,38,1.2,3.7
+Fontana Via Rasega,Gerola Alta,<0.05,0.6,13.3,3.3,<0.010,1.2,35,Analisi effettuata il 30/07/2019,1.2(0.7),<0.10,1.0,<0.5,1.9,<0.05,6.9,1.1,26,2.0,4.8
+Fontana Loc. Pescegallo (Piazzale),Gerola Alta,<0.05,2.1,21.6,5.0,<0.010,<0.5,40,Analisi effettuata il 30/07/2019,1.9(1.1),<0.10,1.7,0.5,2.6,<0.05,7.4,<0.5,30,0.6,2.2
+Fontana Loc. Fenile,Gerola Alta,<0.05,3.6,27.3,6.8,<0.010,<0.5,54,Analisi effettuata il 30/07/2019,2.4(1.3),<0.10,1.8,0.5,2.0,<0.05,7.5,0.5,41,1.3,4.1
+Fontana Loc. Piana di Fenile (Albergo Pineta),Gerola Alta,<0.05,5.2,33.5,8.0,<0.010,<0.5,59,Analisi effettuata il 30/07/2019,2.8(1.6),<0.10,2.0,<0.5,2.1,<0.05,7.8,<0.5,44,0.9,3.2
+Fontana Loc. Cassinelle,Gerola Alta,<0.05,3.8,24.9,6.3,<0.010,<0.5,51,Analisi effettuata il 30/07/2019,2.2(1.2),<0.10,1.6,<0.5,2.4,<0.05,7.4,0.5,38,1.2,3.8
+Fontana Loc.tà Laveggiolo,Gerola Alta,<0.05,2.7,18.5,6.5,<0.010,<0.5,49,Analisi effettuata il 30/07/2019,2.0(1.1),<0.10,0.8,<0.5,1.9,<0.05,7.2,0.9,37,1.4,8.0
+Fontana Loc. Castello,Gerola Alta,<0.05,1.8,15.2,4.4,<0.010,<0.5,41,Analisi effettuata il 30/07/2019,1.5(0.8),<0.10,0.9,<0.5,1.8,<0.05,7.0,1.1,31,1.7,6.7
+Fontana Loc.tà Ravizze,Gerola Alta,<0.05,0.7,13.3,3.1,<0.010,<0.5,31,Analisi effettuata il 30/07/2019,1.0(0.6),<0.10,0.6,<0.5,1.1,<0.05,7.1,0.8,23,1.4,3.6
+Fontana Loc.tà Tegie,Gerola Alta,<0.05,<0.5,15.4,2.8,<0.010,0.8,36,Analisi effettuata il 30/07/2019,1.2(0.7),<0.10,1.2,<0.5,1.7,<0.05,7.2,1.3,27,1.9,3.9
+Fontana Loc.tà Nasoncio,Gerola Alta,<0.05,<0.5,13.3,2.1,<0.010,0.8,29,Analisi effettuata il 30/07/2019,0.9(0.5),<0.10,0.8,<0.5,1.7,<0.05,7.0,1.0,22,1.9,3.9
+Fontana Piazza S.Martino,Gordona,<0.05,0.9,17.7,5.0,<0.010,<0.5,43,Analisi effettuata il 04/09/2019,1.5(0.8),0.17,0.5,<0.5,2.0,<0.05,7.5,0.5,32,0.9,4.5
+Fontana Loc. Menarola - Bortolotto,Gordona,<0.05,1.0,15.5,3.6,<0.010,<0.5,45,Analisi effettuata il 04/09/2019,1.3(0.7),0.11,0.9,<0.5,2.2,<0.05,7.4,1.2,34,1.6,6.2
+Fontana Loc. Biessa,Gordona,<0.05,<0.5,7.7,2.0,<0.010,<0.5,22,Analisi effettuata il 04/09/2019,0.4(0.2),<0.10,<0.5,<0.5,1.7,<0.05,7.0,0.5,17,0.6,3.2
+Fontana Loc. Ravoledo,Grosio,<0.05,1.6,26.0,20.3,<0.010,<0.5,156,Analisi effettuata il 05/08/2019,6.5(3.6),0.25,3.5,1.2,1.3,<0.05,7.4,0.9,117,1.8,48.8
+Fontana Via Valorsa,Grosio,<0.05,6.8,83.7,33.7,<0.010,1.6,277,Analisi effettuata il 05/08/2019,12.5(7.0),0.40,9.9,<0.5,2.6,<0.05,8.0,1.9,208,4.8,62.2
+Fontana Via Fojanini (Cimitero),Grosio,<0.05,7.0,86.0,44.1,<0.010,1.7,282,Analisi effettuata il 05/08/2019,15.3(8.5),0.39,10.5,<0.5,2.7,<0.05,8.0,2.0,212,5.0,62.6
+Fontana Loc. Tiolo,Grosio,<0.05,1.8,60.1,18.9,<0.010,<0.5,143,Analisi effettuata il 05/08/2019,6.1(3.4),0.30,3.3,<0.5,3.2,<0.05,8.0,1.8,107,2.7,16.8
+Fontana Loc. Baite,Grosio,<0.05,2.2,18.6,25.8,<0.010,<0.5,150,Analisi effettuata il 05/08/2019,7.8(4.4),0.22,3.2,1.1,1.3,<0.05,7.2,0.8,113,1.6,51.4
+Fontana Loc.tà Vernuga,Grosio,<0.05,1.7,62.1,19.1,<0.010,<0.5,142,Analisi effettuata il 05/08/2019,6.2(3.5),0.30,3.4,0.5,3.1,<0.05,8.0,1.8,107,2.6,16.7
+Fontana Loc.tà Tombola,Grosio,<0.05,0.5,18.7,19.1,<0.010,<0.5,149,Analisi effettuata il 05/08/2019,6.1(3.4),0.21,3.2,5.5,1.4,<0.05,7.2,0.9,112,1.7,50.6
+Fontana Via Patrioti/S. Rocco,Grosotto,<0.05,1.3,41.7,14.5,<0.010,<0.5,113,Analisi effettuata il 17/09/2019,4.7(2.6),0.47,2.6,0.7,1.6,<0.05,7.6,1.3,85,1.8,16.8
+Fontana Loc. Prada,Grosotto,<0.05,1.1,41.1,14.7,<0.010,<0.5,113,Analisi effettuata il 17/09/2019,4.7(2.6),0.46,2.6,<0.5,1.6,<0.05,7.7,1.3,85,1.9,16.7
+Fontana Loc. Piazza,Grosotto,<0.05,<0.5,39.4,13.9,<0.010,<0.5,112,Analisi effettuata il 17/09/2019,4.9(2.7),0.18,3.4,<0.5,1.0,<0.05,7.4,0.8,84,2.3,17.6
+Fontana Loc. Campell,Grosotto,<0.05,<0.5,60.7,23.7,<0.010,0.6,195,Analisi effettuata il 17/09/2019,8.3(4.6),0.20,5.9,<0.5,1.6,<0.05,7.7,1.8,146,3.0,39.0
+Fontana Via S. Giovanni/Via al Dosso,Lanzada,<0.05,1.0,91.3,17.7,<0.010,1.0,181,Analisi effettuata il 16/09/2019,8.6(4.8),<0.10,10.2,<0.5,2.2,<0.05,7.9,0.7,136,1.5,9.6
+Fontana Loc. Ganda,Lanzada,<0.05,1.0,90.8,16.7,<0.010,1.0,182,Analisi effettuata il 16/09/2019,8.2(4.6),<0.10,9.7,<0.5,2.2,<0.05,7.9,0.7,137,1.4,9.4
+Fontana Loc. Vetto (Via Don Bepp),Lanzada,<0.05,3.0,69.7,7.6,<0.010,0.7,125,Analisi effettuata il 16/09/2019,6.3(3.5),<0.10,10.8,<0.5,2.3,<0.05,8.1,0.7,94,1.0,3.0
+Fontana Loc. Tornadri,Lanzada,<0.05,1.3,74.6,11.7,<0.010,<0.5,143,Analisi effettuata il 16/09/2019,7.1(4.0),<0.10,10.2,<0.5,1.4,<0.05,8.0,0.5,107,0.5,7.1
+Fontana Loc. Campo Franscia,Lanzada,<0.05,<0.5,19.5,3.7,<0.010,<0.5,37,Analisi effettuata il 16/09/2019,1.5(0.8),<0.10,1.3,<0.5,1.5,<0.05,7.2,0.5,28,0.8,1.8
+Fontana Loc. Campo Moro,Lanzada,<0.05,<0.5,16.5,2.1,<0.010,<0.5,34,Analisi effettuata il 16/09/2019,1.6(0.9),<0.10,2.6,0.7,1.5,<0.05,7.4,<0.5,26,<0.5,2.9
+Fontana Via Saroch,Livigno,<0.05,5.0,75.8,27.7,<0.010,<0.5,182,Analisi effettuata il 02/07/2019,9.6(5.4),0.11,6.6,1.0,0.6,<0.05,7.8,<0.5,137,1.0,48.8
+Fontana Loc. Passo d’Eira,Livigno,<0.05,1.6,15.0,6.0,<0.010,<0.5,48,Analisi effettuata il 02/07/2019,2.0(1.1),<0.10,1.3,2.1,1.2,<0.05,6.8,<0.5,36,1.3,12.2
+Fontana Via Canton,Livigno,<0.05,3.6,160.1,34.0,<0.010,<0.5,266,Analisi effettuata il 02/07/2019,15.4(8.6),<0.10,16.7,<0.5,1.2,<0.05,8.0,<0.5,200,<0.5,7.2
+Fontana Loc. Passo Foscagno,Livigno,<0.05,2.4,26.3,10.0,<0.010,<0.5,61,Analisi effettuata il 02/07/2019,2.8(1.6),<0.10,0.8,2.2,<0.5,<0.05,7.0,<0.5,46,0.6,12.5
+Fontana Loc. Trepalle Pila,Livigno,<0.05,<0.5,198.9,58.6,<0.010,<0.5,548,Analisi effettuata il 03/09/2019,27.7(15.5),0.25,31.8,<0.5,0.5,<0.05,7.9,0.7,411,1.6,109.8
+Fontana Loc. Trepalle Via Plan,Livigno,<0.05,5.0,39.8,12.8,<0.010,<0.5,78,Analisi effettuata il 02/07/2019,3.7(2.1),<0.10,1.3,2.2,<0.5,<0.05,7.4,<0.5,59,0.8,11.6
+Fontana Loc. Trepalle Isola,Livigno,<0.05,6.3,39.5,12.8,<0.010,<0.5,77,Analisi effettuata il 02/07/2019,3.7(2.1),<0.10,1.3,2.5,<0.5,<0.05,7.3,<0.5,58,0.8,11.6
+Fontana Loc. Teola,Livigno,<0.05,4.3,96.8,65.3,<0.010,<0.5,410,Analisi effettuata il 02/07/2019,21.7(12.1),0.38,13.1,2.4,<0.5,<0.05,7.7,0.7,308,1.4,158.0
+Fontana Loc. Trepalle SS 301,Livigno,<0.05,7.2,42.3,12.8,<0.010,<0.5,74,Analisi effettuata il 02/07/2019,3.7(2.1),<0.10,1.3,1.7,<0.5,<0.05,7.7,<0.5,56,0.8,11.5
+Fontana Loc. Forcola,Livigno,<0.05,5.2,66.2,28.4,<0.010,<0.5,194,Analisi effettuata il 02/07/2019,9.9(5.5),0.11,6.7,0.9,<0.5,<0.05,7.7,<0.5,146,0.9,54.1
+Fontana Via Fellini/Via Venosta,Lovero,<0.05,0.6,80.9,33.9,<0.010,<0.5,210,Analisi effettuata il 07/08/2019,10.5(6.3),<0.10,5.0,<0.5,2.9,<0.05,7.5,1.3,158,1.8,31.9
+Fontana Via I. De Giacomi (zona pedonale),Madesimo,<0.05,2.2,28.0,10.6,<0.010,<0.5,79,Analisi effettuata il 27/08/2019,3.4(1.9),<0.10,1.8,<0.5,1.0,<0.05,7.4,0.7,59,0.9,15.1
+Fontana Via A. De Giacomi (fermata bus),Madesimo,<0.05,9.3,29.5,12.6,<0.010,<0.5,97,Analisi effettuata il 27/08/2019,4.1(2.3),<0.10,2.2,<0.5,1.2,<0.05,7.5,0.6,73,0.9,20.5
+Fontana Loc. Isola Bassa (Ponte Snam),Madesimo,<0.05,3.1,32.3,9.9,<0.010,<0.5,70,Analisi effettuata il 27/08/2019,3.0(1.7),<0.10,1.3,<0.5,0.8,<0.05,7.4,1.1,53,0.7,7.4
+Fontana Loc. Isola alta,Madesimo,<0.05,3.1,32.3,9.9,<0.010,<0.5,70,Analisi effettuata il 27/08/2019,3.0(1.7),<0.10,1.3,<0.5,0.9,<0.05,7.4,1.1,53,0.7,7.4
+Fontana Loc. Pianazzo,Madesimo,<0.05,0.5,27.3,10.0,<0.010,<0.5,75,Analisi effettuata il 27/08/2019,3.2(1.8),<0.10,1.7,<0.5,0.9,<0.05,7.4,0.7,56,0.8,13.4
+Fontana Loc. Montespluga,Madesimo,<0.05,6.2,30.7,9.1,<0.010,<0.5,60,Analisi effettuata il 27/08/2019,2.7(1.5),<0.10,1.0,<0.5,2.1,<0.05,7.6,<0.5,45,0.7,2.6
+Fontana Loc.tà Ferzonico,Mantello,<0.05,<0.5,40.7,9.1,<0.010,0.5,72,Analisi effettuata il 09/07/2019,2.7(1.5),<0.10,1.1,<0.5,2.0,<0.05,7.7,2.4,54,2.8,5.2
+Fontana Via Roma,Mazzo di Valtellina,<0.05,8.3,107.6,38.0,<0.010,2.1,316,Analisi effettuata il 07/08/2019,14.6(8.2),0.47,12.5,1.0,3.1,<0.05,8.0,2.4,237,6.2,66.5
+Fontana Loc. Sparso,Mazzo di Valtellina,<0.05,1.7,81.5,22.9,<0.010,0.6,187,Analisi effettuata il 07/08/2019,9.0(5.0),0.16,7.9,<0.5,1.6,<0.05,8.0,0.9,140,2.6,24.6
+Fontana Loc. Piazzola,Mazzo di Valtellina,<0.05,1.1,52.4,12.8,<0.010,0.6,120,Analisi effettuata il 07/08/2019,5.5(3.1),0.18,5.6,<0.5,1.6,<0.05,7.7,0.6,90,2.0,15.8
+Fontana Loc. Vione,Mazzo di Valtellina,<0.05,4.3,39.8,11.7,<0.010,<0.5,91,Analisi effettuata il 07/08/2019,4.0(2.2),0.11,2.5,<0.5,0.9,<0.05,7.7,1.5,68,1.6,12.7
+Fontana Via Pozzo,Mello,<0.05,<0.5,25.7,5.3,<0.010,<0.5,48,Analisi effettuata il 21/08/2019,1.7(0.9),<0.10,0.9,<0.5,1.9,<0.05,7.5,1.7,36,1.7,3.0
+Fontana Via Roma (Cimitero),Mese,<0.05,1.1,31.5,10.2,<0.010,0.5,104,Analisi effettuata il 04/09/2019,3.5(2.0),0.20,2.3,0.6,2.7,<0.05,7.7,1.5,78,2.4,18.7
+Fontana Via Scandolera,Mese,<0.05,7.9,26.3,11.2,<0.010,0.7,110,Analisi effettuata il 04/09/2019,3.5(2.0),0.20,1.7,<0.5,2.3,<0.05,7.6,2.8,83,1.9,24.3
+Fontana Via Barella,Montagna in Valtellina,<0.05,2.0,43.9,12.2,<0.010,<0.5,73,Analisi effettuata il 10/07/2019,3.5(2.0),<0.10,1.0,<0.5,1.2,<0.05,7.7,0.5,55,1.1,6.3
+Fontana Loc. Piano,Montagna in Valtellina,<0.05,2.0,42.1,12.0,<0.010,<0.5,73,Analisi effettuata il 10/07/2019,3.4(1.9),<0.10,1.0,<0.5,1.1,<0.05,7.8,0.5,55,1.1,6.3
+Fontana Loc. Ca' Vervio,Montagna in Valtellina,<0.05,2.3,57.9,20.4,<0.010,<0.5,104,Analisi effettuata il 10/07/2019,5.8(3.2),<0.10,1.8,<0.5,0.6,<0.05,7.8,0.5,78,1.4,7.5
+Fontana Via S. Martino,Morbegno,<0.05,1.9,33.7,7.8,<0.010,3.0,100,Analisi effettuata il 09/09/2019,3.6(2.0),0.11,3.9,<0.5,4.4,<0.05,7.2,2.1,75,4.4,12.9
+Fontana Via dei Barai,Morbegno,<0.05,1.6,30.8,7.0,<0.010,2.3,87,Analisi effettuata il 09/09/2019,3.1(1.7),<0.10,3.3,<0.5,3.9,<0.05,7.2,1.9,65,3.7,10.4
+Lavatoio Loc. Campovico (Via Valax),Morbegno,<0.05,<0.5,18.3,5.1,<0.010,<0.5,42,Analisi effettuata il 09/09/2019,1.5(0.8),<0.10,0.6,<0.5,2.4,<0.05,7.4,0.9,32,1.2,4.3
+Lavatoio Loc. Desco (Chiesa),Morbegno,<0.05,<0.5,18.8,5.4,<0.010,<0.5,43,Analisi effettuata il 09/09/2019,1.6(0.9),<0.10,0.6,<0.5,2.4,<0.05,7.4,1.0,32,1.1,4.3
+Fontana Loc. Paniga (Via Adda),Morbegno,<0.05,<0.5,18.5,5.0,<0.010,<0.5,42,Analisi effettuata il 09/09/2019,1.5(0.8),<0.10,0.6,<0.5,2.4,<0.05,7.4,0.9,32,1.2,4.4
+Fontana Loc. Valle (Chiesa S. Matteo),Morbegno,<0.05,4.0,39.0,8.2,<0.010,0.7,88,Analisi effettuata il 09/09/2019,3.2(1.8),0.10,2.9,<0.5,1.6,<0.05,7.5,1.9,66,3.6,11.1
+Fontana Loc. Arzo (Chiesa S. Giovanni),Morbegno,<0.05,3.0,43.2,10.7,<0.010,0.7,107,Analisi effettuata il 09/09/2019,4.0(2.2),0.11,3.3,<0.5,1.0,<0.05,7.6,2.0,80,3.9,16.0
+Fontana Via Bottà incrocio Via Ligari,Morbegno,<0.05,<0.5,19.4,3.4,<0.010,<0.5,36,Analisi effettuata il 09/09/2019,1.1(0.6),<0.10,0.5,<0.5,2.1,<0.05,7.4,1.1,27,1.3,2.2
+Fontana Via Mezzolpiano,Novate Mezzola,<0.05,<0.5,14.5,4.9,<0.010,<0.5,40,Analisi effettuata il 10/09/2019,1.5(0.8),0.14,0.6,<0.5,3.6,<0.05,7.2,1.3,30,1.6,4.1
+Fontana Loc. Campo (Via S. Colombano),Novate Mezzola,<0.05,0.5,25.7,8.2,<0.010,<0.5,68,Analisi effettuata il 10/09/2019,2.4(1.3),0.18,0.9,<0.5,1.4,<0.05,7.4,1.3,51,2.0,10.1
+Fontana Stada Statale 405,Pedesina,<0.05,<0.5,9.9,2.2,<0.010,<0.5,22,Analisi effettuata il 30/07/2019,0.8(0.4),<0.10,0.5,0.7,<0.5,<0.05,7.0,0.6,17,0.8,3.2
+Fontana Via Garibaldi presso fontanello,Piantedo,<0.05,6.3,32.0,10.1,<0.010,<0.5,71,Analisi effettuata il 03/07/2019,3.0(1.7),<0.10,1.1,<0.5,4.1,<0.05,7.3,0.6,53,1.9,8.7
+Fontana Cimitero,Piantedo,<0.05,2.8,51.2,10.1,<0.010,0.7,84,Analisi effettuata il 03/07/2019,3.3(1.9),0.18,1.9,<0.5,<0.5,<0.05,7.3,1.4,63,3.5,12.7
+Fontana Via Amonini,Piateda,<0.05,2.7,30.8,6.4,<0.010,<0.5,62,Analisi effettuata il 08/07/2019,3.3(1.8),<0.10,4.2,<0.5,1.9,<0.05,7.6,<0.5,47,0.8,6.7
+Fontana Via Vermaglio,Piateda,<0.05,3.0,31.5,6.5,<0.010,<0.5,61,Analisi effettuata il 08/07/2019,3.4(1.9),<0.10,4.3,<0.5,1.9,<0.05,7.5,0.5,46,0.7,6.5
+Fontana Via Previsdomini,Piateda,<0.05,1.3,42.1,9.3,<0.010,<0.5,83,Analisi effettuata il 08/07/2019,4.1(2.3),<0.10,4.2,<0.5,1.6,<0.05,7.3,<0.5,62,1.3,7.8
+Fontana Via Valbona,Piateda,<0.05,2.9,29.4,5.9,<0.010,<0.5,62,Analisi effettuata il 08/07/2019,2.9(1.6),<0.10,3.5,<0.5,1.9,<0.05,7.4,<0.5,47,0.9,6.6
+Fontana Loc. Busteggia,Piateda,<0.05,1.6,35.2,8.2,<0.010,<0.5,78,Analisi effettuata il 08/07/2019,3.7(2.1),<0.10,4.0,<0.5,1.7,<0.05,7.3,<0.5,59,1.2,7.5
+Fontana Loc. Boffetto,Piateda,<0.05,1.5,53.6,10.1,<0.010,<0.5,97,Analisi effettuata il 08/07/2019,4.7(2.6),<0.10,5.3,<0.5,2.4,<0.05,7.3,<0.5,73,1.1,9.2
+Fontana Loc. Riboni,Piateda,<0.05,6.1,30.9,6.2,<0.010,<0.5,58,Analisi effettuata il 08/07/2019,2.6(1.5),<0.10,2.5,<0.5,1.0,<0.05,7.4,0.5,44,1.4,4.9
+Fontana Loc. Prosto (Municipio),Piuro,<0.05,0.7,17.4,8.6,<0.010,<0.5,64,Analisi effettuata il 11/09/2019,2.6(1.5),<0.10,1.1,<0.5,1.8,<0.05,7.1,0.8,48,0.8,13.3
+Fontana Loc. Borgonuovo (Via per Scilano / Via della Conca),Piuro,<0.05,<0.5,26.7,8.4,<0.010,<0.5,62,Analisi effettuata il 11/09/2019,2.4(1.3),<0.10,0.8,<0.5,2.9,<0.05,7.5,1.0,47,1.0,6.1
+Fontana Loc S. Croce,Piuro,<0.05,<0.5,27.1,8.7,<0.010,<0.5,62,Analisi effettuata il 11/09/2019,2.5(1.4),<0.10,0.7,<0.5,2.9,<0.05,7.5,0.8,47,0.9,5.8
+Fontana Piazza Buon Consiglio,Poggiridenti,<0.05,3.0,76.1,32.6,<0.010,<0.5,179,Analisi effettuata il 10/07/2019,9.7(5.4),0.23,3.7,<0.5,0.6,<0.05,7.8,1.6,134,3.0,28.0
+Fontana Via Palù,Poggiridenti,<0.05,3.0,80.3,29.9,<0.010,<0.5,179,Analisi effettuata il 10/07/2019,8.8(4.9),0.23,3.3,<0.5,0.6,<0.05,7.8,1.6,134,3.0,28.3
+Fontana Via Gandoni (Parco Giochi),Poggiridenti,<0.05,3.0,77.6,28.7,<0.010,<0.5,179,Analisi effettuata il 10/07/2019,8.5(4.7),0.23,3.2,<0.5,0.6,<0.05,7.9,1.6,134,3.0,27.9
+Fontana Loc. Briotti,Ponte in Valtellina,<0.05,1.2,19.1,3.6,<0.010,<0.5,47,Analisi effettuata il 12/08/2019,2.1(1.2),<0.10,3.0,<0.5,3.3,<0.05,7.1,<0.5,35,0.8,5.8
+Fontana Loc. Gerna (Fontaniva),Ponte in Valtellina,<0.05,4.2,35.1,7.3,<0.010,<0.5,78,Analisi effettuata il 12/08/2019,3.5(2.0),<0.10,4.0,<0.5,3.2,<0.05,7.3,0.5,59,1.7,7.9
+Fontana Loc. Albareda,Ponte in Valtellina,<0.05,0.9,19.1,3.5,<0.010,<0.5,47,Analisi effettuata il 12/08/2019,2.1(1.2),<0.10,2.9,0.7,3.3,<0.05,7.2,<0.5,35,0.8,5.8
+Fontana Loc. San Bernardo,Ponte in Valtellina,<0.05,1.0,51.0,13.4,<0.010,<0.5,91,Analisi effettuata il 12/08/2019,4.2(2.3),<0.10,2.0,<0.5,1.6,<0.05,7.8,1.3,68,1.1,5.8
+Fontana Loc. Sazzo,Ponte in Valtellina,<0.05,8.3,58.7,15.1,<0.010,<0.5,131,Analisi effettuata il 28/10/2019,4.9(2.7),0.23,2.8,<0.5,3.3,<0.05,7.7,1.4,98,1.8,13.6
+Fontana piazza Vittoria,Ponte in Valtellina,<0.05,8.3,56.9,17.6,<0.010,<0.5,131,Analisi effettuata il 28/10/2019,5.7(3.2),0.24,3.2,<0.5,3.1,<0.05,7.7,1.5,98,2.1,12.7
+Fontana loc. Carolo (Chiesa),Ponte in Valtellina,<0.05,7.8,57.6,17.3,<0.010,<0.5,133,Analisi effettuata il 28/10/2019,5.6(3.1),0.22,3.2,<0.5,3.1,<0.05,7.8,1.5,99,2.1,13.2
+Fontana Loc. Ca' Bettolatti,Postalesio,<0.05,1.2,52.4,39.4,<0.010,<0.5,282,Analisi effettuata il 29/07/2019,13.9(7.8),<0.10,9.8,<0.5,0.8,<0.05,8.0,1.0,212,0.9,97.9
+Fontana via Vanoni,Postalesio,<0.05,0.5,45.1,14.8,<0.010,<0.5,100,Analisi effettuata il 29/07/2019,4.6(2.6),<0.10,2.3,<0.5,1.2,<0.05,7.9,1.5,75,1.0,13.6
+Fontana Via Carducci/Via Uschione,Prata Camportaccio,<0.05,<0.5,15.0,4.8,<0.010,<0.5,53,Analisi effettuata il 04/09/2019,1.6(0.9),<0.10,0.9,<0.5,1.7,<0.05,7.3,0.9,40,2.3,9.7
+Fontana Strada di Tanno,Prata Camportaccio,<0.05,1.5,45.6,36.9,<0.010,1.3,248,Analisi effettuata il 04/09/2019,10.9(6.1),0.15,4.2,<0.5,2.9,<0.05,7.9,1.6,186,1.9,69.1
+Fontana S.Cassiano (Via Maccolini),Prata Camportaccio,<0.05,0.6,39.2,10.7,<0.010,0.8,108,Analisi effettuata il 04/09/2019,4.0(2.2),0.14,3.2,<0.5,4.8,<0.05,7.8,1.4,81,3.7,13.9
+Fontana Loc. Porettina Bassa,Prata Camportaccio,<0.05,0.6,36.1,10.2,<0.010,0.8,103,Analisi effettuata il 04/09/2019,3.7(2.1),0.13,2.9,<0.5,4.5,<0.05,7.8,1.4,77,3.7,13.1
+Fontana Loc. Porettina Alta,Prata Camportaccio,<0.05,0.6,40.5,10.8,<0.010,0.9,112,Analisi effettuata il 04/09/2019,4.0(2.2),0.14,3.2,<0.5,4.8,<0.05,7.8,1.4,84,3.5,14.5
+Fontana Via Centrale,Rasura,<0.05,0.6,23.4,4.8,<0.010,0.9,61,Analisi effettuata il 30/07/2019,2.0(1.1),0.11,1.9,0.8,1.8,<0.05,7.2,1.3,46,3.6,8.4
+Fontana Loc. Foppa,Rasura,<0.05,0.6,13.0,2.8,<0.010,<0.5,29,Analisi effettuata il 30/07/2019,1.0(0.6),<0.10,0.8,<0.5,0.8,<0.05,7.1,0.7,22,1.3,3.3
+Fontana Via Stazione,Rogolo,<0.05,2.5,38.2,10.1,<0.010,0.6,82,Analisi effettuata il 09/07/2019,3.3(1.8),0.37,1.9,<0.5,2.1,<0.05,7.7,1.0,62,3.6,10.0
+Fontana Via Calchera (Cimitero),Rogolo,<0.05,2.5,39.7,10.2,<0.010,0.6,83,Analisi effettuata il 09/07/2019,3.4(1.9),0.37,2.0,<0.5,2.1,<0.05,7.7,1.0,62,3.3,9.8
+Fontana Loc. Era,Samolaco,<0.05,<0.5,13.7,4.1,<0.010,<0.5,40,Analisi effettuata il 10/09/2019,1.3(0.7),<0.10,0.6,<0.5,3.0,<0.05,7.1,1.0,30,1.6,5.1
+Fontana Loc. S. Pietro,Samolaco,<0.05,<0.5,21.4,4.5,<0.010,0.5,49,Analisi effettuata il 10/09/2019,1.5(0.8),0.23,1.0,<0.5,1.6,<0.05,7.2,0.8,37,2.6,4.1
+Fontana Loc. Casenda (Via Casenda/Via Giovere),Samolaco,<0.05,<0.5,13.7,3.9,<0.010,<0.5,40,Analisi effettuata il 10/09/2019,1.2(0.7),<0.10,0.6,<0.5,3.0,<0.05,7.1,1.0,30,1.5,5.0
+Fontana Loc. Somaggia,Samolaco,<0.05,<0.5,21.8,4.7,<0.010,0.5,49,Analisi effettuata il 10/09/2019,1.6(0.9),0.22,1.0,<0.5,1.6,<0.05,7.3,0.9,37,2.6,4.1
+Fontana Via Centro (Chiesa),San Giacomo Filippo,<0.05,2.0,24.0,9.5,<0.010,0.8,87,Analisi effettuata il 28/08/2019,3.1(1.7),0.32,1.8,<0.5,3.2,<0.05,7.4,2.2,65,2.0,16.3
+Fontana Loc. Lirone,San Giacomo Filippo,<0.05,3.3,68.6,48.7,<0.010,1.4,333,Analisi effettuata il 28/08/2019,15.0(8.4),<0.10,6.8,<0.5,1.6,<0.05,7.8,2.0,250,2.2,98.3
+Fontana Loc. Vho,San Giacomo Filippo,<0.05,2.6,31.9,12.0,<0.010,<0.5,87,Analisi effettuata il 28/08/2019,3.6(2.5),<0.10,1.4,<0.5,1.9,<0.05,7.6,1.4,65,0.9,13.9
+Fontana Loc. Ca' di Bara,San Giacomo Filippo,<0.05,0.8,12.3,2.5,<0.010,<0.5,32,Analisi effettuata il 28/08/2019,0.9(0.5),<0.10,0.6,0.5,1.3,<0.05,6.7,1.1,24,1.5,4.0
+Fontana Loc. Motta (S.Guglielmo),San Giacomo Filippo,<0.05,2.0,22.1,8.6,<0.010,0.8,79,Analisi effettuata il 28/08/2019,2.8(1.6),0.23,1.5,<0.5,3.0,<0.05,7.4,2.0,59,1.9,13.9
+Fontana Loc. Mescolana Vignola,San Giacomo Filippo,<0.05,0.8,25.6,10.0,<0.010,<0.5,69,Analisi effettuata il 28/08/2019,2.7(1.5),0.29,0.5,<0.5,3.7,<0.05,7.5,1.0,52,1.2,7.8
+Fontana Loc. Prato Liso,San Giacomo Filippo,<0.05,0.8,12.1,2.6,<0.010,<0.5,32,Analisi effettuata il 28/08/2019,0.9(0.5),<0.10,0.6,<0.5,1.1,<0.05,6.7,1.1,24,1.5,3.9
+Fontana Loc. Olmo,San Giacomo Filippo,<0.05,0.8,12.1,2.5,<0.010,<0.5,32,Analisi effettuata il 28/08/2019,0.9(0.5),<0.10,0.6,<0.5,1.0,<0.05,6.7,1.1,24,1.5,3.9
+Fontana Loc. Uggia,San Giacomo Filippo,<0.05,<0.5,6.5,1.2,<0.010,<0.5,15,Analisi effettuata il 28/08/2019,0.3(0.2),<0.10,<0.5,<0.5,1.1,<0.05,6.5,<0.5,11,1.2,1.7
+Fontana Loc. San Bernardo,San Giacomo Filippo,<0.05,9.9,13.2,3.8,<0.010,<0.5,27,Analisi effettuata il 28/05/2019,1.2(0.7),0.25,0.6,<0.5,1.5,<0.05,7.1,<0.5,20,0.9,1.6
+Fontana Loc. Biolo,Sernio,<0.05,<0.5,111.3,43.7,<0.010,0.5,259,Analisi effettuata il 07/08/2019,13.0(7.3),<0.10,5.0,<0.5,3.2,<0.05,8.0,1.9,194,2.0,35.8
+Fontana Via Roma (Municipio),Sernio,<0.05,<0.5,108.4,43.4,<0.010,0.5,260,Analisi effettuata il 07/08/2019,13.1(7.3),<0.10,5.4,<0.5,3.1,<0.05,8.1,1.9,195,2.0,35.7
+Fontana loc. Madonna della Biorca,Sondalo,<0.05,0.7,40.7,17.1,<0.010,<0.5,159,Analisi effettuata il 03/09/2019,6.2(3.5),0.25,4.6,5.5,1.3,<0.05,7.8,1.4,119,1.8,36.9
+Fontana Via 2 giugno,Sondalo,<0.05,1.3,44.3,21.2,<0.010,<0.5,182,Analisi effettuata il 03/09/2019,7.5(4.2),0.26,5.3,<0.5,1.3,<0.05,7.7,1.3,137,2.6,43.3
+Fontana Loc. Verzedo,Sondalo,<0.05,<0.5,33.0,9.5,<0.010,<0.5,93,Analisi effettuata il 03/09/2019,3.8(2.1),0.13,3.4,<0.5,1.8,<0.05,7.5,0.9,70,1.6,14.5
+Fontana Loc. Le Prese,Sondalo,<0.05,0.7,40.0,18.1,<0.010,<0.5,158,Analisi effettuata il 03/09/2019,6.5(3.6),0.26,4.8,1.1,1.3,<0.05,7.7,1.6,119,1.9,36.5
+Fontana Loc. Mondadizza,Sondalo,<0.05,0.7,40.0,17.7,<0.010,<0.5,158,Analisi effettuata il 03/09/2019,6.4(3.6),0.25,4.7,3.1,1.3,<0.05,7.7,1.6,119,1.9,37.0
+Fontana Via Lambertenghi,Sondalo,<0.05,1.4,48.8,21.4,<0.010,<0.5,178,Analisi effettuata il 03/09/2019,7.5(4.2),0.26,5.3,1.1,1.3,<0.05,7.7,1.3,134,2.2,44.5
+Fontana Loc. Sommacologna,Sondalo,<0.05,2.0,87.0,33.4,<0.010,<0.5,271,Analisi effettuata il 03/09/2019,12.0(6.7),0.43,8.9,<0.5,2.8,<0.05,8.0,2.1,203,2.8,49.9
+Fontana Loc. Sontiolo,Sondalo,<0.05,2.2,84.2,24.1,<0.010,<0.5,194,Analisi effettuata il 03/09/2019,8.2(4.6),0.45,5.3,<0.5,4.0,<0.05,7.9,1.7,146,3.7,16.2
+Fontana Loc. Migiondo,Sondalo,<0.05,2.2,87.1,33.3,<0.010,<0.5,268,Analisi effettuata il 03/09/2019,11.8(6.6),0.44,8.4,2.7,3.0,<0.05,8.0,2.0,201,2.7,50.0
+Fontana Loc. Frontale,Sondalo,<0.05,0.7,40.4,15.9,<0.010,<0.5,159,Analisi effettuata il 03/09/2019,5.7(3.2),0.26,4.2,1.1,1.3,<0.05,7.7,1.3,119,1.6,37.4
+Fontana Loc. Fumero,Sondalo,<0.05,0.5,34.9,20.0,<0.010,<0.5,189,Analisi effettuata il 03/09/2019,7.3(4.1),0.19,5.7,<0.5,1.4,<0.05,7.6,1.4,142,1.6,53.8
+Fontana via A. Moro,Sondrio,<0.05,1.0,90.3,64.4,<0.010,<0.5,412,Analisi effettuata il 01/07/2019,21.0(11.7),0.15,11.9,<0.5,2.8,<0.05,7.9,2.0,309,1.8,138.2
+Fontana Loc. Triangia (Centro),Sondrio,<0.05,0.7,57.5,46.2,<0.010,<0.5,284,Analisi effettuata il 01/07/2019,14.3(8.0),<0.10,6.7,<0.5,0.6,<0.05,7.8,1.0,213,1.0,100.6
+Fontana Loc. Mossini (Strada Ronchi),Sondrio,<0.05,0.6,57.8,45.0,<0.010,<0.5,286,Analisi effettuata il 01/07/2019,14.0(7.8),<0.10,6.6,<0.5,0.6,<0.05,7.7,0.9,215,1.0,98.5
+Fontana Loc. Ligari (ristoro),Sondrio,<0.05,0.7,57.2,45.6,<0.010,<0.5,283,Analisi effettuata il 01/07/2019,14.2(7.9),<0.10,6.8,<0.5,0.6,<0.05,7.8,0.9,212,1.0,98.9
+Fontana Campo Coni (Parcheggio),Sondrio,<0.05,0.9,89.3,72.2,<0.010,<0.5,411,Analisi effettuata il 01/07/2019,23.4(13.1),0.15,13.1,<0.5,2.8,<0.05,7.8,2.0,308,1.8,138.8
+Fontana Piazzale Toccalli,Sondrio,<0.05,0.9,90.0,62.6,<0.010,<0.5,412,Analisi effettuata il 01/07/2019,20.3(11.3),0.15,11.4,<0.5,2.9,<0.05,7.9,1.9,309,1.8,138.9
+Fontana Loc. Baiacca,Sondrio,<0.05,0.9,89.0,63.2,<0.010,<0.5,408,Analisi effettuata il 01/07/2019,20.5(11.5),0.15,11.5,2.4,2.7,<0.05,7.9,2.0,306,1.8,136.7
+Fontana Via Maffei (presso Fontanello),Sondrio,<0.05,0.9,89.5,64.2,<0.010,<0.5,412,Analisi effettuata il 01/07/2019,20.9(11.7),0.15,11.8,<0.5,2.8,<0.05,7.8,2.0,309,1.8,138.1
+Fontana Loc. Ponchiera (Scuole),Sondrio,<0.05,4.2,72.1,34.0,<0.010,<0.5,246,Analisi effettuata il 01/07/2019,11.8(6.6),0.28,8.1,<0.5,1.4,<0.05,8.0,2.1,185,2.1,65.1
+Fontana Largo Sertoli,Sondrio,<0.05,4.2,71.7,34.7,<0.010,<0.5,247,Analisi effettuata il 01/07/2019,12.2(6.8),0.28,8.7,1.2,1.4,<0.05,8.1,2.2,185,2.1,65.1
+Fontana Via Brigate Orobiche,Sondrio,<0.05,3.0,100.2,47.8,<0.010,3.4,350,Analisi effettuata il 01/07/2019,17.2(9.6),0.23,12.7,1.0,3.9,<0.05,8.1,2.4,263,5.0,70.0
+Fontana Centro,Spriana,<0.05,0.5,69.6,25.8,<0.010,<0.5,156,Analisi effettuata il 31/07/2019,7.1(4.0),<0.10,1.6,<0.5,5.7,<0.05,8.1,1.9,117,1.3,18.3
+Fontana Loc. Marveggia,Spriana,<0.05,2.5,63.9,38.5,<0.010,0.5,237,Analisi effettuata il 31/07/2019,10.9(6.1),<0.10,3.2,0.5,5.1,<0.05,7.8,1.5,178,1.6,59.6
+Fontana Via Latteria/Via Cerri,Talamona,<0.05,0.8,24.9,8.4,<0.010,0.5,78,Analisi effettuata il 09/09/2019,2.7(1.5),<0.10,1.5,0.5,4.2,<0.05,7.2,2.0,59,2.0,12.0
+Fontana Via Garibaldi,Tartano,<0.05,<0.5,8.9,2.0,<0.010,<0.5,27,Analisi effettuata il 09/09/2019,0.7(0.4),<0.10,0.5,1.8,0.9,<0.05,6.8,0.7,20,1.3,4.5
+Fontana Loc. Marconi,Tartano,<0.05,<0.5,14.8,2.9,<0.010,<0.5,34,Analisi effettuata il 09/09/2019,1.0(0.6),<0.10,0.7,<0.5,1.5,<0.05,6.9,0.8,26,1.6,3.8
+Fontana Loc. Arale,Tartano,<0.05,<0.5,18.6,5.6,<0.010,<0.5,42,Analisi effettuata il 09/09/2019,1.6(0.9),<0.10,0.6,<0.5,1.4,<0.05,6.8,0.7,32,1.4,3.9
+Fontana Loc. Case,Tartano,<0.05,<0.5,12.8,3.0,<0.010,0.5,34,Analisi effettuata il 09/09/2019,1.0(0.6),<0.10,0.7,<0.5,1.6,<0.05,6.9,0.8,26,1.6,3.9
+Fontana Loc. Canali,Teglio,<0.05,1.0,102.1,27.2,<0.010,0.6,203,Analisi effettuata il 16/07/2019,10.0(5.6),0.30,7.7,<0.5,1.7,<0.05,8.1,2.0,152,3.0,30.3
+Fontana Loc. S. Rocco,Teglio,<0.05,2.5,37.1,8.7,<0.010,<0.5,77,Analisi effettuata il 16/07/2019,3.2(1.8),0.22,2.6,<0.5,0.9,<0.05,7.8,1.3,58,2.4,11.6
+Fontana Loc. S. Giovanni,Teglio,<0.05,4.2,38.5,10.6,<0.010,<0.5,87,Analisi effettuata il 16/07/2019,3.8(2.1),0.31,2.7,<0.5,0.8,<0.05,7.6,1.0,65,2.2,14.0
+Fontana Via S. Silvestro (Teglio Centro),Teglio,<0.05,3.1,54.1,15.0,<0.010,<0.5,112,Analisi effettuata il 16/07/2019,5.1(2.8),0.41,3.3,<0.5,1.0,<0.05,7.6,1.2,84,2.3,14.8
+Fontana Via Sagli (Teglio Nord),Teglio,<0.05,5.5,36.9,12.7,<0.010,<0.5,97,Analisi effettuata il 16/07/2019,4.3(2.4),0.43,2.8,0.5,0.8,<0.05,7.6,0.7,73,2.0,16.9
+Fontana Loc. Somasassa,Teglio,<0.05,3.0,54.3,15.0,<0.010,<0.5,113,Analisi effettuata il 16/07/2019,5.1(2.8),0.41,3.3,<0.5,0.9,<0.05,7.7,1.2,85,2.3,14.8
+Fontana Loc. Castelvetro,Teglio,<0.05,3.0,56.9,14.8,<0.010,<0.5,113,Analisi effettuata il 16/07/2019,5.1(2.8),0.41,3.3,<0.5,1.0,<0.05,7.7,1.2,85,2.2,14.8
+Fontana Loc. Nigola,Teglio,<0.05,8.8,33.7,6.6,<0.010,<0.5,63,Analisi effettuata il 16/07/2019,3.0(1.7),<0.10,3.2,<0.5,1.7,<0.05,7.8,<0.5,47,1.0,6.3
+Fontana Loc. Bondone,Teglio,<0.05,0.9,22.9,6.0,<0.010,<0.5,48,Analisi effettuata il 16/07/2018,2.1(1.2),<0.10,1.4,<0.5,2.1,<0.05,7.3,<0.5,36,0.6,5.8
+Fontana Loc. Tresenda,Teglio,<0.05,7.0,49.2,7.7,<0.010,<0.5,73,Analisi effettuata il 16/07/2019,3.6(2.0),<0.10,4.0,<0.5,1.7,<0.05,7.6,<0.5,55,0.9,6.3
+Fontana Loc. Calcarola,Teglio,<0.05,7.1,49.1,7.7,<0.010,<0.5,74,Analisi effettuata il 16/07/2019,3.6(2.0),<0.10,4.0,<0.5,1.5,<0.05,7.6,<0.5,56,0.9,6.3
+Fontana Loc. Franchesi,Teglio,<0.05,1.0,57.2,18.6,<0.010,5.4,147,Analisi effettuata il 16/07/2019,6.0(3.4),0.10,3.3,<0.5,1.3,<0.05,7.4,1.1,110,4.2,23.4
+Serbatoio Bongetti,Teglio,<0.05,<0.5,50.9,17.3,<0.010,9.5,157,Analisi effettuata il 16/07/2019,6.0(3.4),0.10,4.2,<0.5,5.2,<0.05,7.2,1.3,118,5.5,22.9
+Fontana Loc. Crespinedo (Via Falck),Teglio,<0.05,7.2,51.8,7.9,<0.010,<0.5,75,Analisi effettuata il 16/07/2019,3.7(2.1),<0.10,4.1,<0.5,1.5,<0.05,7.5,<0.5,56,0.9,6.3
+Fontana Loc. Monegatti,Teglio,<0.05,7.3,39.5,7.7,<0.010,<0.5,75,Analisi effettuata il 16/07/2019,3.6(2.0),<0.10,4.0,<0.5,1.6,<0.05,7.3,<0.5,56,0.9,6.3
+Fontana Loc. Piodiscia,Teglio,<0.05,3.4,37.3,9.6,<0.010,<0.5,69,Analisi effettuata il 16/07/2019,2.9(1.6),<0.10,1.3,<0.5,2.2,<0.05,7.5,0.5,52,1.3,10.4
+Fontana Loc. S. Giacomo,Teglio,<0.05,7.1,43.6,9.2,<0.010,<0.5,91,Analisi effettuata il 30/09/2019,4.3(2.4),<0.10,4.9,<0.5,1.5,<0.05,7.7,<0.5,68,0.8,6.4
+Fontana Via Bellotti,Tirano,<0.05,<0.5,51.4,34.4,<0.010,<0.5,225,Analisi effettuata il 14/10/2019,10.6(5.9),0.11,4.8,<0.5,1.0,<0.05,7.7,2.8,169,2.6,64.6
+Fontana Loc. Mocchioni,Tirano,<0.05,<0.5,52.0,36.3,<0.010,<0.5,225,Analisi effettuata il 14/10/2019,11.1(6.2),0.11,5.0,<0.5,1.0,<0.05,7.7,2.8,169,2.6,63.3
+Fontana Via Dossello,Tirano,<0.05,<0.5,56.9,37.6,<0.010,<0.5,237,Analisi effettuata il 14/10/2019,11.7(6.5),0.11,5.6,1.0,0.8,<0.05,7.6,2.8,178,2.7,58.0
+Fontana Loc. Roncaiola,Tirano,<0.05,<0.5,55.3,27.9,<0.010,<0.5,194,Analisi effettuata il 14/10/2019,9.3(5.2),0.16,5.7,<0.5,0.8,<0.05,7.7,2.8,146,3.1,43.5
+Fontana Via Salis,Tirano,<0.05,<0.5,54.3,30.5,<0.010,<0.5,203,Analisi effettuata il 14/10/2019,9.9(5.5),0.15,5.6,<0.5,0.9,<0.05,7.7,2.8,152,3.0,48.3
+Fontana Loc. Cologna,Tirano,<0.05,<0.5,126.6,65.0,<0.010,0.6,407,Analisi effettuata il 14/10/2019,20.8(11.6),0.21,11.0,<0.5,5.3,<0.05,8.0,3.3,305,6.3,98.4
+Fontana Via Elvezia,Tirano,<0.05,6.4,102.3,40.6,<0.010,1.4,288,Analisi effettuata il 14/10/2019,15.2(8.5),0.41,12.3,<0.5,1.4,<0.05,7.8,2.7,216,4.8,49.9
+Fontana Loc. Dosso,Tirano,<0.05,<0.5,85.7,34.4,<0.010,0.5,200,Analisi effettuata il 14/10/2019,9.8(5.5),<0.10,3.0,<0.5,4.4,<0.05,7.9,1.3,150,1.9,18.9
+Fontana Loc. Trivigno,Tirano,<0.05,1.8,87.8,33.9,<0.010,0.5,195,Analisi effettuata il 14/10/2019,9.7(5.4),<0.10,3.0,5.4,<0.5,<0.05,7.9,1.0,146,2.2,19.1
+Fontana Via Porta Milanese,Tirano,<0.05,0.5,146.5,59.8,<0.010,4.3,369,Analisi effettuata il 14/10/2019,19.2(10.7),0.14,10.4,<0.5,13.3,<0.05,7.7,3.0,277,4.2,45.8
+Fontana Loc. S. Anna,Torre di Santa Maria,<0.05,1.4,110.9,41.0,<0.010,<0.5,309,Analisi effettuata il 31/07/2019,15.2(8.5),<0.10,12.0,<0.5,2.3,<0.05,8.2,4.3,232,0.7,65.5
+Fontana Loc. Tornadù,Torre di Santa Maria,<0.05,3.6,95.7,73.4,<0.010,0.7,468,Analisi effettuata il 31/07/2019,22.5(12.6),0.10,10.1,0.6,1.5,<0.05,7.9,4.4,351,1.8,153.6
+Fontana Loc. Cagnoletti,Torre di Santa Maria,<0.05,<0.5,41.6,12.7,<0.010,<0.5,92,Analisi effettuata il 31/07/2019,3.8(2.1),<0.10,1.6,<0.5,4.5,<0.05,7.8,1.2,69,1.9,9.5
+Fontana Loc. Cristini,Torre di Santa Maria,<0.05,4.5,69.1,31.4,<0.010,<0.5,244,Analisi effettuata il 31/07/2019,11.2(6.3),0.27,8.2,<0.5,1.5,<0.05,8.2,2.1,183,2.0,62.0
+Fontana Loc. Molinaccio,Torre di Santa Maria,<0.05,1.2,89.7,22.3,<0.010,<0.5,216,Analisi effettuata il 31/07/2019,10.5(5.9),<0.10,12.0,<0.5,2.4,<0.05,8.2,2.3,162,0.7,33.4
+Fontana Loc. San Giuseppe,Torre di Santa Maria,<0.05,7.7,66.0,34.6,<0.010,<0.5,223,Analisi effettuata il 31/07/2019,10.2(5.7),<0.10,3.7,<0.5,1.8,<0.05,7.9,2.1,167,1.4,53.7
+Fontana Piazza Roma,Torre di Santa Maria,<0.05,0.5,77.1,35.7,<0.010,<0.5,242,Analisi effettuata il 31/07/2019,11.3(6.3),<0.10,5.7,<0.5,2.0,<0.05,8.0,3.6,182,1.0,54.9
+Fontana Via Prestino,Tovo Sant'Agata,<0.05,<0.5,41.2,11.4,<0.010,<0.5,98,Analisi effettuata il 07/08/2019,4.0(2.2),0.54,2.9,<0.5,3.2,<0.05,7.7,1.8,74,1.7,10.9
+Fontana Via Corignola,Tovo Sant'Agata,<0.05,<0.5,40.9,11.3,<0.010,<0.5,98,Analisi effettuata il 07/08/2019,4.0(2.2),0.54,2.8,<0.5,3.4,<0.05,7.7,1.8,74,1.7,10.9
+Fontana Piazza Caduti,Traona,<0.05,<0.5,23.8,5.8,<0.010,<0.5,47,Analisi effettuata il 21/08/2019,1.4(0.8),<0.10,<0.5,<0.5,1.8,<0.05,7.7,1.6,35,2.0,3.8
+Fontana Loc.Valletta (Via Pedemontana),Traona,<0.05,<0.5,22.9,5.7,<0.010,<0.5,47,Analisi effettuata il 21/08/2019,1.4(0.8),<0.10,<0.5,<0.5,1.8,<0.05,7.7,1.6,35,1.9,3.8
+Fontana Via S. Tomaso,Tresivio,<0.05,4.6,43.4,14.5,<0.010,<0.5,99,Analisi effettuata il 12/08/2019,4.5(2.5),<0.10,2.1,<0.5,1.3,<0.05,7.7,0.6,74,1.0,13.9
+Fontana Loc. S. Antonio,Tresivio,<0.05,4.7,42.6,14.0,<0.010,<0.5,99,Analisi effettuata il 12/08/2019,4.4(2.5),<0.10,2.2,<0.5,1.3,<0.05,7.7,0.6,74,1.0,13.8
+Fontana loc. Cataeggio,Valmasino,<0.05,<0.5,34.9,17.0,<0.010,0.5,137,Analisi effettuata il 06/08/2019,5.2(2.9),0.19,2.3,<0.5,3.5,<0.05,7.6,3.1,103,2.3,31.2
+Fontana loc. San Martino,Valmasino,<0.05,<0.5,10.7,3.6,<0.010,<0.5,32,Analisi effettuata il 06/08/2019,0.9(0.5),<0.10,<0.5,0.6,2.1,<0.05,7.0,1.2,24,1.1,5.0
+Fontana loc. Zocca,Valmasino,<0.05,<0.5,34.2,17.3,<0.010,0.5,138,Analisi effettuata il 06/08/2019,5.3(3.0),0.19,2.5,<0.5,3.3,<0.05,7.6,3.3,104,2.4,30.9
+Fontana loc. S. Carlo,Valdidentro,<0.05,4.7,43.6,57.9,<0.010,0.8,395,Analisi effettuata il 11/03/2019,20.4(11.4),<0.10,14.4,<0.5,1.1,<0.05,7.4,0.7,296,3.1,172.0
+Punto Prelievo Loc. Arnoga,Valdidentro,<0.05,4.6,24.3,9.9,<0.010,<0.5,70,Analisi effettuata il 18/09/2019,3.0(1.7),<0.10,1.2,<0.5,<0.5,<0.05,7.3,<0.5,53,1.0,12.6
+Fontana Loc. S. Carlo,Valdidentro,<0.05,4.3,35.8,35.2,<0.010,0.9,311,Analisi effettuata il 18/09/2019,13.7(7.7),<0.10,11.9,<0.5,1.0,<0.05,7.4,0.5,233,2.2,113.3
+Fontana Loc. Semogo (Via Cima Piazzi),Valdidentro,<0.05,6.2,39.7,28.6,<0.010,0.8,228,Analisi effettuata il 18/09/2019,10.2(5.7),<0.10,7.5,<0.5,0.9,<0.05,7.5,0.5,171,2.3,71.8
+Fontana Loc. Isolaccia,Valdidentro,<0.05,3.9,49.6,30.6,<0.010,0.9,170,Analisi effettuata il 18/09/2019,9.7(5.4),0.12,5.1,<0.5,1.4,<0.05,7.5,1.2,128,3.1,37.2
+Fontana Loc. Sant Antonio,Valdidentro,<0.05,6.4,91.8,21.3,<0.010,<0.5,178,Analisi effettuata il 18/09/2019,8.9(5.0),<0.10,8.6,<0.5,0.8,<0.05,8.0,<0.5,134,0.8,11.5
+Fontana Loc. Pedenosso (Piazza S. Martino),Valdidentro,<0.05,5.8,102.1,22.7,<0.010,<0.5,203,Analisi effettuata il 18/09/2019,9.9(5.5),<0.10,10.2,0.8,0.8,<0.05,8.1,<0.5,152,0.7,14.6
+Fontana Loc. Pedenosso (Via Degola),Valdidentro,<0.05,5.5,103.6,23.5,<0.010,<0.5,203,Analisi effettuata il 18/09/2019,10.2(5.7),<0.10,10.4,0.7,0.8,<0.05,8.0,<0.5,152,0.7,14.3
+Fontana Loc. Pedenosso (Via Pecé),Valdidentro,<0.05,7.9,41.1,18.4,<0.010,<0.5,137,Analisi effettuata il 18/09/2019,5.4(3.0),0.11,2.0,0.5,2.0,<0.05,7.6,0.8,103,1.9,27.6
+Fontana Loc. Premadio (Via ai Forni),Valdidentro,<0.05,2.7,124.6,40.3,<0.010,<0.5,333,Analisi effettuata il 18/09/2019,17.3(9.7),0.30,17.5,<0.5,1.0,<0.05,8.0,<0.5,250,0.5,56.2
+Fontana Loc. Molina (Via Ripa Fontana),Valdidentro,<0.05,2.7,125.3,39.3,<0.010,<0.5,334,Analisi effettuata il 18/09/2019,16.8(9.4),0.32,17.0,<0.5,1.0,<0.05,8.0,<0.5,251,0.5,57.5
+Fontana Loc. Oga (Via Roma),Valdisotto,<0.05,1.3,32.4,11.7,<0.010,<0.5,80,Analisi effettuata il 23/07/2019,3.5(2.0),0.12,1.4,<0.5,1.0,<0.05,7.3,1.0,60,1.9,13.4
+Fontana Loc. Piatta,Valdisotto,<0.05,0.5,38.4,30.3,<0.010,1.2,230,Analisi effettuata il 23/07/2019,10.6(5.9),0.10,7.3,8.7,3.6,<0.05,7.4,1.0,173,3.1,79.0
+Fontana Loc. S. Lucia (Via Fumarogo),Valdisotto,<0.05,4.0,55.2,17.7,<0.010,<0.5,114,Analisi effettuata il 23/07/2019,5.1(2.8),0.27,1.6,0.7,1.4,<0.05,7.8,1.6,86,2.2,16.1
+Fontana Loc. Piazza,Valdisotto,<0.05,0.5,41.3,32.6,<0.010,<0.5,233,Analisi effettuata il 23/07/2019,10.7(6.0),0.15,6.1,<0.5,1.2,<0.05,7.2,1.3,175,3.3,78.1
+Fontana Loc. Cepina (Via Piccagnoni/Via Roma),Valdisotto,<0.05,1.9,50.7,24.4,<0.010,<0.5,174,Analisi effettuata il 23/07/2019,7.8(4.4),0.23,4.2,<0.5,1.5,<0.05,7.6,1.8,131,2.4,46.6
+Fontana Loc. Tola,Valdisotto,<0.05,2.4,42.6,15.7,<0.010,<0.5,114,Analisi effettuata il 23/07/2019,4.8(2.7),0.33,2.2,2.8,1.5,<0.05,7.5,1.7,86,2.6,25.2
+Fontana Loc. Fontane,Valdisotto,<0.05,4.6,45.3,14.7,<0.010,<0.5,105,Analisi effettuata il 23/07/2019,4.5(2.5),0.29,2.1,<0.5,1.6,<0.05,7.6,1.7,79,2.3,18.9
+Fontana Via Carpin,Valdisotto,<0.05,4.6,45.6,14.9,<0.010,<0.5,106,Analisi effettuata il 23/07/2019,4.6(2.6),0.29,2.1,<0.5,1.6,<0.05,7.6,1.7,80,2.4,18.9
+Fontana Via Teregua,Valfurva,<0.05,2.0,43.3,19.8,<0.010,0.5,129,Analisi effettuata il 19/08/2019,5.8(3.2),0.17,2.0,1.6,0.8,<0.05,7.5,0.5,97,2.2,28.6
+Fontana Loc. Madonna dei Monti (Salita Baita Veglia),Valfurva,<0.05,2.6,63.1,52.3,<0.010,<0.5,336,Analisi effettuata il 19/08/2019,16.6(9.3),<0.10,8.6,0.6,0.7,<0.05,7.9,0.5,252,1.6,120.3
+Fontana Loc. S. Antonio (Via Fosgina),Valfurva,<0.05,4.7,52.2,42.1,<0.010,<0.5,276,Analisi effettuata il 19/08/2019,12.9(7.2),0.10,5.7,1.1,0.9,<0.05,7.8,1.0,207,2.4,94.9
+Fontana Loc. S. Gottardo,Valfurva,<0.05,4.2,56.9,30.0,<0.010,<0.5,189,Analisi effettuata il 19/08/2019,8.6(5.3),<0.10,2.6,1.5,0.6,<0.05,7.9,0.7,142,1.8,47.0
+Fontana Loc. S. Caterina (Via Magliaga),Valfurva,<0.05,<0.5,88.5,24.5,<0.010,1.3,183,Analisi effettuata il 19/08/2019,9.0(5.0),<0.10,7.0,0.8,1.0,<0.05,7.7,0.7,137,1.9,18.0
+Fontana Loc. S. Caterina (Via Frodolfo),Valfurva,<0.05,1.8,93.8,39.1,<0.010,0.6,418,Analisi effettuata il 19/08/2019,21.2(11.8),<0.10,27.8,1.5,0.8,<0.05,7.8,0.5,314,1.7,134.8
+Fontana Loc. Cataeggio (Municipio),Val Masino,<0.05,<0.5,34.9,17.0,<0.010,0.5,137,Analisi effettuata il 06/08/2019,5.2(2.9),0.19,2.3,<0.5,3.5,<0.05,7.6,3.1,103,2.3,31.2
+Fontana Loc. S. Martino (Via Cavarini-Via ai Bagni),Val Masino,<0.05,<0.5,10.7,3.6,<0.010,<0.5,32,Analisi effettuata il 06/08/2019,0.9(0.5),<0.10,<0.5,0.6,2.1,<0.05,7.0,1.2,24,1.1,5.0
+Fontana Loc. Zocca,Val Masino,<0.05,<0.5,28.6,5.4,<0.010,0.5,45,Analisi effettuata il 11/02/2019,1.9(1.1),<0.10,1.4,<0.5,1.8,<0.05,7.5,1.5,34,1.4,4.8
+Fontana Loc. Cappella di S. Andrea,Verceia,<0.05,<0.5,20.2,7.3,<0.010,0.5,72,Analisi effettuata il 10/09/2019,2.4(1.3),0.30,1.3,<0.5,4.1,<0.05,7.5,1.8,54,2.0,11.9
+Fontana Via S. Francesco (Piazza Copes Costante),Verceia,<0.05,0.5,25.3,8.5,<0.010,<0.5,68,Analisi effettuata il 10/09/2019,2.5(1.4),0.17,1.0,<0.5,1.4,<0.05,7.4,1.3,51,2.1,9.5
+Fontana Loc. Sceglio (Crotti),Verceia,<0.05,0.5,25.6,10.0,<0.010,0.6,97,Analisi effettuata il 10/09/2019,3.3(1.8),0.48,1.9,<0.5,4.4,<0.05,7.4,2.3,73,2.8,17.9
+Fontana Via Villa,Verceia,<0.05,<0.5,20.7,7.3,<0.010,0.5,72,Analisi effettuata il 10/09/2019,2.4(1.3),0.31,1.3,<0.5,4.1,<0.05,7.3,1.8,54,2.0,11.6
+Fontana Via Roma,Vervio,<0.05,3.4,24.5,8.8,<0.010,<0.5,73,Analisi effettuata il 07/08/2019,2.8(1.7),<0.10,1.5,0.5,2.1,<0.05,7.5,1.0,55,1.8,13.1
+Fontana Via Ca’ Torchio,Vervio,<0.05,3.4,23.9,8.8,<0.010,<0.5,73,Analisi effettuata il 07/08/2019,2.8(1.6),<0.10,1.5,0.7,2.0,<0.05,7.5,1.0,55,1.7,13.1
+Fontana Loc. Nova,Vervio,<0.05,3.4,23.8,9.0,<0.010,<0.5,73,Analisi effettuata il 07/08/2019,2.9(1.6),<0.10,1.5,<0.5,2.1,<0.05,7.5,1.0,55,1.7,13.1
+Fontana Loc. S. Sebastiano (Chiesa),Villa di Chiavenna,<0.05,1.7,13.5,5.4,<0.010,<0.5,52,Analisi effettuata il 11/09/2019,1.8(1.0),<0.10,1.1,<0.5,3.0,<0.05,7.0,1.1,39,1.4,6.2
+Fontana Loc. Dogana,Villa di Chiavenna,<0.05,1.3,14.8,5.1,<0.010,0.5,45,Analisi effettuata il 11/09/2019,1.6(0.9),<0.10,0.9,0.9,3.5,<0.05,7.2,0.9,34,1.4,6.4
+Fontana Loc. S. Barnaba (Lavatoio Coperto),Villa di Chiavenna,<0.05,1.4,15.0,4.9,<0.010,<0.5,45,Analisi effettuata il 11/09/2019,1.6(0.9),<0.10,0.9,<0.5,3.4,<0.05,7.1,0.9,34,1.1,6.1
+Fontana Via S. Antonio,Villa di Tirano,<0.05,<0.5,22.4,5.3,<0.010,<0.5,64,Analisi effettuata il 20/08/2019,2.2(1.2),0.51,2.1,<0.5,0.6,<0.05,7.3,1.4,48,2.9,11.8
+Fontana Loc. Stazzona (Via Piazza),Villa di Tirano,<0.05,<0.5,135.8,26.0,<0.010,0.9,233,Analisi effettuata il 20/08/2019,11.8(6.6),0.10,12.8,<0.5,1.4,<0.05,7.9,0.9,175,2.8,9.4
+Fontana Loc. Motta,Villa di Tirano,<0.05,1.3,49.7,19.0,<0.010,5.0,148,Analisi effettuata il 20/08/2019,6.1(3.4),0.10,3.2,<0.5,1.2,<0.05,7.3,1.0,111,4.2,22.5
+Fontana Loc. S. Bernardo,Villa di Tirano,<0.05,<0.5,151.4,23.1,<0.010,1.2,263,Analisi effettuata il 20/08/2019,14.3(8.0),0.17,20.8,<0.5,1.2,<0.05,7.8,2.8,197,5.8,12.3
+Serbatoio Loc. Piangembro,Villa di Tirano,<0.05,<0.5,55.3,13.6,<0.010,3.6,115,Analisi effettuata il 20/08/2019,4.7(2.6),<0.10,3.2,4.5,4.5,<0.05,7.3,0.6,86,3.8,3.7
+Fontana Loc. Bait,Villa di Tirano,<0.05,1.3,50.0,24.2,<0.010,5.1,149,Analisi effettuata il 20/08/2019,7.5(4.2),0.10,3.6,0.5,1.2,<0.05,7.3,1.0,112,4.1,22.8
+Fontana Loc. Sonvico,Villa di Tirano,<0.05,<0.5,22.8,5.4,<0.010,<0.5,65,Analisi effettuata il 20/08/2019,2.2(1.2),0.52,2.1,<0.5,0.6,<0.05,7.3,1.5,49,2.9,12.0
+Fontana Loc. Lera,Villa di Tirano,<0.05,<0.5,87.0,25.8,<0.010,1.0,171,Analisi effettuata il 20/08/2019,8.0(4.5),<0.10,3.7,<0.5,3.0,<0.05,7.6,1.1,128,2.1,10.9

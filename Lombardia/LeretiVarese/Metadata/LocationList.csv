@@ -1,0 +1,102 @@
+alias_city,alias_address,georeferencingString,type
+Brunate,Comune,", Brunate, Lombardia, Italia",POINT
+Cernobbio,Comune,", Cernobbio, Lombardia, Italia",POINT
+Como,Comune,", Como, Lombardia, Italia",POINT
+Arcisate,Comune,", Arcisate, Lombardia, Italia",POINT
+Azzate,Comune,", Azzate, Lombardia, Italia",POINT
+Besnate,Comune,", Besnate, Lombardia, Italia",POINT
+Bodio Lomnago,Comune,", Bodio Lomnago, Lombardia, Italia",POINT
+Brezzo di Bedero - Zona 1,Comune,", Brezzo di Bedero -  1, Lombardia, Italia",POINT
+Brezzo di Bedero - Zona 2,Comune,", Brezzo di Bedero -  2, Lombardia, Italia",POINT
+Buguggiate,Comune,", Buguggiate, Lombardia, Italia",POINT
+Cantello,Comune,", Cantello, Lombardia, Italia",POINT
+Caravate,Comune,", Caravate, Lombardia, Italia",POINT
+Carnago,Comune,", Carnago, Lombardia, Italia",POINT
+Caronno Varesino,Comune,", Caronno Varesino, Lombardia, Italia",POINT
+Casciago,Comune,", Casciago, Lombardia, Italia",POINT
+Castronno,Comune,", Castronno, Lombardia, Italia",POINT
+Cazzago Brabbia,Comune,", Cazzago Brabbia, Lombardia, Italia",POINT
+Cittiglio,Comune,", Cittiglio, Lombardia, Italia",POINT
+Cittiglio Zona Vararo,Comune,", Cittiglio  Vararo, Lombardia, Italia",POINT
+Comerio,Comune,", Comerio, Lombardia, Italia",POINT
+Cunardo,Comune,", Cunardo, Lombardia, Italia",POINT
+Daverio,Comune,", Daverio, Lombardia, Italia",POINT
+Galliate Lombardo,Comune,", Galliate Lombardo, Lombardia, Italia",POINT
+Gazzada Schianno,Comune,", Gazzada Schianno, Lombardia, Italia",POINT
+Germignaga Zona 1,Comune,", Germignaga  1, Lombardia, Italia",POINT
+Germignaga Zona 2,Comune,", Germignaga  2, Lombardia, Italia",POINT
+Inarzo,Comune,", Inarzo, Lombardia, Italia",POINT
+Induno Olona,Comune,", Induno Olona, Lombardia, Italia",POINT
+Jerago con Orago,Comune,", Jerago con Orago, Lombardia, Italia",POINT
+Lozza,Comune,", Lozza, Lombardia, Italia",POINT
+Luino zona 1,Luino centro,"Luino centro, Luino  1, Lombardia, Italia",POINT
+Luino zona 1,Voldomino Inferiore,"Voldomino Inferiore, Luino  1, Lombardia, Italia",POINT
+Luino zona 1,Baggiolina,"Baggiolina, Luino  1, Lombardia, Italia",POINT
+Luino zona 2,Loc. Longhirolo,"Loc. Longhirolo, Luino  2, Lombardia, Italia",POINT
+Luino zona 2,Pianazzo,"Pianazzo, Luino  2, Lombardia, Italia",POINT
+Luino zona 2,Torbere,"Torbere, Luino  2, Lombardia, Italia",POINT
+Luino zona 2,Ferè,"Ferè, Luino  2, Lombardia, Italia",POINT
+Luino zona 2,Valdo,"Valdo, Luino  2, Lombardia, Italia",POINT
+Luino zona 2,Moncucco,"Moncucco, Luino  2, Lombardia, Italia",POINT
+Luino zona 2,Creva,"Creva, Luino  2, Lombardia, Italia",POINT
+Luino zona 2,Villaggio Menotti,"Villaggio Menotti, Luino  2, Lombardia, Italia",POINT
+Luino zona 2,Carnella,"Carnella, Luino  2, Lombardia, Italia",POINT
+Luino zona 2,Pezze,"Pezze, Luino  2, Lombardia, Italia",POINT
+Luino Zona 4,Loc.Poppino,"Loc.Poppino, Luino  4, Lombardia, Italia",POINT
+Luino Zona 4,Bonga,"Bonga, Luino  4, Lombardia, Italia",POINT
+Luino Zona 4,Gaggio,"Gaggio, Luino  4, Lombardia, Italia",POINT
+Luino zona 5,Loc.Colmegna,"Loc.Colmegna, Luino  5, Lombardia, Italia",POINT
+Luino zona 6,loc. Biviglione,"loc. Biviglione, Luino  6, Lombardia, Italia",POINT
+Luino zona 7,Loc.Voldomino superiore,"Loc.Voldomino superiore, Luino  7, Lombardia, Italia",POINT
+Luino zona 7,Tamagno,"Tamagno, Luino  7, Lombardia, Italia",POINT
+Luino zona 7,Mirabello,"Mirabello, Luino  7, Lombardia, Italia",POINT
+Luvinate,Comune,", Luvinate, Lombardia, Italia",POINT
+Maccagno zona 1,Fraz.Caviggia,"Fraz.Caviggia, Maccagno  1, Lombardia, Italia",POINT
+Maccagno zona 1,Veddo,"Veddo, Maccagno  1, Lombardia, Italia",POINT
+Malnate,Comune,", Malnate, Lombardia, Italia",POINT
+Marzio,Comune,", Marzio, Lombardia, Italia",POINT
+Monvalle,Comune,", Monvalle, Lombardia, Italia",POINT
+Morazzone,Comune,", Morazzone, Lombardia, Italia",POINT
+Pino sul Lago Maggiore,Comune,", Pino sul Lago Maggiore, Lombardia, Italia",POINT
+Sangiano,Comune,", Sangiano, Lombardia, Italia",POINT
+Varese zona 1,Varese centro,"Varese centro, Varese  1, Lombardia, Italia",POINT
+Varese zona 1,Biumo Inferiore,"Biumo Inferiore, Varese  1, Lombardia, Italia",POINT
+Varese zona 1,Bosto,"Bosto, Varese  1, Lombardia, Italia",POINT
+Varese zona 1,Belforte,"Belforte, Varese  1, Lombardia, Italia",POINT
+Varese zona 1,Giubiano,"Giubiano, Varese  1, Lombardia, Italia",POINT
+Varese zona 1,Valle Olona,"Valle Olona, Varese  1, Lombardia, Italia",POINT
+Varese zona 1,S. Fermo,"S. Fermo, Varese  1, Lombardia, Italia",POINT
+Varese zona 1,S.Gallo,"S.Gallo, Varese  1, Lombardia, Italia",POINT
+Varese zona 1,S.Carlo,"S.Carlo, Varese  1, Lombardia, Italia",POINT
+Varese zona 1,Ippodromo,"Ippodromo, Varese  1, Lombardia, Italia",POINT
+Varese zona 1,Valganna,"Valganna, Varese  1, Lombardia, Italia",POINT
+Varese zona 1,Valmonte- Mentasti,"Valmonte- Mentasti, Varese  1, Lombardia, Italia",POINT
+Varese zona 1,via Vela,"via Vela, Varese  1, Lombardia, Italia",POINT
+Varese zona 1,Campigli,"Campigli, Varese  1, Lombardia, Italia",POINT
+Varese zona 1,Calcinate Degli Orrigoni,"Calcinate Degli Orrigoni, Varese  1, Lombardia, Italia",POINT
+Varese zona 1,Lissago,"Lissago, Varese  1, Lombardia, Italia",POINT
+Varese zona 1,Cartabbia,"Cartabbia, Varese  1, Lombardia, Italia",POINT
+Varese zona 1,Capolago,"Capolago, Varese  1, Lombardia, Italia",POINT
+Varese zona 1,Casbeno,"Casbeno, Varese  1, Lombardia, Italia",POINT
+Varese zona 2,Bustecche,"Bustecche, Varese  2, Lombardia, Italia",POINT
+Varese zona 2,Bizzozzero,"Bizzozzero, Varese  2, Lombardia, Italia",POINT
+Varese zona 3,Avigno,"Avigno, Varese  3, Lombardia, Italia",POINT
+Varese zona 3,Masnago,"Masnago, Varese  3, Lombardia, Italia",POINT
+Varese zona 3,Montello,"Montello, Varese  3, Lombardia, Italia",POINT
+Varese zona 3,Brunella,"Brunella, Varese  3, Lombardia, Italia",POINT
+Varese zona 3,Biumo Superiore,"Biumo Superiore, Varese  3, Lombardia, Italia",POINT
+Varese zona 3,Morosolo,"Morosolo, Varese  3, Lombardia, Italia",POINT
+Varese zona 3,Velate,"Velate, Varese  3, Lombardia, Italia",POINT
+Varese zona 3,loc.Oronco,"loc.Oronco, Varese  3, Lombardia, Italia",POINT
+Varese zona 3,zona I°Cappella,"zona I°Cappella, Varese  3, Lombardia, Italia",POINT
+Varese zona 4,S. Ambrogio,"S. Ambrogio, Varese  4, Lombardia, Italia",POINT
+Varese zona 4,Fogliaro,"Fogliaro, Varese  4, Lombardia, Italia",POINT
+Varese zona 4,Bregazzana,"Bregazzana, Varese  4, Lombardia, Italia",POINT
+Varese zona 4,Molinetto Mulini Grassi,"Molinetto Mulini Grassi, Varese  4, Lombardia, Italia",POINT
+Varese zona 5,Rasa,"Rasa, Varese  5, Lombardia, Italia",POINT
+Varese zona 5,Provinciale per la Rasa,"Provinciale per la Rasa, Varese  5, Lombardia, Italia",POINT
+Varese zona 6,S.M. Del Monte,"S.M. Del Monte, Varese  6, Lombardia, Italia",POINT
+Varese zona 6,Campo dei Fiori,"Campo dei Fiori, Varese  6, Lombardia, Italia",POINT
+Varese zona 7,Bobbiate,"Bobbiate, Varese  7, Lombardia, Italia",POINT
+Varese zona 7,Schiranna,"Schiranna, Varese  7, Lombardia, Italia",POINT
+Veddasca,Comune,", Veddasca, Lombardia, Italia",POINT

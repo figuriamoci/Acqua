@@ -1,23 +1,14 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Jan  3 23:52:40 2020
-
-@author: andrea
-"""
 ##
 import acqua.label as al
 import acqua.labelCollection as coll
 import acqua.parametri as parm
 import pandas as pd
-import tabula
-import os
 import logging
-#os.chdir('D:/Python/Acqua/')
-os.chdir('/Users/andrea/PycharmProjects/Acqua/FriuliVeneziaGiulia/HydroGEA')
-idGestore = 13146
-parm.crea_dizionario('Definitions/SynParametri.csv')
-data_report = '30-02-1900'
+import acqua.aqueduct as aq
+cod_gestore = "HydroGEA"
+aq.setEnv('FriuliVeneziaGiulia//'+cod_gestore)
+parm.crea_dizionario('Medadata/SynParametri.csv')
+useThisDictionary = parm.crea_dizionario('Medadata/SynParametri.csv')
 ##
 def get_rawTable(url_report):
     import tabula
@@ -26,15 +17,14 @@ def get_rawTable(url_report):
     return row_table2
 
 def estractLabelFromRawTable(address,rawTable):
+    import numpy as np
     parms = ['ph', 'Residuo fisso a 180°', 'Resid. fisso 180°', 'Durezza', 'Conducibilità', 'Calcio', 'Magnesio',
              'Ammonio', 'Cloruri',
              'Solfati', 'Potassio', 'Sodio', 'Arsenico', 'Bicarbonato', 'Cloro residuo', 'Fluoruri', 'Nitrati',
              'Nitriti',
              'Manganese']
-    import numpy as np
+    #parametersAdmitted = parm.getParametersAdmitted( 'Medadata/SynParametri.csv' )
     table_ = rawTable.reset_index()
-    #table_.to_csv('table_.csv')
-    logging.info('Searcing for address... %s.', address)
     boolMatrix = table_.apply(lambda x: x.str.contains(address, na=False))
     alias_coordinates_ = np.where(boolMatrix)
     if len(alias_coordinates_[0])==0 or len(alias_coordinates_[1])==0: raise AddressNotFound("%s not found.",address)
@@ -42,53 +32,49 @@ def estractLabelFromRawTable(address,rawTable):
     alias_address = table_.iloc[alias_coordinates]
     rowFound = alias_coordinates[0]
     columnFound = alias_coordinates[1]
-    logging.info('Found address %s. at [%s,%s].', address,rowFound,columnFound)
     table_.set_index(0,inplace=True)
     label = table_.reindex(index=parms,columns=[columnFound-1])
     label_cleaned = label.dropna()
     label_cleaned.columns = ['label']
     lbdict = label_cleaned['label'].to_dict()
+    #
+    data_report = table_.reindex(index=['Data del prelievo'],columns=[columnFound-1]).iloc[0]
+    #
     ll = {}
     ll['alias_address'] = address
+    ll['data_report'] = data_report[columnFound-1]
     ll['label'] = lbdict
-    logging.info('Creating label %s.', ll)
     return ll
+
+reportFoundList = pd.read_csv( 'Definitions/ReportFoundList.csv' )
+#reportFoundList = reportFoundList.iloc[82:]
+logging.info('Caricato la DataReportCollection.csv con %s elementi.',len(reportFoundList))
 ##
-#data_report = 'settembre 2919'
-#listParameters = ['Concentrazione di ioni idrogeno','Conduttività a 20° C','* Calcio (Ca)','* Magnesio (Mg)','Durezza (da calcolo)','Fluoruro','Nitrato','Cloruro','Solfati','*  Sodio (Na)','*  Potassio (K)','Manganese (Mn)','Nitrito','Ammonio','Arsenico (As)','* Residuo fisso a 180 °C']
-#listLabels = {}
-##
-#print(os.path.abspath('FriuliVeneziaGiulia/HydroGEA/Definitions/FoundReportList.csv'))
-logging.basicConfig(level=logging.DEBUG)
-df = pd.read_csv('Definitions/FoundReportList.csv')
-df = df.set_index(['alias_city','alias_address'])
-locationList = df.index
-logging.info('Caricato la FoundReportList.csv con %s elementi.',len(df))
-##
-#logging.basicConfig(level=logging.DEBUG)
 ll = []
-i=0
-for location in locationList:
-    i=i+1
-    logging.info('Ricerca etichetta per %s. (Progress %s/%s)', location,i,len(locationList))
-    address = location[1]
-    city = location[0]
-    urlReport_ = df.loc[location,'urlReport']
+for i,location in reportFoundList.iterrows():
+    address = location['alias_address']
+    city = location['alias_city']
+    urlReport_ = location['urlReport']
     urlReport = urlReport_.replace('%20',' ')
     rawTable = get_rawTable(urlReport)
     try:
         rawLabel = estractLabelFromRawTable(address,rawTable)
         label = rawLabel['label']
-        lb = al.create_label(idGestore,data_report,label)
-        glb = al.addGeocodeData(lb,location,'Definitions/GeoReferencedLocationsList.csv')
-        for j in range( 0, len( glb ) ): ll.append( glb[j] )
+        data_report = rawLabel['data_report']
+        lb = al.create_label(useThisDictionary,cod_gestore,data_report,label)
+        glb = al.addGeocodeData(lb,(city,address),'Medadata/GeoReferencedLocationsList.csv')
+        ll.extend( glb )
+        logging.info( 'Hacked %s/%s (Progress %s/%s)', city, address, i, len( reportFoundList ) - 1 )
     except:
-        logging.critical('Skip label for %s',location)
+        logging.critical('Skip label for %s/%s',city, address)
 
 ##
-fc = coll.to_geojson(ll,rgb=coll.getRGB())
-coll.to_file(fc,'HydroGEA.geojson')
+import pickle
+with open('filename.pickle', 'wb') as handle: pickle.dump(ll, handle)
+
+fc = coll.to_geojson(ll)
+coll.to_file(fc,cod_gestore+'.geojson')
 coll.display(fc)
 
-logging.info('Created %s label(s) of %s.',len(ll),len(locationList))
+logging.info('Created %s label(s) of %s.',len(ll),len(reportFoundList))
 logging.info('End process.')

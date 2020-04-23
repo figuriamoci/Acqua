@@ -2,8 +2,8 @@ import acqua.geoCode as gc
 import acqua.aqueduct as aq
 id_gestore = "AcqueVeronesi"
 aq.setEnv('Veneto//'+id_gestore)
-locationListFile = 'Definitions/ReviewedLocationList.csv'
-geoReferencedLocationsFile = 'Definitions/GeoReferencedLocationsList.csv'
+locationListFile = 'Medadata/ReviewedLocationList.csv'
+geoReferencedLocationsFile = 'Medadata/GeoReferencedLocationsList.csv'
 reteAquedottiFile = '../ReteAcquedotti/rete_acquedotti_veneto.geojson'
 mapFile = id_gestore+'.html'
 #gc.createGeoReferencedLocationsList(locationListFile,geoReferencedLocationsFile)

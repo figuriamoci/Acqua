@@ -14,7 +14,7 @@ options.add_argument('--incognito')
 options.add_argument('--headless')
 driver = webdriver.Chrome("chromedriver", options=options)
 driver.implicitly_wait(40)
-parametersAdmitted = parm.getParametersAdmitted('Definitions/SynParametri.csv')
+parametersAdmitted = parm.getParametersAdmitted('Medadata/SynParametri.csv')
 locationList = pd.read_csv('Definitions/LocationList.csv')
 ##
 reportFoundList = pd.DataFrame()
@@ -52,5 +52,5 @@ for i,alias_city in locationList.iterrows():
         logging.critical('Skip %s/%s !',alias_city,alias_address)
 ##
 driver.close()
-reportFoundList.to_csv('Definitions/ReportFoundList.csv',index=False)
+reportFoundList.to_csv('Medadata/DataReportCollection.csv',index=False)
 logging.info('Finish: %s',datetime.datetime.now())

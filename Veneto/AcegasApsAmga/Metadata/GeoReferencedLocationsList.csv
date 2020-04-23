@@ -1,0 +1,13 @@
+alias_address,alias_city,geocode,geometry,georeferencingString,type
+Comune,PADOVA,"Padova, Veneto, Italia","{'type': 'Point', 'coordinates': [11.8734455, 45.4077172]}","Padova, Veneto, Italia",POINT
+Comune,ABANO TERME,"Abano Terme, Padova, Veneto, 35031, Italia","{'type': 'Point', 'coordinates': [11.7897833, 45.3603142]}","Abano Terme,Padova, Veneto, Italia",POINT
+Comune,CONA,"Cona, Venezia, Veneto, Italia","{'type': 'Point', 'coordinates': [12.0786953, 45.1800706]}","Cona, Venezia, Veneto, Italia",POINT
+Comune,CORREZZOLA,"Correzzola, Padova, Veneto, Italia","{'type': 'Point', 'coordinates': [12.0677625, 45.2353821]}","Correzzola, Padova, Veneto, Italia",POINT
+Comune,PONTELONGO,"Pontelongo, Padova, Veneto, Italia","{'type': 'Point', 'coordinates': [12.0251829, 45.2454887]}","Pontelongo, Padova, Veneto, Italia",POINT
+Comune,CODEVIGO,"Codevigo, Padova, Veneto, Italia","{'type': 'Point', 'coordinates': [12.1013012, 45.2673516]}","Codevigo, Padova, Veneto, Italia",POINT
+Comune,BRUGINE,"Brugine, Padova, Veneto, Italia","{'type': 'Point', 'coordinates': [11.995113, 45.296592]}","Brugine, Padova, Veneto, Italia",POINT
+Comune,LEGNARO,"Legnaro, Padova, Veneto, Italia","{'type': 'Point', 'coordinates': [11.9641925, 45.3456489]}","Legnaro, Padova, Veneto, Italia",POINT
+Comune,PIOVE DI SACCO,"Piove di Sacco, Padova, Veneto, 35028, Italia","{'type': 'Point', 'coordinates': [12.036814, 45.297692]}","Piove di Sacco, Padova, Veneto, Italia",POINT
+Comune,S. ANGELO DI PIOVE DI S.,"Sant'Angelo di Piove di Sacco, Padova, Veneto, Italia","{'type': 'Point', 'coordinates': [12.0070217, 45.3453153]}","Sant'Angelo di Piove di Sacco, Padova, Veneto, Italia",POINT
+Comune,POLVERARA,"Polverara, Padova, Veneto, Italia","{'type': 'Point', 'coordinates': [11.956012, 45.309392]}","Polverara, Padova, Veneto, Italia",POINT
+Comune,ARZERGRANDE,"Arzergrande, Padova, Veneto, Italia","{'type': 'Point', 'coordinates': [12.053944, 45.2728605]}","Arzergrande, Padova, Veneto, Italia",POINT

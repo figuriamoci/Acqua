@@ -18,8 +18,8 @@ os.chdir('/Users/andrea/PycharmProjects/Acqua/FriuliVeneziaGiulia/AceGasAmga')
 idGestore = 926 ##AceGasAmga
 data_report = '25/11/2019'
 url = '2019_11_novembre_TS.1577977068.pdf'
-listParameters = parm.getListSynonyms('Definitions/SynParametri.csv')
-parm.crea_dizionario('Definitions/SynParametri.csv')
+listParameters = parm.getListSynonyms('Medadata/SynParametri.csv')
+parm.crea_dizionario('Medadata/SynParametri.csv')
 listLabels = {}
 urlAndLocationList = {}
 ll=[]
@@ -51,7 +51,7 @@ for url_report in urlList:
         x = location['alias_address']
         y = location['alias_city']
         location_ = (y, x)
-        glb = al.addGeocodeData( lb, location_, 'Definitions/GeoReferencedLocationsList.csv' )
+        glb = al.addGeocodeData( lb, location_, 'Medadata/GeoReferencedLocationsList.csv' )
         for i in range( 0, len( glb ) ): ll.append( glb[i] )
 
 ##

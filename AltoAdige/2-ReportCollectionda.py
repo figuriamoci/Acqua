@@ -13,4 +13,4 @@ df_ = pd.DataFrame(data)
 
 df = df_.groupby(['alias_city','alias_address'])['data_prelievo'].max()
 fl = df.reset_index()
-fl.to_csv('Definitions/FoundReportList.csv',index=False)
+fl.to_csv('Medadata/DataReportCollection.csv',index=False)

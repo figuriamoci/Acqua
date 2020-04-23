@@ -1,0 +1,102 @@
+alias_address,alias_city,geocode,geometry,georeferencingString,type
+Calcinate Degli Orrigoni,Varese zona 1,"Via Valle Luna, 21100, Varese",,"Via Valle Luna, Varese, Lombardia, Italia",POINT
+Bizzozzero,Varese zona 2,"Via Carletto Ferrari, 21100, Varese","{'type': 'Point', 'coordinates': [8.85109869461006, 45.79019007289578]}","Via Carletto Ferrari, Varese",POINT
+Biumo Inferiore,Varese zona 1,"Via Giuseppe Garibaldi, 21100, Varese, VA","{'type': 'Point', 'coordinates': [8.833299454016242, 45.821583000000004]}",Via Giuseppe Garibaldi 21100 Varese VA,POINT
+Fogliaro,Varese zona 4,"Via Archimede, 21100, Varese","{'type': 'Point', 'coordinates': [8.802912458704894, 45.84579140851443]}",Via archimede Varese,POINT
+Varese centro,Varese zona 1,"Via Como, 21100, Varese","{'type': 'Point', 'coordinates': [8.830679518918622, 45.81822246305843]}","Via Como, Varese, Lombardia, Italia",POINT
+S.Carlo,Varese zona 1,"Via Osoppo, 21100, Varese","{'type': 'Point', 'coordinates': [8.848832247697615, 45.80219632343912]}","Via Osoppo,21100 Varese, Lombardia, Italia",POINT
+Campo dei Fiori,Varese zona 6,"Strada Provinciale del Campo dei Fiori, 21030, Brinzio, Varese","{'type': 'Point', 'coordinates': [8.780797583055197, 45.887858498938]}","Campo dei Fiori, Brinzio, Lombardia, Italia",POINT
+Cartabbia,Varese zona 1,"Via Torquato Tasso, 21100, Varese","{'type': 'Point', 'coordinates': [8.82841439270923, 45.79933820243026]}","Via Torquato Tasso, 21100, Varese",POINT
+S.Gallo,Varese zona 1,"Via San Gallo, 21029, Vergiate, Varese","{'type': 'Point', 'coordinates': [8.68880162026285, 45.74808647828139]}","Via San Gallo, Varese",POINT
+S. Fermo,Varese zona 1,"Via Tarvisio, 21100, Varese","{'type': 'Point', 'coordinates': [8.84749259463188, 45.83390821381052]}","Via Tarvisio, 21100, Varese",POINT
+Masnago,Varese zona 3,"Masnago, Provincia di Varese","{'type': 'Point', 'coordinates': [8.800000000000068, 45.833330000000046]}",Masnago,POINT
+Montello,Varese zona 3,"Via Montello, 21100, Varese","{'type': 'Point', 'coordinates': [8.812484817710708, 45.83233268443656]}","Via Montello, Varese , Lombardia, Italia",POINT
+Comune,Pino sul Lago Maggiore,"Pino sulla Sponda del Lago Maggiore, Maccagno con Pino e Veddasca, Varese","{'type': 'Point', 'coordinates': [8.740400000000022, 46.10152000000005]}","Pino sulla Sponda del Lago Maggiore, Varese, Lombardia, Italia",POINT
+Ferè,Luino zona 2,"Luino, Varese","{'type': 'Point', 'coordinates': [8.744760000000042, 46.00011000000006]}","Ferè, Luino, Varese, Lombardia, Italia",POINT
+Villaggio Menotti,Luino zona 2,"Via Ciro Menotti, 21016, Luino, Varese","{'type': 'Point', 'coordinates': [8.750605284943527, 46.00361309917754]}","Villaggio Menotti, Luino, Varese, Lombardia, Italia",POINT
+Pezze,Luino zona 2,"Via La Pezza, 21016, Luino, Varese","{'type': 'Point', 'coordinates': [8.752904570225883, 45.98836416179786]}","Pezze, Luino, Varese, Lombardia, Italia",POINT
+Tamagno,Luino zona 7,"Luino, Varese","{'type': 'Point', 'coordinates': [8.744760000000042, 46.00011000000006]}","Tamagno, Luino, Varese, Lombardia, Italia",POINT
+Giubiano,Varese zona 1,21100,"{'type': 'Point', 'coordinates': [8.810805000000073, 45.836223268000026]}",Giubiano 21100 Varese VA,POINT
+zona I°Cappella,Varese zona 3,"Via Prima Cappella, 21100, Varese","{'type': 'Point', 'coordinates': [8.798814798901418, 45.848890281246724]}","Prima Cappella, Varese, Lombardia, Italia",POINT
+Comune,Brunate,"Brunate, Como","{'type': 'Point', 'coordinates': [9.098370000000045, 45.820160000000044]}",", Brunate, Lombardia, Italia",POINT
+Comune,Cernobbio,"Cernobbio, Como","{'type': 'Point', 'coordinates': [9.067860000000053, 45.83816000000007]}",", Cernobbio, Lombardia, Italia",POINT
+Comune,Como,Como,"{'type': 'Point', 'coordinates': [9.08710000000002, 45.81076000000007]}",", Como, Lombardia, Italia",POINT
+Comune,Arcisate,"Arcisate, Varese","{'type': 'Point', 'coordinates': [8.859620000000064, 45.86038000000008]}",", Arcisate, Lombardia, Italia",POINT
+Comune,Azzate,"Azzate, Varese","{'type': 'Point', 'coordinates': [8.79776000000004, 45.777570000000026]}",", Azzate, Lombardia, Italia",POINT
+Comune,Besnate,"Besnate, Varese","{'type': 'Point', 'coordinates': [8.766380000000026, 45.70171000000005]}",", Besnate, Lombardia, Italia",POINT
+Comune,Bodio Lomnago,"Bodio Lomnago, Varese","{'type': 'Point', 'coordinates': [8.746920000000046, 45.79075000000006]}",", Bodio Lomnago, Lombardia, Italia",POINT
+Comune,Brezzo di Bedero - Zona 1,"Brezzo di Bedero, Varese","{'type': 'Point', 'coordinates': [8.717740000000049, 45.977580000000046]}",", Brezzo di Bedero -  1, Lombardia, Italia",POINT
+Comune,Brezzo di Bedero - Zona 2,"Brezzo di Bedero, Varese","{'type': 'Point', 'coordinates': [8.717740000000049, 45.977580000000046]}",", Brezzo di Bedero -  2, Lombardia, Italia",POINT
+Comune,Buguggiate,"Buguggiate, Varese","{'type': 'Point', 'coordinates': [8.805990000000065, 45.78609000000006]}",", Buguggiate, Lombardia, Italia",POINT
+Comune,Cantello,"Cantello, Varese","{'type': 'Point', 'coordinates': [8.893320000000074, 45.820250000000044]}",", Cantello, Lombardia, Italia",POINT
+Comune,Caravate,"Caravate, Varese","{'type': 'Point', 'coordinates': [8.654770000000042, 45.87901000000005]}",", Caravate, Lombardia, Italia",POINT
+Comune,Carnago,"Carnago, Varese","{'type': 'Point', 'coordinates': [8.833750000000066, 45.724140000000034]}",", Carnago, Lombardia, Italia",POINT
+Comune,Caronno Varesino,"Caronno Varesino, Varese","{'type': 'Point', 'coordinates': [8.83119000000005, 45.74204000000003]}",", Caronno Varesino, Lombardia, Italia",POINT
+Comune,Casciago,"Casciago, Varese","{'type': 'Point', 'coordinates': [8.781040000000075, 45.833240000000046]}",", Casciago, Lombardia, Italia",POINT
+Comune,Castronno,"Castronno, Varese","{'type': 'Point', 'coordinates': [8.81335000000007, 45.745610000000056]}",", Castronno, Lombardia, Italia",POINT
+Comune,Cazzago Brabbia,"Cazzago Brabbia, Varese","{'type': 'Point', 'coordinates': [8.731970000000047, 45.79782000000006]}",", Cazzago Brabbia, Lombardia, Italia",POINT
+Comune,Cittiglio,"Cittiglio, Varese","{'type': 'Point', 'coordinates': [8.666070000000047, 45.895350000000064]}",", Cittiglio, Lombardia, Italia",POINT
+Comune,Cittiglio Zona Vararo,"Vararo, Cittiglio, Varese","{'type': 'Point', 'coordinates': [8.653640000000053, 45.92203000000006]}",", Cittiglio  Vararo, Lombardia, Italia",POINT
+Comune,Comerio,"Comerio, Varese","{'type': 'Point', 'coordinates': [8.747240000000033, 45.84170000000006]}",", Comerio, Lombardia, Italia",POINT
+Comune,Cunardo,"Cunardo, Varese","{'type': 'Point', 'coordinates': [8.804630000000031, 45.93530000000004]}",", Cunardo, Lombardia, Italia",POINT
+Comune,Daverio,"Daverio, Varese","{'type': 'Point', 'coordinates': [8.770140000000026, 45.776740000000075]}",", Daverio, Lombardia, Italia",POINT
+Comune,Galliate Lombardo,"Galliate Lombardo, Varese","{'type': 'Point', 'coordinates': [8.770470000000046, 45.78511000000003]}",", Galliate Lombardo, Lombardia, Italia",POINT
+Comune,Gazzada Schianno,"Gazzada Schianno, Varese","{'type': 'Point', 'coordinates': [8.823180000000036, 45.77829000000003]}",", Gazzada Schianno, Lombardia, Italia",POINT
+Comune,Germignaga Zona 1,"Via Germignaga 1, 21010, Brezzo di Bedero, Varese","{'type': 'Point', 'coordinates': [8.715309145017047, 45.979647233971946]}",", Germignaga  1, Lombardia, Italia",POINT
+Comune,Germignaga Zona 2,"Via Germignaga 2, 21010, Brezzo di Bedero, Varese","{'type': 'Point', 'coordinates': [8.714619291447717, 45.98135241355524]}",", Germignaga  2, Lombardia, Italia",POINT
+Comune,Inarzo,"Inarzo, Varese","{'type': 'Point', 'coordinates': [8.734180000000038, 45.78537000000006]}",", Inarzo, Lombardia, Italia",POINT
+Comune,Induno Olona,"Induno Olona, Varese","{'type': 'Point', 'coordinates': [8.839500000000044, 45.852280000000064]}",", Induno Olona, Lombardia, Italia",POINT
+Comune,Jerago con Orago,"Jerago con Orago, Varese","{'type': 'Point', 'coordinates': [8.793640000000039, 45.707170000000076]}",", Jerago con Orago, Lombardia, Italia",POINT
+Comune,Lozza,"Lozza, Varese","{'type': 'Point', 'coordinates': [8.85588000000007, 45.775690000000054]}",", Lozza, Lombardia, Italia",POINT
+Luino centro,Luino zona 1,Luino,"{'type': 'Point', 'coordinates': [8.744760000000042, 46.00011000000006]}","Luino centro, Luino  1, Lombardia, Italia",POINT
+Voldomino Inferiore,Luino zona 1,"Voldomino, Luino, Varese","{'type': 'Point', 'coordinates': [8.749030000000062, 45.98810000000003]}","Voldomino Inferiore, Luino  1, Lombardia, Italia",POINT
+Baggiolina,Luino zona 1,"Via Baggiolina, 21016, Luino, Varese","{'type': 'Point', 'coordinates': [8.751440054254452, 45.986177772548125]}","Baggiolina, Luino  1, Lombardia, Italia",POINT
+Loc. Longhirolo,Luino zona 2,"Via Longhirolo, 21016, Luino, Varese","{'type': 'Point', 'coordinates': [8.773483725744574, 46.00064824907677]}","Loc. Longhirolo, Luino  2, Lombardia, Italia",POINT
+Pianazzo,Luino zona 2,"Pianazzo, Luino, Varese","{'type': 'Point', 'coordinates': [8.786310000000071, 45.999720000000025]}","Pianazzo, Luino  2, Lombardia, Italia",POINT
+Torbere,Luino zona 2,"Via Torbiere, 21016, Luino, Varese","{'type': 'Point', 'coordinates': [8.77766551258615, 46.00500967244196]}","Torbere, Luino  2, Lombardia, Italia",POINT
+Valdo,Luino zona 2,"Vicolo Valdo, 21016, Luino, Varese","{'type': 'Point', 'coordinates': [8.772407113351553, 46.006793172845896]}","Valdo, Luino  2, Lombardia, Italia",POINT
+Moncucco,Luino zona 2,"Via Moncucco, 21016, Luino, Varese","{'type': 'Point', 'coordinates': [8.754663112274086, 45.99806530581612]}","Moncucco, Luino  2, Lombardia, Italia",POINT
+Creva,Luino zona 2,"Creva, Luino, Varese","{'type': 'Point', 'coordinates': [8.755260000000021, 45.99386000000004]}","Creva, Luino  2, Lombardia, Italia",POINT
+Carnella,Luino zona 2,"Via Carnella, 21016, Luino, Varese","{'type': 'Point', 'coordinates': [8.749422267328363, 46.006741069313456]}","Carnella, Luino  2, Lombardia, Italia",POINT
+Loc.Poppino,Luino Zona 4,"Poppino, Luino, Varese","{'type': 'Point', 'coordinates': [8.764760000000024, 46.014770000000055]}","Loc.Poppino, Luino  4, Lombardia, Italia",POINT
+Bonga,Luino Zona 4,"Via Bonga, 21016, Luino, Varese","{'type': 'Point', 'coordinates': [8.762361603664457, 46.01998984635175]}","Bonga, Luino  4, Lombardia, Italia",POINT
+Gaggio,Luino Zona 4,"Gaggio, Luino, Varese","{'type': 'Point', 'coordinates': [8.756700000000023, 46.02054000000004]}","Gaggio, Luino  4, Lombardia, Italia",POINT
+Loc.Colmegna,Luino zona 5,"Colmegna, Luino, Varese","{'type': 'Point', 'coordinates': [8.754410000000064, 46.02436000000006]}","Loc.Colmegna, Luino  5, Lombardia, Italia",POINT
+loc. Biviglione,Luino zona 6,"Via Biviglione, 21016, Luino, Varese","{'type': 'Point', 'coordinates': [8.775209282916757, 45.98689434277505]}","loc. Biviglione, Luino  6, Lombardia, Italia",POINT
+Loc.Voldomino superiore,Luino zona 7,"Voldomino, Luino, Varese","{'type': 'Point', 'coordinates': [8.749030000000062, 45.98810000000003]}","Loc.Voldomino superiore, Luino  7, Lombardia, Italia",POINT
+Comune,Luvinate,"Luvinate, Varese","{'type': 'Point', 'coordinates': [8.767760000000067, 45.83981000000006]}",", Luvinate, Lombardia, Italia",POINT
+Fraz.Caviggia,Maccagno zona 1,"Maccagno, Maccagno con Pino e Veddasca, Varese","{'type': 'Point', 'coordinates': [8.73825000000005, 46.04365000000007]}","Fraz.Caviggia, Maccagno  1, Lombardia, Italia",POINT
+Veddo,Maccagno zona 1,"Maccagno, Maccagno con Pino e Veddasca, Varese","{'type': 'Point', 'coordinates': [8.73825000000005, 46.04365000000007]}","Veddo, Maccagno  1, Lombardia, Italia",POINT
+Comune,Malnate,"Malnate, Varese","{'type': 'Point', 'coordinates': [8.878030000000024, 45.799840000000074]}",", Malnate, Lombardia, Italia",POINT
+Comune,Marzio,"Marzio, Varese","{'type': 'Point', 'coordinates': [8.86289000000005, 45.93974000000003]}",", Marzio, Lombardia, Italia",POINT
+Comune,Monvalle,"Monvalle, Varese","{'type': 'Point', 'coordinates': [8.632550000000037, 45.85418000000004]}",", Monvalle, Lombardia, Italia",POINT
+Comune,Morazzone,"Morazzone, Varese","{'type': 'Point', 'coordinates': [8.830380000000048, 45.769420000000025]}",", Morazzone, Lombardia, Italia",POINT
+Comune,Sangiano,"Sangiano, Varese","{'type': 'Point', 'coordinates': [8.632110000000068, 45.87281000000007]}",", Sangiano, Lombardia, Italia",POINT
+Bosto,Varese zona 1,"Vicolo per Bosto, 21100, Varese","{'type': 'Point', 'coordinates': [8.830001543518119, 45.81291779698339]}","Bosto, Varese  1, Lombardia, Italia",POINT
+Belforte,Varese zona 1,Belforte Varese,"{'type': 'Point', 'coordinates': [8.847259974464807, 45.816140000000075]}","Belforte, Varese  1, Lombardia, Italia",POINT
+Valle Olona,Varese zona 1,"Strada Provinciale della Valle Olona, 21040, Venegono Inferiore, Varese","{'type': 'Point', 'coordinates': [8.901237735920933, 45.73215569675821]}","Valle Olona, Varese  1, Lombardia, Italia",POINT
+Valle Olona,Varese zona 1,"Strada Provinciale della Valle Olona, 21040, Venegono Inferiore, Varese","{'type': 'Point', 'coordinates': [8.901237735920933, 45.73215569675821]}","Valle Olona, Varese  1, Lombardia, Italia",POINT
+Ippodromo,Varese zona 1,"Viale dell'Ippodromo, 21100, Varese","{'type': 'Point', 'coordinates': [8.828837045104132, 45.8303943741909]}","Ippodromo, Varese  1, Lombardia, Italia",POINT
+Valganna,Varese zona 1,"Valganna, Varese","{'type': 'Point', 'coordinates': [8.825120000000027, 45.92802000000006]}","Valganna, Varese  1, Lombardia, Italia",POINT
+Valmonte- Mentasti,Varese zona 1,"Mentasti, Varese","{'type': 'Point', 'coordinates': [8.865120000000047, 45.816670000000045]}","Valmonte- Mentasti, Varese  1, Lombardia, Italia",POINT
+via Vela,Varese zona 1,"Via Vincenzo Vela, 21100, Varese","{'type': 'Point', 'coordinates': [8.801286160537371, 45.82611932437533]}","via Vela, Varese  1, Lombardia, Italia",POINT
+Campigli,Varese zona 1,"Via dei Campigli, 21100, Varese","{'type': 'Point', 'coordinates': [8.803770048206488, 45.82468937618353]}","Campigli, Varese  1, Lombardia, Italia",POINT
+Lissago,Varese zona 1,"Lissago, Varese","{'type': 'Point', 'coordinates': [8.783260000000041, 45.81326000000007]}","Lissago, Varese  1, Lombardia, Italia",POINT
+Capolago,Varese zona 1,"Capolago, Varese","{'type': 'Point', 'coordinates': [8.809250000000077, 45.79359000000005]}","Capolago, Varese  1, Lombardia, Italia",POINT
+Casbeno,Varese zona 1,Varese Casbeno,"{'type': 'Point', 'coordinates': [8.811350000000061, 45.81514000000004]}","Casbeno, Varese  1, Lombardia, Italia",POINT
+Bustecche,Varese zona 2,"Via delle Bustecche, 21100, Varese","{'type': 'Point', 'coordinates': [8.857262816664422, 45.80283400769335]}","Bustecche, Varese  2, Lombardia, Italia",POINT
+Avigno,Varese zona 3,"Avigno, Cadegliano-Viconago, Varese","{'type': 'Point', 'coordinates': [8.818190000000072, 45.983700000000056]}","Avigno, Varese  3, Lombardia, Italia",POINT
+Brunella,Varese zona 3,"Via della Brunella, 21100, Varese","{'type': 'Point', 'coordinates': [8.819500797185409, 45.82228599061802]}","Brunella, Varese  3, Lombardia, Italia",POINT
+Biumo Superiore,Varese zona 3,Biumo Superiore (Litta),"{'type': 'Point', 'coordinates': [8.829140000000052, 45.825360000000046]}","Biumo Superiore, Varese  3, Lombardia, Italia",POINT
+Morosolo,Varese zona 3,"Morosolo, Casciago, Varese","{'type': 'Point', 'coordinates': [8.768220000000042, 45.823660000000075]}","Morosolo, Varese  3, Lombardia, Italia",POINT
+Velate,Varese zona 3,"Velate, Varese","{'type': 'Point', 'coordinates': [8.791530000000023, 45.845740000000035]}","Velate, Varese  3, Lombardia, Italia",POINT
+loc.Oronco,Varese zona 3,"Via Oronco, 21100, Varese","{'type': 'Point', 'coordinates': [8.798226925929317, 45.850109007464056]}","loc.Oronco, Varese  3, Lombardia, Italia",POINT
+S. Ambrogio,Varese zona 4,"Via San'Ambrogio, 21050, Cuasso al Monte, Varese","{'type': 'Point', 'coordinates': [8.878490522611983, 45.91315632600378]}","S. Ambrogio, Varese  4, Lombardia, Italia",POINT
+Bregazzana,Varese zona 4,"Bregazzana, Varese","{'type': 'Point', 'coordinates': [8.819920000000025, 45.84877000000006]}","Bregazzana, Varese  4, Lombardia, Italia",POINT
+Molinetto Mulini Grassi,Varese zona 4,"Via dei Mulini Grassi, 21100, Varese","{'type': 'Point', 'coordinates': [8.816929532378806, 45.843417070644676]}","Molinetto Mulini Grassi, Varese  4, Lombardia, Italia",POINT
+Rasa,Varese zona 5,"Rasa, Varese","{'type': 'Point', 'coordinates': [8.805880000000059, 45.86573000000004]}","Rasa, Varese  5, Lombardia, Italia",POINT
+Provinciale per la Rasa,Varese zona 5,"Via Provinciale Rasa, 21100, Varese","{'type': 'Point', 'coordinates': [8.802965502020358, 45.848861513391775]}","Provinciale per la Rasa, Varese  5, Lombardia, Italia",POINT
+S.M. Del Monte,Varese zona 6,"Via del Monte, 21029, Vergiate, Varese","{'type': 'Point', 'coordinates': [8.689165183415342, 45.71946458292324]}","S.M. Del Monte, Varese  6, Lombardia, Italia",POINT
+Bobbiate,Varese zona 7,"Dobbiate, Daverio, Varese","{'type': 'Point', 'coordinates': [8.781730000000039, 45.77328000000006]}","Bobbiate, Varese  7, Lombardia, Italia",POINT
+Schiranna,Varese zona 7,"Schiranna, Varese","{'type': 'Point', 'coordinates': [8.784190000000024, 45.80430000000007]}","Schiranna, Varese  7, Lombardia, Italia",POINT
+Comune,Veddasca,"Veddasca, Provincia di Varese","{'type': 'Point', 'coordinates': [8.798730000000035, 46.070580000000064]}",", Veddasca, Lombardia, Italia",POINT

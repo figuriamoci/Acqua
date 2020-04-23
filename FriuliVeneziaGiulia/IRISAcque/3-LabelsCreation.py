@@ -20,8 +20,8 @@ idGestore = 7396 ##IRISAcque
 dataReport='ANNO 2019 I SEMESTRE'
 
 #Inizializzazone robot
-listParameters = parm.getListSynonyms('Definitions/SynParametri.csv')
-parm.crea_dizionario('Definitions/SynParametri.csv')
+listParameters = parm.getListSynonyms('Medadata/SynParametri.csv')
+parm.crea_dizionario('Medadata/SynParametri.csv')
 listLabels = {}
 urlAndLocationList = {}
 ll=[]
@@ -62,7 +62,7 @@ for url_report in urlList:
         location_ = (y, x)
         label = cleaned_table[y.lower()].to_dict()
         lb = al.create_label( idGestore, dataReport, label )
-        glb = al.addGeocodeData( lb, location_, 'Definitions/GeoReferencedLocationsList.csv' )
+        glb = al.addGeocodeData( lb, location_, 'Medadata/GeoReferencedLocationsList.csv' )
         for i in range( 0, len( glb ) ): ll.append( glb[i] )
 
 fc = coll.to_geojson(ll,rgb=coll.getRGB())

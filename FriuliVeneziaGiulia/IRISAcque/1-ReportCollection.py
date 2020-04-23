@@ -12,6 +12,6 @@ df = pd.read_csv('Definitions/LocationList.csv')
 reportList = df.reindex(columns=['alias_city','alias_address'])
 reportList['url']=url
 reportList_ = reportList.drop_duplicates()
-reportList_.to_csv('Definitions/FoundReportList.csv',index=False)
+reportList_.to_csv('Medadata/DataReportCollection.csv',index=False)
 logging.info('Finish: %s',datetime.datetime.now())
 logging.info('Report found: %s',len(reportList))

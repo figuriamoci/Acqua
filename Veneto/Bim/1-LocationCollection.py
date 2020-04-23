@@ -42,5 +42,5 @@ for i,comune in enumerate(listaComuni):
         #logging.info("Insered %s (%s/%s)",row,i,len(listaComuni))
         locationList = locationList.append(row,ignore_index=True)
 
-locationList.to_csv('Definitions/LocationList.csv',index=False)
+locationList.to_csv('Medadata/LocationList.csv',index=False)
 logging.info('Finish: %s',datetime.datetime.now())

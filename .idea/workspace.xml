@@ -1,33 +1,354 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:github" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="7f07049d-118d-41b2-902c-f0e231157e01" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Veneto/AcqueVeronesi/1-LocationCollection.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Veneto/AcqueVeronesi/1a-LocationReviewing.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Veneto/AcqueVeronesi/2-GeoReferenceDataCollection.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Veneto/AcqueVeronesi/3-ReportCollection.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Veneto/AcqueVeronesi/4-LabelsCreation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Veneto/AcqueVeronesi/5-LabelsPublishing.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Veneto/AcqueVeronesi/Definitions/GeoReferencedLocationsList.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Veneto/AcqueVeronesi/Definitions/LocationList.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Veneto/AcqueVeronesi/Definitions/ReportFoundList.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Veneto/AcqueVeronesi/Definitions/ReviewedLocationList.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Veneto/AcqueVeronesi/Definitions/SynParametri.csv" afterDir="false" />
+    <list default="true" id="7f07049d-118d-41b2-902c-f0e231157e01" name="Default Changelist" comment="Completati i dati dei gestori di Trentino alto Adige">
+      <change afterPath="$PROJECT_DIR$/FriuliVeneziaGiulia/HydroGEA/2-GeoReferenceDataCollection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FriuliVeneziaGiulia/HydroGEA/3-ReportCollection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FriuliVeneziaGiulia/HydroGEA/Andreis - caratteristiche acqua HYDROGEA.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FriuliVeneziaGiulia/HydroGEA/HydroGEA.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FriuliVeneziaGiulia/HydroGEA/filename.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lombardia/A2ABrescia/1.0-LocationCollection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lombardia/A2ABrescia/1.1-LocationCollectionReviewing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lombardia/A2ABrescia/2-DataReportCollection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lombardia/A2ABrescia/3-GeoReferenceDataCollection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lombardia/A2ABrescia/4-LabelsCreation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lombardia/A2ABrescia/5-LabelsPublishing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lombardia/A2ABrescia/A2ABrescia.geojson" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lombardia/A2ABrescia/A2ABrescia.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lombardia/A2ABrescia/Metadata/DataReportCollection.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lombardia/A2ABrescia/Metadata/GeoReferencedLocationsList.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lombardia/A2ABrescia/Metadata/LocationList.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lombardia/A2ABrescia/Metadata/ReportFoundList.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lombardia/A2ABrescia/Metadata/ReviewedLocationList.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lombardia/A2ABrescia/Metadata/SynParametri.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lombardia/ASVTValtrompia/1.0-LocationCollection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lombardia/ASVTValtrompia/1.1-LocationCollectionReviewing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lombardia/ASVTValtrompia/2-GeoReferenceDataCollection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lombardia/ASVTValtrompia/3-DataReportCollection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lombardia/ASVTValtrompia/4-LabelsCreation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lombardia/ASVTValtrompia/5-LabelsPublishing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lombardia/ASVTValtrompia/ASVTValtrompia.geojson" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lombardia/ASVTValtrompia/ASVTValtrompia.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lombardia/ASVTValtrompia/Metadata/DataReportCollection.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lombardia/ASVTValtrompia/Metadata/GeoReferencedLocationsList.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lombardia/ASVTValtrompia/Metadata/LocationList.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lombardia/ASVTValtrompia/Metadata/ReviewedLocationList.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lombardia/ASVTValtrompia/Metadata/SynParametri.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lombardia/AcqueBresciane/1-LocationCollection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lombardia/AcqueBresciane/2-GeoReferenceDataCollection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lombardia/AcqueBresciane/3-ReportFoundList_.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lombardia/AcqueBresciane/4-DataReportCollection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lombardia/AcqueBresciane/5-LabelsCreation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lombardia/AcqueBresciane/6-LabelsPublishing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lombardia/AcqueBresciane/AcqueBresciane.geojson" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lombardia/AcqueBresciane/AcqueBresciane.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lombardia/AcqueBresciane/Metadata/DataReportCollection.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lombardia/AcqueBresciane/Metadata/GeoReferencedLocationsList.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lombardia/AcqueBresciane/Metadata/LocationList.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lombardia/AcqueBresciane/Metadata/ReportFoundList.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lombardia/AcqueBresciane/Metadata/SynParametri.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lombardia/AlfaVarese/1-LocationCollection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lombardia/AlfaVarese/2-GeoReferenceDataCollection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lombardia/AlfaVarese/3-FoundReportList.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lombardia/AlfaVarese/4-DataReportCollection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lombardia/AlfaVarese/5-LabelsCreation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lombardia/AlfaVarese/6-LabelsPublishing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lombardia/AlfaVarese/AlfaVarese.geojson" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lombardia/AlfaVarese/AlfaVarese.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lombardia/AlfaVarese/Metadata/DataReportCollection.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lombardia/AlfaVarese/Metadata/GeoReferencedLocationsList.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lombardia/AlfaVarese/Metadata/LocationList.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lombardia/AlfaVarese/Metadata/ReportFoundList.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lombardia/AlfaVarese/Metadata/SynParametri.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lombardia/BrianzAcque/1-LocationCollection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lombardia/BrianzAcque/2-GeoReferenceDataCollection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lombardia/BrianzAcque/3-DataReportCollection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lombardia/BrianzAcque/4-LabelsCreation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lombardia/BrianzAcque/5-LabelsPublishing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lombardia/BrianzAcque/BrianzAcque.geojson" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lombardia/BrianzAcque/BrianzAcque.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lombardia/BrianzAcque/Metadata/DataReportCollection.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lombardia/BrianzAcque/Metadata/GeoReferencedLocationsList.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lombardia/BrianzAcque/Metadata/LocationList.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lombardia/BrianzAcque/Metadata/SynParametri.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lombardia/LarioLecco/1.1-LocationReview.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lombardia/LarioLecco/2-GeoReferenceDataCollection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lombardia/LarioLecco/5-LabelsCreation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lombardia/LarioLecco/6-LabelsPublishing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lombardia/LarioLecco/LarioLecco.geojson" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lombardia/LarioLecco/LarioLecco.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lombardia/LarioLecco/Metadata/DataReportCollection.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lombardia/LarioLecco/Metadata/GeoReferencedLocationsList.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lombardia/LarioLecco/Metadata/LocationListReviewed.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lombardia/LeretiVarese/1-LocationsCollection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lombardia/LeretiVarese/2-GeoReferenceDataCollection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lombardia/LeretiVarese/3- ReportFoundList.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lombardia/LeretiVarese/4-DataReportCollection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lombardia/LeretiVarese/5-LabelsCreation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lombardia/LeretiVarese/6-LabelsPublishing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lombardia/LeretiVarese/LeretiVarese.geojson" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lombardia/LeretiVarese/LeretiVarese.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lombardia/LeretiVarese/Metadata/DataReportCollection.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lombardia/LeretiVarese/Metadata/GeoReferencedLocationsList.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lombardia/LeretiVarese/Metadata/LocationList.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lombardia/LeretiVarese/Metadata/ReportFoundList.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lombardia/LeretiVarese/Metadata/SynParametri.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lombardia/LeretiVarese/extr.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lombardia/MM/4-LabelsCreation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lombardia/MM/5-LabelsPublishing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lombardia/MM/Definitions/ReportFoundList.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lombardia/MM/Graph.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lombardia/MM/MM.geojson" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lombardia/PadaniaAcque/1-LocationCollection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lombardia/PadaniaAcque/2-GeoReferenceDataCollection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lombardia/PadaniaAcque/3-DataReportCollection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lombardia/PadaniaAcque/5-LabelsCreation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lombardia/PadaniaAcque/6-LabelsPublishing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lombardia/PadaniaAcque/Metadata/DataReportCollection.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lombardia/PadaniaAcque/Metadata/GeoReferencedLocationsList.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lombardia/PadaniaAcque/Metadata/LocationList.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lombardia/PadaniaAcque/Metadata/SynParametri.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lombardia/PadaniaAcque/PadaniaAcque.geojson" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lombardia/PadaniaAcque/PadaniaAcque.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lombardia/PaviaAcque/Alagna-3.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lombardia/PaviaAcque/samplepdf1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lombardia/SECAMSondrio/1-LocationsCollection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lombardia/SECAMSondrio/2-ReportFoundList.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lombardia/SECAMSondrio/3-GeoReferenceDataCollection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lombardia/SECAMSondrio/4-DataReportCollection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lombardia/SECAMSondrio/5-LabelsCreation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lombardia/SECAMSondrio/6-LabelsPublishing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lombardia/SECAMSondrio/Metadata/DataReportCollection.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lombardia/SECAMSondrio/Metadata/GeoReferencedLocationsList.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lombardia/SECAMSondrio/Metadata/LocationList.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lombardia/SECAMSondrio/Metadata/ReportFoundList.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lombardia/SECAMSondrio/Metadata/SynParametri.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lombardia/SECAMSondrio/SECAMSondrio.geojson" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lombardia/SECAMSondrio/SECAMSondrio.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lombardia/TeaAcqueMantova/1-LocationCollection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lombardia/TeaAcqueMantova/2-GeoReferenceDataCollection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lombardia/TeaAcqueMantova/3-ReportFoundList_.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lombardia/TeaAcqueMantova/4-DataReportCollection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lombardia/TeaAcqueMantova/5-LabelsCreation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lombardia/TeaAcqueMantova/6-LabelsPublishing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lombardia/TeaAcqueMantova/Metadata/DataReportCollection.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lombardia/TeaAcqueMantova/Metadata/GeoReferencedLocationsList.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lombardia/TeaAcqueMantova/Metadata/LocationList.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lombardia/TeaAcqueMantova/Metadata/ReportFoundList.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lombardia/TeaAcqueMantova/Metadata/SynParametri.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lombardia/TeaAcqueMantova/TeaAcqueMantova.geojson" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lombardia/TeaAcqueMantova/TeaAcqueMantova.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lombardia/UniacqueBergamo/1-LocationCollection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lombardia/UniacqueBergamo/2-GeoReferenceDataCollection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lombardia/UniacqueBergamo/3-ReportFoundList_.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lombardia/UniacqueBergamo/4-DataReportCollection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lombardia/UniacqueBergamo/5-LabelsCreation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lombardia/UniacqueBergamo/6-LabelsPublishing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lombardia/UniacqueBergamo/Metadata/DataReportCollection.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lombardia/UniacqueBergamo/Metadata/GeoReferencedLocationsList.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lombardia/UniacqueBergamo/Metadata/LocationList.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lombardia/UniacqueBergamo/Metadata/SynParametri.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lombardia/UniacqueBergamo/UniacqueBergamo.geojson" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lombardia/UniacqueBergamo/UniacqueBergamo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Veneto/AcegasApsAmga/1-LocationCollection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Veneto/AcegasApsAmga/2-ReportCollection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Veneto/AcegasApsAmga/3-GeoReferenceDataCollection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Veneto/AcegasApsAmga/4-DataReportCollection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Veneto/AcegasApsAmga/5-LabelsCreation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Veneto/AcegasApsAmga/6-LabelsPublishing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Veneto/AcegasApsAmga/AcegasApsAmga.geojson" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Veneto/AcegasApsAmga/AcegasApsAmga.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Veneto/AcegasApsAmga/Datasources/Acqua_PD_2020_01_Gennaio_PFAS.1583157977.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Veneto/AcegasApsAmga/Datasources/Saccisica_Nord_4_trimestre_2019_PFAS.1579777073.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Veneto/AcegasApsAmga/Datasources/Saccisica_Sud_4_trimestre_2019_PFAS.1579777117.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Veneto/AcegasApsAmga/Metadata/DataReportCollection.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Veneto/AcegasApsAmga/Metadata/GeoReferencedLocationsList.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Veneto/AcegasApsAmga/Metadata/LocationList.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Veneto/AcegasApsAmga/Metadata/ReportFoundList.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Veneto/AcegasApsAmga/Metadata/SynParametri.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Veneto/AcegasApsAmga/test3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Veneto/GardesanaServizi/1-LocationCollection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Veneto/GardesanaServizi/2-GeoReferenceDataCollection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Veneto/GardesanaServizi/3-ReportCollection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Veneto/GardesanaServizi/4-DataReportCollection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Veneto/GardesanaServizi/DataSource/analisi_acqua_Affi.pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Veneto/GardesanaServizi/DataSource/analisi_acqua_Bardolino.pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Veneto/GardesanaServizi/DataSource/analisi_acqua_Brentino_Belluno.pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Veneto/GardesanaServizi/DataSource/analisi_acqua_Brenzone.pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Veneto/GardesanaServizi/DataSource/analisi_acqua_Caprino_Veronese.pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Veneto/GardesanaServizi/DataSource/analisi_acqua_Castelnuovo_del_Garda.pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Veneto/GardesanaServizi/DataSource/analisi_acqua_Cavaion_Veronese.pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Veneto/GardesanaServizi/DataSource/analisi_acqua_Costermano.pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Veneto/GardesanaServizi/GardesanaServizi.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Veneto/GardesanaServizi/Medadata/DataReportCollection.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Veneto/GardesanaServizi/Medadata/GeoReferencedLocationsList.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Veneto/GardesanaServizi/Medadata/LocationList.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Veneto/GardesanaServizi/Medadata/ReportFoundList.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Veneto/GardesanaServizi/Medadata/SynParametri.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Veneto/MedioChiampo/Zermeghedo.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Veneto/PiaveServizi/35490R0A2018-Vasca-Zona-Industriale-Zermeghedo.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Veneto/PiaveServizi/Albaredo per San Marco_Fontana Piazza San Marco 30.01.2019.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Veneto/PiaveServizi/Comune di Vittorio Veneto.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Veneto/PiaveServizi/Definitions/LocationList.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Veneto/PiaveServizi/VittorioVeneto0.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Veneto/PiaveServizi/VittorioVeneto0.tabula-template.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Veneto/PiaveServizi/VittorioVeneto12.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Veneto/PiaveServizi/VittorioVeneto16.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Veneto/PiaveServizi/VittorioVeneto20.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Veneto/PiaveServizi/VittorioVeneto4.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Veneto/PiaveServizi/VittorioVeneto8.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Veneto/PiaveServizi/analisi_acqua_Affi.pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Veneto/PiaveServizi/zona nord.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vscode/settings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AltoAdige/1-LocationsCollection.py" beforeDir="false" afterPath="$PROJECT_DIR$/AltoAdige/1-LocationsCollection.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AltoAdige/2-ReportCollectionda.py" beforeDir="false" afterPath="$PROJECT_DIR$/AltoAdige/2-ReportCollectionda.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AltoAdige/3-GeoReferenceDataCollection.py" beforeDir="false" afterPath="$PROJECT_DIR$/AltoAdige/3-GeoReferenceDataCollection.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AltoAdige/4-LabelsCreation.py" beforeDir="false" afterPath="$PROJECT_DIR$/AltoAdige/4-LabelsCreation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AltoAdige/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/AltoAdige/test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Dashboard/DensitaParametrica.html" beforeDir="false" afterPath="$PROJECT_DIR$/Dashboard/DensitaParametrica.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Dashboard/Scripts/DensitaParametrica.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dashboard/Scripts/DensitaParametrica.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Veneto/EtraPadova/Definitions/SynParametri.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Veneto/EtraPadova/Definitions/SynParametri.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FriuliVeneziaGiulia/AceGasAmga/1-LocationsCollection.py" beforeDir="false" afterPath="$PROJECT_DIR$/FriuliVeneziaGiulia/AceGasAmga/1-LocationsCollection.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FriuliVeneziaGiulia/AceGasAmga/2-ReportCollection.py" beforeDir="false" afterPath="$PROJECT_DIR$/FriuliVeneziaGiulia/AceGasAmga/2-ReportCollection.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FriuliVeneziaGiulia/AceGasAmga/3-GeoReferenceDataCollection.py" beforeDir="false" afterPath="$PROJECT_DIR$/FriuliVeneziaGiulia/AceGasAmga/3-GeoReferenceDataCollection.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FriuliVeneziaGiulia/AceGasAmga/4-LabelsCreation.py" beforeDir="false" afterPath="$PROJECT_DIR$/FriuliVeneziaGiulia/AceGasAmga/4-LabelsCreation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FriuliVeneziaGiulia/CAFC/1-LocationCollection.py" beforeDir="false" afterPath="$PROJECT_DIR$/FriuliVeneziaGiulia/CAFC/1-LocationCollection.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FriuliVeneziaGiulia/CAFC/2-ReportCollection.py" beforeDir="false" afterPath="$PROJECT_DIR$/FriuliVeneziaGiulia/CAFC/2-ReportCollection.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FriuliVeneziaGiulia/CAFC/3-ReportListReviewing.py" beforeDir="false" afterPath="$PROJECT_DIR$/FriuliVeneziaGiulia/CAFC/3-ReportListReviewing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FriuliVeneziaGiulia/CAFC/4-GeoReferenceDataCollection.py" beforeDir="false" afterPath="$PROJECT_DIR$/FriuliVeneziaGiulia/CAFC/4-GeoReferenceDataCollection.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FriuliVeneziaGiulia/CAFC/5-LabelsCreation.py" beforeDir="false" afterPath="$PROJECT_DIR$/FriuliVeneziaGiulia/CAFC/5-LabelsCreation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FriuliVeneziaGiulia/CAFC/teste.py" beforeDir="false" afterPath="$PROJECT_DIR$/FriuliVeneziaGiulia/CAFC/teste.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FriuliVeneziaGiulia/HydroGEA/1-LocationsCollection.py" beforeDir="false" afterPath="$PROJECT_DIR$/FriuliVeneziaGiulia/HydroGEA/1-LocationsCollection.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FriuliVeneziaGiulia/HydroGEA/2-ReportCollection.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FriuliVeneziaGiulia/HydroGEA/3-GeoReferenceDataCollection.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FriuliVeneziaGiulia/HydroGEA/4-LabelsCreation.py" beforeDir="false" afterPath="$PROJECT_DIR$/FriuliVeneziaGiulia/HydroGEA/4-LabelsCreation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FriuliVeneziaGiulia/HydroGEA/Definitions/Andreis - caratteristiche acqua HYDROGEA.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FriuliVeneziaGiulia/HydroGEA/Definitions/Arba - caratteristiche acqua HYDROGEA.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FriuliVeneziaGiulia/HydroGEA/Definitions/Aviano - caratteristiche acqua HYDROGEA.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FriuliVeneziaGiulia/HydroGEA/Definitions/Barcis - caratteristiche acqua HYDROGEA.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FriuliVeneziaGiulia/HydroGEA/Definitions/FoundReportList.csv" beforeDir="false" afterPath="$PROJECT_DIR$/FriuliVeneziaGiulia/HydroGEA/Definitions/ReportFoundList.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FriuliVeneziaGiulia/HydroGEA/Definitions/GeoReferencedLocationsList.csv" beforeDir="false" afterPath="$PROJECT_DIR$/FriuliVeneziaGiulia/HydroGEA/Definitions/GeoReferencedLocationsList.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FriuliVeneziaGiulia/HydroGEA/Definitions/Pordenone - caratteristiche acqua HYDROGEA.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FriuliVeneziaGiulia/HydroGEA/HydroGEA.geojson" beforeDir="false" afterPath="$PROJECT_DIR$/FriuliVeneziaGiulia/HydroGEA/HydroGEA.geojson" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FriuliVeneziaGiulia/HydroGEA/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FriuliVeneziaGiulia/IRISAcque/1-ReportCollection.py" beforeDir="false" afterPath="$PROJECT_DIR$/FriuliVeneziaGiulia/IRISAcque/1-ReportCollection.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FriuliVeneziaGiulia/IRISAcque/2-GeoReferenceDataCollection.py" beforeDir="false" afterPath="$PROJECT_DIR$/FriuliVeneziaGiulia/IRISAcque/2-GeoReferenceDataCollection.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FriuliVeneziaGiulia/IRISAcque/3-LabelsCreation.py" beforeDir="false" afterPath="$PROJECT_DIR$/FriuliVeneziaGiulia/IRISAcque/3-LabelsCreation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FriuliVeneziaGiulia/Poiana/1-LocationsCollection.py" beforeDir="false" afterPath="$PROJECT_DIR$/FriuliVeneziaGiulia/Poiana/1-LocationsCollection.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FriuliVeneziaGiulia/Poiana/3-GeoReferenceDataCollection.py" beforeDir="false" afterPath="$PROJECT_DIR$/FriuliVeneziaGiulia/Poiana/3-GeoReferenceDataCollection.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FriuliVeneziaGiulia/Poiana/4-LabelsCreation.py" beforeDir="false" afterPath="$PROJECT_DIR$/FriuliVeneziaGiulia/Poiana/4-LabelsCreation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lombardia/AcquaLodigiana/1-LocationsCollection.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lombardia/AcquaLodigiana/1-LocationsCollection.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lombardia/AcquaLodigiana/2-ReportCollection.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lombardia/AcquaLodigiana/2-ReportCollection.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lombardia/AcquaLodigiana/3-GeoReferenceDataCollection.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lombardia/AcquaLodigiana/3-GeoReferenceDataCollection.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lombardia/AcquaLodigiana/4-LabelsCreation.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lombardia/AcquaLodigiana/4-LabelsCreation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lombardia/AcquaLodigiana/Definitions/GeoReferencedLocationsList.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Lombardia/AcquaLodigiana/Metadata/GeoReferencedLocationsList.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lombardia/AcquaLodigiana/Definitions/LocationList.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Lombardia/AcquaLodigiana/Metadata/LocationList.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lombardia/AcquaLodigiana/Definitions/ReportListFound.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/Lombardia/AcquaLodigiana/Metadata/ReportListFound.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lombardia/AcquaLodigiana/Definitions/SynParametri.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Lombardia/AcquaLodigiana/Metadata/SynParametri.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lombardia/GruppoCAP/1-LocationCollection.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lombardia/GruppoCAP/1-LocationCollection.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lombardia/GruppoCAP/3-GeoReferenceDataCollection.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lombardia/GruppoCAP/3-GeoReferenceDataCollection.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lombardia/GruppoCAP/4-LabelsCreation.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lombardia/GruppoCAP/4-LabelsCreation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lombardia/LarioLecco/1-LocationCollection.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lombardia/LarioLecco/1.0-LocationCollection.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lombardia/LarioLecco/2-ReportFoundList.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lombardia/LarioLecco/4-DataReportCollection.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lombardia/LarioLecco/Metadata/LocationList.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Lombardia/LarioLecco/Metadata/LocationList.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lombardia/LarioLecco/Metadata/ReportFoundList.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lombardia/Milano/1-LocationCollection.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lombardia/MM/1-LocationCollection.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lombardia/Milano/2-ReportCollection.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lombardia/MM/3-ReportCollection.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lombardia/Milano/3-GeoReferenceDataCollection.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lombardia/MM/2-GeoReferenceDataCollection.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lombardia/Milano/4-LabelsCreation.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lombardia/Milano/5-LabelsPublishing.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lombardia/Milano/CaseAcqua/10-CaseAcquaMM.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lombardia/MM/CaseAcqua/10-CaseAcquaMM.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lombardia/Milano/CaseAcqua/Case_acqua_MM.geojson" beforeDir="false" afterPath="$PROJECT_DIR$/Lombardia/MM/CaseAcqua/Case_acqua_MM.geojson" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lombardia/Milano/CaseAcqua/Case_acqua_MM_standard.geojson" beforeDir="false" afterPath="$PROJECT_DIR$/Lombardia/MM/CaseAcqua/Case_acqua_MM_standard.geojson" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lombardia/Milano/Definitions/FoundReportList.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lombardia/Milano/Definitions/GeoReferencedLocationsList.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Lombardia/MM/Definitions/GeoReferencedLocationsList.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lombardia/Milano/Definitions/ListLocations.geojson" beforeDir="false" afterPath="$PROJECT_DIR$/Lombardia/MM/Definitions/ListLocations.geojson" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lombardia/Milano/Definitions/LocationList.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Lombardia/MM/Definitions/LocationList.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lombardia/Milano/Definitions/Quartieri_Milano.geojson" beforeDir="false" afterPath="$PROJECT_DIR$/Lombardia/MM/Definitions/Quartieri_Milano.geojson" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lombardia/Milano/Definitions/SynParametri.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Lombardia/MM/Definitions/SynParametri.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lombardia/Milano/MILANO.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lombardia/MM/MM.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lombardia/Milano/Milano.geojson" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lombardia/Milano/ReteAcquedotti/AggiornamentoReteAcquedotti.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lombardia/MM/ReteAcquedotti/AggiornamentoReteAcquedotti.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lombardia/Milano/ReteAcquedotti/rete_acquedotti_milano.geojson" beforeDir="false" afterPath="$PROJECT_DIR$/Lombardia/MM/ReteAcquedotti/rete_acquedotti_milano.geojson" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lombardia/Milano/Source/ds634_civici_coordinategeografiche_20200203.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Lombardia/MM/Source/ds634_civici_coordinategeografiche_20200203.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lombardia/Milano/Source/ds634_civici_coordinategeografiche_20200203.geojson" beforeDir="false" afterPath="$PROJECT_DIR$/Lombardia/MM/Source/ds634_civici_coordinategeografiche_20200203.geojson" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lombardia/Milano/Test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Piemonte/AcquaNovara/1-LocationsCollection.py" beforeDir="false" afterPath="$PROJECT_DIR$/Piemonte/AcquaNovara/1-LocationsCollection.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Piemonte/AcquaNovara/3-GeoReferenceDataCollection.py" beforeDir="false" afterPath="$PROJECT_DIR$/Piemonte/AcquaNovara/3-GeoReferenceDataCollection.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Piemonte/AcquaNovara/4-LabelsCreation.py" beforeDir="false" afterPath="$PROJECT_DIR$/Piemonte/AcquaNovara/4-LabelsCreation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Piemonte/SMATTorino/1-LocationsCollection.py" beforeDir="false" afterPath="$PROJECT_DIR$/Piemonte/SMATTorino/1-LocationsCollection.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Piemonte/SMATTorino/3-GeoReferenceDataCollection.py" beforeDir="false" afterPath="$PROJECT_DIR$/Piemonte/SMATTorino/3-GeoReferenceDataCollection.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Piemonte/SMATTorino/4-LabelsCreation.py" beforeDir="false" afterPath="$PROJECT_DIR$/Piemonte/SMATTorino/4-LabelsCreation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Veneto/AcqueVenete/1-LocationCollection.py" beforeDir="false" afterPath="$PROJECT_DIR$/Veneto/AcqueVenete/1-LocationCollection.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Veneto/AcqueVenete/2-ReportCollection.py" beforeDir="false" afterPath="$PROJECT_DIR$/Veneto/AcqueVenete/2-ReportCollection.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Veneto/AcqueVenete/3-GeoReferenceDataCollection.py" beforeDir="false" afterPath="$PROJECT_DIR$/Veneto/AcqueVenete/3-GeoReferenceDataCollection.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Veneto/AcqueVenete/4-LabelsCreation.py" beforeDir="false" afterPath="$PROJECT_DIR$/Veneto/AcqueVenete/4-LabelsCreation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Veneto/AcqueVeronesi/1-LocationCollection.py" beforeDir="false" afterPath="$PROJECT_DIR$/Veneto/AcqueVeronesi/1-LocationCollection.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Veneto/AcqueVeronesi/1a-LocationReviewing.py" beforeDir="false" afterPath="$PROJECT_DIR$/Veneto/AcqueVeronesi/1a-LocationReviewing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Veneto/AcqueVeronesi/2-GeoReferenceDataCollection.py" beforeDir="false" afterPath="$PROJECT_DIR$/Veneto/AcqueVeronesi/2-GeoReferenceDataCollection.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Veneto/AcqueVeronesi/3-ReportCollection.py" beforeDir="false" afterPath="$PROJECT_DIR$/Veneto/AcqueVeronesi/3-ReportCollection.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Veneto/AcqueVeronesi/4-LabelsCreation.py" beforeDir="false" afterPath="$PROJECT_DIR$/Veneto/AcqueVeronesi/4-LabelsCreation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Veneto/Ats/1-LocationCollection.py" beforeDir="false" afterPath="$PROJECT_DIR$/Veneto/Ats/1-LocationCollection.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Veneto/Ats/3-GeoReferenceDataCollection.py" beforeDir="false" afterPath="$PROJECT_DIR$/Veneto/Ats/3-GeoReferenceDataCollection.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Veneto/Ats/4-LabelsCreation.py" beforeDir="false" afterPath="$PROJECT_DIR$/Veneto/Ats/4-LabelsCreation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Veneto/Bim/1-LocationCollection.py" beforeDir="false" afterPath="$PROJECT_DIR$/Veneto/Bim/1-LocationCollection.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Veneto/Bim/3-GeoReferenceDataCollection.py" beforeDir="false" afterPath="$PROJECT_DIR$/Veneto/Bim/3-GeoReferenceDataCollection.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Veneto/Bim/4-LabelsCreation.py" beforeDir="false" afterPath="$PROJECT_DIR$/Veneto/Bim/4-LabelsCreation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Veneto/EtraPadova/1-LocationCollection.py" beforeDir="false" afterPath="$PROJECT_DIR$/Veneto/EtraPadova/1-LocationCollection.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Veneto/EtraPadova/2-ReportCollection.py" beforeDir="false" afterPath="$PROJECT_DIR$/Veneto/EtraPadova/2-ReportCollection.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Veneto/EtraPadova/3-GeoReferenceDataCollection.py" beforeDir="false" afterPath="$PROJECT_DIR$/Veneto/EtraPadova/3-GeoReferenceDataCollection.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Veneto/EtraPadova/4-LabelsCreation.py" beforeDir="false" afterPath="$PROJECT_DIR$/Veneto/EtraPadova/4-LabelsCreation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Veneto/Lta/1-LocationsCollection.py" beforeDir="false" afterPath="$PROJECT_DIR$/Veneto/Lta/1-LocationsCollection.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Veneto/Lta/2-ReportCollectionda cancellare.py" beforeDir="false" afterPath="$PROJECT_DIR$/Veneto/Lta/2-ReportCollectionda cancellare.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Veneto/Lta/3-GeoQueryStringCollection.py" beforeDir="false" afterPath="$PROJECT_DIR$/Veneto/Lta/3-GeoQueryStringCollection.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Veneto/Lta/4-GeoReferenceDataCollection.py" beforeDir="false" afterPath="$PROJECT_DIR$/Veneto/Lta/4-GeoReferenceDataCollection.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Veneto/Lta/5-LabelsCreation.py" beforeDir="false" afterPath="$PROJECT_DIR$/Veneto/Lta/5-LabelsCreation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Veneto/Veritas/1-LocationCollection.py" beforeDir="false" afterPath="$PROJECT_DIR$/Veneto/Veritas/1-LocationCollection.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Veneto/Veritas/2-ReportCollection.py" beforeDir="false" afterPath="$PROJECT_DIR$/Veneto/Veritas/2-ReportCollection.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Veneto/Veritas/3-GeoReferenceDataCollection.py" beforeDir="false" afterPath="$PROJECT_DIR$/Veneto/Veritas/3-GeoReferenceDataCollection.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Veneto/Veritas/4-LabelsCreation.py" beforeDir="false" afterPath="$PROJECT_DIR$/Veneto/Veritas/4-LabelsCreation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Veneto/ViaAcquaVicenza/1-LocationCollection.py" beforeDir="false" afterPath="$PROJECT_DIR$/Veneto/ViaAcquaVicenza/1-LocationCollection.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Veneto/ViaAcquaVicenza/2-ReportCollection.py" beforeDir="false" afterPath="$PROJECT_DIR$/Veneto/ViaAcquaVicenza/2-ReportCollection.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Veneto/ViaAcquaVicenza/3-GeoReferenceDataCollection.py" beforeDir="false" afterPath="$PROJECT_DIR$/Veneto/ViaAcquaVicenza/3-GeoReferenceDataCollection.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Veneto/ViaAcquaVicenza/4-LabelsCreation.py" beforeDir="false" afterPath="$PROJECT_DIR$/Veneto/ViaAcquaVicenza/4-LabelsCreation.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WebApp/FoliumClient.py" beforeDir="false" afterPath="$PROJECT_DIR$/WebApp/FoliumClient.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WebApp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/WebApp/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/acqua/aqueduct.py" beforeDir="false" afterPath="$PROJECT_DIR$/acqua/aqueduct.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/acqua/geoCode.py" beforeDir="false" afterPath="$PROJECT_DIR$/acqua/geoCode.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/acqua/label.py" beforeDir="false" afterPath="$PROJECT_DIR$/acqua/label.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/acqua/labelCollection.py" beforeDir="false" afterPath="$PROJECT_DIR$/acqua/labelCollection.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/acqua/parametri.py" beforeDir="false" afterPath="$PROJECT_DIR$/acqua/parametri.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resource/ANAGRAFICA_GESTORI.csv" beforeDir="false" afterPath="$PROJECT_DIR$/resource/ANAGRAFICA_GESTORI.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resource/CatalogoEntiGestori.csv" beforeDir="false" afterPath="$PROJECT_DIR$/resource/CatalogoEntiGestori.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FavoritesManager">
-    <favorites_list name="Acqua" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -48,27 +369,20 @@
   <component name="GithubDefaultAccount">
     <option name="defaultAccountId" value="0e41e016-3b80-4cfd-9681-b804650f77d5" />
   </component>
-  <component name="IgnoredFileRootStore">
-    <option name="generatedRoots">
-      <set>
-        <option value="$PROJECT_DIR$/.idea" />
-      </set>
-    </option>
-  </component>
   <component name="ProjectId" id="1Vaf9V6c3HT5uI3Mw2xumlFQm0Z" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Veneto/AcqueVeronesi/Definitions" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Lombardia/PadaniaAcque" />
     <property name="run.code.analysis.last.selected.profile" value="aDefault" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -78,26 +392,25 @@
         <option name="myModuleName" value="Acqua" />
       </console-settings>
     </option>
-    <option name="myShowDebugConsoleByDefault" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Veneto/AcqueVeronesi/Definitions" />
-      <recent name="$PROJECT_DIR$/Veneto/AcqueVeronesi" />
-      <recent name="$PROJECT_DIR$/Veneto/EtraPadova" />
-      <recent name="$PROJECT_DIR$/Veneto/EtraPadova/Definitions" />
-      <recent name="$PROJECT_DIR$/Veneto/ViaAcquaVicenza" />
+      <recent name="$PROJECT_DIR$/Lombardia/PadaniaAcque" />
+      <recent name="$PROJECT_DIR$/Lombardia/PadaniaAcque/Metadata" />
+      <recent name="$PROJECT_DIR$/Lombardia/TeaAcqueMantova" />
+      <recent name="$PROJECT_DIR$/Lombardia/TeaAcqueMantova/Metadata" />
+      <recent name="$PROJECT_DIR$/Lombardia/AlfaVarese" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/DashBoard/Script" />
-      <recent name="$PROJECT_DIR$/DashBoard" />
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/Veneto/Bim/Definitions" />
-      <recent name="$PROJECT_DIR$/Veneto/Bim" />
+      <recent name="$PROJECT_DIR$/Lombardia/LeretiVarese" />
+      <recent name="$PROJECT_DIR$/Lombardia/AcqueBresciane" />
+      <recent name="$PROJECT_DIR$/Veneto/AcegasApsAmga" />
+      <recent name="$PROJECT_DIR$/Veneto/PiaveServizi" />
+      <recent name="$APPLICATION_CONFIG_DIR$/scratches" />
     </key>
   </component>
   <component name="RunManager" selected="Python.DensitaParametrica">
-    <configuration name="3-ReportCollection" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="1-LocationCollection" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Acqua" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -105,11 +418,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Veneto/AcqueVeronesi" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lombardia/PadaniaAcque" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Veneto/AcqueVeronesi/3-ReportCollection.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lombardia/PadaniaAcque/1-LocationCollection.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -118,7 +431,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="4-LabelsCreation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="3-DataReportCollection" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Acqua" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -126,11 +439,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Veneto/AcqueVeronesi" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lombardia/PadaniaAcque" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Veneto/AcqueVeronesi/4-LabelsCreation.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lombardia/PadaniaAcque/3-DataReportCollection.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -139,7 +452,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="5-LabelsPublishing" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="5-LabelsCreation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Acqua" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -147,11 +460,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Veneto/AcqueVeronesi" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lombardia/PadaniaAcque" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Veneto/AcqueVeronesi/5-LabelsPublishing.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lombardia/PadaniaAcque/5-LabelsCreation.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="6-LabelsPublishing" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Acqua" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lombardia/PadaniaAcque" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lombardia/PadaniaAcque/6-LabelsPublishing.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -181,58 +515,26 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="FoliumClient" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Acqua" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/WebApp" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/WebApp/FoliumClient.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
-      <item itemvalue="Python.3-ReportCollection" />
-      <item itemvalue="Python.4-LabelsCreation" />
-      <item itemvalue="Python.5-LabelsPublishing" />
-      <item itemvalue="Python.FoliumClient" />
+      <item itemvalue="Python.1-LocationCollection" />
+      <item itemvalue="Python.3-DataReportCollection" />
+      <item itemvalue="Python.5-LabelsCreation" />
+      <item itemvalue="Python.6-LabelsPublishing" />
       <item itemvalue="Python.DensitaParametrica" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.DensitaParametrica" />
-        <item itemvalue="Python.FoliumClient" />
-        <item itemvalue="Python.5-LabelsPublishing" />
-        <item itemvalue="Python.4-LabelsCreation" />
-        <item itemvalue="Python.3-ReportCollection" />
+        <item itemvalue="Python.6-LabelsPublishing" />
+        <item itemvalue="Python.5-LabelsCreation" />
+        <item itemvalue="Python.3-DataReportCollection" />
+        <item itemvalue="Python.1-LocationCollection" />
       </list>
     </recent_temporary>
   </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
-  </component>
   <component name="StructureViewFactory">
     <option name="AUTOSCROLL_FROM_SOURCE" value="true" />
+    <option name="ACTIVE_ACTIONS" value=",SHOW_FIELDS" />
   </component>
   <component name="SvnConfiguration" cleanupOnStartRun="true">
     <configuration>$USER_HOME$/.subversion</configuration>
@@ -505,7 +807,35 @@
       <option name="project" value="LOCAL" />
       <updated>1583695157178</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="Merge remote-tracking branch 'github/master'&#10;&#10;# Conflicts:&#10;#&#9;AltoAdige/7-ReteAcquedotti.py">
+      <created>1583799747452</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1583799747452</updated>
+    </task>
+    <task id="LOCAL-00039" summary="Merge remote-tracking branch 'github/master'&#10;&#10;# Conflicts:&#10;#&#9;AltoAdige/7-ReteAcquedotti.py">
+      <created>1586809351819</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1586809351819</updated>
+    </task>
+    <task id="LOCAL-00040" summary="AGGIUNTO ALFA SRL/VARESE">
+      <created>1586817483960</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1586817483960</updated>
+    </task>
+    <task id="LOCAL-00041" summary="Completati i dati dei gestori di Trentino alto Adige">
+      <created>1586984058035</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1586984058035</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -538,100 +868,70 @@
         </entry>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
-    <option name="OPEN_TABS">
-      <set>
-        <option value="1" />
-      </set>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="1" value="TOOL_WINDOW" />
+      </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Baseline" />
     <MESSAGE value="ReteAcquedotti" />
     <MESSAGE value="Merge remote-tracking branch 'github/master'&#10;&#10;# Conflicts:&#10;#&#9;AltoAdige/7-ReteAcquedotti.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'github/master'&#10;&#10;# Conflicts:&#10;#&#9;AltoAdige/7-ReteAcquedotti.py" />
+    <MESSAGE value="AGGIUNTO ALFA SRL/VARESE" />
+    <MESSAGE value="Completati i dati dei gestori di Trentino alto Adige" />
+    <option name="LAST_COMMIT_MESSAGE" value="Completati i dati dei gestori di Trentino alto Adige" />
   </component>
   <component name="WindowStateProjectService">
     <state x="677" y="160" key="#4-LabelsCreating" timestamp="1579214315789">
       <screen x="0" y="23" width="1920" height="1008" />
     </state>
     <state x="677" y="160" key="#4-LabelsCreating/0.23.1920.1008@0.23.1920.1008" timestamp="1579214315789" />
-    <state x="669" y="173" key="#CatalogoParametri" timestamp="1577728182450">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="669" y="173" key="#CatalogoParametri/0.0.1920.1080@0.0.1920.1080" timestamp="1577728182450" />
-    <state x="560" y="205" key="#Notifications" timestamp="1578433141149">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="560" y="205" key="#Notifications/0.0.1920.1080@0.0.1920.1080" timestamp="1578433141149" />
-    <state x="560" y="205" key="#Plugins" timestamp="1578264415458">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="560" y="205" key="#Plugins/0.0.1920.1080@0.0.1920.1080" timestamp="1578264415458" />
-    <state x="424" y="178" width="1071" height="696" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578605150945">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="424" y="178" width="1071" height="696" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1578605150945" />
-    <state x="424" y="189" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1920.1008@0.23.1920.1008" timestamp="1577497167133" />
-    <state x="671" y="350" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1582155017847">
+    <state x="671" y="350" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584143312197">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="447" y="259" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.800@0.0.1280.800" timestamp="1581443148797" />
-    <state x="671" y="350" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1582155017847" />
-    <state x="432" y="204" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1582664833968">
-      <screen x="0" y="0" width="1280" height="800" />
+    <state x="671" y="350" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1584143312197" />
+    <state x="648" y="275" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1585264429092">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="432" y="204" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1280.800@0.0.1280.800" timestamp="1582664833968" />
-    <state x="648" y="275" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1581549818540" />
-    <state x="698" y="294" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1577728826885">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="698" y="294" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1577728826885" />
-    <state x="669" y="173" key="#test_(2)" timestamp="1577728548500">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="669" y="173" key="#test_(2)/0.0.1920.1080@0.0.1920.1080" timestamp="1577728548500" />
+    <state x="648" y="275" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1585264429092" />
     <state x="76" y="222" key="#xdebugger.XInspectDialog" timestamp="1583021467721">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="76" y="222" key="#xdebugger.XInspectDialog/0.0.1280.800@0.0.1280.800" timestamp="1583021467721" />
-    <state x="114" y="300" key="#xdebugger.XInspectDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1578604684620" />
     <state x="403" y="110" key="#xdebugger.evaluate" timestamp="1579560801221">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="403" y="110" key="#xdebugger.evaluate/0.0.1280.800@0.0.1280.800" timestamp="1579560801221" />
-    <state x="475" y="299" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1583272649199">
+    <state x="475" y="299" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1585694656057">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="475" y="299" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1280.800@0.0.1280.800" timestamp="1583272649199" />
+    <state x="475" y="299" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1280.800@0.0.1280.800" timestamp="1585694656057" />
     <state x="712" y="403" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1080@0.0.1920.1080" timestamp="1581117411236" />
-    <state x="369" y="0" key="CommitChangelistDialog2" timestamp="1583695156443">
-      <screen x="0" y="0" width="1280" height="800" />
+    <state x="605" y="144" key="CommitChangelistDialog2" timestamp="1587678959854">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="369" y="0" key="CommitChangelistDialog2/0.0.1280.800@0.0.1280.800" timestamp="1583695156443" />
-    <state x="605" y="144" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1582245272950" />
-    <state x="605" y="157" key="CommitChangelistDialog2/0.23.1920.1008@0.23.1920.1008" timestamp="1578958992036" />
+    <state x="-1366" y="38" key="CommitChangelistDialog2/0.0.1280.800/-1920.38.1920.1080@-1920.38.1920.1080" timestamp="1586984055845" />
+    <state x="369" y="0" key="CommitChangelistDialog2/0.0.1280.800@0.0.1280.800" timestamp="1586817481683" />
+    <state x="605" y="144" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1587678959854" />
     <state x="67" y="0" width="1147" height="728" key="DiffContextDialog" timestamp="1583107652831">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="67" y="0" key="DiffContextDialog/0.0.1280.800@0.0.1280.800" timestamp="1583107652831" />
     <state x="67" y="23" width="1147" height="728" key="DiffContextDialog/0.23.1280.728@0.23.1280.728" timestamp="1583021444517" />
     <state x="100" y="107" width="1720" height="866" key="DiffContextDialog/0.23.1920.1008@0.23.1920.1008" timestamp="1580260742284" />
-    <state x="776" y="463" key="Github.CreateGistDialog" timestamp="1578265652618">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="776" y="463" key="Github.CreateGistDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1578265652618" />
     <state x="554" y="326" key="Github.ShareDialog" timestamp="1579478363952">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="554" y="326" key="Github.ShareDialog/0.0.1280.800@0.0.1280.800" timestamp="1579478363952" />
-    <state x="831" y="440" key="Github.ShareDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1578003421051" />
     <state width="1899" height="398" key="GridCell.Tab.-1.bottom" timestamp="1581271377321">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -648,63 +948,88 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1899" height="398" key="GridCell.Tab.-1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1581271377320" />
-    <state width="1899" height="185" key="GridCell.Tab.0.bottom" timestamp="1583799090030">
+    <state width="1899" height="288" key="GridCell.Tab.0.bottom" timestamp="1587678790768">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1259" height="125" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1583713565433" />
-    <state width="1899" height="185" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1583799090030" />
-    <state width="1259" height="244" key="GridCell.Tab.0.bottom/0.23.1280.728@0.23.1280.728" timestamp="1581376408765" />
-    <state width="1899" height="276" key="GridCell.Tab.0.bottom/0.23.1920.1008@0.23.1920.1008" timestamp="1581123661087" />
-    <state width="1899" height="185" key="GridCell.Tab.0.center" timestamp="1583799090029">
+    <state width="1259" height="199" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1586823219353" />
+    <state width="1419" height="285" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1587598264303" />
+    <state width="1899" height="288" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1587678790768" />
+    <state width="1899" height="291" key="GridCell.Tab.0.bottom/0.23.1280.728/-1920.61.1920.1057@-1920.61.1920.1057" timestamp="1586738102390" />
+    <state width="1259" height="108" key="GridCell.Tab.0.bottom/0.23.1280.728@0.23.1280.728" timestamp="1586793418937" />
+    <state width="1419" height="310" key="GridCell.Tab.0.bottom/0.23.1440.828@0.23.1440.828" timestamp="1587416070912" />
+    <state width="1899" height="265" key="GridCell.Tab.0.bottom/0.23.1920.1008@0.23.1920.1008" timestamp="1586738890698" />
+    <state width="1899" height="288" key="GridCell.Tab.0.center" timestamp="1587678790766">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1259" height="125" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1583713565432" />
-    <state width="1899" height="185" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1583799090029" />
-    <state width="1259" height="244" key="GridCell.Tab.0.center/0.23.1280.728@0.23.1280.728" timestamp="1581376408764" />
-    <state width="1899" height="276" key="GridCell.Tab.0.center/0.23.1920.1008@0.23.1920.1008" timestamp="1581123661085" />
-    <state width="1899" height="185" key="GridCell.Tab.0.left" timestamp="1583799090028">
+    <state width="1259" height="199" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1586823219352" />
+    <state width="1419" height="285" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1587598264302" />
+    <state width="1899" height="288" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1587678790766" />
+    <state width="1899" height="291" key="GridCell.Tab.0.center/0.23.1280.728/-1920.61.1920.1057@-1920.61.1920.1057" timestamp="1586738102389" />
+    <state width="1259" height="108" key="GridCell.Tab.0.center/0.23.1280.728@0.23.1280.728" timestamp="1586793418937" />
+    <state width="1419" height="310" key="GridCell.Tab.0.center/0.23.1440.828@0.23.1440.828" timestamp="1587416070911" />
+    <state width="1899" height="265" key="GridCell.Tab.0.center/0.23.1920.1008@0.23.1920.1008" timestamp="1586738890696" />
+    <state width="1899" height="288" key="GridCell.Tab.0.left" timestamp="1587678790765">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1259" height="125" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1583713565431" />
+    <state width="1259" height="199" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1586823219351" />
+    <state width="1419" height="285" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1587598264301" />
     <state width="1899" height="297" key="GridCell.Tab.0.left/0.0.1920.1031@0.0.1920.1031" timestamp="1582075857535" />
-    <state width="1899" height="185" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1583799090028" />
-    <state width="1259" height="244" key="GridCell.Tab.0.left/0.23.1280.728@0.23.1280.728" timestamp="1581376408763" />
-    <state width="1899" height="276" key="GridCell.Tab.0.left/0.23.1920.1008@0.23.1920.1008" timestamp="1581123661085" />
-    <state width="1899" height="185" key="GridCell.Tab.0.right" timestamp="1583799090030">
+    <state width="1899" height="335" key="GridCell.Tab.0.left/0.0.1920.1031@0.0.1920.1080" timestamp="1584924538365" />
+    <state width="1899" height="288" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1587678790765" />
+    <state width="1899" height="291" key="GridCell.Tab.0.left/0.23.1280.728/-1920.61.1920.1057@-1920.61.1920.1057" timestamp="1586738102388" />
+    <state width="1259" height="108" key="GridCell.Tab.0.left/0.23.1280.728@0.23.1280.728" timestamp="1586793418936" />
+    <state width="1419" height="310" key="GridCell.Tab.0.left/0.23.1440.828@0.23.1440.828" timestamp="1587416070911" />
+    <state width="1899" height="265" key="GridCell.Tab.0.left/0.23.1920.1008@0.23.1920.1008" timestamp="1586738890695" />
+    <state width="1899" height="288" key="GridCell.Tab.0.right" timestamp="1587678790767">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1259" height="125" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1583713565432" />
-    <state width="1899" height="185" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1583799090030" />
-    <state width="1259" height="244" key="GridCell.Tab.0.right/0.23.1280.728@0.23.1280.728" timestamp="1581376408764" />
-    <state width="1899" height="276" key="GridCell.Tab.0.right/0.23.1920.1008@0.23.1920.1008" timestamp="1581123661086" />
-    <state width="1899" height="370" key="GridCell.Tab.1.bottom" timestamp="1583797975295">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="1259" height="199" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1586823219352" />
+    <state width="1419" height="285" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1587598264303" />
+    <state width="1899" height="288" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1587678790767" />
+    <state width="1899" height="291" key="GridCell.Tab.0.right/0.23.1280.728/-1920.61.1920.1057@-1920.61.1920.1057" timestamp="1586738102389" />
+    <state width="1259" height="108" key="GridCell.Tab.0.right/0.23.1280.728@0.23.1280.728" timestamp="1586793418937" />
+    <state width="1419" height="310" key="GridCell.Tab.0.right/0.23.1440.828@0.23.1440.828" timestamp="1587416070912" />
+    <state width="1899" height="265" key="GridCell.Tab.0.right/0.23.1920.1008@0.23.1920.1008" timestamp="1586738890697" />
+    <state width="1419" height="247" key="GridCell.Tab.1.bottom" timestamp="1587515978155">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1259" height="257" key="GridCell.Tab.1.bottom/0.0.1280.800@0.0.1280.800" timestamp="1583684760551" />
-    <state width="1899" height="370" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1583797975295" />
-    <state width="1259" height="246" key="GridCell.Tab.1.bottom/0.23.1280.728@0.23.1280.728" timestamp="1582589487011" />
-    <state width="1899" height="262" key="GridCell.Tab.1.bottom/0.23.1920.1008@0.23.1920.1008" timestamp="1581266570772" />
-    <state width="1899" height="370" key="GridCell.Tab.1.center" timestamp="1583797975293">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="452" height="326" key="GridCell.Tab.1.bottom/0.0.1280.800@0.0.1280.800" timestamp="1586817523243" />
+    <state width="1419" height="247" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1587515978155" />
+    <state width="1899" height="307" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1586729859552" />
+    <state width="1899" height="291" key="GridCell.Tab.1.bottom/0.23.1280.728/-1920.61.1920.1057@-1920.61.1920.1057" timestamp="1586738102393" />
+    <state width="1259" height="92" key="GridCell.Tab.1.bottom/0.23.1280.728@0.23.1280.728" timestamp="1586782533746" />
+    <state width="1419" height="310" key="GridCell.Tab.1.bottom/0.23.1440.828@0.23.1440.828" timestamp="1587416120380" />
+    <state width="1899" height="147" key="GridCell.Tab.1.bottom/0.23.1920.1008@0.23.1920.1008" timestamp="1586738382406" />
+    <state width="1419" height="247" key="GridCell.Tab.1.center" timestamp="1587515978154">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1259" height="257" key="GridCell.Tab.1.center/0.0.1280.800@0.0.1280.800" timestamp="1583684760550" />
-    <state width="1899" height="370" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1583797975293" />
-    <state width="1259" height="246" key="GridCell.Tab.1.center/0.23.1280.728@0.23.1280.728" timestamp="1582589487004" />
-    <state width="1899" height="262" key="GridCell.Tab.1.center/0.23.1920.1008@0.23.1920.1008" timestamp="1581266570771" />
-    <state width="1899" height="370" key="GridCell.Tab.1.left" timestamp="1583797975292">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="452" height="326" key="GridCell.Tab.1.center/0.0.1280.800@0.0.1280.800" timestamp="1586817523241" />
+    <state width="1419" height="247" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1587515978154" />
+    <state width="1899" height="307" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1586729859551" />
+    <state width="1899" height="291" key="GridCell.Tab.1.center/0.23.1280.728/-1920.61.1920.1057@-1920.61.1920.1057" timestamp="1586738102392" />
+    <state width="1259" height="92" key="GridCell.Tab.1.center/0.23.1280.728@0.23.1280.728" timestamp="1586782533745" />
+    <state width="1419" height="310" key="GridCell.Tab.1.center/0.23.1440.828@0.23.1440.828" timestamp="1587416120379" />
+    <state width="1899" height="147" key="GridCell.Tab.1.center/0.23.1920.1008@0.23.1920.1008" timestamp="1586738382405" />
+    <state width="1419" height="247" key="GridCell.Tab.1.left" timestamp="1587515978153">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1259" height="257" key="GridCell.Tab.1.left/0.0.1280.800@0.0.1280.800" timestamp="1583684760549" />
-    <state width="1899" height="370" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1583797975292" />
-    <state width="1259" height="246" key="GridCell.Tab.1.left/0.23.1280.728@0.23.1280.728" timestamp="1582589487001" />
-    <state width="1899" height="262" key="GridCell.Tab.1.left/0.23.1920.1008@0.23.1920.1008" timestamp="1581266570770" />
-    <state width="1899" height="370" key="GridCell.Tab.1.right" timestamp="1583797975294">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="452" height="326" key="GridCell.Tab.1.left/0.0.1280.800@0.0.1280.800" timestamp="1586817523240" />
+    <state width="1419" height="247" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1587515978153" />
+    <state width="1899" height="307" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1586729859550" />
+    <state width="1899" height="291" key="GridCell.Tab.1.left/0.23.1280.728/-1920.61.1920.1057@-1920.61.1920.1057" timestamp="1586738102391" />
+    <state width="1259" height="92" key="GridCell.Tab.1.left/0.23.1280.728@0.23.1280.728" timestamp="1586782533744" />
+    <state width="1419" height="310" key="GridCell.Tab.1.left/0.23.1440.828@0.23.1440.828" timestamp="1587416120379" />
+    <state width="1899" height="147" key="GridCell.Tab.1.left/0.23.1920.1008@0.23.1920.1008" timestamp="1586738382405" />
+    <state width="1419" height="247" key="GridCell.Tab.1.right" timestamp="1587515978154">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1259" height="257" key="GridCell.Tab.1.right/0.0.1280.800@0.0.1280.800" timestamp="1583684760550" />
-    <state width="1899" height="370" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1583797975294" />
-    <state width="1259" height="246" key="GridCell.Tab.1.right/0.23.1280.728@0.23.1280.728" timestamp="1582589487008" />
-    <state width="1899" height="262" key="GridCell.Tab.1.right/0.23.1920.1008@0.23.1920.1008" timestamp="1581266570771" />
+    <state width="452" height="326" key="GridCell.Tab.1.right/0.0.1280.800@0.0.1280.800" timestamp="1586817523242" />
+    <state width="1419" height="247" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1587515978154" />
+    <state width="1899" height="307" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1586729859552" />
+    <state width="1899" height="291" key="GridCell.Tab.1.right/0.23.1280.728/-1920.61.1920.1057@-1920.61.1920.1057" timestamp="1586738102392" />
+    <state width="1259" height="92" key="GridCell.Tab.1.right/0.23.1280.728@0.23.1280.728" timestamp="1586782533745" />
+    <state width="1419" height="310" key="GridCell.Tab.1.right/0.23.1440.828@0.23.1440.828" timestamp="1587416120380" />
+    <state width="1899" height="147" key="GridCell.Tab.1.right/0.23.1920.1008@0.23.1920.1008" timestamp="1586738382405" />
     <state x="228" y="142" key="IDE.errors.dialog" timestamp="1583014314855">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
@@ -719,26 +1044,29 @@
     </state>
     <state x="451" y="195" key="MultipleFileMergeDialog/0.0.1280.800@0.0.1280.800" timestamp="1583107525286" />
     <state x="676" y="263" key="MultipleFileMergeDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1581554981176" />
-    <state x="224" y="23" width="900" height="722" key="SettingsEditor" timestamp="1581695897234">
+    <state x="99" y="99" width="1118" height="722" key="SettingsEditor" timestamp="1587505469029">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="148" y="23" width="900" height="722" key="SettingsEditor/0.0.1280.800@0.0.1280.800" timestamp="1584222672903" />
+    <state x="99" y="99" width="1118" height="722" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1587505469029" />
+    <state x="224" y="23" width="1257" height="722" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1586086179161" />
+    <state x="-1360" y="317" key="Vcs.Push.Dialog.v2" timestamp="1586984069602">
+      <screen x="-1920" y="38" width="1920" height="1080" />
+    </state>
+    <state x="-1360" y="317" key="Vcs.Push.Dialog.v2/0.0.1280.800/-1920.38.1920.1080@-1920.38.1920.1080" timestamp="1586984069602" />
+    <state x="373" y="207" key="Vcs.Push.Dialog.v2/0.0.1280.800@0.0.1280.800" timestamp="1586817630416" />
+    <state x="560" y="280" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1583799758754" />
+    <state width="960" height="537" key="XDebugger.FullValuePopup" timestamp="1587673745497">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="148" y="23" width="900" height="722" key="SettingsEditor/0.0.1280.800@0.0.1280.800" timestamp="1581693691044" />
-    <state x="224" y="23" width="1257" height="722" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1581695897234" />
-    <state x="149" y="26" key="SettingsEditor/0.23.1280.728@0.23.1280.728" timestamp="1577496118374" />
-    <state x="224" y="27" key="SettingsEditor/0.23.1920.1008@0.23.1920.1008" timestamp="1579029497245" />
-    <state x="373" y="207" key="Vcs.Push.Dialog.v2" timestamp="1583190389555">
-      <screen x="0" y="0" width="1280" height="800" />
-    </state>
-    <state x="373" y="207" key="Vcs.Push.Dialog.v2/0.0.1280.800@0.0.1280.800" timestamp="1583190389555" />
-    <state x="560" y="280" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1582245287627" />
-    <state x="560" y="284" key="Vcs.Push.Dialog.v2/0.23.1920.1008@0.23.1920.1008" timestamp="1578959048175" />
-    <state width="1008" height="285" key="XDebugger.FullValuePopup" timestamp="1583711561759">
-      <screen x="0" y="0" width="1280" height="800" />
-    </state>
-    <state width="1008" height="285" key="XDebugger.FullValuePopup/0.0.1280.800@0.0.1280.800" timestamp="1583711561759" />
-    <state width="960" height="540" key="XDebugger.FullValuePopup/0.0.1920.1080@0.0.1920.1080" timestamp="1582307582143" />
+    <state width="960" height="537" key="XDebugger.FullValuePopup/0.0.1280.800/-1920.38.1920.1080@-1920.38.1920.1080" timestamp="1586735669428" />
+    <state width="1008" height="285" key="XDebugger.FullValuePopup/0.0.1280.800@0.0.1280.800" timestamp="1586619006614" />
+    <state width="720" height="448" key="XDebugger.FullValuePopup/0.0.1440.900@0.0.1440.900" timestamp="1587595647474" />
+    <state width="960" height="537" key="XDebugger.FullValuePopup/0.0.1920.1080@0.0.1920.1080" timestamp="1587673745497" />
+    <state width="960" height="526" key="XDebugger.FullValuePopup/0.23.1280.728/-1920.61.1920.1057@-1920.61.1920.1057" timestamp="1586737625045" />
     <state width="1008" height="285" key="XDebugger.FullValuePopup/0.23.1280.728@0.23.1280.728" timestamp="1583017236611" />
-    <state width="960" height="540" key="XDebugger.FullValuePopup/0.23.1920.1008@0.23.1920.1008" timestamp="1582072056914" />
+    <state width="720" height="448" key="XDebugger.FullValuePopup/0.23.1440.828@0.23.1440.828" timestamp="1587465033129" />
+    <state width="960" height="537" key="XDebugger.FullValuePopup/0.23.1920.1008@0.23.1920.1008" timestamp="1586474097925" />
     <state x="168" y="112" key="com.intellij.execution.console.ConsoleHistoryController$MyBrowseAction$1" timestamp="1583014330635">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
@@ -747,11 +1075,6 @@
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="67" y="74" width="1147" height="652" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1280.800@0.0.1280.800" timestamp="1582763521400" />
-    <state x="100" y="100" width="1720" height="880" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1577728210157" />
-    <state x="100" y="100" width="1720" height="880" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog" timestamp="1577728210158">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="100" y="100" width="1720" height="880" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1577728210158" />
     <state x="479" y="294" key="com.intellij.ide.util.TipDialog" timestamp="1580240264684">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -768,34 +1091,42 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="765" y="464" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1080@0.0.1920.1080" timestamp="1581291604814" />
-    <state x="503" y="283" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1577579184821">
+    <state x="640" y="175" width="639" height="729" key="find.popup" timestamp="1587674564298">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="503" y="283" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1080@0.0.1920.1080" timestamp="1577579184821" />
-    <state x="427" y="130" width="683" height="540" key="find.popup" timestamp="1583705897811">
-      <screen x="0" y="0" width="1280" height="800" />
-    </state>
     <state x="427" y="130" width="683" height="540" key="find.popup/0.0.1280.800@0.0.1280.800" timestamp="1583705897811" />
-    <state x="640" y="175" width="639" height="729" key="find.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1581117492178" />
+    <state x="480" y="146" width="570" height="608" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1587595694721" />
+    <state x="640" y="175" width="639" height="729" key="find.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1587674564298" />
+    <state x="480" y="157" width="570" height="560" key="find.popup/0.23.1440.828@0.23.1440.828" timestamp="1587379823959" />
     <state x="329" y="198" key="git4idea.merge.GitPullDialog" timestamp="1583272268435">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="329" y="198" key="git4idea.merge.GitPullDialog/0.0.1280.800@0.0.1280.800" timestamp="1583272268435" />
+    <state x="765" y="426" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1586732916781">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="765" y="426" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1586732916781" />
     <state x="507" y="290" key="git4idea.ui.GitTagDialog" timestamp="1583190339426">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="507" y="290" key="git4idea.ui.GitTagDialog/0.0.1280.800@0.0.1280.800" timestamp="1583190339426" />
-    <state x="761" y="392" key="git4idea.ui.GitTagDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1577927668649" />
-    <state x="417" y="179" width="670" height="501" key="search.everywhere.popup" timestamp="1583276325162">
+    <state x="440" y="266" key="scopes" timestamp="1586810165462">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="417" y="179" width="670" height="501" key="search.everywhere.popup/0.0.1280.800@0.0.1280.800" timestamp="1583276325162" />
-    <state x="625" y="241" width="670" height="676" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1582307287652" />
-    <state x="625" y="248" width="670" height="631" key="search.everywhere.popup/0.23.1920.1008@0.23.1920.1008" timestamp="1580155693733" />
-    <state x="798" y="338" key="svn.repositoryBrowser" timestamp="1577928137065">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state x="440" y="266" key="scopes/0.0.1280.800@0.0.1280.800" timestamp="1586810165462" />
+    <state x="469" y="201" width="670" height="564" key="search.everywhere.popup" timestamp="1587306142633">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="798" y="338" key="svn.repositoryBrowser/0.0.1920.1080@0.0.1920.1080" timestamp="1577928137065" />
+    <state x="417" y="179" width="670" height="501" key="search.everywhere.popup/0.0.1280.800@0.0.1280.800" timestamp="1585526807828" />
+    <state x="469" y="201" width="670" height="564" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1587306142633" />
+    <state x="625" y="241" width="670" height="676" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1586470553795" />
+    <state x="625" y="248" width="670" height="631" key="search.everywhere.popup/0.23.1920.1008@0.23.1920.1008" timestamp="1580155693733" />
+    <state x="278" y="499" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1587508706175">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="247" y="444" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1280.800@0.0.1280.800" timestamp="1586208259825" />
+    <state x="278" y="499" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1440.900@0.0.1440.900" timestamp="1587508706175" />
+    <state x="370" y="599" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1586732898630" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -819,16 +1150,6 @@
           <url>file://$PROJECT_DIR$/Scratch/cacf.py</url>
           <line>2</line>
           <option name="timeStamp" value="13" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/FriuliVeneziaGiulia/HydroGEA/1-LocationsCollection.py</url>
-          <line>36</line>
-          <option name="timeStamp" value="28" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/FriuliVeneziaGiulia/HydroGEA/1-LocationsCollection.py</url>
-          <line>33</line>
-          <option name="timeStamp" value="45" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/FriuliVeneziaGiulia/CAFC/1-LocationCollection.py</url>
@@ -857,12 +1178,12 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/acqua/geoCode.py</url>
-          <line>61</line>
+          <line>62</line>
           <option name="timeStamp" value="256" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/acqua/geoCode.py</url>
-          <line>93</line>
+          <line>94</line>
           <option name="timeStamp" value="257" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
@@ -877,17 +1198,17 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/acqua/geoCode.py</url>
-          <line>30</line>
+          <line>31</line>
           <option name="timeStamp" value="293" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/acqua/geoCode.py</url>
-          <line>181</line>
+          <line>184</line>
           <option name="timeStamp" value="303" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/acqua/geoCode.py</url>
-          <line>168</line>
+          <line>170</line>
           <option name="timeStamp" value="304" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
@@ -906,28 +1227,8 @@
           <option name="timeStamp" value="317" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/acqua/labelCollection.py</url>
-          <line>74</line>
-          <option name="timeStamp" value="318" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/acqua/labelCollection.py</url>
-          <line>93</line>
-          <option name="timeStamp" value="320" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/acqua/labelCollection.py</url>
-          <line>97</line>
-          <option name="timeStamp" value="321" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/acqua/labelCollection.py</url>
-          <line>91</line>
-          <option name="timeStamp" value="322" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/acqua/geoCode.py</url>
-          <line>163</line>
+          <line>165</line>
           <option name="timeStamp" value="328" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
@@ -952,7 +1253,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/acqua/labelCollection.py</url>
-          <line>115</line>
+          <line>100</line>
           <option name="timeStamp" value="368" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
@@ -967,7 +1268,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/acqua/geoCode.py</url>
-          <line>139</line>
+          <line>141</line>
           <option name="timeStamp" value="373" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
@@ -991,12 +1292,12 @@
           <option name="timeStamp" value="388" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Lombardia/Milano/2-ReportCollection.py</url>
+          <url>file://$PROJECT_DIR$/Lombardia/MM/3-ReportCollection.py</url>
           <line>62</line>
           <option name="timeStamp" value="417" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Lombardia/Milano/ReteAcquedotti/AggiornamentoReteAcquedotti.py</url>
+          <url>file://$PROJECT_DIR$/Lombardia/MM/ReteAcquedotti/AggiornamentoReteAcquedotti.py</url>
           <line>4</line>
           <option name="timeStamp" value="426" />
         </line-breakpoint>
@@ -1012,12 +1313,12 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/acqua/geoCode.py</url>
-          <line>316</line>
+          <line>320</line>
           <option name="timeStamp" value="470" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/acqua/geoCode.py</url>
-          <line>299</line>
+          <line>303</line>
           <option name="timeStamp" value="471" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
@@ -1032,13 +1333,8 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/acqua/geoCode.py</url>
-          <line>281</line>
+          <line>285</line>
           <option name="timeStamp" value="483" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/acqua/labelCollection.py</url>
-          <line>192</line>
-          <option name="timeStamp" value="489" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Piemonte/SMATTorino/2-ReportCollection.py</url>
@@ -1080,13 +1376,135 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/acqua/geoCode.py</url>
-          <line>199</line>
+          <line>202</line>
           <option name="timeStamp" value="508" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Veneto/AcqueVeronesi/4-LabelsCreation.py</url>
           <line>12</line>
           <option name="timeStamp" value="509" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Lombardia/MM/5-LabelsPublishing.py</url>
+          <option name="timeStamp" value="511" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/WebApp/FoliumClient.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="512" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Lombardia/MM/4-LabelsCreation.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="515" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/FriuliVeneziaGiulia/HydroGEA/1-LocationsCollection.py</url>
+          <line>35</line>
+          <option name="timeStamp" value="523" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/FriuliVeneziaGiulia/HydroGEA/1-LocationsCollection.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="529" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/FriuliVeneziaGiulia/HydroGEA/4-LabelsCreation.py</url>
+          <line>53</line>
+          <option name="timeStamp" value="544" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/FriuliVeneziaGiulia/HydroGEA/4-LabelsCreation.py</url>
+          <line>71</line>
+          <option name="timeStamp" value="545" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Veneto/GardesanaServizi/4-DataReportCollection.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="548" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Veneto/AcegasApsAmga/5-LabelsCreation.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="554" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Veneto/AcegasApsAmga/4-DataReportCollection.py</url>
+          <line>28</line>
+          <option name="timeStamp" value="558" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Lombardia/A2ABrescia/1.0-LocationCollection.py</url>
+          <line>45</line>
+          <option name="timeStamp" value="566" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Lombardia/A2ABrescia/2-DataReportCollection.py</url>
+          <line>34</line>
+          <option name="timeStamp" value="568" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Lombardia/A2ABrescia/2-DataReportCollection.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="569" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/acqua/labelCollection.py</url>
+          <line>35</line>
+          <option name="timeStamp" value="588" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Lombardia/GruppoCAP/4-LabelsCreation.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="593" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Lombardia/AcqueBresciane/1-LocationCollection.py</url>
+          <line>28</line>
+          <option name="timeStamp" value="598" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Lombardia/AcqueBresciane/3-ReportFoundList_.py</url>
+          <line>49</line>
+          <option name="timeStamp" value="602" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Lombardia/LeretiVarese/1-LocationsCollection.py</url>
+          <line>38</line>
+          <option name="timeStamp" value="612" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Lombardia/LeretiVarese/1-LocationsCollection.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="613" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Lombardia/LarioLecco/1.0-LocationCollection.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="623" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Lombardia/LarioLecco/1.0-LocationCollection.py</url>
+          <line>54</line>
+          <option name="timeStamp" value="625" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Lombardia/AlfaVarese/2-GeoReferenceDataCollection.py</url>
+          <option name="timeStamp" value="626" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Lombardia/AlfaVarese/3-FoundReportList.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="627" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Lombardia/AlfaVarese/5-LabelsCreation.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="631" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/acqua/label.py</url>
+          <option name="timeStamp" value="632" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>

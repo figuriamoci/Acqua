@@ -1,0 +1,34 @@
+alias_address,alias_city,geocode,geometry,georeferencingString,type
+Comune,ponti,"Ponti sul Mincio, Mantova","{'type': 'Point', 'coordinates': [10.686020000000042, 45.412750000000074]}","Ponti Sul Mincio, Mantova, Italia",POINT
+Comune,porto,"Porto Mantovano, Mantova","{'type': 'Point', 'coordinates': [10.79293000000007, 45.20228000000003]}","Porto Mantovano, Mantova, Italia",POINT
+Comune,san giorgio,"San Giorgio Bigarello, Mantova","{'type': 'Point', 'coordinates': [10.838850000000036, 45.166660000000036]}","San Giorgio Bigarello, Mantova, Italia",POINT
+Comune,serravalle,"Serravalle a Po, Mantova","{'type': 'Point', 'coordinates': [11.098340000000064, 45.071600000000046]}",Serravalle A Po,POINT
+Comune,carbonara,"Carbonara di Po, Borgocarbonara, Mantova","{'type': 'Point', 'coordinates': [11.226450000000057, 45.03773000000007]}","carbonara di po, Mantova, Italia",POINT
+Comune,pieve,"Pieve di Coriano, Borgo Mantovano, Mantova","{'type': 'Point', 'coordinates': [11.106990000000053, 45.03427000000005]}",Pieve di Coriano,POINT
+Comune,bagnolo,"Bagnolo San Vito, Mantova","{'type': 'Point', 'coordinates': [10.87429000000003, 45.08726000000007]}","Bagnolo San Vito, Mantova, Italia",POINT
+Comune,acquanegra,"Acquanegra sul Chiese, Mantova","{'type': 'Point', 'coordinates': [10.430950000000053, 45.162510000000054]}","Acquanegra sul chiese, Mantova, Italia",POINT
+Comune,sanmartino,"San Martino dall'Argine, Mantova","{'type': 'Point', 'coordinates': [10.516400000000033, 45.09552000000008]}",San Martino Dall'argine,POINT
+Comune,rivarolo,"Rivarolo Mantovano, Mantova","{'type': 'Point', 'coordinates': [10.431930000000023, 45.06983000000008]}",Rivarolo Mantovano,POINT
+Comune,roverbella,"Roverbella, Mantova","{'type': 'Point', 'coordinates': [10.770750000000021, 45.26729000000006]}","roverbella, Mantova, Italia",POINT
+Comune,castelbelforte,"Castelbelforte, Mantova","{'type': 'Point', 'coordinates': [10.891000000000076, 45.21275000000003]}","castelbelforte, Mantova, Italia",POINT
+Comune,bigarello,"Bigarello, San Giorgio Bigarello, Mantova","{'type': 'Point', 'coordinates': [10.917410000000075, 45.20353000000006]}","bigarello, Mantova, Italia",POINT
+Comune,casteldario,"Castel d'Ario, Mantova","{'type': 'Point', 'coordinates': [10.976640000000032, 45.188540000000046]}","casteldario, Mantova, Italia",POINT
+Comune,marmirolo,"Marmirolo, Mantova","{'type': 'Point', 'coordinates': [10.755760000000066, 45.22160000000008]}","marmirolo, Mantova, Italia",POINT
+Comune,mantova,Mantova,"{'type': 'Point', 'coordinates': [10.79242000000005, 45.165410000000065]}","mantova, Mantova, Italia",POINT
+Comune,roncoferraro,"Roncoferraro, Mantova","{'type': 'Point', 'coordinates': [10.952980000000025, 45.13519000000008]}","roncoferraro, Mantova, Italia",POINT
+Comune,sustinente,"Sustinente, Mantova","{'type': 'Point', 'coordinates': [11.019840000000045, 45.069120000000055]}","sustinente, Mantova, Italia",POINT
+Comune,ostiglia,"Ostiglia, Mantova","{'type': 'Point', 'coordinates': [11.139200000000073, 45.068520000000035]}","ostiglia, Mantova, Italia",POINT
+Comune,sermide,"Sermide, Sermide e Felonica, Mantova","{'type': 'Point', 'coordinates': [11.295120000000054, 45.00118000000003]}","sermide, Mantova, Italia",POINT
+Comune,magnacavallo,"Magnacavallo, Mantova","{'type': 'Point', 'coordinates': [11.182280000000048, 45.00621000000007]}","magnacavallo, Mantova, Italia",POINT
+Comune,schivenoglia,"Schivenoglia, Mantova","{'type': 'Point', 'coordinates': [11.070990000000052, 44.99642000000006]}","schivenoglia, Mantova, Italia",POINT
+Comune,quingentole,"Quingentole, Mantova","{'type': 'Point', 'coordinates': [11.043180000000064, 45.03747000000004]}","quingentole, Mantova, Italia",POINT
+Comune,pegognaga,"Pegognaga, Mantova","{'type': 'Point', 'coordinates': [10.856180000000052, 44.996200000000044]}","pegognaga, Mantova, Italia",POINT
+Comune,gonzaga,"Gonzaga, Mantova","{'type': 'Point', 'coordinates': [10.82281000000006, 44.95276000000007]}","gonzaga, Mantova, Italia",POINT
+Comune,borgovirgilio,"Borgo Virgilio, Mantova","{'type': 'Point', 'coordinates': [10.786020000000065, 45.12012000000004]}","borgovirgilio, Mantova, Italia",POINT
+Comune,motteggiana,"Motteggiana, Mantova","{'type': 'Point', 'coordinates': [10.762060000000076, 45.035240000000044]}","motteggiana, Mantova, Italia",POINT
+Comune,suzzara,"Suzzara, Mantova","{'type': 'Point', 'coordinates': [10.737610000000075, 44.99383000000006]}","suzzara, Mantova, Italia",POINT
+Comune,curtatone,"Curtatone, Mantova","{'type': 'Point', 'coordinates': [10.718520000000069, 45.15347000000003]}","curtatone, Mantova, Italia",POINT
+Comune,marcaria,"Marcaria, Mantova","{'type': 'Point', 'coordinates': [10.532240000000058, 45.11981000000003]}","marcaria, Mantova, Italia",POINT
+Comune,bozzolo,"Bozzolo, Mantova","{'type': 'Point', 'coordinates': [10.476500000000044, 45.10594000000003]}","bozzolo, Mantova, Italia",POINT
+Comune,dosolo,"Dosolo, Mantova","{'type': 'Point', 'coordinates': [10.632790000000057, 44.953940000000046]}","dosolo, Mantova, Italia",POINT
+Comune,castellucchio,"Castellucchio, Mantova","{'type': 'Point', 'coordinates': [10.647380000000055, 45.14740000000006]}","castellucchio, Mantova, Italia",POINT

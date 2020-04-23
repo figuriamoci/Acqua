@@ -23,5 +23,5 @@ for i,loc in locationList.iterrows():
     row = {'alias_city':alias_city, 'alias_address':alias_address,'data_report':data_report, 'url_report':urlReport}
     reportFoundList = reportFoundList.append(row,ignore_index=True)
 
-reportFoundList.to_csv('Definitions/ReportFoundList.csv',index=False)
+reportFoundList.to_csv('Medadata/DataReportCollection.csv',index=False)
 logging.info( 'Finish: %s', datetime.datetime.now() )

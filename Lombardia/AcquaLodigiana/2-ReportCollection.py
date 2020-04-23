@@ -18,7 +18,7 @@ soup = BeautifulSoup(driver.page_source, 'html.parser')
 premessa = soup.find("div", { "class" : "su-spoiler-content su-u-clearfix su-u-trim" }).get_text().split('.')
 semestre = [p for p in premessa if "I valori sono riferiti al" in p]
 data_report = semestre[0].strip()
-locationList = pd.read_csv('Definitions/LocationList.csv')
+locationList = pd.read_csv( 'Metadata/LocationList.csv' )
 reportFoundList = {}
 for i,alias in locationList.iterrows():
     alias_city = alias['alias_city']
@@ -33,7 +33,7 @@ for i,alias in locationList.iterrows():
 ##
 driver.close()
 import pickle
-f = open("Definitions/ReportListFound.pickle","wb")
+f = open( "Metadata/ReportListFound.pickle", "wb" )
 pickle.dump(reportFoundList,f)
 f.close()
 logging.info('Finish: %s',datetime.datetime.now())

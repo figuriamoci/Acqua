@@ -7,8 +7,8 @@ idGestore = "AcqueVenete"
 aq.setEnv('Veneto//'+idGestore)
 
 reportFoundList = pd.read_csv('Definitions/ReportFoundList.csv')
-useThisDictionary = parm.crea_dizionario('Definitions/SynParametri.csv')
-parametersAdmitted = set(parm.getParametersAdmitted('Definitions/SynParametri.csv'))
+useThisDictionary = parm.crea_dizionario('Medadata/SynParametri.csv')
+parametersAdmitted = set(parm.getParametersAdmitted('Medadata/SynParametri.csv'))
 ll = []
 for i,reportFound in reportFoundList.iterrows():
     alias = (reportFound['alias_city'],reportFound['alias_acqueduct'])
@@ -17,7 +17,7 @@ for i,reportFound in reportFoundList.iterrows():
     label = reportFound[parametersAdmitted].dropna().to_dict()
     data_report = reportFound['data_report']
     lb = al.create_label( useThisDictionary, idGestore, data_report, label )
-    glb = al.addGeocodeData( lb, alias, 'Definitions/GeoReferencedLocationsList.csv' )
+    glb = al.addGeocodeData( lb, alias, 'Medadata/GeoReferencedLocationsList.csv' )
     ll.extend( glb )
     logging.info( 'Done.' )
 ##

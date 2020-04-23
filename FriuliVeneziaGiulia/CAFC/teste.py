@@ -7,4 +7,4 @@ a = df.loc[df['type']=='POLYGON']
 df.loc[df['type']=='POLYGON',['geometry']]=''
 b = df.loc[df['type']=='POLYGON']
 
-df.to_csv('Definitions/GeoReferencedLocationsList.csv',index=False)
+df.to_csv('Medadata/GeoReferencedLocationsList.csv',index=False)

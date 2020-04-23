@@ -9,12 +9,12 @@ import acqua.label as al
 import acqua.parametri as parm
 import acqua.labelCollection as coll
 os.chdir('/Users/andrea/PycharmProjects/Acqua/FriuliVeneziaGiulia/Poiana')
-url = 'Definitions/Acque Potabili - Analisi Chimico fisiche 2018_2019.pdf'
-GeoReferencedLocationsList = 'Definitions/GeoReferencedLocationsList.csv'
+url = 'Medadata/Acque Potabili - Analisi Chimico fisiche 2018_2019.pdf'
+GeoReferencedLocationsList = 'Medadata/GeoReferencedLocationsList.csv'
 
 idGestore = 15123 ##Poiana
-#listParameters = parm.getListSynonyms('Definitions/SynParametri.csv')
-parm.crea_dizionario('Definitions/SynParametri.csv')
+#listParameters = parm.getListSynonyms('Medadata/SynParametri.csv')
+parm.crea_dizionario('Medadata/SynParametri.csv')
 tables = tabula.read_pdf(url,multiple_tables=True,pages='all',encoding='utf-8')
 #%%
 listRawtables = []
