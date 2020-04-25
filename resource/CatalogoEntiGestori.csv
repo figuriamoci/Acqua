@@ -16,9 +16,7 @@ Campania,NA,Napoli,Acqua Campania SpA,,https://www.acquacampania.com,https://www
 Campania,AV,Avellino,Acqua Campania SpA,,https://www.acquacampania.com,https://www.acquacampania.com/analisi-qualita-dellacqua/,PDF,PER_COMUNE,ANNUALE,2019,,,
 Campania,SA,Salerno,Acqua Campania SpA,,https://www.acquacampania.com,https://www.acquacampania.com/analisi-qualita-dellacqua/,PDF,PER_COMUNE,ANNUALE,2019,,,
 Campania,NA,Napoli,ABC Napoli,,https://www.abc.napoli.it,https://www.abc.napoli.it/index.php?id_page=4,HTML,PER_QUARTIERE,,,,,
-Emilia Romagna,PC,Piacenza,Iren S.p.A.,,https://www.irenacqua.it,https://www.irenacqua.it/qualita-dell-acqua,HTML,PER_QUARTIERE,SEMESTRALE,43647,BASSO,,1
-Emilia Romagna,PR,Parma,Iren S.p.A.,,https://www.irenacqua.it,https://www.irenacqua.it/qualita-dell-acqua,HTML,PER_QUARTIERE,SEMESTRALE,43647,BASSO,,1
-Emilia Romagna,RE,Reggio Nell'Emilia,Iren S.p.A.,,https://www.irenacqua.it,https://www.irenacqua.it/qualita-dell-acqua,HTML,PER_QUARTIERE,SEMESTRALE,43647,BASSO,,1
+Emilia Romagna,PR,Parma,Iren S.p.A.,IrenER,https://www.irenacqua.it,https://www.irenacqua.it/qualita-dell-acqua,HTML,PER_QUARTIERE,SEMESTRALE,43647,BASSO,,1
 Emilia Romagna,MO,Modena,Gruppo Hera S.p.A.,,https://www.gruppohera.it,https://www.gruppohera.it/gruppo/attivita_servizi/business_acqua/canale_acqua/,HTML,PER_COMUNE,SEMESTRALE,2019,BASSO,,1
 Emilia Romagna,BO,Bologna,Gruppo Hera S.p.A.,,https://www.gruppohera.it,https://www.gruppohera.it/gruppo/attivita_servizi/business_acqua/canale_acqua/,HTML,PER_COMUNE,SEMESTRALE,2019,BASSO,,1
 Emilia Romagna,FE,Ferrara,Gruppo Hera S.p.A.,,https://www.gruppohera.it,https://www.gruppohera.it/gruppo/attivita_servizi/business_acqua/canale_acqua/,HTML,PER_COMUNE,SEMESTRALE,2019,BASSO,,1
@@ -37,8 +35,7 @@ Lazio,RM,Roma,Acea Ato 2 S.p.a.,,https://www.gruppo.acea.it/al-servizio-delle-pe
 Lazio,LT,Latina,Acqualatina S.p.A.,,http://www.acqualatina.it/,http://www.acqualatina.it/qualita-dellacqua-per-comune/,PDF,PER_COMUNE,SEMESTRALE,2019,MEDIO,Valori arsenico!,
 Lazio,FR,Frosinone,Acea Ato 5 S.p.a.,,https://www.gruppo.acea.it/al-servizio-delle-persone/acqua/acea-ato-5,https://www.gruppo.acea.it/al-servizio-delle-persone/acqua/acea-ato-5/la-qualita-della-tua-acqua,PDF,PER_COMUNE,SEMESTRALE,2019,MEDIO,,
 Liguria,IM,Imperia,Amat S.p.A.,,http://www.amat-imperia.it/,http://www.amat-imperia.it/pages/analisi-acqua?z_search=acqua&currentPage=1,SCANNER,PER_COMUNE,ANNUALE,2017,MEDIO,,3
-Liguria,SV,Savona,Iren S.p.A.,,https://www.gruppoiren.it/acqua,https://www.irenacqua.it/qualita-dell-acqua,HTML,PER_COMUNE,SEMESTRALE,43800,MEDIO,,
-Liguria,GE,Genova,Iren S.p.A.,,https://www.gruppoiren.it/acqua,https://www.irenacqua.it/qualita-dell-acqua,HTML,PER_COMUNE,SEMESTRALE,43800,MEDIO,,
+Liguria,GE,Genova,Iren S.p.A.,IrenLiguria,https://www.gruppoiren.it/acqua,https://www.irenacqua.it/qualita-dell-acqua,HTML,PER_COMUNE,SEMESTRALE,43800,MEDIO,,
 Liguria,SP,La Spezia,Acam spa,,https://www.acamacque.it/,https://www.acamspa.com/qualit%C3%A0-delle-acque-0,PDF,PER_COMUNE,ANNUALE,2017,MEDIO,,1
 Lombardia,VA,Varese,Lereti S.p.A.,LeretiVarese,http://www.leretispa.it,http://www.leretispa.it/l-acqua-che-bevi,PDF,PER_COMUNE,TRIMESTRE,2019,MEDIO,,2
 Lombardia,VA,Varese,Prealpi Servizi S.r.l.,PrealpiVarese,http://www.prealpiservizi.it,http://www.prealpiservizi.it/pages/acqua/analisi.htm,HTML,PER_COMUNE,SEMESTRALE,2019,BASSO,,1
