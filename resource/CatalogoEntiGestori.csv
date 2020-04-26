@@ -17,12 +17,8 @@ Campania,AV,Avellino,Acqua Campania SpA,,https://www.acquacampania.com,https://w
 Campania,SA,Salerno,Acqua Campania SpA,,https://www.acquacampania.com,https://www.acquacampania.com/analisi-qualita-dellacqua/,PDF,PER_COMUNE,ANNUALE,2019,,,
 Campania,NA,Napoli,ABC Napoli,,https://www.abc.napoli.it,https://www.abc.napoli.it/index.php?id_page=4,HTML,PER_QUARTIERE,,,,,
 Emilia Romagna,PR,Parma,Iren S.p.A.,IrenER,https://www.irenacqua.it,https://www.irenacqua.it/qualita-dell-acqua,HTML,PER_QUARTIERE,SEMESTRALE,43647,BASSO,,1
-Emilia Romagna,MO,Modena,Gruppo Hera S.p.A.,,https://www.gruppohera.it,https://www.gruppohera.it/gruppo/attivita_servizi/business_acqua/canale_acqua/,HTML,PER_COMUNE,SEMESTRALE,2019,BASSO,,1
-Emilia Romagna,BO,Bologna,Gruppo Hera S.p.A.,,https://www.gruppohera.it,https://www.gruppohera.it/gruppo/attivita_servizi/business_acqua/canale_acqua/,HTML,PER_COMUNE,SEMESTRALE,2019,BASSO,,1
-Emilia Romagna,FE,Ferrara,Gruppo Hera S.p.A.,,https://www.gruppohera.it,https://www.gruppohera.it/gruppo/attivita_servizi/business_acqua/canale_acqua/,HTML,PER_COMUNE,SEMESTRALE,2019,BASSO,,1
-Emilia Romagna,RA,Ravenna,Gruppo Hera S.p.A.,,https://www.gruppohera.it,https://www.gruppohera.it/gruppo/attivita_servizi/business_acqua/canale_acqua/,HTML,PER_COMUNE,SEMESTRALE,2019,BASSO,,1
-Emilia Romagna,FC,Forli'-Cesena,Gruppo Hera S.p.A.,,https://www.gruppohera.it,https://www.gruppohera.it/gruppo/attivita_servizi/business_acqua/canale_acqua/,HTML,PER_COMUNE,SEMESTRALE,2019,BASSO,,1
-Emilia Romagna,RN,Rimini,Gruppo Hera S.p.A.,,https://www.gruppohera.it,https://www.gruppohera.it/gruppo/attivita_servizi/business_acqua/canale_acqua/,HTML,PER_COMUNE,SEMESTRALE,2019,BASSO,,1
+Emilia Romagna,BO,Bologna,Gruppo Hera S.p.A.,HeraER,https://www.gruppohera.it,https://www.gruppohera.it/gruppo/attivita_servizi/business_acqua/canale_acqua/,HTML,PER_COMUNE,SEMESTRALE,2019,BASSO,,1
+Emilia Romagna,BO,Ferrara,C.A.D.F. s.p.a.,CADFFerrra,http://www.cadf.it/,http://www.cadf.it/qualita-acqua,PDF,PER_COMUNE,SEMESTRALE,2019,BASSO,,1
 Friuli Venezia Giulia,UD,Udine,CAFC S.p.A.,CACF,https://www.cafcspa.com,https://www.cafcspa.com/solud/it-_qualita_acqua.cfm,,,,,,,
 Friuli Venezia Giulia,GO,Gorizia,IRIS Acque,IRISAcque,http://www.irisacqua.it,http://www.irisacqua.it/it/20617/Qualita-dell-acqua-erogata,,,,,,,
 Friuli Venezia Giulia,TS,Trieste,AcegasApsAmga S.p.A.,AceGasAmgaTrieste,http://www.acegasapsamga.it,http://www.acegasapsamga.it/attivita_servizi/acqua_ciclo_idrico/qualita_controllo/,,,,,,,
@@ -73,6 +69,8 @@ Piemonte,CN,Cuneo,Azienda Cuneese dellAcqua S.p.A.,CuneeseAcqua,https://www.ac
 Piemonte,AT,Asti,ASTI SERVIZI PUBBLICI S.P.A.,ASPAsti,https://www.asp.asti.it/idrico-integrato/,https://www.asp.asti.it/idrico-integrato/acquedotto/qualita-dellacqua/,PDF,PER_COMUNE,SEMESTRALE,2019,MEDIO,Inclusa mappa zone servite dal'acquedotto,2
 Piemonte,AL,Alessandria,AMAG SPA,AMAGAlessandria,https://www.gruppoamag.it/,http://www.gruppoamag.it/laboratorio-analisi/,HTML,PER_COMUNE,SEMESTRALE,2020,BASSO,,1
 Piemonte,BI,Biella,Cordar S.p.A.,CordarBiella,https://www.cordarbiella.it/,http://www2.cordarbiella.it/altro/analisi_comuni/index.php?sezione=2&sottosezione=1&menu=7,HTML,PER_ZONA,SEMESTRALE,2019,ELEVATO,,3
+Piemonte,VB,Verbano-Cusio-Ossola,Idrablu S.p.A.,IdraBluVerbano,www.idrablu.it,http://www.idrablu.it/qualita-e-sicurezza-dellacqua/,,,,,BASSO,,1
+Piemonte,CU,Cuneo,Iren S.p.A.,IrenPiemonte,https://www.irenacqua.it,https://www.irenacqua.it/qualita-dell-acqua,HTML,PER_QUARTIERE,SEMESTRALE,43647,BASSO,,1
 Puglia,FG,Foggia,Acquedotto Pugliese S.p.A.,,http://www.aqp.it/portal/page/portal/MYAQP,http://www.aqp.it/portal/page/portal/MYAQP/SERVIZI/Qualita_Acqua,HTML,PER_COMUNE,SEMESTRALE,?,MEDIO,,
 Puglia,BA,Bari,Acquedotto Pugliese S.p.A.,,http://www.aqp.it/portal/page/portal/MYAQP,http://www.aqp.it/portal/page/portal/MYAQP/SERVIZI/Qualita_Acqua,HTML,PER_COMUNE,SEMESTRALE,?,MEDIO,,
 Puglia,TA,Taranto,Acquedotto Pugliese S.p.A.,,http://www.aqp.it/portal/page/portal/MYAQP,http://www.aqp.it/portal/page/portal/MYAQP/SERVIZI/Qualita_Acqua,HTML,PER_COMUNE,SEMESTRALE,?,MEDIO,,
@@ -124,4 +122,3 @@ Veneto,VE,Venezia,Veritas S.p.A.,VeritasVenezia,https://www.gruppoveritas.it,htt
 Veneto,VE,Venezia,AcegasApsAmga S.p.A.,AceGasAmgaVenezia,http://www.acegasapsamga.it,http://www.acegasapsamga.it/attivita_servizi/acqua_ciclo_idrico/qualita_controllo/,PDF,PER_COMUNE,MENSILE,,BASSO,,1
 Veneto,PD,Padova,Etra S.p.A.,EtraPadova,https://www.etraspa.it/resana/impresa/acqua/analisi-dellacqua,https://www.etraspa.it,HTML,PER_ZONA,MENSILE,,MEDIO,,4
 Veneto,RO,Rovigo,Acque Venete S.p.A.,AcqueVenete,http://www.acquevenete.it,http://www.acquevenete.it/it_IT/consulta-le-analisi,HTML,PER_POZZO,SEMESTRALE,2019,MEDIO,Necessaria mappa acquedotti,0
-Piemonte,VB,Verbano-Cusio-Ossola,Idrablu S.p.A.,IdraBluVerbano,www.idrablu.it,http://www.idrablu.it/qualita-e-sicurezza-dellacqua/,,,,,BASSO,,1
