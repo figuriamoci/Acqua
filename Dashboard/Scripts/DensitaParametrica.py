@@ -23,6 +23,8 @@ for e_ in e:
 searcingString = {"properties.regione":"Veneto"}
 searcingString = {"properties.regione":"Friuli Venezia Giulia"}
 searcingString = {"properties.regione":"Lombardia"}
+searcingString = {"properties.regione":"EmiliaRomagna"}
+searcingString = {"properties.regione":"Piemonte"}
 f = db.rete_acuquedotti.find( {} )
 features = []
 for m in f:
@@ -43,7 +45,7 @@ for feature in features:
         if polygon.contains(p):
             n += 1
             lastPoint = p
-    counters[polygonName] = min(n,2)
+    counters[polygonName] = min(n,1)
 ##
 coords = list(lastPoint.coords)[0]
 latitude = coords[0]
@@ -53,6 +55,6 @@ counters_ = pd.DataFrame.from_dict(counters, orient='index')
 max_value = max(counters_.max().iloc[0],3)
 # Draw the maps, closer than i can
 map = folium.Map( location=[longitude,latitude], control_scale=True )
-map.choropleth( geo_data=fc,data=counters,highlight=True, name='Aree di uniformità parametrica',fill_color='YlOrRd',fill_opacity=0.5,line_opacity=0.2,legend_name="Nummero etichette per area di uniformità parametrica",key_on='feature.properties.name' )
+map.choropleth( geo_data=fc,data=counters,highlight=True, name='Aree di uniformità parametrica',fill_color='YlGnBu',fill_opacity=0.3,line_opacity=0.2,legend_name="Nummero etichette per area di uniformità parametrica",key_on='feature.properties.name' )
 map.save('DensitaParametrica.html')
 

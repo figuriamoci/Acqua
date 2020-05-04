@@ -1,0 +1,20 @@
+parametro,syn0,syn1,syn2,syn3,syn4,syn5,syn6,syn7,syn8,syn9
+residuo_fisso,Residuo fisso 180° (mg/l)
+durezza,Durezza totale (°F)
+ph,Concentrazione ioni idrogeno (pH)
+calcio,Calcio (mg/l)
+sodio,Sodio (mg/l)
+magnesio,Magnesio (mg/l)
+potassio,Potassio (mg/l)
+solfato,Solfati (mg/l)
+nitrato,Nitrati (mg/l NO3)
+nitrito,Nitriti (mg/l NO2)
+cloruro,Cloruri (mg/l)
+conducibilita,Conducibilità
+fluoruri,Fluoruri (mg/l)
+ammoniaca,Ammoniaca (mg/l NH3)
+manganese,Manganese
+arsenico,Arsenico
+bicarbonato,Bicarbonato (mg/l HCO3)
+cloro_residuo,Cloro residuo (mg/l)
+cromo,

@@ -1,7 +1,7 @@
 #Location di interesse per i parametri dell'acqua
 #targetLocation = 'Isola Morosini Via due fiumi'
 #%%
-targetLocation = "Via Roma Sondrio"
+targetLocation = "Rapallo"
 
 import folium,os,geojson as js,logging
 from geopy.geocoders import Nominatim

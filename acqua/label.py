@@ -14,9 +14,8 @@ def create_label (synonimous,gestore,data_report,parms):
     named_tuple = time.localtime()  # get struct_time
     time_string = time.strftime( "%d/%m/%Y, %H:%M", named_tuple )
     data['timestamp'] = time_string
-    #data['data'] = data_report
+    data['status'] = "online"
     parameters = {sp.getSTDParm(synonimous,k): str(v) for k, v in parms.items()}
-    #parameters = {sp.getSTDParm(synonimous,k): str(v).replace(' ','') for k, v in parms.items()}
     data['parameters'] = parameters
     return data
 
@@ -26,9 +25,8 @@ def addGeocodeData(label,location,geoReferencedLocationsFile):
         datiGeo = datiGeo_.reindex(columns=['alias_city','alias_address','type','geocode','geometry']).copy()
         #TODO: sollecare un'eccezzione se foundDatiGeo è null non
         foundDatiGeo = datiGeo[(datiGeo['alias_city']==location[0]) & (datiGeo['alias_address']==location[1])]
-
         #if len(foundDatiGeo) == 0: raise KeyError
-        if len( foundDatiGeo ) == 0: return emptyDict #Return nan
+        if len( foundDatiGeo ) != 1: return emptyDict #Return nan
         foundDatiGeo.reset_index(inplace=True)
         geocodeLabelList = []
         for i in foundDatiGeo.index:
@@ -46,10 +44,7 @@ def to_geojson(geoLabel):
     location = geoLabel['location']
     separator = ', '
     location = separator.join( location )
-    prop = {"geoname":geoLabel['geoname'],"gestore":geoLabel['gestore'],"web":geoLabel['web'],"report":geoLabel['report'],"timestamp":geoLabel['timestamp'],"cod_gestore":geoLabel['id_gestore']}
-    #prop = {"geoname": geoLabel['geoname'], "gestore": geoLabel['gestore'], "web": geoLabel['web'],
-    #        "report": geoLabel['report'], "data": geoLabel['data'], "reference": location,
-    #        "timestamp": geoLabel['timestamp'], "cod_gestore": geoLabel['id_gestore']}
+    prop = {"geoname":geoLabel['geoname'],"gestore":geoLabel['gestore'],"web":geoLabel['web'],"report":geoLabel['report'],"timestamp":geoLabel['timestamp'],"status":geoLabel['status'],"cod_gestore":geoLabel['id_gestore']}
     parms_ = geoLabel['parameters']
     #Sostituisce il punto decimale con la virgola
     parms = {str(k):str(v).replace(',','.') for k,v in parms_.items()}

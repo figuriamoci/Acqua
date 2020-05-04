@@ -1,0 +1,19 @@
+parametro,syn0,syn1,syn2,syn3,syn4,syn5,syn6,syn7,syn8,syn9
+residuo_fisso,Residuo secco a 180° C mg/L:
+durezza,Durezza °F:
+ph,Concentraz. ioni idrogeno (pH) unità pH:
+calcio,Calcio mg/L:
+sodio,Sodio mg/L:
+magnesio,Magnesio mg/L:
+potassio,Potassio mg/L:
+solfato,Solfato mg/L:
+nitrato,Nitrato (NO2-) mg/L:
+nitrito,Nitrito (NO2) mg/L:
+cloruro,Cloruro mg/L:
+conducibilita,Conduttività µS/cm a 20°C:
+fluoruri,Fluoruro mg/L:
+ammoniaca,Ammonio mg/L:
+manganese,Manganese µg/L:
+arsenico,Arsenico µg/L:
+bicarbonato,Alcalinità da bicarbonati mg/L:
+cloro_residuo,Cloro residuo libero mg/L:

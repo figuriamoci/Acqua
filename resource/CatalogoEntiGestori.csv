@@ -66,11 +66,17 @@ Piemonte,TO,Torino,SMAT Società Acque Metropolitane di Torino,SMATTorino,https:
 Piemonte,VC,Vercelli,ASM Vercelli S.p.A.,ASMVercelli,https://www.asmvercelli.it/,https://www.asmvercelli.it/Idrico/Qualita-e-tariffe/Livelli-di-qualita.html,HTML,PER_COMUNE,SEMESTRALE,2019,BASSO,,1
 Piemonte,NO,Novara,Acqua Novara.VCO S.p.a.,AcquaNovara,https://www.acquanovaravco.eu/,https://www.acquanovaravco.eu/AnalisiAcqua?id=qualita-dell-acqua,HTML,PER_COMUNE,SEMESTRALE,2018,BASSO,Il sito compara fa la comparazione con le acque commerciali,1
 Piemonte,CN,Cuneo,Azienda Cuneese dellAcqua S.p.A.,CuneeseAcqua,https://www.acda.it/,https://www.acda.it/analisi-delle-acque/,HTML,PER_COMUNE,SEMESTRALE,2019,BASSO,,1
+Piemonte,CN,Cuneo,Iren S.p.A.,IrenPiemonte,https://www.irenacqua.it,https://www.irenacqua.it/qualita-dell-acqua,HTML,PER_QUARTIERE,SEMESTRALE,43647,BASSO,,1
+Piemonte,CN,Cuneo,TECNOEDIL S.p.A.,TECNOEDILCuneo,http://www.tecnoedilspa.it,http://www.egea.it/idrico/ciclo-idrico-integrato/analisi-tecnoedil/,PDF,PER_COMUNE,ANNUALE,2017,ELEVATO,,4
+Piemonte,CN,Cuneo,Società Intercomunale Servizi Idrici S.r.l.,SISIAcqueAlba,https://www.sisiacque.it,https://www.sisiacque.it/?page_id=4117,PDF,PER_COMUNE,SEMETRALE,2019,MEDIO,,2
+Piemonte,CN,Cuneo,Alpi Acque S.p.A.,AlpiAcqueCuneo,http://www.alpiacque.it,http://www.alpiacque.it/Sportello-utenti,PDF,PER_COMUNE,SEMETRALE,2020,MEDIO,,2
+Piemonte,AL,Alessandria,Gestione Acqua S.p.A.,GestAcquaAlessandria,https://www.gestioneacqua.it,https://www.gestioneacqua.it/servizi/qualita-dellacqua/,HTML,PER_COMUNE,ANNUALE,2019,MEDIO,,2
 Piemonte,AT,Asti,ASTI SERVIZI PUBBLICI S.P.A.,ASPAsti,https://www.asp.asti.it/idrico-integrato/,https://www.asp.asti.it/idrico-integrato/acquedotto/qualita-dellacqua/,PDF,PER_COMUNE,SEMESTRALE,2019,MEDIO,Inclusa mappa zone servite dal'acquedotto,2
+Piemonte,AT,Asti,ACQUEDOTTO DELLA PIANA S.P.A.,ACQPianaAsti,https://www.acquedottopiana.it,https://www.acquedottopiana.it/l-acqua,PDF,PER_COMUNE,SEMESTRALE,2019,BASSO,,1
 Piemonte,AL,Alessandria,AMAG SPA,AMAGAlessandria,https://www.gruppoamag.it/,http://www.gruppoamag.it/laboratorio-analisi/,HTML,PER_COMUNE,SEMESTRALE,2020,BASSO,,1
+Piemonte,AL,Alessandria,Azienda Multiservizi Casalese S.p.A.,AMCASALE,www.amcasale.it,https://www.amcasale.it/it/la-tua-acqua/composizione-analitica-dell-acqua.html,PDF,PER_COMUNE,SEMESTRALE,2019,BASSO,,1
 Piemonte,BI,Biella,Cordar S.p.A.,CordarBiella,https://www.cordarbiella.it/,http://www2.cordarbiella.it/altro/analisi_comuni/index.php?sezione=2&sottosezione=1&menu=7,HTML,PER_ZONA,SEMESTRALE,2019,ELEVATO,,3
 Piemonte,VB,Verbano-Cusio-Ossola,Idrablu S.p.A.,IdraBluVerbano,www.idrablu.it,http://www.idrablu.it/qualita-e-sicurezza-dellacqua/,,,,,BASSO,,1
-Piemonte,CU,Cuneo,Iren S.p.A.,IrenPiemonte,https://www.irenacqua.it,https://www.irenacqua.it/qualita-dell-acqua,HTML,PER_QUARTIERE,SEMESTRALE,43647,BASSO,,1
 Puglia,FG,Foggia,Acquedotto Pugliese S.p.A.,,http://www.aqp.it/portal/page/portal/MYAQP,http://www.aqp.it/portal/page/portal/MYAQP/SERVIZI/Qualita_Acqua,HTML,PER_COMUNE,SEMESTRALE,?,MEDIO,,
 Puglia,BA,Bari,Acquedotto Pugliese S.p.A.,,http://www.aqp.it/portal/page/portal/MYAQP,http://www.aqp.it/portal/page/portal/MYAQP/SERVIZI/Qualita_Acqua,HTML,PER_COMUNE,SEMESTRALE,?,MEDIO,,
 Puglia,TA,Taranto,Acquedotto Pugliese S.p.A.,,http://www.aqp.it/portal/page/portal/MYAQP,http://www.aqp.it/portal/page/portal/MYAQP/SERVIZI/Qualita_Acqua,HTML,PER_COMUNE,SEMESTRALE,?,MEDIO,,
