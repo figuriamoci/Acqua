@@ -1,0 +1,67 @@
+alias_address,alias_city,geocode,geometry,georeferencingString,type
+Comune,Cantalupo,"Cantalupo Ligure, AL","{'type': 'Point', 'coordinates': [9.045520000000067, 44.718470000000025]}","Cantalupo ligure, AL, Piemonte",POINT
+Comune,Castelnuovo,"Castelnuovo Scrivia, AL","{'type': 'Point', 'coordinates': [8.885250000000042, 44.98033000000004]}","Castelnuovo Scrivia, AL, Piemonte",POINT
+Comune,Rocchetta,"Rocchetta, Pontestura, AL","{'type': 'Point', 'coordinates': [8.302910000000054, 45.13719000000003]}","Rocchetta, AL, Piemonte",POINT
+Comune,Serravalle,"Serravalle Scrivia, AL","{'type': 'Point', 'coordinates': [8.85686000000004, 44.72426000000007]}","Serravalle Scrivia, AL, Piemonte",POINT
+Comune,Volpedo,"Volpedo, AL","{'type': 'Point', 'coordinates': [8.984250000000031, 44.88943000000006]}","Volpedo, AL, Piemonte",POINT
+Comune,Berzano,"Berzano di Tortona, AL","{'type': 'Point', 'coordinates': [8.950480000000027, 44.876220000000046]}","Berzano di Tortona, AL, Piemonte",POINT
+Comune,Cabella,"Cabella Ligure, AL","{'type': 'Point', 'coordinates': [9.093950000000063, 44.67431000000005]}","Cabella Ligure, AL, Piemonte",POINT
+Comune,Isola S.Antonio,"Isola Sant'Antonio, AL","{'type': 'Point', 'coordinates': [8.850140000000067, 45.03063000000003]}","Isola Sant'Antonio, AL, Piemonte",POINT
+Comune,Albera,"Albera Ligure, AL","{'type': 'Point', 'coordinates': [9.066050000000075, 44.70226000000008]}","Albera Ligure, AL, Piemonte",POINT
+Comune,Fabbrica Curone,"Fabbrica Curone, AL","{'type': 'Point', 'coordinates': [9.147710000000075, 44.78467000000006]}","Fabbrica Curone, AL, Piemonte",POINT
+Comune,Alluvioni Piovera,"Alluvioni Piovera, AL","{'type': 'Point', 'coordinates': [8.792680000000075, 45.00039000000004]}","Alluvioni Piovera, AL, Piemonte",POINT
+Comune,Alzano Scrivia,"Alzano Scrivia, AL","{'type': 'Point', 'coordinates': [8.88450000000006, 45.018230000000074]}","Alzano Scrivia, AL, Piemonte",POINT
+Comune,Arquata Scrivia,"Arquata Scrivia, AL","{'type': 'Point', 'coordinates': [8.889610000000062, 44.68560000000008]}","Arquata Scrivia, AL, Piemonte",POINT
+Comune,Avolasca,"Avolasca, AL","{'type': 'Point', 'coordinates': [8.965020000000038, 44.80427000000003]}","Avolasca, AL, Piemonte",POINT
+Comune,Basaluzzo,"Basaluzzo, AL","{'type': 'Point', 'coordinates': [8.70560000000006, 44.76642000000004]}","Basaluzzo, AL, Piemonte",POINT
+Comune,Borghetto di Borbera,"Borghetto di Borbera, AL","{'type': 'Point', 'coordinates': [8.95121000000006, 44.730620000000044]}","Borghetto di Borbera, AL, Piemonte",POINT
+Comune,Bosco Marengo,"Bosco Marengo, AL","{'type': 'Point', 'coordinates': [8.680250000000058, 44.82275000000004]}","Bosco Marengo, AL, Piemonte",POINT
+Comune,Brignano,"Brignano, Brignano-Frascata, AL","{'type': 'Point', 'coordinates': [9.04018000000002, 44.81479000000007]}","Brignano, AL, Piemonte",POINT
+Comune,Capriata D’Orba,"Capriata d'Orba, AL","{'type': 'Point', 'coordinates': [8.686920000000043, 44.73396000000008]}","Capriata D’Orba, AL, Piemonte",POINT
+Comune,Carbonara Scrivia,"Carbonara Scrivia, AL","{'type': 'Point', 'coordinates': [8.86972000000003, 44.84851000000003]}","Carbonara Scrivia, AL, Piemonte",POINT
+Comune,Carezzano,"Carezzano, AL","{'type': 'Point', 'coordinates': [8.899890000000028, 44.807900000000075]}","Carezzano, AL, Piemonte",POINT
+Comune,Casasco,"Casasco, AL","{'type': 'Point', 'coordinates': [9.005180000000053, 44.82820000000004]}","Casasco, AL, Piemonte",POINT
+Comune,Cassano Spinola,"Cassano Spinola, AL","{'type': 'Point', 'coordinates': [8.86298000000005, 44.766950000000065]}","Cassano Spinola, AL, Piemonte",POINT
+Comune,Castellania,"Castellania, AL","{'type': 'Point', 'coordinates': [8.929830000000038, 44.79866000000004]}","Castellania, AL, Piemonte",POINT
+Comune,Castellar Guidobono,"Castellar Guidobono, AL","{'type': 'Point', 'coordinates': [8.950890000000072, 44.90608000000003]}","Castellar Guidobono, AL, Piemonte",POINT
+Comune,Castellazzo Bormida,"Castellazzo Bormida, AL","{'type': 'Point', 'coordinates': [8.576760000000036, 44.84690000000006]}","Castellazzo Bormida, AL, Piemonte",POINT
+Comune,Castelletto D’Orba,"Castelletto d'Orba, AL","{'type': 'Point', 'coordinates': [8.698770000000025, 44.68603000000007]}","Castelletto D’Orba, AL, Piemonte",POINT
+Comune,Cerreto Grue,"Cerreto Grue, AL","{'type': 'Point', 'coordinates': [8.93360000000007, 44.84166000000005]}","Cerreto Grue, AL, Piemonte",POINT
+Comune,Dernice,"Dernice, AL","{'type': 'Point', 'coordinates': [9.051690000000065, 44.768680000000074]}","Dernice, AL, Piemonte",POINT
+Comune,Fraconalto,"Fraconalto, AL","{'type': 'Point', 'coordinates': [8.879680000000064, 44.59119000000004]}","Fraconalto, AL, Piemonte",POINT
+Comune,Francavilla Bisio,"Francavilla Bisio, AL","{'type': 'Point', 'coordinates': [8.734120000000075, 44.73332000000005]}","Francavilla Bisio, AL, Piemonte",POINT
+Comune,Frugarolo,"Frugarolo, AL","{'type': 'Point', 'coordinates': [8.680310000000077, 44.83791000000008]}","Frugarolo, AL, Piemonte",POINT
+Comune,Garbagna,"Garbagna, AL","{'type': 'Point', 'coordinates': [8.998730000000023, 44.78245000000004]}","Garbagna, AL, Piemonte",POINT
+Comune,Gavazzana,"Gavazzana, Cassano Spinola, AL","{'type': 'Point', 'coordinates': [8.888130000000046, 44.77467000000007]}","Gavazzana, AL, Piemonte",POINT
+Comune,Gavi,"Gavi, AL","{'type': 'Point', 'coordinates': [8.80678000000006, 44.68831000000006]}","Gavi, AL, Piemonte",POINT
+Comune,Gremiasco,"Gremiasco, AL","{'type': 'Point', 'coordinates': [9.10555000000005, 44.79684000000003]}","Gremiasco, AL, Piemonte",POINT
+Comune,Grondona,"Grondona, AL","{'type': 'Point', 'coordinates': [8.967660000000024, 44.697730000000035]}","Grondona, AL, Piemonte",POINT
+Comune,Guazzora,"Guazzora, AL","{'type': 'Point', 'coordinates': [8.843830000000025, 45.013180000000034]}","Guazzora, AL, Piemonte",POINT
+Comune,Masio,"Masio, AL","{'type': 'Point', 'coordinates': [8.410450000000026, 44.87059000000005]}","Masio, AL, Piemonte",POINT
+Comune,Molino dei Torti,"Molino dei Torti, AL","{'type': 'Point', 'coordinates': [8.892640000000029, 45.02508000000006]}","Molino dei Torti, AL, Piemonte",POINT
+Comune,Momperone,"Momperone, AL","{'type': 'Point', 'coordinates': [9.033420000000035, 44.83800000000008]}","Momperone, AL, Piemonte",POINT
+Comune,Monleale,"Monleale, AL","{'type': 'Point', 'coordinates': [8.974240000000066, 44.883110000000045]}","Monleale, AL, Piemonte",POINT
+Comune,Montacuto,"Montacuto, AL","{'type': 'Point', 'coordinates': [9.106380000000058, 44.76701000000003]}","Montacuto, AL, Piemonte",POINT
+Comune,Montemarzino,"Montemarzino, AL","{'type': 'Point', 'coordinates': [8.991700000000037, 44.84898000000004]}","Montemarzino, AL, Piemonte",POINT
+Comune,Novi Ligure,"Novi Ligure, AL","{'type': 'Point', 'coordinates': [8.785880000000077, 44.761970000000076]}","Novi Ligure, AL, Piemonte",POINT
+Comune,Ovada,"Ovada, AL","{'type': 'Point', 'coordinates': [8.644690000000026, 44.63998000000004]}","Ovada, AL, Piemonte",POINT
+Comune,Paderna,"Paderna, AL","{'type': 'Point', 'coordinates': [8.892010000000028, 44.82101000000006]}","Paderna, AL, Piemonte",POINT
+Comune,Parodi Ligure,"Parodi Ligure, AL","{'type': 'Point', 'coordinates': [8.758820000000071, 44.668660000000045]}","Parodi Ligure, AL, Piemonte",POINT
+Comune,Pasturana,"Pasturana, AL","{'type': 'Point', 'coordinates': [8.753750000000025, 44.75000000000006]}","Pasturana, AL, Piemonte",POINT
+Comune,Pontecurone,"Pontecurone, AL","{'type': 'Point', 'coordinates': [8.933910000000026, 44.961640000000045]}","Pontecurone, AL, Piemonte",POINT
+Comune,Pozzol Groppo,"Pozzol Groppo, AL","{'type': 'Point', 'coordinates': [9.029160000000047, 44.87724000000003]}","Pozzol Groppo, AL, Piemonte",POINT
+Comune,Pozzolo Formigaro,"Pozzolo Formigaro, AL","{'type': 'Point', 'coordinates': [8.78212000000002, 44.79583000000008]}","Pozzolo Formigaro, AL, Piemonte",POINT
+Comune,Predosa,"Predosa, AL","{'type': 'Point', 'coordinates': [8.658620000000042, 44.75463000000008]}","Predosa, AL, Piemonte",POINT
+Comune,Rivalta Bormida,"Rivalta Bormida, AL","{'type': 'Point', 'coordinates': [8.55063000000007, 44.71604000000008]}","Rivalta Bormida, AL, Piemonte",POINT
+Comune,Rocca Grimalda,"Rocca Grimalda, AL","{'type': 'Point', 'coordinates': [8.646530000000041, 44.67047000000008]}","Rocca Grimalda, AL, Piemonte",POINT
+Comune,San Cristoforo,"San Cristoforo, AL","{'type': 'Point', 'coordinates': [8.749370000000056, 44.69253000000003]}","San Cristoforo, AL, Piemonte",POINT
+Comune,Sant’Agata Fossili,"Sant'Agata Fossili, AL","{'type': 'Point', 'coordinates': [8.92058000000003, 44.78278000000006]}","Sant’Agata Fossili, AL, Piemonte",POINT
+Comune,Sarezzano,"Sarezzano, AL","{'type': 'Point', 'coordinates': [8.918670000000077, 44.86904000000004]}","Sarezzano, AL, Piemonte",POINT
+Comune,Silvano D’Orba,"Silvano d'Orba, AL","{'type': 'Point', 'coordinates': [8.671600000000069, 44.685460000000035]}","Silvano D’Orba, AL, Piemonte",POINT
+Comune,Spineto Scrivia,"Spineto Scrivia, AL","{'type': 'Point', 'coordinates': [8.870160000000055, 44.83830000000006]}","Spineto Scrivia, AL, Piemonte",POINT
+Comune,Stazzano,"Stazzano, AL","{'type': 'Point', 'coordinates': [8.875340000000051, 44.73068000000006]}","Stazzano, AL, Piemonte",POINT
+Comune,Strevi,"Strevi, AL","{'type': 'Point', 'coordinates': [8.523020000000031, 44.699310000000025]}","Strevi, AL, Piemonte",POINT
+Comune,Tassarolo,"Tassarolo, AL","{'type': 'Point', 'coordinates': [8.769770000000051, 44.725910000000056]}","Tassarolo, AL, Piemonte",POINT
+Comune,Tortona,"Tortona, AL","{'type': 'Point', 'coordinates': [8.865660000000048, 44.90044000000006]}","Tortona, AL, Piemonte",POINT
+Comune,Vignole Borbera,"Vignole Borbera, AL","{'type': 'Point', 'coordinates': [8.89047000000005, 44.70795000000004]}","Vignole Borbera, AL, Piemonte",POINT
+Comune,Viguzzolo,"Viguzzolo, AL","{'type': 'Point', 'coordinates': [8.915720000000022, 44.90732000000003]}","Viguzzolo, AL, Piemonte",POINT

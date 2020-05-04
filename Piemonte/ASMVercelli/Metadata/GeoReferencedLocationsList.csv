@@ -1,0 +1,33 @@
+alias_address,alias_city,geocode,geometry,georeferencingString,type
+Comune,San Germano,"San Germano Vercellese, Vercelli","{'type': 'Point', 'coordinates': [8.250770000000045, 45.34925000000004]}","San Germano vercellese, Vercelli, Piemonte",POINT
+Comune,Asigliano,"Asigliano Vercellese, Vercelli","{'type': 'Point', 'coordinates': [8.412670000000048, 45.26324000000005]}","Asigliano Vercellese, Vercelli, Piemonte",POINT
+Comune,Palazzolo,"Palazzolo Vercellese, Vercelli","{'type': 'Point', 'coordinates': [8.231340000000046, 45.186210000000074]}","Palazzolo Vercellese, Vercelli, Piemonte",POINT
+Comune,Sali,"Sali Vercellese, Vercelli","{'type': 'Point', 'coordinates': [8.329340000000059, 45.309210000000064]}","Sali Vercellese, Vercelli, Piemonte",POINT
+Comune,Vercelli,Vercelli,"{'type': 'Point', 'coordinates': [8.418430000000058, 45.322640000000035]}","Vercelli, Piemonte",POINT
+Comune,Bianzè,"Bianzè, Vercelli","{'type': 'Point', 'coordinates': [8.121960000000058, 45.30762000000004]}","Bianzè, Vercelli, Piemonte",POINT
+Comune,Borgo Vercelli,"Borgo Vercelli, Vercelli","{'type': 'Point', 'coordinates': [8.475100000000054, 45.36119000000008]}","Borgo Vercelli, Vercelli, Piemonte",POINT
+Comune,Caresana,"Caresana, Vercelli","{'type': 'Point', 'coordinates': [8.502750000000049, 45.22231000000005]}","Caresana, Vercelli, Piemonte",POINT
+Comune,Caresanablot,"Caresanablot, Vercelli","{'type': 'Point', 'coordinates': [8.387260000000026, 45.35874000000007]}","Caresanablot, Vercelli, Piemonte",POINT
+Comune,Casanova Elvo,"Casanova Elvo, Vercelli","{'type': 'Point', 'coordinates': [8.292010000000062, 45.400630000000035]}","Casanova Elvo, Vercelli, Piemonte",POINT
+Comune,Cigliano,"Cigliano, Vercelli","{'type': 'Point', 'coordinates': [8.020950000000028, 45.30967000000004]}","Cigliano, Vercelli, Piemonte",POINT
+Comune,Collobiano,"Collobiano, Vercelli","{'type': 'Point', 'coordinates': [8.34764000000007, 45.39691000000005]}","Collobiano, Vercelli, Piemonte",POINT
+Comune,Costanzana,"Costanzana, Vercelli","{'type': 'Point', 'coordinates': [8.369430000000023, 45.238240000000076]}","Costanzana, Vercelli, Piemonte",POINT
+Comune,Desana,"Desana, Vercelli","{'type': 'Point', 'coordinates': [8.359000000000037, 45.270020000000045]}","Desana, Vercelli, Piemonte",POINT
+Comune,Lamporo,"Lamporo, Vercelli","{'type': 'Point', 'coordinates': [8.097520000000031, 45.23050000000006]}","Lamporo, Vercelli, Piemonte",POINT
+Comune,Lignana,"Lignana, Vercelli","{'type': 'Point', 'coordinates': [8.346910000000037, 45.28698000000003]}","Lignana, Vercelli, Piemonte",POINT
+Comune,Motta de' Conti,"Motta de' Conti, Vercelli","{'type': 'Point', 'coordinates': [8.520070000000032, 45.19164000000006]}","Motta de' Conti, Vercelli, Piemonte",POINT
+Comune,Olcenengo,"Olcenengo, Vercelli","{'type': 'Point', 'coordinates': [8.311140000000023, 45.36267000000004]}","Olcenengo, Vercelli, Piemonte",POINT
+Comune,Oldenico,"Oldenico, Vercelli","{'type': 'Point', 'coordinates': [8.37874000000005, 45.40330000000006]}","Oldenico, Vercelli, Piemonte",POINT
+Comune,Pertengo,"Pertengo, Vercelli","{'type': 'Point', 'coordinates': [8.415640000000053, 45.236060000000066]}","Pertengo, Vercelli, Piemonte",POINT
+Comune,Pezzana,"Pezzana, Vercelli","{'type': 'Point', 'coordinates': [8.485630000000072, 45.26619000000005]}","Pezzana, Vercelli, Piemonte",POINT
+Comune,Prarolo,"Prarolo, Vercelli","{'type': 'Point', 'coordinates': [8.477180000000033, 45.28363000000007]}","Prarolo, Vercelli, Piemonte",POINT
+Comune,Quinto Vercellese,"Quinto Vercellese, Vercelli","{'type': 'Point', 'coordinates': [8.358740000000068, 45.38206000000008]}","Quinto Vercellese, Vercelli, Piemonte",POINT
+Comune,Rive,"Rive, Vercelli","{'type': 'Point', 'coordinates': [8.41778000000005, 45.216630000000066]}","Rive, Vercelli, Piemonte",POINT
+Comune,Ronsecco,"Ronsecco, Vercelli","{'type': 'Point', 'coordinates': [8.277900000000045, 45.25350000000003]}","Ronsecco, Vercelli, Piemonte",POINT
+Comune,Salasco,"Salasco, Vercelli","{'type': 'Point', 'coordinates': [8.260710000000074, 45.32580000000007]}","Salasco, Vercelli, Piemonte",POINT
+Comune,Saluggia,"Saluggia, Vercelli","{'type': 'Point', 'coordinates': [8.011760000000038, 45.23566000000005]}","Saluggia, Vercelli, Piemonte",POINT
+Comune,Stroppiana,"Stroppiana, Vercelli","{'type': 'Point', 'coordinates': [8.456330000000037, 45.236380000000054]}","Stroppiana, Vercelli, Piemonte",POINT
+Comune,Tricerro,"Tricerro, Vercelli","{'type': 'Point', 'coordinates': [8.327680000000043, 45.23601000000008]}","Tricerro, Vercelli, Piemonte",POINT
+Comune,Trino,"Trino, Vercelli","{'type': 'Point', 'coordinates': [8.297460000000058, 45.19420000000008]}","Trino, Vercelli, Piemonte",POINT
+Comune,Tronzano,"Via per Tronzano, 13040, Crova, Vercelli","{'type': 'Point', 'coordinates': [8.204722288531938, 45.33277386200647]}","Tronzano, Vercelli, Piemonte",POINT
+Comune,Villata,"Villata, Vercelli","{'type': 'Point', 'coordinates': [8.43291000000005, 45.38504000000006]}","Villata, Vercelli, Piemonte",POINT

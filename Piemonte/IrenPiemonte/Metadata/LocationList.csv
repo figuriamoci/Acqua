@@ -1,0 +1,23 @@
+alias_province,alias_city,alias_address,alias_address_value,georeferencingString,type
+AL,ALICE BEL COLLE,Tutte Le LocalitÀ,561,", ALICE BEL COLLE, AL, Piemonte",POINT
+AL,OVADA,Tutte Le Altre LocalitÀ,555,"OVADA, AL, Piemonte",POINT
+AL,OVADA,Gnocchetto,556,"Gnocchetto, OVADA, AL, Piemonte",POINT
+AL,OVADA,LocalitÀ  Costa,558,"LocalitÀ  Costa, OVADA, AL, Piemonte",POINT
+AL,RICALDONE,Tutte Le LocalitÀ,560,", RICALDONE, AL, Piemonte",POINT
+AL,SEZZADIO,Tutte Le LocalitÀ,562,", SEZZADIO, AL, Piemonte",POINT
+AL,STREVI,Tutte Le LocalitÀ,563,", STREVI, AL, Piemonte",POINT
+AL,TRISOBBIO,Cascina Bruciata,559,"TRISOBBIO, AL, Piemonte",POINT
+AL,VISONE,Tutte Le LocalitÀ,564,", VISONE, AL, Piemonte",POINT
+AT,CANELLI,Tutte Le LocalitÀ,439,", CANELLI, AT, Piemonte",POINT
+AT,CANTARANA,Tutte Le LocalitÀ,440,", CANTARANA, AT, Piemonte",POINT
+AT,FERRERE,Tutte Le LocalitÀ,441,", FERRERE, AT, Piemonte",POINT
+AT,FERRERE,S. Rocco,447,"S. Rocco, FERRERE, AT, Piemonte",POINT
+AT,MONTAFIA,Tutte Le LocalitÀ,442,", MONTAFIA, AT, Piemonte",POINT
+AT,NIZZA MONFERRATO,Tutte Le LocalitÀ,443,", NIZZA MONFERRATO, AT, Piemonte",POINT
+AT,VILLAFRANCA D'ASTI,Tutte Le LocalitÀ,444,", VILLAFRANCA D'ASTI, AT, Piemonte",POINT
+CN,CERESOLE ALBA,Tutte Le LocalitÀ,445,", CERESOLE ALBA, CN, Piemonte",POINT
+CN,COSTIGLIOLE SALUZZO,Tutte Le LocalitÀ,446,", COSTIGLIOLE SALUZZO, CN, Piemonte",POINT
+CN,RACCONIGI,Tutte Le LocalitÀ,448,", RACCONIGI, CN, Piemonte",POINT
+CN,SANFRE',Tutte Le LocalitÀ,449,", SANFRE', CN, Piemonte",POINT
+NO,SAN PIETRO MOSEZZO,Tutte Le LocalitÀ,452,", SAN PIETRO MOSEZZO, NO, Piemonte",POINT
+VC,LAMPORO,Lamporo,451,"Lamporo, LAMPORO, VC, Piemonte",POINT

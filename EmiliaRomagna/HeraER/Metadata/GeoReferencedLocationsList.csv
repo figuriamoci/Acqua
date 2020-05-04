@@ -1,0 +1,163 @@
+alias_address,alias_city,geocode,geometry,georeferencingString,type
+Comune,Alto Reno - loc. Porretta Terme,"Porretta Terme, Alto Reno Terme, Bologna","{'type': 'Point', 'coordinates': [10.975550000000055, 44.158300000000054]}","Alto Reno - loc. Porretta Terme, Emilia Romagna",POINT
+Comune,Anzola dell'Emilia,"Anzola dell'Emilia, Bologna","{'type': 'Point', 'coordinates': [11.193010000000072, 44.54613000000006]}","Anzola dell'Emilia, Emilia Romagna",POINT
+Comune,Argelato,"Argelato, Bologna","{'type': 'Point', 'coordinates': [11.343650000000025, 44.64567000000005]}","Argelato, Emilia Romagna",POINT
+Comune,Argenta,"Argenta, Ferrara","{'type': 'Point', 'coordinates': [11.83224000000007, 44.61412000000007]}","Argenta, Emilia Romagna",POINT
+Comune,Alfonsine,"Alfonsine, Ravenna","{'type': 'Point', 'coordinates': [12.044170000000065, 44.50609000000003]}","Alfonsine, Emilia Romagna",POINT
+Comune,Baricella,"Baricella, Bologna","{'type': 'Point', 'coordinates': [11.53761000000003, 44.64888000000008]}","Baricella, Emilia Romagna",POINT
+Comune,Bentivoglio,"Bentivoglio, Bologna","{'type': 'Point', 'coordinates': [11.415470000000028, 44.63627000000008]}","Bentivoglio, Emilia Romagna",POINT
+Comune,Bologna,Bologna,"{'type': 'Point', 'coordinates': [11.345070000000021, 44.50484000000006]}","Bologna, Emilia Romagna",POINT
+Comune,Borgo Tossignano,"Borgo Tossignano, Bologna","{'type': 'Point', 'coordinates': [11.588480000000061, 44.27839000000006]}","Borgo Tossignano, Emilia Romagna",POINT
+Comune,Budrio,"Budrio, Bologna","{'type': 'Point', 'coordinates': [11.528190000000052, 44.54209000000003]}","Budrio, Emilia Romagna",POINT
+Comune,Bondeno,"Bondeno, Ferrara","{'type': 'Point', 'coordinates': [11.410960000000046, 44.89098000000007]}","Bondeno, Emilia Romagna",POINT
+Comune,Bagnacavallo,"Bagnacavallo, Ravenna","{'type': 'Point', 'coordinates': [11.979600000000062, 44.41823000000005]}","Bagnacavallo, Emilia Romagna",POINT
+Comune,Bagnara di Romagna,"Bagnara di Romagna, Ravenna","{'type': 'Point', 'coordinates': [11.826200000000028, 44.390570000000025]}","Bagnara di Romagna, Emilia Romagna",POINT
+Comune,Brisighella,"Brisighella, Ravenna","{'type': 'Point', 'coordinates': [11.775770000000023, 44.223610000000065]}","Brisighella, Emilia Romagna",POINT
+Comune,Bellaria-Igea Marina,"Bellaria-Igea Marina, Rimini","{'type': 'Point', 'coordinates': [12.453130000000044, 44.15721000000008]}","Bellaria-Igea Marina, Emilia Romagna",POINT
+Comune,Bagno di Romagna,"Bagno di Romagna, Forlì-Cesena","{'type': 'Point', 'coordinates': [11.959950000000049, 43.83644000000004]}","Bagno di Romagna, Emilia Romagna",POINT
+Comune,Bertinoro,"Bertinoro, Forlì-Cesena","{'type': 'Point', 'coordinates': [12.133510000000058, 44.14928000000003]}","Bertinoro, Emilia Romagna",POINT
+Comune,Borghi,"Borghi, Forlì-Cesena","{'type': 'Point', 'coordinates': [12.35710000000006, 44.03188000000006]}","Borghi, Emilia Romagna",POINT
+Comune,Calderara di Reno,"Calderara di Reno, Bologna","{'type': 'Point', 'coordinates': [11.271120000000053, 44.56332000000003]}","Calderara di Reno, Emilia Romagna",POINT
+Comune,Camugnano,"Camugnano, Bologna","{'type': 'Point', 'coordinates': [11.09686000000005, 44.17210000000006]}","Camugnano, Emilia Romagna",POINT
+Comune,Casalecchio di Reno,"Casalecchio di Reno, Bologna","{'type': 'Point', 'coordinates': [11.278570000000059, 44.48037000000005]}","Casalecchio di Reno, Emilia Romagna",POINT
+Comune,Casalfiumanese,"Casalfiumanese, Bologna","{'type': 'Point', 'coordinates': [11.631400000000042, 44.29913000000005]}","Casalfiumanese, Emilia Romagna",POINT
+Comune,Castel d'Aiano,"Castel d'Aiano, Bologna","{'type': 'Point', 'coordinates': [11.001330000000053, 44.28025000000008]}","Castel d'Aiano, Emilia Romagna",POINT
+Comune,Castel Del Rio,"Castel del Rio, Bologna","{'type': 'Point', 'coordinates': [11.504510000000039, 44.21099000000004]}","Castel Del Rio, Emilia Romagna",POINT
+Comune,Castel di Casio,"Castel di Casio, Bologna","{'type': 'Point', 'coordinates': [11.035840000000064, 44.16348000000005]}","Castel di Casio, Emilia Romagna",POINT
+Comune,Castel Guelfo di Bologna,"Castel Guelfo di Bologna, Bologna","{'type': 'Point', 'coordinates': [11.676420000000064, 44.433190000000025]}","Castel Guelfo di Bologna, Emilia Romagna",POINT
+Comune,Castel Maggiore,"Castel Maggiore, Bologna","{'type': 'Point', 'coordinates': [11.363140000000044, 44.574380000000076]}","Castel Maggiore, Emilia Romagna",POINT
+Comune,Castel San Pietro Terme,"Castel San Pietro Terme, Bologna","{'type': 'Point', 'coordinates': [11.587200000000053, 44.40180000000004]}","Castel San Pietro Terme, Emilia Romagna",POINT
+Comune,Castello d'Argile,"Castello d'Argile, Bologna","{'type': 'Point', 'coordinates': [11.297840000000065, 44.68077000000005]}","Castello d'Argile, Emilia Romagna",POINT
+Comune,Castenaso,"Castenaso, Bologna","{'type': 'Point', 'coordinates': [11.468990000000076, 44.50894000000005]}","Castenaso, Emilia Romagna",POINT
+Comune,Castiglione dei Pepoli,"Castiglione dei Pepoli, Bologna","{'type': 'Point', 'coordinates': [11.15280000000007, 44.141440000000046]}","Castiglione dei Pepoli, Emilia Romagna",POINT
+Comune,Cento,"Cento, Ferrara","{'type': 'Point', 'coordinates': [11.290460000000053, 44.731400000000065]}","Cento, Emilia Romagna",POINT
+Comune,Castelfranco Emilia,"Castelfranco Emilia, Modena","{'type': 'Point', 'coordinates': [11.052550000000053, 44.595020000000034]}","Castelfranco Emilia, Emilia Romagna",POINT
+Comune,Castelnuovo Rangone,"Castelnuovo Rangone, Modena","{'type': 'Point', 'coordinates': [10.939090000000022, 44.54898000000003]}","Castelnuovo Rangone, Emilia Romagna",POINT
+Comune,Castelvetro di Modena,"Castelvetro di Modena, Modena","{'type': 'Point', 'coordinates': [10.94431000000003, 44.50452000000007]}","Castelvetro di Modena, Emilia Romagna",POINT
+Comune,Casola Valsenio,"Casola Valsenio, Ravenna","{'type': 'Point', 'coordinates': [11.625600000000077, 44.22472000000005]}","Casola Valsenio, Emilia Romagna",POINT
+Comune,Castel Bolognese,"Castel Bolognese, Ravenna","{'type': 'Point', 'coordinates': [11.799830000000043, 44.31950000000006]}","Castel Bolognese, Emilia Romagna",POINT
+Comune,Cervia,"Cervia, Ravenna","{'type': 'Point', 'coordinates': [12.345870000000048, 44.26010000000008]}","Cervia, Emilia Romagna",POINT
+Comune,Conselice,"Conselice, Ravenna","{'type': 'Point', 'coordinates': [11.831140000000062, 44.51359000000008]}","Conselice, Emilia Romagna",POINT
+Comune,Cotignola,"Cotignola, Ravenna","{'type': 'Point', 'coordinates': [11.935880000000054, 44.381950000000074]}","Cotignola, Emilia Romagna",POINT
+Comune,Casteldelci,"Casteldelci, Rimini","{'type': 'Point', 'coordinates': [12.15369000000004, 43.79221000000007]}","Casteldelci, Emilia Romagna",POINT
+Comune,Cattolica,"Cattolica, Rimini","{'type': 'Point', 'coordinates': [12.735500000000059, 43.96330000000006]}","Cattolica, Emilia Romagna",POINT
+Comune,Coriano,"Coriano, Rimini","{'type': 'Point', 'coordinates': [12.602080000000058, 43.965850000000046]}","Coriano, Emilia Romagna",POINT
+Comune,Castrocaro terme e Terra del sole,"Castrocaro Terme e Terra del Sole, Forlì-Cesena","{'type': 'Point', 'coordinates': [11.957520000000045, 44.183340000000044]}","Castrocaro terme e Terra del sole, Emilia Romagna",POINT
+Comune,Cesena,"Cesena, Forlì-Cesena","{'type': 'Point', 'coordinates': [12.23894000000007, 44.13868000000008]}","Cesena, Emilia Romagna",POINT
+Comune,Cesenatico,"Cesenatico, Forlì-Cesena","{'type': 'Point', 'coordinates': [12.40799000000004, 44.197850000000074]}","Cesenatico, Emilia Romagna",POINT
+Comune,Civitella di Romagna,"Civitella di Romagna, Forlì-Cesena","{'type': 'Point', 'coordinates': [11.939790000000073, 44.00654000000003]}","Civitella di Romagna, Emilia Romagna",POINT
+Comune,Dozza,"Dozza, Bologna","{'type': 'Point', 'coordinates': [11.640880000000038, 44.36318000000006]}","Dozza, Emilia Romagna",POINT
+Comune,Dovadola,"Dovadola, Forlì-Cesena","{'type': 'Point', 'coordinates': [11.888500000000022, 44.12259000000006]}","Dovadola, Emilia Romagna",POINT
+Comune,Fontanelice,"Fontanelice, Bologna","{'type': 'Point', 'coordinates': [11.561810000000037, 44.25980000000004]}","Fontanelice, Emilia Romagna",POINT
+Comune,Ferrara,Ferrara,"{'type': 'Point', 'coordinates': [11.619440000000054, 44.83839000000006]}","Ferrara, Emilia Romagna",POINT
+Comune,Fiorano Modenese,"Fiorano Modenese, Modena","{'type': 'Point', 'coordinates': [10.816360000000032, 44.53777000000008]}","Fiorano Modenese, Emilia Romagna",POINT
+Comune,Formigine,"Formigine, Modena","{'type': 'Point', 'coordinates': [10.84785000000005, 44.57258000000007]}","Formigine, Emilia Romagna",POINT
+Comune,Frassinoro,"Frassinoro, Modena","{'type': 'Point', 'coordinates': [10.572660000000042, 44.296640000000025]}","Frassinoro, Emilia Romagna",POINT
+Comune,Faenza,"Faenza, Ravenna","{'type': 'Point', 'coordinates': [11.888140000000021, 44.28388000000007]}","Faenza, Emilia Romagna",POINT
+Comune,Fusignano,"Fusignano, Ravenna","{'type': 'Point', 'coordinates': [11.964320000000043, 44.46674000000007]}","Fusignano, Emilia Romagna",POINT
+Comune,Firenzuola,"Via Firenzuola, 47121, Forlì, Forlì-Cesena","{'type': 'Point', 'coordinates': [12.005948250000007, 44.233523999999996]}","Firenzuola, Emilia Romagna",POINT
+Comune,Forlì,"Forlì, Forlì-Cesena","{'type': 'Point', 'coordinates': [12.04209000000003, 44.22822000000008]}","Forlì, Emilia Romagna",POINT
+Comune,Forlimpopoli,"Forlimpopoli, Forlì-Cesena","{'type': 'Point', 'coordinates': [12.125630000000058, 44.186540000000036]}","Forlimpopoli, Emilia Romagna",POINT
+Comune,Gaggio Montano,"Gaggio Montano, Bologna","{'type': 'Point', 'coordinates': [10.932150000000036, 44.19678000000005]}","Gaggio Montano, Emilia Romagna",POINT
+Comune,Galliera,"Galliera, Bologna","{'type': 'Point', 'coordinates': [11.39178000000004, 44.74957000000006]}","Galliera, Emilia Romagna",POINT
+Comune,Granarolo dell'Emilia,"Granarolo dell'Emilia, Bologna","{'type': 'Point', 'coordinates': [11.447990000000061, 44.553390000000036]}","Granarolo dell'Emilia, Emilia Romagna",POINT
+Comune,Grizzana Morandi,"Grizzana Morandi, Bologna","{'type': 'Point', 'coordinates': [11.152490000000057, 44.257510000000025]}","Grizzana Morandi, Emilia Romagna",POINT
+Comune,Guiglia,"Guiglia, Modena","{'type': 'Point', 'coordinates': [10.962380000000053, 44.424930000000074]}","Guiglia, Emilia Romagna",POINT
+Comune,Gemmano,"Gemmano, Rimini","{'type': 'Point', 'coordinates': [12.578980000000058, 43.903710000000046]}","Gemmano, Emilia Romagna",POINT
+Comune,Galeata,"Galeata, Forlì-Cesena","{'type': 'Point', 'coordinates': [11.910620000000051, 43.99676000000005]}","Galeata, Emilia Romagna",POINT
+Comune,Gambettola,"Gambettola, Forlì-Cesena","{'type': 'Point', 'coordinates': [12.339290000000062, 44.11591000000004]}","Gambettola, Emilia Romagna",POINT
+Comune,Gatteo,"Gatteo, Forlì-Cesena","{'type': 'Point', 'coordinates': [12.385230000000035, 44.10678000000007]}","Gatteo, Emilia Romagna",POINT
+Comune,Loiano,"Loiano, Bologna","{'type': 'Point', 'coordinates': [11.32149000000004, 44.270560000000046]}","Loiano, Emilia Romagna",POINT
+Comune,Lama Mocogno,"Lama Mocogno, Modena","{'type': 'Point', 'coordinates': [10.731380000000058, 44.30711000000008]}","Lama Mocogno, Emilia Romagna",POINT
+Comune,Lugo,"Lugo, Ravenna","{'type': 'Point', 'coordinates': [11.911580000000072, 44.42174000000006]}","Lugo, Emilia Romagna",POINT
+Comune,Longiano,"Longiano, Forlì-Cesena","{'type': 'Point', 'coordinates': [12.32794000000007, 44.07514000000003]}","Longiano, Emilia Romagna",POINT
+Comune,Malalbergo,"Malalbergo, Bologna","{'type': 'Point', 'coordinates': [11.536360000000059, 44.718830000000025]}","Malalbergo, Emilia Romagna",POINT
+Comune,Marzabotto,"Marzabotto, Bologna","{'type': 'Point', 'coordinates': [11.20315000000005, 44.34063000000003]}","Marzabotto, Emilia Romagna",POINT
+Comune,Medicina,"Medicina, Bologna","{'type': 'Point', 'coordinates': [11.635630000000049, 44.477460000000065]}","Medicina, Emilia Romagna",POINT
+Comune,Minerbio,"Minerbio, Bologna","{'type': 'Point', 'coordinates': [11.489370000000065, 44.62349000000006]}","Minerbio, Emilia Romagna",POINT
+Comune,Molinella,"Molinella, Bologna","{'type': 'Point', 'coordinates': [11.673830000000066, 44.61860000000007]}","Molinella, Emilia Romagna",POINT
+Comune,Monghidoro,"Monghidoro, Bologna","{'type': 'Point', 'coordinates': [11.31430000000006, 44.21930000000003]}","Monghidoro, Emilia Romagna",POINT
+Comune,Imola,"Imola, Bologna","{'type': 'Point', 'coordinates': [11.711010000000044, 44.35787000000005]}","Imola, Emilia Romagna",POINT
+Comune,Ozzano dell'Emilia,"Ozzano dell'Emilia, Bologna","{'type': 'Point', 'coordinates': [11.479880000000037, 44.443520000000035]}","Ozzano dell'Emilia, Emilia Romagna",POINT
+Comune,Monte San Pietro,"Monte San Pietro, Bologna","{'type': 'Point', 'coordinates': [11.135060000000067, 44.43807000000004]}","Monte San Pietro, Emilia Romagna",POINT
+Comune,Monterenzio,"Monterenzio, Bologna","{'type': 'Point', 'coordinates': [11.404750000000035, 44.32674000000003]}","Monterenzio, Emilia Romagna",POINT
+Comune,Monzuno,"Monzuno, Bologna","{'type': 'Point', 'coordinates': [11.264340000000061, 44.280590000000075]}","Monzuno, Emilia Romagna",POINT
+Comune,Mordano,"Mordano, Bologna","{'type': 'Point', 'coordinates': [11.810410000000047, 44.397890000000075]}","Mordano, Emilia Romagna",POINT
+Comune,Masi Torello,"Masi Torello, Ferrara","{'type': 'Point', 'coordinates': [11.789490000000058, 44.79800000000006]}","Masi Torello, Emilia Romagna",POINT
+Comune,Maranello,"Maranello, Modena","{'type': 'Point', 'coordinates': [10.870700000000056, 44.52722000000006]}","Maranello, Emilia Romagna",POINT
+Comune,Marano sul Panaro,"Marano sul Panaro, Modena","{'type': 'Point', 'coordinates': [10.96951000000007, 44.45656000000008]}","Marano sul Panaro, Emilia Romagna",POINT
+Comune,Modena,Modena,"{'type': 'Point', 'coordinates': [10.93381000000005, 44.643230000000074]}","Modena, Emilia Romagna",POINT
+Comune,Montecreto,"Montecreto, Modena","{'type': 'Point', 'coordinates': [10.718240000000037, 44.248980000000074]}","Montecreto, Emilia Romagna",POINT
+Comune,Montefiorino,"Montefiorino, Modena","{'type': 'Point', 'coordinates': [10.621870000000058, 44.35669000000007]}","Montefiorino, Emilia Romagna",POINT
+Comune,Massa Lombarda,"Massa Lombarda, Ravenna","{'type': 'Point', 'coordinates': [11.82421000000005, 44.44846000000007]}","Massa Lombarda, Emilia Romagna",POINT
+Comune,Misano Adriatico,"Misano Adriatico, Rimini","{'type': 'Point', 'coordinates': [12.694810000000075, 43.97453000000007]}","Misano Adriatico, Emilia Romagna",POINT
+Comune,Mondaino,"Mondaino, Rimini","{'type': 'Point', 'coordinates': [12.670480000000055, 43.85788000000008]}","Mondaino, Emilia Romagna",POINT
+Comune,Montefiore Conca,"Montefiore Conca, Rimini","{'type': 'Point', 'coordinates': [12.608610000000056, 43.890570000000025]}","Montefiore Conca, Emilia Romagna",POINT
+Comune,Montegridolfo,"Montegridolfo, Rimini","{'type': 'Point', 'coordinates': [12.684460000000058, 43.85887000000008]}","Montegridolfo, Emilia Romagna",POINT
+Comune,Montescudo - Monte Colombo,"Montescudo-Monte Colombo, Rimini","{'type': 'Point', 'coordinates': [12.554320000000075, 43.92176000000006]}","Montescudo - Monte Colombo, Emilia Romagna",POINT
+Comune,Morciano di Romagna,"Morciano di Romagna, Rimini","{'type': 'Point', 'coordinates': [12.645440000000065, 43.91390000000007]}","Morciano di Romagna, Emilia Romagna",POINT
+Comune,Marradi,"Via Marradi, 48125, Ravenna","{'type': 'Point', 'coordinates': [12.344640645019695, 44.30599926692351]}","Marradi, Emilia Romagna",POINT
+Comune,Meldola,"Meldola, Forlì-Cesena","{'type': 'Point', 'coordinates': [12.061330000000055, 44.13239000000004]}","Meldola, Emilia Romagna",POINT
+Comune,Mercato Saraceno,"Mercato Saraceno, Forlì-Cesena","{'type': 'Point', 'coordinates': [12.196470000000033, 43.95926000000003]}","Mercato Saraceno, Emilia Romagna",POINT
+Comune,Modigliana,"Modigliana, Forlì-Cesena","{'type': 'Point', 'coordinates': [11.794050000000027, 44.15960000000007]}","Modigliana, Emilia Romagna",POINT
+Comune,Montiano,"Montiano, Forlì-Cesena","{'type': 'Point', 'coordinates': [12.308560000000057, 44.087240000000065]}","Montiano, Emilia Romagna",POINT
+Comune,Pianoro,"Pianoro, Bologna","{'type': 'Point', 'coordinates': [11.341260000000034, 44.39079000000004]}","Pianoro, Emilia Romagna",POINT
+Comune,Pieve di Cento,"Pieve di Cento, Bologna","{'type': 'Point', 'coordinates': [11.308300000000031, 44.71541000000008]}","Pieve di Cento, Emilia Romagna",POINT
+Comune,Poggio Renatico,"Poggio Renatico, Ferrara","{'type': 'Point', 'coordinates': [11.49428000000006, 44.76785000000007]}","Poggio Renatico, Emilia Romagna",POINT
+Comune,Portomaggiore,"Portomaggiore, Ferrara","{'type': 'Point', 'coordinates': [11.805940000000021, 44.697730000000035]}","Portomaggiore, Emilia Romagna",POINT
+Comune,Palagano,"Palagano, Modena","{'type': 'Point', 'coordinates': [10.647050000000036, 44.32505000000003]}","Palagano, Emilia Romagna",POINT
+Comune,Pavullo nel Frignano,"Pavullo nel Frignano, Modena","{'type': 'Point', 'coordinates': [10.837550000000022, 44.32593000000003]}","Pavullo nel Frignano, Emilia Romagna",POINT
+Comune,Pievepelago,"Pievepelago, Modena","{'type': 'Point', 'coordinates': [10.614480000000071, 44.20763000000005]}","Pievepelago, Emilia Romagna",POINT
+Comune,Polinago,"Polinago, Modena","{'type': 'Point', 'coordinates': [10.72345000000007, 44.344040000000064]}","Polinago, Emilia Romagna",POINT
+Comune,Prignano sulla Secchia,"Prignano sulla Secchia, Modena","{'type': 'Point', 'coordinates': [10.693440000000066, 44.43903000000006]}","Prignano sulla Secchia, Emilia Romagna",POINT
+Comune,Pennabilli,"Pennabilli, Rimini","{'type': 'Point', 'coordinates': [12.266580000000033, 43.81860000000006]}","Pennabilli, Emilia Romagna",POINT
+Comune,Poggio Torriana,"Poggio Torriana, Rimini","{'type': 'Point', 'coordinates': [12.409440000000075, 44.02645000000007]}","Poggio Torriana, Emilia Romagna",POINT
+Comune,Palazzuolo sul Senio,"Via Palazzola, 47121, Forlì, Forlì-Cesena","{'type': 'Point', 'coordinates': [12.041456259141887, 44.22680201218916]}","Palazzuolo sul Senio, Emilia Romagna",POINT
+Comune,Portico e San Benedetto,"Portico e San Benedetto, Forlì-Cesena","{'type': 'Point', 'coordinates': [11.78490000000005, 44.02883000000003]}","Portico e San Benedetto, Emilia Romagna",POINT
+Comune,Predappio,"Predappio, Forlì-Cesena","{'type': 'Point', 'coordinates': [11.981480000000033, 44.10211000000004]}","Predappio, Emilia Romagna",POINT
+Comune,Premilcuore,"Premilcuore, Forlì-Cesena","{'type': 'Point', 'coordinates': [11.784500000000037, 43.98007000000007]}","Premilcuore, Emilia Romagna",POINT
+Comune,Ravenna,Ravenna,"{'type': 'Point', 'coordinates': [12.204060000000027, 44.41176000000007]}","Ravenna, Emilia Romagna",POINT
+Comune,Riolo Terme,"Riolo Terme, Ravenna","{'type': 'Point', 'coordinates': [11.727050000000077, 44.27607000000006]}","Riolo Terme, Emilia Romagna",POINT
+Comune,Russi,"Russi, Ravenna","{'type': 'Point', 'coordinates': [12.031150000000025, 44.37196000000006]}","Russi, Emilia Romagna",POINT
+Comune,Riccione,"Riccione, Rimini","{'type': 'Point', 'coordinates': [12.656240000000025, 44.005850000000066]}","Riccione, Emilia Romagna",POINT
+Comune,Rimini,Rimini,"{'type': 'Point', 'coordinates': [12.570040000000063, 44.05542000000003]}","Rimini, Emilia Romagna",POINT
+Comune,Rocca San Casciano,"Rocca San Casciano, Forlì-Cesena","{'type': 'Point', 'coordinates': [11.842080000000067, 44.06144000000006]}","Rocca San Casciano, Emilia Romagna",POINT
+Comune,Roncofreddo,"Roncofreddo, Forlì-Cesena","{'type': 'Point', 'coordinates': [12.319240000000036, 44.04224000000005]}","Roncofreddo, Emilia Romagna",POINT
+Comune,Sala Bolognese,"Sala Bolognese, Bologna","{'type': 'Point', 'coordinates': [11.256620000000055, 44.617170000000044]}","Sala Bolognese, Emilia Romagna",POINT
+Comune,San Benedetto Val di sambro,"San Benedetto Val di Sambro, Bologna","{'type': 'Point', 'coordinates': [11.235340000000065, 44.21589000000006]}","San Benedetto Val di sambro, Emilia Romagna",POINT
+Comune,San Giorgio di Piano,"San Giorgio di Piano, Bologna","{'type': 'Point', 'coordinates': [11.37883000000005, 44.649290000000065]}","San Giorgio di Piano, Emilia Romagna",POINT
+Comune,San Giovanni in Persiceto,"San Giovanni in Persiceto, Bologna","{'type': 'Point', 'coordinates': [11.18432000000007, 44.637770000000046]}","San Giovanni in Persiceto, Emilia Romagna",POINT
+Comune,San Lazzaro di Savena,"San Lazzaro di Savena, Bologna","{'type': 'Point', 'coordinates': [11.405410000000074, 44.46963000000005]}","San Lazzaro di Savena, Emilia Romagna",POINT
+Comune,San Pietro in Casale,"San Pietro in Casale, Bologna","{'type': 'Point', 'coordinates': [11.402920000000051, 44.69899000000004]}","San Pietro in Casale, Emilia Romagna",POINT
+Comune,Sasso Marconi,"Sasso Marconi, Bologna","{'type': 'Point', 'coordinates': [11.249270000000024, 44.402600000000064]}","Sasso Marconi, Emilia Romagna",POINT
+Comune,San Cesario sul Panaro,"San Cesario sul Panaro, Modena","{'type': 'Point', 'coordinates': [11.035910000000058, 44.56456000000003]}","San Cesario sul Panaro, Emilia Romagna",POINT
+Comune,Sassuolo,"Sassuolo, Modena","{'type': 'Point', 'coordinates': [10.78141000000005, 44.54186000000004]}","Sassuolo, Emilia Romagna",POINT
+Comune,Savignano sul Panaro,"Savignano sul Panaro, Modena","{'type': 'Point', 'coordinates': [11.036270000000059, 44.484890000000064]}","Savignano sul Panaro, Emilia Romagna",POINT
+Comune,Serramazzoni,"Serramazzoni, Modena","{'type': 'Point', 'coordinates': [10.792260000000056, 44.421550000000025]}","Serramazzoni, Emilia Romagna",POINT
+Comune,Sestola,"Sestola, Modena","{'type': 'Point', 'coordinates': [10.773270000000025, 44.226600000000076]}","Sestola, Emilia Romagna",POINT
+Comune,Spilamberto,"Spilamberto, Modena","{'type': 'Point', 'coordinates': [11.019150000000025, 44.53529000000003]}","Spilamberto, Emilia Romagna",POINT
+Comune,Sant'Agata sul Santerno,"Sant'Agata sul Santerno, Ravenna","{'type': 'Point', 'coordinates': [11.856820000000027, 44.44215000000003]}","Sant'Agata sul Santerno, Emilia Romagna",POINT
+Comune,Solarolo,"Solarolo, Ravenna","{'type': 'Point', 'coordinates': [11.847200000000043, 44.358850000000075]}","Solarolo, Emilia Romagna",POINT
+Comune,Saludecio,"Saludecio, Rimini","{'type': 'Point', 'coordinates': [12.666790000000049, 43.874430000000075]}","Saludecio, Emilia Romagna",POINT
+Comune,San Clemente,"San Clemente, Rimini","{'type': 'Point', 'coordinates': [12.624720000000025, 43.93531000000007]}","San Clemente, Emilia Romagna",POINT
+Comune,San Giovanni in Marignano,"San Giovanni in Marignano, Rimini","{'type': 'Point', 'coordinates': [12.711130000000026, 43.937880000000064]}","San Giovanni in Marignano, Emilia Romagna",POINT
+Comune,San Leo,"San Leo, Rimini","{'type': 'Point', 'coordinates': [12.341400000000021, 43.89748000000003]}","San Leo, Emilia Romagna",POINT
+Comune,Sant'Agata Feltria,"Sant'Agata Feltria, Rimini","{'type': 'Point', 'coordinates': [12.211200000000076, 43.86388000000005]}","Sant'Agata Feltria, Emilia Romagna",POINT
+Comune,Santarcangelo di Romagna,"Santarcangelo di Romagna, Rimini","{'type': 'Point', 'coordinates': [12.447010000000034, 44.06313000000006]}","Santarcangelo di Romagna, Emilia Romagna",POINT
+Comune,San Mauro Pascoli,"San Mauro Pascoli, Forlì-Cesena","{'type': 'Point', 'coordinates': [12.412890000000061, 44.10579000000007]}","San Mauro Pascoli, Emilia Romagna",POINT
+Comune,Santa Sofia,"Santa Sofia, Forlì-Cesena","{'type': 'Point', 'coordinates': [11.909070000000042, 43.94548000000003]}","Santa Sofia, Emilia Romagna",POINT
+Comune,Sarsina,"Sarsina, Forlì-Cesena","{'type': 'Point', 'coordinates': [12.144870000000026, 43.919350000000065]}","Sarsina, Emilia Romagna",POINT
+Comune,Savignano sul Rubicone,"Savignano sul Rubicone, Forlì-Cesena","{'type': 'Point', 'coordinates': [12.396020000000021, 44.093740000000025]}","Savignano sul Rubicone, Emilia Romagna",POINT
+Comune,Sogliano al Rubicone,"Sogliano al Rubicone, Forlì-Cesena","{'type': 'Point', 'coordinates': [12.308860000000038, 44.00612000000007]}","Sogliano al Rubicone, Emilia Romagna",POINT
+Comune,Terre del Reno,"Terre del Reno, Ferrara","{'type': 'Point', 'coordinates': [11.394570000000044, 44.79329000000007]}","Terre del Reno, Emilia Romagna",POINT
+Comune,Talamello,"Talamello, Rimini","{'type': 'Point', 'coordinates': [12.283870000000036, 43.90599000000003]}","Talamello, Emilia Romagna",POINT
+Comune,Tredozio,"Tredozio, Forlì-Cesena","{'type': 'Point', 'coordinates': [11.74410000000006, 44.07967000000008]}","Tredozio, Emilia Romagna",POINT
+Comune,Valsamoggia,"Valsamoggia, Bologna","{'type': 'Point', 'coordinates': [11.128160000000037, 44.51248000000004]}","Valsamoggia, Emilia Romagna",POINT
+Comune,Vergato,"Vergato, Bologna","{'type': 'Point', 'coordinates': [11.110810000000072, 44.28303000000005]}","Vergato, Emilia Romagna",POINT
+Comune,Vigarano Mainarda,"Vigarano Mainarda, Ferrara","{'type': 'Point', 'coordinates': [11.498340000000042, 44.84226000000007]}","Vigarano Mainarda, Emilia Romagna",POINT
+Comune,Voghiera,"Voghiera, Ferrara","{'type': 'Point', 'coordinates': [11.746080000000063, 44.76236000000006]}","Voghiera, Emilia Romagna",POINT
+Comune,Vignola,"Vignola, Modena","{'type': 'Point', 'coordinates': [11.009690000000035, 44.47825000000006]}","Vignola, Emilia Romagna",POINT
+Comune,Verucchio,"Verucchio, Rimini","{'type': 'Point', 'coordinates': [12.424180000000035, 43.98257000000007]}","Verucchio, Emilia Romagna",POINT
+Comune,Verghereto,"Verghereto, Forlì-Cesena","{'type': 'Point', 'coordinates': [12.005220000000065, 43.79377000000005]}","Verghereto, Emilia Romagna",POINT
+Comune,Zola Predosa,"Zola Predosa, Bologna","{'type': 'Point', 'coordinates': [11.212620000000072, 44.493070000000046]}","Zola Predosa, Emilia Romagna",POINT
+Comune,Zocca,"Zocca, Modena","{'type': 'Point', 'coordinates': [10.998760000000061, 44.34394000000003]}","Zocca, Emilia Romagna",POINT

@@ -1,0 +1,18 @@
+alias_address,alias_city,geocode,geometry,georeferencingString,type
+Comune,Casale Monferrato(campo pozzi Terranova),"Terranova, Casale Monferrato, AL","{'type': 'Point', 'coordinates': [8.523450000000025, 45.163940000000025]}","Terranova Casale Monferrato, AL, Piemonte",POINT
+Comune,Casale Monferrato (campo pozzi Frassineto),"Strada Frassineto, 15033, Casale Monferrato, AL","{'type': 'Point', 'coordinates': [8.501505052770186, 45.13332095196267]}","Frassineto Casale Monferrato, AL, Piemonte",POINT
+Comune,Balzola,"Balzola, AL","{'type': 'Point', 'coordinates': [8.402630000000045, 45.183800000000076]}","Balzola, AL, Piemonte",POINT
+Comune,Borgo San Martino,"Borgo San Martino, AL","{'type': 'Point', 'coordinates': [8.523660000000064, 45.092670000000055]}","Borgo San Martino, AL, Piemonte",POINT
+Comune,Bozzole,"Bozzole, AL","{'type': 'Point', 'coordinates': [8.605210000000056, 45.068970000000036]}","Bozzole, AL, Piemonte",POINT
+Comune,Caresana,"Caresana, Vercelli","{'type': 'Point', 'coordinates': [8.502750000000049, 45.22231000000005]}","Caresana, AL, Piemonte",POINT
+Comune,Costanzana,"Costanzana, Vercelli","{'type': 'Point', 'coordinates': [8.369430000000023, 45.238240000000076]}","Costanzana, AL, Piemonte",POINT
+Comune,Frassineto Po,"Frassineto Po, AL","{'type': 'Point', 'coordinates': [8.535100000000057, 45.13324000000006]}","Frassineto Po, AL, Piemonte",POINT
+Comune,Giarole,"Giarole, AL","{'type': 'Point', 'coordinates': [8.567850000000021, 45.05982000000006]}","Giarole, AL, Piemonte",POINT
+Comune,Morano sul Po,"Morano sul Po, AL","{'type': 'Point', 'coordinates': [8.359970000000033, 45.16719000000006]}","Morano sul Po, AL, Piemonte",POINT
+Comune,Motta De Conti,"Motta de' Conti, Vercelli","{'type': 'Point', 'coordinates': [8.520070000000032, 45.19164000000006]}","Motta De Conti, AL, Piemonte",POINT
+Comune,Pertengo,"Pertengo, Vercelli","{'type': 'Point', 'coordinates': [8.415640000000053, 45.236060000000066]}","Pertengo, AL, Piemonte",POINT
+Comune,Pezzana,"Pezzana, Vercelli","{'type': 'Point', 'coordinates': [8.485630000000072, 45.26619000000005]}","Pezzana, AL, Piemonte",POINT
+Comune,Stroppiana,"Stroppiana, Vercelli","{'type': 'Point', 'coordinates': [8.456330000000037, 45.236380000000054]}","Stroppiana, AL, Piemonte",POINT
+Comune,Ticineto,"Ticineto, AL","{'type': 'Point', 'coordinates': [8.555050000000051, 45.09812000000005]}","Ticineto, AL, Piemonte",POINT
+Comune,Valmacca,"Valmacca, AL","{'type': 'Point', 'coordinates': [8.582170000000076, 45.10232000000008]}","Valmacca, AL, Piemonte",POINT
+Comune,Villanova Monferrato,"Villanova Monferrato, AL","{'type': 'Point', 'coordinates': [8.47941000000003, 45.18234000000007]}","Villanova Monferrato, AL, Piemonte",POINT

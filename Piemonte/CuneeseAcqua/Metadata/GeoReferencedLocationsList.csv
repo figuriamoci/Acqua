@@ -1,0 +1,104 @@
+alias_address,alias_city,geocode,geometry,georeferencingString,type
+Comune,Aisone,"Aisone, Cuneo","{'type': 'Point', 'coordinates': [7.217220000000054, 44.313510000000065]}","Aisone, Piemonte",POINT
+Comune,Alto,"Alto, Cuneo","{'type': 'Point', 'coordinates': [8.006250000000023, 44.10937000000007]}","Alto, Piemonte",POINT
+Comune,Argentera,"Argentera, Cuneo","{'type': 'Point', 'coordinates': [6.937220000000025, 44.39631000000003]}","Argentera, Piemonte",POINT
+Comune,Bagnasco,"Bagnasco, Cuneo","{'type': 'Point', 'coordinates': [8.044730000000072, 44.30713000000003]}","Bagnasco, Piemonte",POINT
+Comune,Beinette,"Beinette, Cuneo","{'type': 'Point', 'coordinates': [7.646730000000048, 44.36573000000004]}","Beinette, Piemonte",POINT
+Comune,Bellino,"Bellino, Cuneo","{'type': 'Point', 'coordinates': [7.034080000000074, 44.583660000000066]}","Bellino, Piemonte",POINT
+Comune,Bernezzo,"Bernezzo, Cuneo","{'type': 'Point', 'coordinates': [7.435710000000029, 44.38721000000004]}","Bernezzo, Piemonte",POINT
+Comune,Borgo San Dalmazzo,"Borgo San Dalmazzo, Cuneo","{'type': 'Point', 'coordinates': [7.488040000000069, 44.331830000000025]}","Borgo San Dalmazzo, Piemonte",POINT
+Comune,Boves,"Boves, Cuneo","{'type': 'Point', 'coordinates': [7.545920000000024, 44.33253000000008]}","Boves, Piemonte",POINT
+Comune,Briga Alta,"Briga Alta, Cuneo","{'type': 'Point', 'coordinates': [7.72801000000004, 44.128540000000044]}","Briga Alta, Piemonte",POINT
+Comune,Brondello,"Brondello, Cuneo","{'type': 'Point', 'coordinates': [7.4064200000000255, 44.60134000000005]}","Brondello, Piemonte",POINT
+Comune,Brossasco,"Brossasco, Cuneo","{'type': 'Point', 'coordinates': [7.363340000000051, 44.569630000000075]}","Brossasco, Piemonte",POINT
+Comune,Busca,"Busca, Cuneo","{'type': 'Point', 'coordinates': [7.472780000000057, 44.516410000000064]}","Busca, Piemonte",POINT
+Comune,Busca (municipio di Valmala),"Valmala, Busca, Cuneo","{'type': 'Point', 'coordinates': [7.345940000000041, 44.54475000000008]}","Busca (municipio di Valmala), Piemonte",POINT
+Comune,Canosio,"Canosio, Cuneo","{'type': 'Point', 'coordinates': [7.081790000000069, 44.45521000000008]}","Canosio, Piemonte",POINT
+Comune,Caprauna,"Caprauna, Cuneo","{'type': 'Point', 'coordinates': [7.956010000000049, 44.11734000000007]}","Caprauna, Piemonte",POINT
+Comune,Caraglio,"Caraglio, Cuneo","{'type': 'Point', 'coordinates': [7.4315200000000345, 44.421730000000025]}","Caraglio, Piemonte",POINT
+Comune,Caramagna Piemonte,"Caramagna Piemonte, Cuneo","{'type': 'Point', 'coordinates': [7.73771000000005, 44.78046000000006]}","Caramagna Piemonte, Piemonte",POINT
+Comune,Cartignano,"Cartignano, Cuneo","{'type': 'Point', 'coordinates': [7.287490000000048, 44.47766000000007]}","Cartignano, Piemonte",POINT
+Comune,Casalgrasso,"Casalgrasso, Cuneo","{'type': 'Point', 'coordinates': [7.626830000000041, 44.82006000000007]}","Casalgrasso, Piemonte",POINT
+Comune,Castelletto Stura,"Castelletto Stura, Cuneo","{'type': 'Point', 'coordinates': [7.641980000000046, 44.44541000000004]}","Castelletto Stura, Piemonte",POINT
+Comune,Castelmagno,"Castelmagno, Cuneo","{'type': 'Point', 'coordinates': [7.21207000000004, 44.40966000000003]}","Castelmagno, Piemonte",POINT
+Comune,Celle Macra,"Celle di Macra, Cuneo","{'type': 'Point', 'coordinates': [7.17864000000003, 44.48386000000005]}","Celle Macra, Piemonte",POINT
+Comune,Centallo,"Centallo, Cuneo","{'type': 'Point', 'coordinates': [7.588110000000029, 44.50688000000008]}","Centallo, Piemonte",POINT
+Comune,Cervasca,"Cervasca, Cuneo","{'type': 'Point', 'coordinates': [7.466890000000035, 44.38408000000004]}","Cervasca, Piemonte",POINT
+Comune,Ceva,"Ceva, Cuneo","{'type': 'Point', 'coordinates': [8.035360000000026, 44.38716000000005]}","Ceva, Piemonte",POINT
+Comune,Chiusa Pesio,"Chiusa di Pesio, Cuneo","{'type': 'Point', 'coordinates': [7.673770000000047, 44.32576000000006]}","Chiusa Pesio, Piemonte",POINT
+Comune,Costigliole Saluzzo,"Costigliole Saluzzo, Cuneo","{'type': 'Point', 'coordinates': [7.486900000000048, 44.56558000000007]}","Costigliole Saluzzo, Piemonte",POINT
+Comune,Crissolo,"Crissolo, Cuneo","{'type': 'Point', 'coordinates': [7.156090000000063, 44.699380000000076]}","Crissolo, Piemonte",POINT
+Comune,Cuneo,Cuneo,"{'type': 'Point', 'coordinates': [7.548330000000021, 44.38822000000005]}","Cuneo, Piemonte",POINT
+Comune,Demonte,"Demonte, Cuneo","{'type': 'Point', 'coordinates': [7.298350000000028, 44.315060000000074]}","Demonte, Piemonte",POINT
+Comune,Dronero,"Dronero, Cuneo","{'type': 'Point', 'coordinates': [7.365900000000067, 44.46541000000008]}","Dronero, Piemonte",POINT
+Comune,Elva,"Elva, Cuneo","{'type': 'Point', 'coordinates': [7.089270000000056, 44.54146000000003]}","Elva, Piemonte",POINT
+Comune,Entracque,"Entracque, Cuneo","{'type': 'Point', 'coordinates': [7.400880000000029, 44.24148000000008]}","Entracque, Piemonte",POINT
+Comune,Envie,"Envie, Cuneo","{'type': 'Point', 'coordinates': [7.3709400000000755, 44.68453000000005]}","Envie, Piemonte",POINT
+Comune,Faule,"Faule, Cuneo","{'type': 'Point', 'coordinates': [7.580910000000074, 44.80645000000004]}","Faule, Piemonte",POINT
+Comune,Frabosa Sottana,"Frabosa Sottana, Cuneo","{'type': 'Point', 'coordinates': [7.799980000000062, 44.30284000000006]}","Frabosa Sottana, Piemonte",POINT
+Comune,Frassino,"Frassino, Cuneo","{'type': 'Point', 'coordinates': [7.278670000000034, 44.57176000000004]}","Frassino, Piemonte",POINT
+Comune,Gaiola,"Gaiola, Cuneo","{'type': 'Point', 'coordinates': [7.408190000000047, 44.33465000000007]}","Gaiola, Piemonte",POINT
+Comune,Gambasca,"Gambasca, Cuneo","{'type': 'Point', 'coordinates': [7.348500000000058, 44.629860000000065]}","Gambasca, Piemonte",POINT
+Comune,Garessio,"Garessio, Cuneo","{'type': 'Point', 'coordinates': [8.014620000000036, 44.20518000000004]}","Garessio, Piemonte",POINT
+Comune,Isasca,"Isasca, Cuneo","{'type': 'Point', 'coordinates': [7.381560000000036, 44.58656000000008]}","Isasca, Piemonte",POINT
+Comune,Lagnasco,"Lagnasco, Cuneo","{'type': 'Point', 'coordinates': [7.5566800000000285, 44.627560000000074]}","Lagnasco, Piemonte",POINT
+Comune,Lesegno,"Lesegno, Cuneo","{'type': 'Point', 'coordinates': [7.969490000000064, 44.40179000000006]}","Lesegno, Piemonte",POINT
+Comune,Limone Piemonte,"Limone Piemonte, Cuneo","{'type': 'Point', 'coordinates': [7.574710000000039, 44.20468000000005]}","Limone Piemonte, Piemonte",POINT
+Comune,Macra,"Macra, Cuneo","{'type': 'Point', 'coordinates': [7.17933000000005, 44.50080000000003]}","Macra, Piemonte",POINT
+Comune,Magliano Alpi,"Magliano Alpi, Cuneo","{'type': 'Point', 'coordinates': [7.8029900000000225, 44.45904000000007]}","Magliano Alpi, Piemonte",POINT
+Comune,Manta,"Manta, Cuneo","{'type': 'Point', 'coordinates': [7.488220000000069, 44.615620000000035]}","Manta, Piemonte",POINT
+Comune,Margarita,"Margarita, Cuneo","{'type': 'Point', 'coordinates': [7.687010000000043, 44.406040000000075]}","Margarita, Piemonte",POINT
+Comune,Marmora,"Marmora, Cuneo","{'type': 'Point', 'coordinates': [7.093780000000038, 44.458740000000034]}","Marmora, Piemonte",POINT
+Comune,Martiniana Po,"Martiniana Po, Cuneo","{'type': 'Point', 'coordinates': [7.367800000000045, 44.62781000000007]}","Martiniana Po, Piemonte",POINT
+Comune,Melle,"Melle, Cuneo","{'type': 'Point', 'coordinates': [7.319550000000049, 44.56301000000008]}","Melle, Piemonte",POINT
+Comune,Moiola,"Moiola, Cuneo","{'type': 'Point', 'coordinates': [7.389440000000036, 44.319390000000055]}","Moiola, Piemonte",POINT
+Comune,Mombasiglio,"Mombasiglio, Cuneo","{'type': 'Point', 'coordinates': [7.9644700000000626, 44.36842000000007]}","Mombasiglio, Piemonte",POINT
+Comune,Monastero Vasco,"Monastero di Vasco, Cuneo","{'type': 'Point', 'coordinates': [7.828220000000044, 44.35603000000003]}","Monastero Vasco, Piemonte",POINT
+Comune,Montaldo di Mondovì,"Montaldo di Mondovì, Cuneo","{'type': 'Point', 'coordinates': [7.864640000000065, 44.31955000000005]}","Montaldo di Mondovì, Piemonte",POINT
+Comune,Montanera,"Montanera, Cuneo","{'type': 'Point', 'coordinates': [7.66533000000004, 44.460860000000025]}","Montanera, Piemonte",POINT
+Comune,Montemale di Cuneo,"Montemale di Cuneo, Cuneo","{'type': 'Point', 'coordinates': [7.374940000000038, 44.43700000000007]}","Montemale di Cuneo, Piemonte",POINT
+Comune,Monterosso Grana,"Monterosso Grana, Cuneo","{'type': 'Point', 'coordinates': [7.324610000000064, 44.40888000000007]}","Monterosso Grana, Piemonte",POINT
+Comune,Morozzo,"Morozzo, Cuneo","{'type': 'Point', 'coordinates': [7.712530000000072, 44.42359000000005]}","Morozzo, Piemonte",POINT
+Comune,Nucetto,"Nucetto, Cuneo","{'type': 'Point', 'coordinates': [8.060890000000029, 44.34190000000007]}","Nucetto, Piemonte",POINT
+Comune,Oncino,"Oncino, Cuneo","{'type': 'Point', 'coordinates': [7.1903800000000615, 44.67608000000007]}","Oncino, Piemonte",POINT
+Comune,Ormea,"Ormea, Cuneo","{'type': 'Point', 'coordinates': [7.914390000000026, 44.14874000000003]}","Ormea, Piemonte",POINT
+Comune,Ostana,"Ostana, Cuneo","{'type': 'Point', 'coordinates': [7.189430000000073, 44.69249000000008]}","Ostana, Piemonte",POINT
+Comune,Paesana,"Paesana, Cuneo","{'type': 'Point', 'coordinates': [7.274590000000046, 44.68456000000003]}","Paesana, Piemonte",POINT
+Comune,Pagno,"Pagno, Cuneo","{'type': 'Point', 'coordinates': [7.427180000000021, 44.612340000000074]}","Pagno, Piemonte",POINT
+Comune,Pamparato,"Pamparato, Cuneo","{'type': 'Point', 'coordinates': [7.913870000000031, 44.27680000000004]}","Pamparato, Piemonte",POINT
+Comune,Perlo,"Perlo, Cuneo","{'type': 'Point', 'coordinates': [8.083360000000027, 44.33250000000004]}","Perlo, Piemonte",POINT
+Comune,Peveragno,"Peveragno, Cuneo","{'type': 'Point', 'coordinates': [7.611510000000067, 44.33033000000006]}","Peveragno, Piemonte",POINT
+Comune,Pianfei,"Pianfei, Cuneo","{'type': 'Point', 'coordinates': [7.708840000000066, 44.370340000000056]}","Pianfei, Piemonte",POINT
+Comune,Piasco,"Piasco, Cuneo","{'type': 'Point', 'coordinates': [7.4605300000000625, 44.56857000000008]}","Piasco, Piemonte",POINT
+Comune,Pietraporzio,"Pietraporzio, Cuneo","{'type': 'Point', 'coordinates': [7.032040000000052, 44.34424000000007]}","Pietraporzio, Piemonte",POINT
+Comune,Polonghera,"Polonghera, Cuneo","{'type': 'Point', 'coordinates': [7.594670000000065, 44.80464000000006]}","Polonghera, Piemonte",POINT
+Comune,Pontechianale,"Pontechianale, Cuneo","{'type': 'Point', 'coordinates': [7.029340000000047, 44.623590000000036]}","Pontechianale, Piemonte",POINT
+Comune,Pradleves,"Pradleves, Cuneo","{'type': 'Point', 'coordinates': [7.275560000000041, 44.41874000000007]}","Pradleves, Piemonte",POINT
+Comune,Prazzo,"Prazzo, Cuneo","{'type': 'Point', 'coordinates': [7.054770000000076, 44.48286000000007]}","Prazzo, Piemonte",POINT
+Comune,Priero,"Priero, Cuneo","{'type': 'Point', 'coordinates': [8.09451000000007, 44.37567000000007]}","Priero, Piemonte",POINT
+Comune,Priola,"Priola, Cuneo","{'type': 'Point', 'coordinates': [8.021610000000067, 44.24645000000004]}","Priola, Piemonte",POINT
+Comune,Revello,"Revello, Cuneo","{'type': 'Point', 'coordinates': [7.391530000000046, 44.655620000000056]}","Revello, Piemonte",POINT
+Comune,Rittana,"Rittana, Cuneo","{'type': 'Point', 'coordinates': [7.399050000000045, 44.350790000000075]}","Rittana, Piemonte",POINT
+Comune,Roaschia,"Roaschia, Cuneo","{'type': 'Point', 'coordinates': [7.45455000000004, 44.27016000000003]}","Roaschia, Piemonte",POINT
+Comune,Robilante,"Robilante, Cuneo","{'type': 'Point', 'coordinates': [7.5096000000000345, 44.29643000000004]}","Robilante, Piemonte",POINT
+Comune,Roburent,"Roburent, Cuneo","{'type': 'Point', 'coordinates': [7.891020000000026, 44.311540000000036]}","Roburent, Piemonte",POINT
+Comune,Rocca de’Baldi,"Rocca de' Baldi, Cuneo","{'type': 'Point', 'coordinates': [7.760810000000049, 44.42361000000005]}","Rocca de’Baldi, Piemonte",POINT
+Comune,Roccabruna,"Roccabruna, Cuneo","{'type': 'Point', 'coordinates': [7.340930000000071, 44.466800000000035]}","Roccabruna, Piemonte",POINT
+Comune,Roccasparvera,"Roccasparvera, Cuneo","{'type': 'Point', 'coordinates': [7.441730000000064, 44.34087000000005]}","Roccasparvera, Piemonte",POINT
+Comune,Roccavione,"Roccavione, Cuneo","{'type': 'Point', 'coordinates': [7.482410000000073, 44.315210000000036]}","Roccavione, Piemonte",POINT
+Comune,Rossana,"Rossana, Cuneo","{'type': 'Point', 'coordinates': [7.43187000000006, 44.545870000000036]}","Rossana, Piemonte",POINT
+Comune,Saluzzo (municipio di Castellar),"Castellar, Saluzzo, Cuneo","{'type': 'Point', 'coordinates': [7.44148000000007, 44.61918000000003]}","Saluzzo (municipio di Castellar), Piemonte",POINT
+Comune,Sambuco,"Sambuco, Cuneo","{'type': 'Point', 'coordinates': [7.076560000000029, 44.33771000000007]}","Sambuco, Piemonte",POINT
+Comune,Sampeyre,"Sampeyre, Cuneo","{'type': 'Point', 'coordinates': [7.185990000000061, 44.579480000000046]}","Sampeyre, Piemonte",POINT
+Comune,San Damiano Macra,"San Damiano Macra, Cuneo","{'type': 'Point', 'coordinates': [7.25514000000004, 44.48887000000008]}","San Damiano Macra, Piemonte",POINT
+Comune,SanFront,"Sanfront, Cuneo","{'type': 'Point', 'coordinates': [7.325550000000021, 44.64742000000007]}","SanFront, Piemonte",POINT
+Comune,Stroppo,"Stroppo, Cuneo","{'type': 'Point', 'coordinates': [7.125210000000038, 44.50726000000003]}","Stroppo, Piemonte",POINT
+Comune,Tarantasca,"Tarantasca, Cuneo","{'type': 'Point', 'coordinates': [7.540610000000072, 44.49607000000003]}","Tarantasca, Piemonte",POINT
+Comune,Torre Mondovì,"Torre Mondovì, Cuneo","{'type': 'Point', 'coordinates': [7.899810000000059, 44.35242000000005]}","Torre Mondovì, Piemonte",POINT
+Comune,Valdieri,"Valdieri, Cuneo","{'type': 'Point', 'coordinates': [7.400800000000061, 44.277900000000045]}","Valdieri, Piemonte",POINT
+Comune,Valgrana,"Valgrana, Cuneo","{'type': 'Point', 'coordinates': [7.381590000000074, 44.41258000000005]}","Valgrana, Piemonte",POINT
+Comune,Valloriate,"Valloriate, Cuneo","{'type': 'Point', 'coordinates': [7.373230000000035, 44.33791000000008]}","Valloriate, Piemonte",POINT
+Comune,Venasca,"Venasca, Cuneo","{'type': 'Point', 'coordinates': [7.396540000000073, 44.56244000000004]}","Venasca, Piemonte",POINT
+Comune,Vernante,"Vernante, Cuneo","{'type': 'Point', 'coordinates': [7.533240000000035, 44.24382000000003]}","Vernante, Piemonte",POINT
+Comune,Vignolo,"Vignolo, Cuneo","{'type': 'Point', 'coordinates': [7.4755100000000425, 44.360880000000066]}","Vignolo, Piemonte",POINT
+Comune,Villar San Costanzo,"Villar San Costanzo, Cuneo","{'type': 'Point', 'coordinates': [7.382880000000057, 44.480030000000056]}","Villar San Costanzo, Piemonte",POINT

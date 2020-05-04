@@ -1,0 +1,18 @@
+alias_address,alias_city,ammoniaca,cloro_residuo,cloruro,conducibilita,data_report,durezza,ferro,fluoruri,manganese,nitrato,nitrito,ossidabilita,ph,solfato
+Comune,Balzola,<0.05,0.02,1.0,246,1 Luglio - 31 Dicembre 2019,12.5,<5,0.01,<5,<0.5,<0.010,<0.5,7.99,2.6
+Comune,Borgo San Martino,<0.05,<0.02,9.6,274,1 Luglio - 31 Dicembre 2019,13.2,<5,0.04,<5,<0.5,<0.010,<0.5,8.01,2.0
+Comune,Bozzole,<0.05,0.02,8.8,275,1 Luglio - 31 Dicembre 2019,12.2,5,0.05,<5,<0.5,<0.010,<0.5,7.88,2.0
+Comune,Caresana,<0.05,0.03,2.2,266,1 Luglio - 31 Dicembre 2019,13.5,<5,0.03,<5,<0.5,<0.010,<0.5,8.03,4.4
+Comune,Casale Monferrato(campo pozzi Terranova),<0.05,<0.02,1.7,241,1 Luglio - 31 Dicembre 2019,12.5,<5,0.15,<5,<0.5,<0.010,<0.5,7.99,3.1
+Comune,Casale Monferrato (campo pozzi Frassineto),<0.05,<0.02,9.2,275,1 Luglio - 31 Dicembre 2019,12.2,6,0.05,<5,<0.5,<0.010,<0.5,7.97,1.8
+Comune,Costanzana,<0.05,0.10,2.5,275,1 Luglio - 31 Dicembre 2019,13.7,<5,0.07,<5,2.7,<0.010,<0.5,7.98,19.4
+Comune,Frassineto Po,<0.05,<0.02,8.1,277,1 Luglio - 31 Dicembre 2019,13.4,5,0.05,<5,<0.5,<0.010,<0.5,8.01,1.7
+Comune,Giarole,<0.05,<0.02,7.8,279,1 Luglio - 31 Dicembre 2019,13.4,<5,0.07,<5,<0.5,<0.010,<0.5,8.14,2.0
+Comune,Morano sul Po,<0.05,<0.02,1.5,243,1 Luglio - 31 Dicembre 2019,12.5,<5,0.03,<5,<0.5,<0.010,<0.5,8.00,3.4
+Comune,Motta De Conti,<0.05,0.18,6.0,365,1 Luglio - 31 Dicembre 2019,22.5,<5,0.04,<5,<0.5,<0.010,<0.5,7.70,38.1
+Comune,Pertengo,<0.05,0.20,1.5,255,1 Luglio - 31 Dicembre 2019,13.8,<5,0.05,<5,<0.5,<0.010,<0.5,7.82,5.3
+Comune,Pezzana,<0.05,,1.0,224,1 Luglio - 31 Dicembre 2019,11.2,<5,0.01,<5,<0.5,<0.010,<0.5,8.10,1.4
+Comune,Stroppiana,<0.05,0.16,3.6,258,1 Luglio - 31 Dicembre 2019,13.5,25,0.07,9,<0.5,<0.010,<0.5,7.99,14.7
+Comune,Ticineto,<0.05,<0.02,9.3,278,1 Luglio - 31 Dicembre 2019,12.3,6,0.05,<5,<0.5,<0.010,<0.5,7.93,1.7
+Comune,Valmacca,<0.05,<0.02,9.2,279,1 Luglio - 31 Dicembre 2019,12.2,<5,0.05,<5,<0.5,<0.010,<0.5,7.99,1.8
+Comune,Villanova Monferrato,<0.05,0.03,1.1,243,1 Luglio - 31 Dicembre 2019,12.6,<5,0.01,<5,<0.5,<0.010,<0.5,7.99,2.2

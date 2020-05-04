@@ -1,0 +1,82 @@
+alias_address,alias_city,geocode,geometry,georeferencingString,type
+Comune,BORGORATTO,"Borgoratto Alessandrino, AL","{'type': 'Point', 'coordinates': [8.539730000000077, 44.839510000000075]}","BORGORATTO Alessandrino, AL, Piemonte",POINT
+CANTALUPO,Alessandria,"Cantalupo, Alessandria, AL","{'type': 'Point', 'coordinates': [8.55382000000003, 44.86452000000003]}","CANTALUPO, Alessandria, AL, Piemonte",POINT
+CABANETTE,Alessandria,"Cabanette, Alessandria, AL","{'type': 'Point', 'coordinates': [8.576430000000073, 44.88188000000008]}","CABANETTE, Alessandria, AL, Piemonte",POINT
+CASCINAGROSSA,Alessandria,"Cascinagrossa, Alessandria, AL","{'type': 'Point', 'coordinates': [8.723040000000026, 44.88127000000003]}","CASCINAGROSSA, Alessandria, AL, Piemonte",POINT
+LITTA PARODI,Alessandria,"Litta Parodi, Alessandria, AL","{'type': 'Point', 'coordinates': [8.705320000000029, 44.86900000000003]}","LITTA PARODI, Alessandria, AL, Piemonte",POINT
+CASTELCERIOLO,Alessandria,"Castelceriolo, Alessandria, AL","{'type': 'Point', 'coordinates': [8.689710000000048, 44.916660000000036]}","CASTELCERIOLO, Alessandria, AL, Piemonte",POINT
+LOBBI,Alessandria,"Lobbi, Alessandria, AL","{'type': 'Point', 'coordinates': [8.714460000000031, 44.93255000000005]}","LOBBI, Alessandria, AL, Piemonte",POINT
+MANDROGNE,Alessandria,"Mandrogne, Alessandria, AL","{'type': 'Point', 'coordinates': [8.745200000000068, 44.86425000000003]}","MANDROGNE, Alessandria, AL, Piemonte",POINT
+SAN GIULIANO VECCHIO,Alessandria,"San Giuliano Vecchio, Alessandria, AL","{'type': 'Point', 'coordinates': [8.761450000000025, 44.88892000000004]}","SAN GIULIANO VECCHIO, Alessandria, AL, Piemonte",POINT
+SAN GIULIANO NUOVO,Alessandria,"San Giuliano Nuovo, Alessandria, AL","{'type': 'Point', 'coordinates': [8.766330000000039, 44.90758000000005]}","SAN GIULIANO NUOVO, Alessandria, AL, Piemonte",POINT
+SPINETTA MARENGO,Alessandria,"Spinetta Marengo, Alessandria, AL","{'type': 'Point', 'coordinates': [8.681280000000072, 44.885230000000035]}","SPINETTA MARENGO, Alessandria, AL, Piemonte",POINT
+VALLE SAN BARTOLOMEO,Alessandria,"Valle San Bartolomeo, Alessandria, AL","{'type': 'Point', 'coordinates': [8.641770000000065, 44.955700000000036]}","VALLE SAN BARTOLOMEO, Alessandria, AL, Piemonte",POINT
+VALMADONNA,Alessandria,"Valmadonna, Alessandria, AL","{'type': 'Point', 'coordinates': [8.611470000000054, 44.972210000000075]}","VALMADONNA, Alessandria, AL, Piemonte",POINT
+CASALBAGLIANO,Alessandria,"Casalbagliano, Alessandria, AL","{'type': 'Point', 'coordinates': [8.558460000000025, 44.89555000000007]}","CASALBAGLIANO, Alessandria, AL, Piemonte",POINT
+VILLA DEL FORO,Alessandria,"Villa del Foro, Alessandria, AL","{'type': 'Point', 'coordinates': [8.529610000000048, 44.88570000000004]}","VILLA DEL FORO, Alessandria, AL, Piemonte",POINT
+ZONA GALIMBERTI,Alessandria,"Via Galimberti, 15042, Bassignana, Alessandria","{'type': 'Point', 'coordinates': [8.687862426811348, 44.973321240464486]}","ZONA GALIMBERTI, Alessandria, AL, Piemonte",POINT
+"ZONA OLTRE TANARO (S. MICHELE, ASTUTI)",Alessandria,"Astuti, Alessandria, AL","{'type': 'Point', 'coordinates': [8.572600000000023, 44.921790000000044]}","ZONA OLTRE TANARO (S. MICHELE, ASTUTI), Alessandria, AL, Piemonte",POINT
+ZONA ORTI,Alessandria,"Case Sparse Orti, 15121, Alessandria, AL","{'type': 'Point', 'coordinates': [8.632856250000009, 44.92039049999999]}","ZONA ORTI, Alessandria, AL, Piemonte",POINT
+ZONA PIAZZA CERIANA,Alessandria,"Piazza Luigi Ceriana, 15121, Alessandria, AL","{'type': 'Point', 'coordinates': [8.60046459541238, 44.9011375575025]}","ZONA PIAZZA CERIANA, Alessandria, AL, Piemonte",POINT
+ZONA PISTA,Alessandria,"Alessandria, AL","{'type': 'Point', 'coordinates': [8.611560000000054, 44.90724000000006]}","ZONA PISTA, Alessandria, AL, Piemonte",POINT
+ZONA SPALTO GAMONDIO,Alessandria,"Spalto Gamondio, 15121, Alessandria, AL","{'type': 'Point', 'coordinates': [8.618032442509366, 44.90776239180711]}","ZONA SPALTO GAMONDIO, Alessandria, AL, Piemonte",POINT
+ZONA SPALTO MARENGO,Alessandria,"Spalto Marengo, 15121, Alessandria, AL","{'type': 'Point', 'coordinates': [8.623806219318837, 44.91615548431411]}","ZONA SPALTO MARENGO, Alessandria, AL, Piemonte",POINT
+Comune,ACQUI TERME POTABILIZZATORE,"Acqui Terme, AL","{'type': 'Point', 'coordinates': [8.46661000000006, 44.67507000000006]}","ACQUI TERME POTABILIZZATORE, AL, Piemonte",POINT
+Comune,ACQUI TERME RETE,"Acqui Terme, AL","{'type': 'Point', 'coordinates': [8.46661000000006, 44.67507000000006]}","ACQUI TERME RETE, AL, Piemonte",POINT
+Comune,BISTAGNO,"Bistagno, AL","{'type': 'Point', 'coordinates': [8.369850000000042, 44.662540000000035]}","BISTAGNO, AL, Piemonte",POINT
+Comune,BUBBIO,"Bubbio, Asti","{'type': 'Point', 'coordinates': [8.294150000000059, 44.66390000000007]}","BUBBIO, AL, Piemonte",POINT
+Comune,CARPENETO,"Carpeneto, AL","{'type': 'Point', 'coordinates': [8.60686000000004, 44.67797000000007]}","CARPENETO, AL, Piemonte",POINT
+Comune,CARTOSIO,"Cartosio, AL","{'type': 'Point', 'coordinates': [8.417900000000031, 44.59675000000004]}","CARTOSIO, AL, Piemonte",POINT
+Comune,CASAL CERMELLI,"Casal Cermelli, AL","{'type': 'Point', 'coordinates': [8.619980000000055, 44.83591000000007]}","CASAL CERMELLI, AL, Piemonte",POINT
+Comune,CASSINASCO,"Cassinasco, Asti","{'type': 'Point', 'coordinates': [8.30469000000005, 44.69004000000007]}","CASSINASCO, AL, Piemonte",POINT
+Comune,CASSINE,"Cassine, AL","{'type': 'Point', 'coordinates': [8.528710000000046, 44.752530000000036]}","CASSINE, AL, Piemonte",POINT
+Comune,CASTELLETTO D'ERRO,"Castelletto d'Erro, AL","{'type': 'Point', 'coordinates': [8.394310000000075, 44.627320000000054]}","CASTELLETTO D'ERRO, AL, Piemonte",POINT
+Comune,CASTELNUOVO BORMIDA,"Castelnuovo Bormida, AL","{'type': 'Point', 'coordinates': [8.545750000000055, 44.74341000000004]}","CASTELNUOVO BORMIDA, AL, Piemonte",POINT
+Comune,CAVATORE,"Cavatore, AL","{'type': 'Point', 'coordinates': [8.45330000000007, 44.63280000000003]}","CAVATORE, AL, Piemonte",POINT
+Comune,CESSOLE,"Cessole, Asti","{'type': 'Point', 'coordinates': [8.246050000000025, 44.651260000000036]}","CESSOLE, AL, Piemonte",POINT
+Comune,CREMOLINO,"Cremolino, AL","{'type': 'Point', 'coordinates': [8.586200000000076, 44.63381000000004]}","CREMOLINO, AL, Piemonte",POINT
+Comune,DENICE,"Denice, AL","{'type': 'Point', 'coordinates': [8.332930000000033, 44.59859000000006]}","DENICE, AL, Piemonte",POINT
+Comune,FRASCARO,"Frascaro, AL","{'type': 'Point', 'coordinates': [8.53278000000006, 44.82716000000005]}","FRASCARO, AL, Piemonte",POINT
+Comune,GAMALERO,"Gamalero, AL","{'type': 'Point', 'coordinates': [8.540980000000047, 44.80629000000005]}","GAMALERO, AL, Piemonte",POINT
+Comune,GROGNARDO,"Grognardo, AL","{'type': 'Point', 'coordinates': [8.491630000000043, 44.631740000000036]}","GROGNARDO, AL, Piemonte",POINT
+Comune,LOAZZOLO,"Loazzolo, Asti","{'type': 'Point', 'coordinates': [8.257730000000038, 44.67001000000005]}","LOAZZOLO, AL, Piemonte",POINT
+Comune,MALVICINO,"Malvicino, AL","{'type': 'Point', 'coordinates': [8.414390000000026, 44.55916000000008]}","MALVICINO, AL, Piemonte",POINT
+Comune,MELAZZO,"Melazzo, AL","{'type': 'Point', 'coordinates': [8.42697000000004, 44.644300000000044]}","MELAZZO, AL, Piemonte",POINT
+Comune,MERANA,"Merana, AL","{'type': 'Point', 'coordinates': [8.298340000000053, 44.51854000000003]}","MERANA, AL, Piemonte",POINT
+Comune,MOLARE,"Molare, AL","{'type': 'Point', 'coordinates': [8.599040000000059, 44.61891000000003]}","MOLARE, AL, Piemonte",POINT
+Comune,MONTALDO BORMIDA,"Montaldo Bormida, AL","{'type': 'Point', 'coordinates': [8.58892000000003, 44.68321000000003]}","MONTALDO BORMIDA, AL, Piemonte",POINT
+Comune,MONTECASTELLO,"Montecastello, AL","{'type': 'Point', 'coordinates': [8.687460000000044, 44.948830000000044]}","MONTECASTELLO, AL, Piemonte",POINT
+Comune,MONTECHIARO D'ACQUI,"Montechiaro d'Acqui, AL","{'type': 'Point', 'coordinates': [8.37823000000003, 44.59444000000008]}","MONTECHIARO D'ACQUI, AL, Piemonte",POINT
+Comune,MORBELLO,"Morbello, AL","{'type': 'Point', 'coordinates': [8.52624000000003, 44.60785000000004]}","MORBELLO, AL, Piemonte",POINT
+Comune,MORSASCO,"Morsasco, AL","{'type': 'Point', 'coordinates': [8.55418000000003, 44.66676000000007]}","MORSASCO, AL, Piemonte",POINT
+Comune,OLMO GENTILE,"Olmo Gentile, Asti","{'type': 'Point', 'coordinates': [8.249750000000063, 44.58641000000006]}","OLMO GENTILE, AL, Piemonte",POINT
+Comune,ORSARA BORMIDA,"Orsara Bormida, AL","{'type': 'Point', 'coordinates': [8.562930000000051, 44.69115000000005]}","ORSARA BORMIDA, AL, Piemonte",POINT
+Comune,PARETO,"Pareto, AL","{'type': 'Point', 'coordinates': [8.381950000000074, 44.51874000000004]}","PARETO, AL, Piemonte",POINT
+Comune,PIETRA MARAZZI,"Pietra Marazzi, AL","{'type': 'Point', 'coordinates': [8.67127000000005, 44.944840000000056]}","PIETRA MARAZZI, AL, Piemonte",POINT
+Comune,PIOVERA,"Piovera, Alluvioni Piovera, AL","{'type': 'Point', 'coordinates': [8.73589000000004, 44.959580000000074]}","PIOVERA, AL, Piemonte",POINT
+Comune,PONTI,"Ponti, AL","{'type': 'Point', 'coordinates': [8.36325000000005, 44.63176000000004]}","PONTI, AL, Piemonte",POINT
+Comune,PONZONE,"Ponzone, AL","{'type': 'Point', 'coordinates': [8.460770000000025, 44.59018000000003]}","PONZONE, AL, Piemonte",POINT
+Comune,PRASCO,"Prasco, AL","{'type': 'Point', 'coordinates': [8.55424000000005, 44.640040000000056]}","PRASCO, AL, Piemonte",POINT
+Comune,RIVARONE,"Rivarone, AL","{'type': 'Point', 'coordinates': [8.717630000000042, 44.97881000000007]}","RIVARONE, AL, Piemonte",POINT
+Comune,ROCCAVERANO,"Roccaverano, Asti","{'type': 'Point', 'coordinates': [8.271880000000067, 44.59319000000005]}","ROCCAVERANO, AL, Piemonte",POINT
+Comune,ROCCHETTA PALAFEA,"Rocchetta Palafea, Asti","{'type': 'Point', 'coordinates': [8.347200000000043, 44.706360000000075]}","ROCCHETTA PALAFEA, AL, Piemonte",POINT
+Comune,SALE,"Sale, AL","{'type': 'Point', 'coordinates': [8.812140000000056, 44.982210000000066]}","SALE, AL, Piemonte",POINT
+Comune,SAN GIORGIO SCARAMPI,"San Giorgio Scarampi, Asti","{'type': 'Point', 'coordinates': [8.242260000000044, 44.61071000000004]}","SAN GIORGIO SCARAMPI, AL, Piemonte",POINT
+Comune,SEROLE,"Serole, Asti","{'type': 'Point', 'coordinates': [8.257970000000057, 44.55483000000004]}","SEROLE, AL, Piemonte",POINT
+Comune,SESSAME,"Sessame, Asti","{'type': 'Point', 'coordinates': [8.337330000000065, 44.670900000000074]}","SESSAME, AL, Piemonte",POINT
+Comune,SOLERO,"Solero, AL","{'type': 'Point', 'coordinates': [8.502820000000042, 44.91945000000004]}","SOLERO, AL, Piemonte",POINT
+Comune,SPIGNO MONFERRATO,"Spigno Monferrato, AL","{'type': 'Point', 'coordinates': [8.332440000000076, 44.54254000000003]}","SPIGNO MONFERRATO, AL, Piemonte",POINT
+Comune,TERZO D'ACQUI,"Terzo, AL","{'type': 'Point', 'coordinates': [8.420280000000048, 44.67070000000007]}","TERZO D'ACQUI, AL, Piemonte",POINT
+Comune,TRISOBBIO,"Trisobbio, AL","{'type': 'Point', 'coordinates': [8.58573000000007, 44.65984000000003]}","TRISOBBIO, AL, Piemonte",POINT
+Comune,VESIME,"Vesime, Asti","{'type': 'Point', 'coordinates': [8.22810000000004, 44.636010000000056]}","VESIME, AL, Piemonte",POINT
+Comune,MONASTERO BORMIDA,"Monastero Bormida, Asti","{'type': 'Point', 'coordinates': [8.323000000000036, 44.64988000000005]}","MONASTERO BORMIDA, AL, Piemonte",POINT
+Comune,MONTABONE,"Montabone, Asti","{'type': 'Point', 'coordinates': [8.388240000000053, 44.698570000000075]}","MONTABONE, AL, Piemonte",POINT
+Comune,FRAZ. S.ROCCO DI GAMALERO,"Via San Rocco, 15010, Gamalero, AL","{'type': 'Point', 'coordinates': [8.539604046440388, 44.80979387285872]}","FRAZ. S.ROCCO DI GAMALERO, AL, Piemonte",POINT
+Comune,Mombaldone,"Mombaldone, Asti","{'type': 'Point', 'coordinates': [8.332380000000057, 44.56991000000005]}","Mombaldone, AL, Piemonte",POINT
+Comune,CASTELSPINA,"Castelspina, AL","{'type': 'Point', 'coordinates': [8.584170000000029, 44.81007000000005]}","CASTELSPINA, AL, Piemonte",POINT
+Comune,CASSINELLE,"Cassinelle, AL","{'type': 'Point', 'coordinates': [8.560600000000022, 44.60691000000003]}","CASSINELLE, AL, Piemonte",POINT
+Comune,OVIGLIO,"Oviglio, AL","{'type': 'Point', 'coordinates': [8.485580000000027, 44.86284000000006]}","OVIGLIO, AL, Piemonte",POINT
+Comune,BERGAMASCO,"Bergamasco, AL","{'type': 'Point', 'coordinates': [8.455280000000073, 44.83221000000003]}","BERGAMASCO, AL, Piemonte",POINT
+Comune,CARENTINO,"Carentino, AL","{'type': 'Point', 'coordinates': [8.470080000000053, 44.82863000000003]}","CARENTINO, AL, Piemonte",POINT
+Comune,ALICE BEL COLLE,"Alice Bel Colle, AL","{'type': 'Point', 'coordinates': [8.449640000000045, 44.72575000000006]}","ALICE BEL COLLE, AL, Piemonte",POINT
+Comune,RICALDONE,"Ricaldone, AL","{'type': 'Point', 'coordinates': [8.46968000000004, 44.737190000000055]}","RICALDONE, AL, Piemonte",POINT

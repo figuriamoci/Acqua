@@ -1,0 +1,53 @@
+alias_address,alias_city,geocode,geometry,georeferencingString,type
+Loc. Valmonasca (Mombarone),Asti,"Strada Valmonasca, 14100, Asti","{'type': 'Point', 'coordinates': [8.130250668543262, 44.96769971879342]}","Loc. Valmonasca, Asti, 14100, Asti, AT",POINT
+Str. Vadareglio (Mombarone/Valmolino),Asti,"Strada Vadareglio, 14100, Asti","{'type': 'Point', 'coordinates': [8.15089446358012, 44.96621586472611]}","Str. Vadareglio, Asti, 14100, Asti, AT",POINT
+Fraz. Valmaggiore – loc. Cerro Verde,Asti,"Strada Cerro Verde, 14100, Asti","{'type': 'Point', 'coordinates': [8.196933735774584, 44.95450956455213]}","loc. Cerro Verde, Asti, 14100, Asti, AT",POINT
+Valle Rossa 149/a (Valcossera),Asti,"Strada Valcossera, 14100, Asti, AT","{'type': 'Point', 'coordinates': [8.243818612519016, 44.90908658961498]}","Valcossera, Asti, 14100, Asti, AT",POINT
+Str. Colombera 61 (Caniglie),Asti,"Strada Bricco Colombara 61, 14100, Asti","{'type': 'Point', 'coordinates': [8.235606515263445, 44.93916209547581]}","Str. Colombera 61, Asti, 14100, Asti, AT",POINT
+Fraz. Portacomaro staz. 115,Asti,"Frazione Stazione di Portacomaro 115, 14100, Asti","{'type': 'Point', 'coordinates': [8.214806754458195, 44.954969014484035]}","Fraz. Portacomaro 115, Asti, 14100, Asti, AT",POINT
+Via Gandhi 16/18,Asti,"Via Mohandas Karamchand Gandhi, 14100, Asti, AT","{'type': 'Point', 'coordinates': [8.184092520047516, 44.89912310447138]}",Via Mohandas Karamchand Gandhi 14100 Asti AT,POINT
+Via Arò 3,Asti,"Via Secondo Arò 3, 14100, Asti, AT","{'type': 'Point', 'coordinates': [8.207812456287142, 44.901510653067106]}","Via secondo arò  3, 14100, Asti, AT",POINT
+Via Giuntelli 13,Asti,"Strada Laverdina, 14100, Asti, AT","{'type': 'Point', 'coordinates': [8.187117908695996, 44.90883083300802]}","strada laverdina, 14100, Asti, AT",POINT
+via M. T. di Calcutta n°1,Asti,"Via Madre Teresa di Calcutta, 14100, Asti, AT","{'type': 'Point', 'coordinates': [8.221396695787623, 44.918487782371685]}","via M. T. di Calcutta n°1, Asti, 14100, AT",POINT
+Bricco Roasio n°88,Asti,"Bricco Roasio 88, 14100, Asti","{'type': 'Point', 'coordinates': [8.167693649287537, 44.94705355701441]}","Bricco Roasio n°88, Asti, 14100, Asti, AT",POINT
+Fraz. Montegrosso Cinaglio 11,Asti,"Frazione Montegrosso 11, 14100, Asti","{'type': 'Point', 'coordinates': [8.095006393011673, 44.94332121648682]}","Fraz. Montegrosso Cinaglio 11, Asti, 14100, Asti, AT",POINT
+Fraz. Casabianca 52/b,Asti,"Frazione Casabianca 52B, 14100, Asti","{'type': 'Point', 'coordinates': [8.138438863725552, 44.917299503462445]}","Fraz. Casabianca 52/b, Asti, 14100, Asti, AT",POINT
+Strada Mazzola 76 – loc. Viatosto,Asti,"Strada Mazzola 76, 14100, Asti","{'type': 'Point', 'coordinates': [8.184341962288414, 44.927339334150936]}","Strada Mazzola 76 – loc. Viatosto, Asti, 14100, Asti, AT",POINT
+Fraz. Serravalle 78/D,Asti,"Frazione Serravalle 78, 14100, Asti","{'type': 'Point', 'coordinates': [8.154592775174653, 44.94382603303706]}","Fraz. Serravalle 78/D, Asti, 14100, Asti, AT",POINT
+Fraz. Sessant 73/a (San Grato),Asti,"Frazione Sessant 73A, 14100, Asti","{'type': 'Point', 'coordinates': [8.132645326389321, 44.93737725644875]}","Fraz. Sessant 73/a (San Grato), Asti, 14100, Asti, AT",POINT
+Fraz. Serravalle Loc. Briccalone 158,Asti,"Frazione Serravalle, 14100, Asti","{'type': 'Point', 'coordinates': [8.154056265388427, 44.9515623424524]}","Fraz. Serravalle Loc. Briccalone 158, Asti, 14100, Asti, AT",POINT
+Serravalle 102,Asti,"Frazione Serravalle 102, 14100, Asti","{'type': 'Point', 'coordinates': [8.148072063708156, 44.951609106295834]}","Serravalle 102, Asti, 14100, Asti, AT",POINT
+Loc. Valfea – Strada Grilletto 220,Asti,"Strada Grilletto 220, 14100, Asti","{'type': 'Point', 'coordinates': [8.277749549541229, 44.916738736886145]}","Loc. Valfea – Strada Grilletto 220, Asti, 14100, Asti, AT",POINT
+Bricco Giberto 119/f,Asti,"Bricco Giberto 119, 14100, Asti","{'type': 'Point', 'coordinates': [8.185937716832283, 44.934904637166746]}","Bricco Giberto 119/f, Asti, 14100, Asti, AT",POINT
+Fraz.Castiglione 97,Asti,"Frazione Castiglione 97, 14100, Asti","{'type': 'Point', 'coordinates': [8.263080000000002, 44.93386799999999]}","Fraz.Castiglione 97, Asti, 14100, Asti, AT",POINT
+Fraz. Valenzani Via Calcini 2,Asti,"Via Calcini 2, 14030, Castagnole Monferrato, Asti","{'type': 'Point', 'coordinates': [8.298237059668802, 44.927452854838734]}","Fraz. Valenzani Via Calcini 2, Asti, 14100, Asti, AT",POINT
+Fraz.Portacomaro Loc. Poggio 83,Asti,"Località Poggio 83, 14100, Asti","{'type': 'Point', 'coordinates': [8.238422660568924, 44.96684601220501]}","Fraz.Portacomaro Loc. Poggio 83, Asti, 14100, Asti, AT",POINT
+Loc. Casa Coppi 86,Asti,"Via Fausto Coppi 86, 14100, Asti, AT","{'type': 'Point', 'coordinates': [8.218309453034923, 44.917566336231395]}","Loc. Casa Coppi 86, Asti, 14100, Asti, AT",POINT
+Loc. Valgera 29,Asti,"Località Valgera 29, 14100, Asti","{'type': 'Point', 'coordinates': [8.215778305297514, 44.92730057949121]}","Loc. Valgera 29, Asti, 14100, Asti, AT",POINT
+Fraz. Variglie – Strada Valdonia 68,Asti,"Strada Valdonia 68, 14100, Asti","{'type': 'Point', 'coordinates': [8.144696283657412, 44.94986785206879]}","Fraz. Variglie – Strada Valdonia 68, Asti, 14100, Asti, AT",POINT
+Fraz. Vaglierano basso 115,Asti,"Frazione Vaglierano Basso 115, 14100, Asti","{'type': 'Point', 'coordinates': [8.129259101419763, 44.88018284318199]}","Fraz. Vaglierano basso 115, Asti, 14100, Asti, AT",POINT
+Località Vallarone – Az. Il Boschetto,Asti,"Località Vallarone, 14100, Asti","{'type': 'Point', 'coordinates': [8.181934204507881, 44.88651407162901]}","Località Vallarone – Az. Il Boschetto, Asti, 14100, Asti, AT",POINT
+Serra di Variglie n. 86,Asti,"Località Variglie 86, 14100, Asti","{'type': 'Point', 'coordinates': [8.160784930896158, 44.87484725618895]}","Serra di Variglie n. 86, Asti, 14100, Asti, AT",POINT
+Località Vallebenedetta 7/A,Asti,"Località Vallebenedetta, 14100, Asti, AT","{'type': 'Point', 'coordinates': [8.172699749999996, 44.90525249999999]}","Località Vallebenedetta 7/A, Asti, 14100, Asti, AT",POINT
+Fraz. Valleandona str. Lascaris 58/60,Asti,"Strada Lascaris 58, 14100, Asti","{'type': 'Point', 'coordinates': [8.116462351376294, 44.913285671100525]}","Fraz. Valleandona str. Lascaris 58/60, Asti, 14100, Asti, AT",POINT
+Via Giribaldi 1,Asti,"Via Giuseppe Garibaldi 1, 14100, Asti, AT","{'type': 'Point', 'coordinates': [8.206332459201347, 44.899223427145245]}","Via Giribaldi 1, Asti, 14100, Asti, AT",POINT
+Fraz.Vaglierano Alto n. 13,Asti,"Frazione Vaglierano 13, 14100, Asti","{'type': 'Point', 'coordinates': [8.137769024554267, 44.8723386766691]}","Fraz.Vaglierano Alto n. 13, Asti, 14100, Asti, AT",POINT
+Strada San Bartolomeo 276/A,Asti,"Strada San Bartolomeo, 14100, Asti","{'type': 'Point', 'coordinates': [8.27132108933447, 44.90051130193399]}","Strada San Bartolomeo 276/A, Asti, 14100, Asti, AT",POINT
+Fraz. San Marzanotto piana 278,Asti,"Frazione San Marzanotto 278, 14100, Asti","{'type': 'Point', 'coordinates': [8.205776449218014, 44.86226591756594]}","Fraz. San Marzanotto piana 278, Asti, 14100, Asti, AT",POINT
+Fraz.San Marzanotto paese 26,Asti,"Frazione San Marzanotto 26, 14100, Asti","{'type': 'Point', 'coordinates': [8.213747935743594, 44.86301136554322]}","Fraz.San Marzanotto paese 26, Asti, 14100, Asti, AT",POINT
+Bricco Gianotti,Asti,"Bricco Gianotti, 14100, Asti","{'type': 'Point', 'coordinates': [8.24070278781368, 44.873031724097245]}","Bricco Gianotti, Asti, 14100, Asti, AT",POINT
+Fraz.Montemarzo 139,Asti,"Frazione Montemarzo 139, 14100, Asti","{'type': 'Point', 'coordinates': [8.254789261988671, 44.864544666397315]}","Fraz.Montemarzo 139, Asti, 14100, Asti, AT",POINT
+Fraz. Valterza 69/A,Asti,"Località Valterza 69, 14100, Asti","{'type': 'Point', 'coordinates': [8.258229382047421, 44.9103675858965]}","Fraz. Valterza 69/A, Asti, 14100, Asti, AT",POINT
+Fraz.Quarto Inferiore 145,Asti,"Frazione Quarto Inferiore 145, 14100, Asti","{'type': 'Point', 'coordinates': [8.287263314732582, 44.90948918956661]}","Fraz.Quarto Inferiore 145, Asti, 14100, Asti, AT",POINT
+Via Mattarella,Asti,"Via Piersanti Mattarella, 14100, Asti, AT","{'type': 'Point', 'coordinates': [8.188404990931092, 44.89053647037238]}","Via Mattarella, Asti, 14100, Asti, AT",POINT
+Via Duca d’Aosta n°42,Asti,"Via Duca d'Aosta 42, 14100, Asti, AT","{'type': 'Point', 'coordinates': [8.19390674978367, 44.904511247013694]}","Via Duca d’Aosta n°42, Asti, 14100, Asti, AT",POINT
+Via Testa n. 56,Asti,"Via Gioacchino Testa 56, 14100, Asti, AT","{'type': 'Point', 'coordinates': [8.197226999999998, 44.901512999999994]}","Via Testa n. 56, Asti, 14100, Asti, AT",POINT
+Via Ugo Foscolo,Asti,"Via Ugo Foscolo, 14100, Asti, AT","{'type': 'Point', 'coordinates': [8.203078214093642, 44.911735949873346]}","Via Ugo Foscolo, Asti, 14100, Asti, AT",POINT
+Via Cavanna 34,Asti,"Via Monsignor Nicola Cavanna 34, 14100, Asti, AT","{'type': 'Point', 'coordinates': [8.217857278014353, 44.91854466889562]}","Via Cavanna 34, Asti, 14100, Asti, AT",POINT
+Corso Savona 180,Asti,"Corso Savona 180, 14100, Asti, AT","{'type': 'Point', 'coordinates': [8.211357523457751, 44.888597245628716]}","Corso Savona 180, Asti, 14100, Asti, AT",POINT
+Viale Pilone 222,Asti,"Viale Pilone 222, 14100, Asti, AT","{'type': 'Point', 'coordinates': [8.228047374545591, 44.90520734722136]}","Viale Pilone 222, Asti, 14100, Asti, AT",POINT
+Via Sant’Anna – Asilo,Asti,"Via Sant'Anna, 14100, Asti, AT","{'type': 'Point', 'coordinates': [8.195106868404702, 44.89752508271788]}","Via Sant’Anna – Asilo, Asti, 14100, Asti, AT",POINT
+Corso XXV Aprile – scuola elementare,Asti,"Corso 25 Aprile, 14100, Asti, AT","{'type': 'Point', 'coordinates': [8.192250579129631, 44.90681911194292]}","Corso XXV Aprile – scuola elementare, Asti, 14100, Asti, AT",POINT
+Via Cecchin – scuola elementare,Asti,"Via Giuseppe Cecchin, 14100, Asti, AT","{'type': 'Point', 'coordinates': [8.22000626191066, 44.89242752014697]}","Via Cecchin – scuola elementare, Asti, 14100, Asti, AT",POINT
+Corso Alessandria 83,Asti,"Corso Alessandria 83, 14100, Asti, AT","{'type': 'Point', 'coordinates': [8.21745730766343, 44.903912940879486]}","Corso Alessandria 83, Asti, 14100, Asti, AT",POINT
+Valle San Pietro n°87,Asti,"Piazza San Pietro 87, 14100, Asti, AT","{'type': 'Point', 'coordinates': [8.215043646964888, 44.902916304409025]}","Valle San Pietro n°87, Asti, 14100, Asti, AT",POINT

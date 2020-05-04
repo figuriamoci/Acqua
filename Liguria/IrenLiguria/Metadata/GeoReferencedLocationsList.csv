@@ -1,0 +1,88 @@
+alias_address,alias_city,alias_province,geocode,geometry,georeferencingString,type
+Arenzano,ARENZANO,GE,"Arenzano, GE","{'type': 'Point', 'coordinates': [8.686360000000036, 44.404310000000066]}","Arenzano, GE, Liguria",POINT
+Avegno,AVEGNO,GE,"Avegno, GE","{'type': 'Point', 'coordinates': [9.159550000000024, 44.38271000000003]}","Avegno, GE, Liguria",POINT
+Bargagli,BARGAGLI,GE,"Bargagli, GE","{'type': 'Point', 'coordinates': [9.086950000000058, 44.449970000000064]}","Bargagli, GE, Liguria",POINT
+Bogliasco,BOGLIASCO,GE,"Bogliasco, GE","{'type': 'Point', 'coordinates': [9.060960000000023, 44.38015000000007]}","Bogliasco, GE, Liguria",POINT
+Borzonasca,BORZONASCA,GE,"Borzonasca, GE","{'type': 'Point', 'coordinates': [9.384310000000028, 44.42480000000006]}","Borzonasca, GE, Liguria",POINT
+Busalla,BUSALLA,GE,"Busalla, GE","{'type': 'Point', 'coordinates': [8.943080000000066, 44.57564000000008]}","Busalla, GE, Liguria",POINT
+Camogli,CAMOGLI,GE,"Camogli, GE","{'type': 'Point', 'coordinates': [9.151360000000068, 44.356610000000046]}","Camogli, GE, Liguria",POINT
+Campoligure,CAMPO LIGURE,GE,"Campo Ligure, GE","{'type': 'Point', 'coordinates': [8.699020000000075, 44.535540000000026]}","Campoligure, GE, Liguria",POINT
+Campomorone,CAMPOMORONE,GE,"Campomorone, GE","{'type': 'Point', 'coordinates': [8.892720000000054, 44.50652000000008]}","Campomorone, GE, Liguria",POINT
+Casella,CASELLA,GE,"Casella, GE","{'type': 'Point', 'coordinates': [8.99508000000003, 44.533840000000055]}","Casella, GE, Liguria",POINT
+Castiglione Chiavarese,CASTIGLIONE CHIAVARESE,GE,"Castiglione Chiavarese, GE","{'type': 'Point', 'coordinates': [9.520740000000046, 44.27664000000004]}","Castiglione Chiavarese, GE, Liguria",POINT
+Ceranesi,CERANESI,GE,"Ceranesi, GE","{'type': 'Point', 'coordinates': [8.872270000000071, 44.503900000000044]}","Ceranesi, GE, Liguria",POINT
+Chiavari,CHIAVARI,GE,"Chiavari, GE","{'type': 'Point', 'coordinates': [9.325780000000066, 44.31411000000003]}","Chiavari, GE, Liguria",POINT
+Cicagna,CICAGNA,GE,"Cicagna, GE","{'type': 'Point', 'coordinates': [9.23437000000007, 44.41062000000005]}","Cicagna, GE, Liguria",POINT
+Cogoleto,COGOLETO,GE,"Cogoleto, GE","{'type': 'Point', 'coordinates': [8.645410000000027, 44.38900000000007]}","Cogoleto, GE, Liguria",POINT
+Coreglia Ligure,COREGLIA LIGURE,GE,"Coreglia Ligure, GE","{'type': 'Point', 'coordinates': [9.262530000000027, 44.388360000000034]}","Coreglia Ligure, GE, Liguria",POINT
+Crocefieschi,CROCEFIESCHI,GE,"Crocefieschi, GE","{'type': 'Point', 'coordinates': [9.023200000000031, 44.583290000000034]}","Crocefieschi, GE, Liguria",POINT
+Davagna,DAVAGNA,GE,"Davagna, GE","{'type': 'Point', 'coordinates': [9.091660000000047, 44.46780000000007]}","Davagna, GE, Liguria",POINT
+Fascia,FASCIA,GE,"Fascia, GE","{'type': 'Point', 'coordinates': [9.220940000000041, 44.58259000000004]}","Fascia, GE, Liguria",POINT
+Favale Di Malvaro,FAVALE DI MALVARO,GE,"Favale di Malvaro, GE","{'type': 'Point', 'coordinates': [9.259600000000034, 44.45257000000004]}","Favale Di Malvaro, GE, Liguria",POINT
+Fontanigorda,FONTANIGORDA,GE,"Fontanigorda, GE","{'type': 'Point', 'coordinates': [9.303310000000067, 44.547450000000026]}","Fontanigorda, GE, Liguria",POINT
+Genova,GENOVA,GE,"Genova, GE","{'type': 'Point', 'coordinates': [8.938980000000072, 44.41039000000006]}","Genova, GE, Liguria",POINT
+Gorreto,GORRETO,GE,"Gorreto, GE","{'type': 'Point', 'coordinates': [9.294310000000053, 44.60590000000008]}","Gorreto, GE, Liguria",POINT
+Isola Del Cantone,ISOLA DEL CANTONE,GE,"Isola del Cantone, GE","{'type': 'Point', 'coordinates': [8.955080000000066, 44.64915000000008]}","Isola Del Cantone, GE, Liguria",POINT
+Lavagna,LAVAGNA,GE,"Lavagna, GE","{'type': 'Point', 'coordinates': [9.333960000000047, 44.311570000000074]}","Lavagna, GE, Liguria",POINT
+Leivi,LEIVI,GE,"Leivi, GE","{'type': 'Point', 'coordinates': [9.30818000000005, 44.35304000000008]}","Leivi, GE, Liguria",POINT
+Lorsica,LORSICA,GE,"Lorsica, GE","{'type': 'Point', 'coordinates': [9.277480000000025, 44.433890000000076]}","Lorsica, GE, Liguria",POINT
+Lumarzo,LUMARZO,GE,"Lumarzo, GE","{'type': 'Point', 'coordinates': [9.14423000000005, 44.43452000000008]}","Lumarzo, GE, Liguria",POINT
+Masone,MASONE,GE,"Masone, GE","{'type': 'Point', 'coordinates': [8.713430000000074, 44.50350000000003]}","Masone, GE, Liguria",POINT
+Mele,MELE,GE,"Mele, GE","{'type': 'Point', 'coordinates': [8.74777000000006, 44.44936000000007]}","Mele, GE, Liguria",POINT
+Mezzanego,MEZZANEGO,GE,"Mezzanego, GE","{'type': 'Point', 'coordinates': [9.37856000000005, 44.38524000000007]}","Mezzanego, GE, Liguria",POINT
+Mignanego,MIGNANEGO,GE,"Mignanego, GE","{'type': 'Point', 'coordinates': [8.913030000000049, 44.51780000000008]}","Mignanego, GE, Liguria",POINT
+Moconesi,MOCONESI,GE,"Moconesi, GE","{'type': 'Point', 'coordinates': [9.215040000000045, 44.43482000000006]}","Moconesi, GE, Liguria",POINT
+Montebruno,MONTEBRUNO,GE,"Montebruno, GE","{'type': 'Point', 'coordinates': [9.248540000000048, 44.52607000000006]}","Montebruno, GE, Liguria",POINT
+Montoggio,MONTOGGIO,GE,"Montoggio, GE","{'type': 'Point', 'coordinates': [9.045440000000042, 44.514230000000055]}","Montoggio, GE, Liguria",POINT
+Neirone,NEIRONE,GE,"Neirone, GE","{'type': 'Point', 'coordinates': [9.189510000000041, 44.45604000000003]}","Neirone, GE, Liguria",POINT
+Orero,ORERO,GE,"Orero, GE","{'type': 'Point', 'coordinates': [9.267840000000035, 44.41002000000003]}","Orero, GE, Liguria",POINT
+Pieve Ligure,PIEVE LIGURE,GE,"Pieve Ligure, GE","{'type': 'Point', 'coordinates': [9.085830000000044, 44.37373000000008]}","Pieve Ligure, GE, Liguria",POINT
+Portofino,PROPATA,GE,"Portofino, GE","{'type': 'Point', 'coordinates': [9.207100000000025, 44.30439000000007]}","Portofino, GE, Liguria",POINT
+Propata,RAPALLO,GE,"Propata, GE","{'type': 'Point', 'coordinates': [9.18423000000007, 44.56595000000004]}","Propata, GE, Liguria",POINT
+Rapallo,RAPALLO,GE,"Rapallo, GE","{'type': 'Point', 'coordinates': [9.22276000000005, 44.35175000000004]}","Rapallo, GE, Liguria",POINT
+Recco,RECCO,GE,"Recco, GE","{'type': 'Point', 'coordinates': [9.146740000000023, 44.364640000000065]}","Recco, GE, Liguria",POINT
+Rezzoaglio,REZZOAGLIO,GE,"Rezzoaglio, GE","{'type': 'Point', 'coordinates': [9.386180000000024, 44.52589000000006]}","Rezzoaglio, GE, Liguria",POINT
+Ronco Scrivia,RONDANINA,GE,"Ronco Scrivia, GE","{'type': 'Point', 'coordinates': [8.945190000000025, 44.615830000000074]}","Ronco Scrivia, GE, Liguria",POINT
+Rondanina,RONDANINA,GE,"Rondanina, GE","{'type': 'Point', 'coordinates': [9.217760000000055, 44.562880000000064]}","Rondanina, GE, Liguria",POINT
+Rossiglione,ROSSIGLIONE,GE,"Rossiglione, GE","{'type': 'Point', 'coordinates': [8.665320000000065, 44.565990000000056]}","Rossiglione, GE, Liguria",POINT
+Rovegno,ROVEGNO,GE,"Rovegno, GE","{'type': 'Point', 'coordinates': [9.278590000000065, 44.576730000000055]}","Rovegno, GE, Liguria",POINT
+San Colombano Certenoli,SAN COLOMBANO CERTENOLI,GE,"San Colombano Certenoli, GE","{'type': 'Point', 'coordinates': [9.31176000000005, 44.37172000000004]}","San Colombano Certenoli, GE, Liguria",POINT
+Santa Margherita,SANTA MARGHERITA LIGURE,GE,"Piazza Santa Margherita, 16010, Sant'Olcese, GE","{'type': 'Point', 'coordinates': [8.945975249999993, 44.47034549999999]}","Santa Margherita, GE, Liguria",POINT
+Santo Stefano D'Aveto,SANTO STEFANO D'AVETO,GE,"Santo Stefano d'Aveto, GE","{'type': 'Point', 'coordinates': [9.451520000000073, 44.54576000000003]}","Santo Stefano D'Aveto, GE, Liguria",POINT
+Sant'Olcese,SANT'OLCESE,GE,"Sant'Olcese, GE","{'type': 'Point', 'coordinates': [8.96933000000007, 44.491070000000036]}","Sant'Olcese, GE, Liguria",POINT
+Savignone,SAVIGNONE,GE,"Savignone, GE","{'type': 'Point', 'coordinates': [8.989900000000034, 44.56412000000006]}","Savignone, GE, Liguria",POINT
+Serra RiccÒ,SERRA RICCO',GE,"Serra Riccò, GE","{'type': 'Point', 'coordinates': [8.931660000000022, 44.506290000000035]}","Serra RiccÒ, GE, Liguria",POINT
+Sori,SORI,GE,"Sori, GE","{'type': 'Point', 'coordinates': [9.107200000000034, 44.37778000000003]}","Sori, GE, Liguria",POINT
+Tiglieto,TIGLIETO,GE,"Tiglieto, GE","{'type': 'Point', 'coordinates': [8.619310000000041, 44.52673000000004]}","Tiglieto, GE, Liguria",POINT
+Torriglia,TORRIGLIA,GE,"Torriglia, GE","{'type': 'Point', 'coordinates': [9.158840000000055, 44.51932000000005]}","Torriglia, GE, Liguria",POINT
+Tribogna,TRIBOGNA,GE,"Tribogna, GE","{'type': 'Point', 'coordinates': [9.195610000000045, 44.416180000000054]}","Tribogna, GE, Liguria",POINT
+Uscio,USCIO,GE,"Uscio, GE","{'type': 'Point', 'coordinates': [9.153620000000046, 44.41728000000006]}","Uscio, GE, Liguria",POINT
+Valbrevenna,VALBREVENNA,GE,"Valbrevenna, GE","{'type': 'Point', 'coordinates': [9.063820000000021, 44.55719000000005]}","Valbrevenna, GE, Liguria",POINT
+Vobbia,VOBBIA,GE,"Vobbia, GE","{'type': 'Point', 'coordinates': [9.038360000000068, 44.600580000000036]}","Vobbia, GE, Liguria",POINT
+Zoagli,ZOAGLI,GE,"Zoagli, GE","{'type': 'Point', 'coordinates': [9.265120000000024, 44.33734000000004]}","Zoagli, GE, Liguria",POINT
+Bordighera,BORDIGHERA,IM,"Bordighera, IM","{'type': 'Point', 'coordinates': [7.671000000000049, 43.77843000000007]}","Bordighera, IM, Liguria",POINT
+Camporosso,CAMPOROSSO,IM,"Camporosso, IM","{'type': 'Point', 'coordinates': [7.629470000000026, 43.81635000000006]}","Camporosso, IM, Liguria",POINT
+Dolceacqua,DOLCEACQUA,IM,"Dolceacqua, IM","{'type': 'Point', 'coordinates': [7.622980000000041, 43.85044000000005]}","Dolceacqua, IM, Liguria",POINT
+Isolabona,ISOLABONA,IM,"Isolabona, IM","{'type': 'Point', 'coordinates': [7.638640000000066, 43.87894000000006]}","Isolabona, IM, Liguria",POINT
+Perinaldo,PERINALDO,IM,"Perinaldo, IM","{'type': 'Point', 'coordinates': [7.672510000000045, 43.86668000000003]}","Perinaldo, IM, Liguria",POINT
+San Biagio Della Cima ,SAN BIAGIO DELLA CIMA,IM,"San Biagio della Cima, IM","{'type': 'Point', 'coordinates': [7.650540000000035, 43.818430000000035]}","San Biagio Della Cima, IM, Liguria",POINT
+Seborga,SEBORGA,IM,"Seborga, IM","{'type': 'Point', 'coordinates': [7.695820000000026, 43.82734000000005]}","Seborga, IM, Liguria",POINT
+Soldano,SOLDANO,IM,"Soldano, IM","{'type': 'Point', 'coordinates': [7.654930000000036, 43.82842000000005]}","Soldano, IM, Liguria",POINT
+Vallebona,VALLEBONA,IM,"Vallebona, IM","{'type': 'Point', 'coordinates': [7.665810000000022, 43.812100000000044]}","Vallebona, IM, Liguria",POINT
+Vallecrosia,VALLECROSIA,IM,"Vallecrosia, IM","{'type': 'Point', 'coordinates': [7.652280000000076, 43.80962000000005]}","Vallecrosia, IM, Liguria",POINT
+Ventimiglia,VENTIMIGLIA,IM,"Ventimiglia, IM","{'type': 'Point', 'coordinates': [7.615420000000029, 43.78836000000007]}","Ventimiglia, IM, Liguria",POINT
+Bolano,BOLANO,SP,"Bolano, SP","{'type': 'Point', 'coordinates': [9.893510000000049, 44.18607000000003]}","Bolano, SP, Liguria",POINT
+Albisola Superiore,ALBISOLA SUPERIORE,SV,"Albisola Superiore, SV","{'type': 'Point', 'coordinates': [8.51565000000005, 44.332400000000064]}","Albisola Superiore, SV, Liguria",POINT
+Albissola Marina,ALBISSOLA MARINA,SV,"Albissola Marina, SV","{'type': 'Point', 'coordinates': [8.503210000000024, 44.32716000000005]}","Albissola Marina, SV, Liguria",POINT
+Altare,ALTARE,SV,"Altare, SV","{'type': 'Point', 'coordinates': [8.341120000000046, 44.33558000000005]}","Altare, SV, Liguria",POINT
+Bergeggi,BERGEGGI,SV,"Bergeggi, SV","{'type': 'Point', 'coordinates': [8.447350000000029, 44.25037000000003]}","Bergeggi, SV, Liguria",POINT
+Cairo Montenotte,CAIRO MONTENOTTE,SV,"Cairo Montenotte, SV","{'type': 'Point', 'coordinates': [8.274500000000046, 44.39997000000005]}","Cairo Montenotte, SV, Liguria",POINT
+Celle Ligure,CELLE LIGURE,SV,"Celle Ligure, SV","{'type': 'Point', 'coordinates': [8.545820000000049, 44.34281000000004]}","Celle Ligure, SV, Liguria",POINT
+Cengio,CENGIO,SV,"Cengio, SV","{'type': 'Point', 'coordinates': [8.208930000000066, 44.38874000000004]}","Cengio, SV, Liguria",POINT
+Noli,NOLI,SV,"Noli, SV","{'type': 'Point', 'coordinates': [8.416360000000054, 44.205040000000054]}","Noli, SV, Liguria",POINT
+Quiliano,QUILIANO,SV,"Quiliano, SV","{'type': 'Point', 'coordinates': [8.412920000000042, 44.29272000000003]}","Quiliano, SV, Liguria",POINT
+Savona,SAVONA,SV,"Savona, SV","{'type': 'Point', 'coordinates': [8.483640000000037, 44.30582000000004]}","Savona, SV, Liguria",POINT
+Spotorno,SPOTORNO,SV,"Spotorno, SV","{'type': 'Point', 'coordinates': [8.419200000000046, 44.22841000000005]}","Spotorno, SV, Liguria",POINT
+Stella,STELLA,SV,"Stella, SV","{'type': 'Point', 'coordinates': [8.496960000000058, 44.39214000000004]}","Stella, SV, Liguria",POINT
+Vado Ligure,VADO LIGURE,SV,"Vado Ligure, SV","{'type': 'Point', 'coordinates': [8.435590000000047, 44.27117000000004]}","Vado Ligure, SV, Liguria",POINT
+Varazze,VARAZZE,SV,"Varazze, SV","{'type': 'Point', 'coordinates': [8.578790000000026, 44.359380000000044]}","Varazze, SV, Liguria",POINT

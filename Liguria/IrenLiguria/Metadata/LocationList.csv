@@ -1,0 +1,88 @@
+alias_province,alias_city,alias_address,georeferencingString,type
+GE,ARENZANO,Arenzano,"Arenzano, GE, Liguria",POINT
+GE,AVEGNO,Avegno,"Avegno, GE, Liguria",POINT
+GE,BARGAGLI,Bargagli,"Bargagli, GE, Liguria",POINT
+GE,BOGLIASCO,Bogliasco,"Bogliasco, GE, Liguria",POINT
+GE,BORZONASCA,Borzonasca,"Borzonasca, GE, Liguria",POINT
+GE,BUSALLA,Busalla,"Busalla, GE, Liguria",POINT
+GE,CAMOGLI,Camogli,"Camogli, GE, Liguria",POINT
+GE,CAMPO LIGURE,Campoligure,"Campoligure, GE, Liguria",POINT
+GE,CAMPOMORONE,Campomorone,"Campomorone, GE, Liguria",POINT
+GE,CASELLA,Casella,"Casella, GE, Liguria",POINT
+GE,CASTIGLIONE CHIAVARESE,Castiglione Chiavarese,"Castiglione Chiavarese, GE, Liguria",POINT
+GE,CERANESI,Ceranesi,"Ceranesi, GE, Liguria",POINT
+GE,CHIAVARI,Chiavari,"Chiavari, GE, Liguria",POINT
+GE,CICAGNA,Cicagna,"Cicagna, GE, Liguria",POINT
+GE,COGOLETO,Cogoleto,"Cogoleto, GE, Liguria",POINT
+GE,COREGLIA LIGURE,Coreglia Ligure,"Coreglia Ligure, GE, Liguria",POINT
+GE,CROCEFIESCHI,Crocefieschi,"Crocefieschi, GE, Liguria",POINT
+GE,DAVAGNA,Davagna,"Davagna, GE, Liguria",POINT
+GE,FASCIA,Fascia,"Fascia, GE, Liguria",POINT
+GE,FAVALE DI MALVARO,Favale Di Malvaro,"Favale Di Malvaro, GE, Liguria",POINT
+GE,FONTANIGORDA,Fontanigorda,"Fontanigorda, GE, Liguria",POINT
+GE,GENOVA,Genova,"Genova, GE, Liguria",POINT
+GE,GORRETO,Gorreto,"Gorreto, GE, Liguria",POINT
+GE,ISOLA DEL CANTONE,Isola Del Cantone,"Isola Del Cantone, GE, Liguria",POINT
+GE,LAVAGNA,Lavagna,"Lavagna, GE, Liguria",POINT
+GE,LEIVI,Leivi,"Leivi, GE, Liguria",POINT
+GE,LORSICA,Lorsica,"Lorsica, GE, Liguria",POINT
+GE,LUMARZO,Lumarzo,"Lumarzo, GE, Liguria",POINT
+GE,MASONE,Masone,"Masone, GE, Liguria",POINT
+GE,MELE,Mele,"Mele, GE, Liguria",POINT
+GE,MEZZANEGO,Mezzanego,"Mezzanego, GE, Liguria",POINT
+GE,MIGNANEGO,Mignanego,"Mignanego, GE, Liguria",POINT
+GE,MOCONESI,Moconesi,"Moconesi, GE, Liguria",POINT
+GE,MONTEBRUNO,Montebruno,"Montebruno, GE, Liguria",POINT
+GE,MONTOGGIO,Montoggio,"Montoggio, GE, Liguria",POINT
+GE,NEIRONE,Neirone,"Neirone, GE, Liguria",POINT
+GE,ORERO,Orero,"Orero, GE, Liguria",POINT
+GE,PIEVE LIGURE,Pieve Ligure,"Pieve Ligure, GE, Liguria",POINT
+GE,PROPATA,Portofino,"Portofino, GE, Liguria",POINT
+GE,RAPALLO,Propata,"Propata, GE, Liguria",POINT
+GE,RAPALLO,Rapallo,"Rapallo, GE, Liguria",POINT
+GE,RECCO,Recco,"Recco, GE, Liguria",POINT
+GE,REZZOAGLIO,Rezzoaglio,"Rezzoaglio, GE, Liguria",POINT
+GE,RONDANINA,Ronco Scrivia,"Ronco Scrivia, GE, Liguria",POINT
+GE,RONDANINA,Rondanina,"Rondanina, GE, Liguria",POINT
+GE,ROSSIGLIONE,Rossiglione,"Rossiglione, GE, Liguria",POINT
+GE,ROVEGNO,Rovegno,"Rovegno, GE, Liguria",POINT
+GE,SAN COLOMBANO CERTENOLI,San Colombano Certenoli,"San Colombano Certenoli, GE, Liguria",POINT
+GE,SANTA MARGHERITA LIGURE,Santa Margherita,"Santa Margherita, GE, Liguria",POINT
+GE,SANTO STEFANO D'AVETO,Santo Stefano D'Aveto,"Santo Stefano D'Aveto, GE, Liguria",POINT
+GE,SANT'OLCESE,Sant'Olcese,"Sant'Olcese, GE, Liguria",POINT
+GE,SAVIGNONE,Savignone,"Savignone, GE, Liguria",POINT
+GE,SERRA RICCO',Serra RiccÒ,"Serra RiccÒ, GE, Liguria",POINT
+GE,SORI,Sori,"Sori, GE, Liguria",POINT
+GE,TIGLIETO,Tiglieto,"Tiglieto, GE, Liguria",POINT
+GE,TORRIGLIA,Torriglia,"Torriglia, GE, Liguria",POINT
+GE,TRIBOGNA,Tribogna,"Tribogna, GE, Liguria",POINT
+GE,USCIO,Uscio,"Uscio, GE, Liguria",POINT
+GE,VALBREVENNA,Valbrevenna,"Valbrevenna, GE, Liguria",POINT
+GE,VOBBIA,Vobbia,"Vobbia, GE, Liguria",POINT
+GE,ZOAGLI,Zoagli,"Zoagli, GE, Liguria",POINT
+IM,BORDIGHERA,Bordighera,"Bordighera, IM, Liguria",POINT
+IM,CAMPOROSSO,Camporosso,"Camporosso, IM, Liguria",POINT
+IM,DOLCEACQUA,Dolceacqua,"Dolceacqua, IM, Liguria",POINT
+IM,ISOLABONA,Isolabona,"Isolabona, IM, Liguria",POINT
+IM,PERINALDO,Perinaldo,"Perinaldo, IM, Liguria",POINT
+IM,SAN BIAGIO DELLA CIMA,"San Biagio Della Cima ","San Biagio Della Cima, IM, Liguria",POINT
+IM,SEBORGA,Seborga,"Seborga, IM, Liguria",POINT
+IM,SOLDANO,Soldano,"Soldano, IM, Liguria",POINT
+IM,VALLEBONA,Vallebona,"Vallebona, IM, Liguria",POINT
+IM,VALLECROSIA,Vallecrosia,"Vallecrosia, IM, Liguria",POINT
+IM,VENTIMIGLIA,Ventimiglia,"Ventimiglia, IM, Liguria",POINT
+SP,BOLANO,Bolano,"Bolano, SP, Liguria",POINT
+SV,ALBISOLA SUPERIORE,Albisola Superiore,"Albisola Superiore, SV, Liguria",POINT
+SV,ALBISSOLA MARINA,Albissola Marina,"Albissola Marina, SV, Liguria",POINT
+SV,ALTARE,Altare,"Altare, SV, Liguria",POINT
+SV,BERGEGGI,Bergeggi,"Bergeggi, SV, Liguria",POINT
+SV,CAIRO MONTENOTTE,Cairo Montenotte,"Cairo Montenotte, SV, Liguria",POINT
+SV,CELLE LIGURE,Celle Ligure,"Celle Ligure, SV, Liguria",POINT
+SV,CENGIO,Cengio,"Cengio, SV, Liguria",POINT
+SV,NOLI,Noli,"Noli, SV, Liguria",POINT
+SV,QUILIANO,Quiliano,"Quiliano, SV, Liguria",POINT
+SV,SAVONA,Savona,"Savona, SV, Liguria",POINT
+SV,SPOTORNO,Spotorno,"Spotorno, SV, Liguria",POINT
+SV,STELLA,Stella,"Stella, SV, Liguria",POINT
+SV,VADO LIGURE,Vado Ligure,"Vado Ligure, SV, Liguria",POINT
+SV,VARAZZE,Varazze,"Varazze, SV, Liguria",POINT

@@ -1,0 +1,19 @@
+alias_address,alias_city,geocode,geometry,georeferencingString,type
+Comune,Cantarana d'Asti,"14010, Cantarana, Asti, Piemonte","{'type': 'Point', 'coordinates': [8.029188495598401, 44.89947595264075]}","Cantarana d'Asti 14010, AT, Piemonte",POINT
+Comune,Antignano,"Antignano, AT","{'type': 'Point', 'coordinates': [8.131600000000049, 44.84531000000004]}","Antignano, AT, Piemonte",POINT
+Comune,Buttigliera d'Asti,"Buttigliera d'Asti, AT","{'type': 'Point', 'coordinates': [7.950160000000039, 45.02104000000003]}","Buttigliera d'Asti, AT, Piemonte",POINT
+Comune,Cellarengo,"Cellarengo, AT","{'type': 'Point', 'coordinates': [7.944590000000062, 44.86677000000003]}","Cellarengo, AT, Piemonte",POINT
+Comune,Celle Enomondo,"Celle Enomondo, AT","{'type': 'Point', 'coordinates': [8.124480000000062, 44.85782000000006]}","Celle Enomondo, AT, Piemonte",POINT
+Comune,Cisterna d'Asti,"Cisterna d'Asti, AT","{'type': 'Point', 'coordinates': [8.001100000000065, 44.82582000000008]}","Cisterna d'Asti, AT, Piemonte",POINT
+Comune,Dusino San Michele,"Dusino San Michele, AT","{'type': 'Point', 'coordinates': [7.972110000000043, 44.91608000000008]}","Dusino San Michele, AT, Piemonte",POINT
+Comune,Ferrere,"Ferrere, AT","{'type': 'Point', 'coordinates': [7.993490000000065, 44.879440000000045]}","Ferrere, AT, Piemonte",POINT
+Comune,Monale,"Monale, AT","{'type': 'Point', 'coordinates': [8.07281000000006, 44.93873000000008]}","Monale, AT, Piemonte",POINT
+Comune,Montafia,"Montafia, AT","{'type': 'Point', 'coordinates': [8.024940000000072, 44.989130000000046]}","Montafia, AT, Piemonte",POINT
+Comune,Revigliasco d'Asti,"Revigliasco d'Asti, AT","{'type': 'Point', 'coordinates': [8.155230000000074, 44.860010000000045]}","Revigliasco d'Asti, AT, Piemonte",POINT
+Comune,San Damiano d'Asti,"San Damiano d'Asti, AT","{'type': 'Point', 'coordinates': [8.066970000000026, 44.83632000000006]}","San Damiano d'Asti, AT, Piemonte",POINT
+Comune,San Martino Alfieri,"San Martino Alfieri, AT","{'type': 'Point', 'coordinates': [8.109030000000075, 44.81814000000003]}","San Martino Alfieri, AT, Piemonte",POINT
+Comune,San Paolo Solbrito,"San Paolo Solbrito, AT","{'type': 'Point', 'coordinates': [7.9691400000000385, 44.95094000000006]}","San Paolo Solbrito, AT, Piemonte",POINT
+Comune,Tigliole,"Tigliole, AT","{'type': 'Point', 'coordinates': [8.079380000000072, 44.88684000000006]}","Tigliole, AT, Piemonte",POINT
+Comune,Valfenera,"Valfenera, AT","{'type': 'Point', 'coordinates': [7.9646300000000565, 44.89975000000004]}","Valfenera, AT, Piemonte",POINT
+Comune,Villafranca d'Asti,"Villafranca d'Asti, AT","{'type': 'Point', 'coordinates': [8.031270000000063, 44.91467000000006]}","Villafranca d'Asti, AT, Piemonte",POINT
+Comune,Villanova d'Asti,"Villanova d'Asti, AT","{'type': 'Point', 'coordinates': [7.936750000000075, 44.942300000000046]}","Villanova d'Asti, AT, Piemonte",POINT

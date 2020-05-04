@@ -1,0 +1,14 @@
+alias_address,alias_city,ammoniaca,arsenico,bicarbonato,calcio,cloro_residuo,cloruro,conducibilita,data_report,durezza,fluoruri,magnesio,manganese,nitrato,nitrito,ph,potassio,residuo_fisso,sodio,solfato
+Tutte Le LocalitÀ,CANELLI,004,09,146,42,018,4,282,periodo dal 01/07/2019 al 31/12/2019,14,<0.10,8,<5,3,<0.01,8,07,166,39,276
+Tutte Le LocalitÀ,CANTARANA,<0.02,<0.2,261,577,02,12,423,periodo dal 01/01/2019 al 30/06/2019,21,<0.10,15,<5,14,001,77,14,225,143,398
+Tutte Le LocalitÀ,FERRERE,002,<0.2,263,62,02,63,439,periodo dal 01/01/2019 al 30/06/2019,22,<0.10,158,<5,11,001,77,14,235,14,377
+S. Rocco,FERRERE,002,<0.2,263,62,02,63,439,periodo dal 01/01/2019 al 30/06/2019,22,<0.10,158,<5,11,001,77,14,235,14,377
+Tutte Le LocalitÀ,MONTAFIA,<0.02,3,139,307,02,55,255,periodo dal 01/01/2019 al 30/06/2019,13,<0.10,13,<5,6,<0.01,79,11,163,52,255
+Tutte Le LocalitÀ,NIZZA MONFERRATO,004,1,215,50,016,4,344,periodo dal 01/07/2019 al 31/12/2019,18,<0.10,14,<5,3,<0.01,8,12,207,88,255
+Tutte Le LocalitÀ,VILLAFRANCA D'ASTI,002,<0.2,255,63,02,42,388,periodo dal 01/01/2019 al 30/06/2019,22,<0.10,14,<5,17,<0.01,77,17,248,156,238
+Tutte Le LocalitÀ,CERESOLE ALBA,<0.02,04,254,63,006,9,381,periodo dal 01/07/2019 al 31/12/2019,20,<0.10,10,<5,23,<0.01,78,11,242,103,16
+Tutte Le LocalitÀ,COSTIGLIOLE SALUZZO,<0.02,06,119,32,009,83,225,periodo dal 01/07/2019 al 31/12/2019,10,<0.10,6,<5,72,<0.01,73,09,127,26,20
+Tutte Le LocalitÀ,RACCONIGI,<0.02,04,284,90,006,129,588,periodo dal 01/07/2019 al 31/12/2019,32,<0.10,34,<5,225,<0.01,75,11,354,53,732
+Tutte Le LocalitÀ,SANFRE',<0.02,12,161,56,008,139,378,periodo dal 01/07/2019 al 31/12/2019,18,<0.10,11,<5,25,001,7,11,225,99,349
+Tutte Le LocalitÀ,SAN PIETRO MOSEZZO,<0.05,05,102,19,011,48,171,periodo dal 01/01/2019 al 30/06/2019,8,011,8,<5,4,<0.01,75,09,126,6,8
+Lamporo,LAMPORO,<0.05,<0.2,113,389,04,79,306,periodo dal 01/01/2019 al 30/06/2019,15,<0.10,12,<5,20,<0.01,77,12,236,37,177

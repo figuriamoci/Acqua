@@ -1,0 +1,12 @@
+alias_address,alias_city,geocode,geometry,georeferencingString,type
+Comune,Codigoro,"Codigoro, Ferrara","{'type': 'Point', 'coordinates': [12.105540000000076, 44.83168000000006]}","Codigoro, Ferrara, Emilia Romagna",POINT
+Comune,Comacchio,"Comacchio, Ferrara","{'type': 'Point', 'coordinates': [12.178810000000055, 44.69459000000006]}","Comacchio, Ferrara, Emilia Romagna",POINT
+Comune,Copparo,"Copparo, Ferrara","{'type': 'Point', 'coordinates': [11.827150000000074, 44.892540000000054]}","Copparo, Ferrara, Emilia Romagna",POINT
+Comune,Fiscaglia,"Fiscaglia, Ferrara","{'type': 'Point', 'coordinates': [12.013320000000022, 44.80758000000003]}","Fiscaglia, Ferrara, Emilia Romagna",POINT
+Comune,Goro,"Goro, Ferrara","{'type': 'Point', 'coordinates': [12.299920000000043, 44.85305000000005]}","Goro, Ferrara, Emilia Romagna",POINT
+Comune,Jolanda di Savoia ,"Jolanda di Savoia, Ferrara","{'type': 'Point', 'coordinates': [11.977230000000077, 44.88588000000004]}","Jolanda di Savoia , Ferrara, Emilia Romagna",POINT
+Comune,Lagosanto ,"Lagosanto, Ferrara","{'type': 'Point', 'coordinates': [12.141140000000064, 44.76520000000005]}","Lagosanto , Ferrara, Emilia Romagna",POINT
+Comune,Mesola ,"Mesola, Ferrara","{'type': 'Point', 'coordinates': [12.229560000000049, 44.92208000000005]}","Mesola , Ferrara, Emilia Romagna",POINT
+Comune,Ostellato,"Ostellato, Ferrara","{'type': 'Point', 'coordinates': [11.941260000000057, 44.74470000000008]}","Ostellato, Ferrara, Emilia Romagna",POINT
+Comune,Riva del Po,"Riva del Po, Ferrara","{'type': 'Point', 'coordinates': [11.979440000000068, 44.979940000000056]}","Riva del Po, Ferrara, Emilia Romagna",POINT
+Comune,Tresignana,"Tresignana, Ferrara","{'type': 'Point', 'coordinates': [11.89143000000007, 44.81653000000006]}","Tresignana, Ferrara, Emilia Romagna",POINT

@@ -1,0 +1,17 @@
+alias_address,alias_city,geocode,geometry,georeferencingString,type
+Comune,S.Maria Maggiore,"Santa Maria Maggiore, VB","{'type': 'Point', 'coordinates': [8.467030000000022, 46.13409000000007]}","Santa Maria Maggiore, VB, Piemonte",POINT
+Comune,Beura,"Beura, Beura-Cardezza, VB","{'type': 'Point', 'coordinates': [8.301020000000051, 46.08146000000005]}","Beura, VB, Piemonte",POINT
+Comune,Bognanco,"Bognanco, VB","{'type': 'Point', 'coordinates': [8.198320000000024, 46.12907000000007]}","Bognanco, VB, Piemonte",POINT
+Comune,Craveggia,"Craveggia, VB","{'type': 'Point', 'coordinates': [8.488890000000026, 46.14012000000008]}","Craveggia, VB, Piemonte",POINT
+Comune,Crevoladossola,"Crevoladossola, VB","{'type': 'Point', 'coordinates': [8.303350000000023, 46.15610000000004]}","Crevoladossola, VB, Piemonte",POINT
+Comune,Crodo,"Crodo, VB","{'type': 'Point', 'coordinates': [8.32334000000003, 46.223820000000046]}","Crodo, VB, Piemonte",POINT
+Comune,Domodossola,"Domodossola, VB","{'type': 'Point', 'coordinates': [8.295470000000023, 46.10677000000004]}","Domodossola, VB, Piemonte",POINT
+Comune,Malesco,"Malesco, VB","{'type': 'Point', 'coordinates': [8.498180000000048, 46.12749000000008]}","Malesco, VB, Piemonte",POINT
+Comune,Masera,"Masera, VB","{'type': 'Point', 'coordinates': [8.326090000000022, 46.13667000000004]}","Masera, VB, Piemonte",POINT
+Comune,Montecrestese,"Montecrestese, VB","{'type': 'Point', 'coordinates': [8.326610000000073, 46.16534000000007]}","Montecrestese, VB, Piemonte",POINT
+Comune,Premia,"Premia, VB","{'type': 'Point', 'coordinates': [8.341560000000072, 46.26900000000006]}","Premia, VB, Piemonte",POINT
+Comune,Re,"Re, VB","{'type': 'Point', 'coordinates': [8.544640000000072, 46.13029000000006]}","Re, VB, Piemonte",POINT
+Comune,Toceno,"Toceno, VB","{'type': 'Point', 'coordinates': [8.464110000000062, 46.14322000000004]}","Toceno, VB, Piemonte",POINT
+Comune,Trontano,"Trontano, VB","{'type': 'Point', 'coordinates': [8.332430000000045, 46.122100000000046]}","Trontano, VB, Piemonte",POINT
+Comune,Varzo,"Varzo, VB","{'type': 'Point', 'coordinates': [8.254470000000026, 46.20637000000005]}","Varzo, VB, Piemonte",POINT
+Comune,Villette,"Villette, VB","{'type': 'Point', 'coordinates': [8.533770000000061, 46.13124000000005]}","Villette, VB, Piemonte",POINT

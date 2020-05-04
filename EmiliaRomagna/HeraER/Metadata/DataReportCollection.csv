@@ -1,0 +1,163 @@
+alias_address,alias_city,ammoniaca,arsenico,bicarbonato,calcio,cloro_residuo,cloruro,conducibilita,data_report,durezza,fluoruri,magnesio,manganese,nitrato,nitrito,ph,potassio,residuo_fisso,sodio,solfato
+Comune,Alto Reno - loc. Porretta Terme,<0.02,<1,121,35,0.2,6,250,Dati Medi Carta dei Servizi anno 2019 II Semestre,11,<0.10,6,8,1,<0.02,7.6,1,247,3,11
+Comune,Anzola dell'Emilia,<0.02,<1,352,113,0.2,50,875,Dati Medi Carta dei Servizi anno 2019 II Semestre,38,<0.10,23,<5,13,<0.02,7.3,3,510,34,74
+Comune,Argelato,<0.02,<1,386,101,0.1,16,777,Dati Medi Carta dei Servizi anno 2019 II Semestre,35,<0.10,23,6,3,<0.02,7.2,2,466,27,61
+Comune,Argenta,0.02,1,165,53,0.1,24,424,Dati Medi Carta dei Servizi anno 2019 II Semestre,18,<0.10,11,<5,6,<0.02,7.6,3,281,18,28
+Comune,Alfonsine,<0.02,<1,164,51,0.1,26,451,Dati Medi Carta dei Servizi anno 2019 II Semestre,18,<0.10,11,5,5,<0.02,7.7,2,329,17,28
+Comune,Baricella,0.04,<1,376,101,0.1,23,807,Dati Medi Carta dei Servizi anno 2019 II Semestre,35,<0.10,22,<5,5,<0.02,7.2,2,469,27,74
+Comune,Bentivoglio,<0.02,<1,375,111,0.1,23,807,Dati Medi Carta dei Servizi anno 2019 II Semestre,36,<0.10,24,<5,5,0.06,7.3,2,461,27,72
+Comune,Bologna,<0.02,<1,293,93,0.2,37,713,Dati Medi Carta dei Servizi anno 2019 II Semestre,32,<0.10,19,<5,9,<0.02,7.4,2,464,27,63
+Comune,Borgo Tossignano,<0.02,<1,171,39,0.1,47,535,Dati Medi Carta dei Servizi anno 2019 II Semestre,17,<0.10,18,<5,<0.5,<0.02,7.7,3,357,35,44
+Comune,Budrio,<0.02,<1,365,121,0.2,29,846,Dati Medi Carta dei Servizi anno 2019 II Semestre,41,<0.10,25,8,10,<0.02,7.2,4,515,32,91
+Comune,Bondeno,<0.02,<1,216,65,0.1,18,495,Dati Medi Carta dei Servizi anno 2019 II Semestre,22,0.11,14,<5,2,<0.02,7.4,3,320,17,34
+Comune,Bagnacavallo,<0.02,<1,165,53,0.1,33,445,Dati Medi Carta dei Servizi anno 2019 II Semestre,18,<0.10,12,<5,5,<0.02,7.8,3,331,21,33
+Comune,Bagnara di Romagna,0.04,<1,224,69,0.03,42,632,Dati Medi Carta dei Servizi anno 2019 II Semestre,25,0.10,19,<5,9,<0.02,7.6,3,421,24,57
+Comune,Brisighella,<0.02,<1,244,57,0.1,9,498,Dati Medi Carta dei Servizi anno 2019 II Semestre,22,0.11,17,<5,1,<0.02,7.7,2,375,18,34
+Comune,Bellaria-Igea Marina,0.03,<1,219,64,0.1,17,493,Dati Medi Carta dei Servizi anno 2019 II Semestre,22,<0.10,14,<5,6,<0.02,7.4,2,369,13,29
+Comune,Bagno di Romagna,<0.02,<1,221,57,0.1,16,547,Dati Medi Carta dei Servizi anno 2019 II Semestre,19,0.17,11,<5,2,<0.02,7.5,3,357,26,32
+Comune,Bertinoro,0.02,<1,187,53,0.1,11,406,Dati Medi Carta dei Servizi anno 2019 II Semestre,17,<0.10,10,<5,2,<0.02,7.7,2,269,8,19
+Comune,Borghi,<0.02,<1,221,70,0.1,17,488,Dati Medi Carta dei Servizi anno 2019 II Semestre,24,<0.10,15,<5,5,<0.02,7.4,2,357,13,29
+Comune,Calderara di Reno,0.03,<1,353,113,0.2,49,870,Dati Medi Carta dei Servizi anno 2019 II Semestre,36,<0.10,22,<5,13,<0.02,7.3,3,521,31,71
+Comune,Camugnano,<0.02,<1,139,42,0.2,4,291,Dati Medi Carta dei Servizi anno 2019 II Semestre,15,<0.10,10,<5,1,<0.02,8.1,1,264,4,17
+Comune,Casalecchio di Reno,<0.02,<1,220,72,0.1,31,633,Dati Medi Carta dei Servizi anno 2019 II Semestre,24,<0.10,14,<5,5,<0.02,7.5,2,356,23,42
+Comune,Casalfiumanese,<0.02,<1,169,40,0.1,48,537,Dati Medi Carta dei Servizi anno 2019 II Semestre,17,0.11,19,<5,<0.5,<0.02,7.6,3,381,36,44
+Comune,Castel d'Aiano,<0.02,<1,401,136,0.1,56,884,Dati Medi Carta dei Servizi anno 2019 II Semestre,38,<0.10,10,<5,8,<0.02,7.2,1,475,22,19
+Comune,Castel Del Rio,<0.02,<1,300,70,0.2,11,606,Dati Medi Carta dei Servizi anno 2019 II Semestre,26,0.11,20,<5,1,<0.02,7.5,2,406,16,46
+Comune,Castel di Casio,0.02,<1,117,37,0.2,7,249,Dati Medi Carta dei Servizi anno 2019 II Semestre,12,<0.10,6,<5,1,<0.02,7.7,<1,236,6,10
+Comune,Castel Guelfo di Bologna,0.08,<1,158,47,0.1,33,469,Dati Medi Carta dei Servizi anno 2019 II Semestre,18,<0.10,15,<5,2,<0.02,7.8,3,360,22,40
+Comune,Castel Maggiore,0.05,<1,378,108,0.1,28,839,Dati Medi Carta dei Servizi anno 2019 II Semestre,37,<0.10,23,<5,7,<0.02,7.3,2,456,29,78
+Comune,Castel San Pietro Terme,0.05,<1,153,52,0.1,33,460,Dati Medi Carta dei Servizi anno 2019 II Semestre,20,0.10,16,<5,2,<0.02,7.7,3,335,24,37
+Comune,Castello d'Argile,<0.02,<1,384,98,0.3,17,787,Dati Medi Carta dei Servizi anno 2019 II Semestre,33,<0.10,22,<5,3,<0.02,7.4,2,469,27,64
+Comune,Castenaso,0.02,<1,377,125,0.2,30,827,Dati Medi Carta dei Servizi anno 2019 II Semestre,42,<0.10,27,<5,7,<0.02,7.2,4,478,32,81
+Comune,Castiglione dei Pepoli,<0.02,<1,124,37,0.2,5,269,Dati Medi Carta dei Servizi anno 2019 II Semestre,13,<0.10,9,<5,2,<0.02,7.7,1,219,4,16
+Comune,Cento,<0.02,<1,196,54,0.2,21,478,Dati Medi Carta dei Servizi anno 2019 II Semestre,18,<0.10,11,<5,3,<0.02,7.5,3,331,16,32
+Comune,Castelfranco Emilia,<0.02,<1,248,75,0.2,13,550,Dati Medi Carta dei Servizi anno 2019 II Semestre,24,<0.10,13,<5,13,<0.02,7.4,2,340,12,33
+Comune,Castelnuovo Rangone,<0.02,<1,269,79,0.2,16,566,Dati Medi Carta dei Servizi anno 2019 II Semestre,25,<0.10,14,<5,16,<0.02,7.4,2,305,15,28
+Comune,Castelvetro di Modena,<0.02,<1,290,96,0.2,30,679,Dati Medi Carta dei Servizi anno 2019 II Semestre,31,<0.10,18,<5,20,<0.02,7.2,3,439,23,37
+Comune,Casola Valsenio,<0.02,<1,262,56,0.1,11,554,Dati Medi Carta dei Servizi anno 2019 II Semestre,24,0.16,26,<5,1,<0.02,7.9,4,383,21,50
+Comune,Castel Bolognese,0.04,<1,481,168,0.04,56,1112,Dati Medi Carta dei Servizi anno 2019 II Semestre,61,0.12,48,<5,20,<0.02,7.6,5,748,46,147
+Comune,Cervia,<0.02,<1,189,59,0.1,22,461,Dati Medi Carta dei Servizi anno 2019 II Semestre,20,<0.10,13,<5,5,<0.02,7.6,2,341,16,29
+Comune,Conselice,0.08,<1,140,57,0.1,33,440,Dati Medi Carta dei Servizi anno 2019 II Semestre,21,<0.10,15,<5,2,<0.02,7.6,3,325,19,38
+Comune,Cotignola,<0.02,<1,181,53,0.1,16,418,Dati Medi Carta dei Servizi anno 2019 II Semestre,18,<0.10,11,<5,3,<0.02,7.7,2,297,11,23
+Comune,Casteldelci,<0.02,<1,176,53,0.1,5,315,Dati Medi Carta dei Servizi anno 2019 II Semestre,16,<0.10,5,<5,2,<0.02,7.9,1,231,8,6
+Comune,Cattolica,<0.02,<1,274,81,0.1,50,721,Dati Medi Carta dei Servizi anno 2019 II Semestre,30,0.14,23,<5,15,<0.02,7.3,3,470,33,43
+Comune,Coriano,0.02,<1,213,59,0.1,16,475,Dati Medi Carta dei Servizi anno 2019 II Semestre,20,<0.10,13,<5,5,<0.02,7.4,2,332,10,27
+Comune,Castrocaro terme e Terra del sole,<0.02,<1,214,60,0.1,13,450,Dati Medi Carta dei Servizi anno 2019 II Semestre,20,<0.10,13,<5,3,<0.02,7.6,2,333,12,30
+Comune,Cesena,0.02,<1,225,66,0.05,16,522,Dati Medi Carta dei Servizi anno 2019 II Semestre,22,<0.10,15,<5,8,<0.02,7.6,2,332,12,31
+Comune,Cesenatico,<0.02,<1,202,57,0.03,13,439,Dati Medi Carta dei Servizi anno 2019 II Semestre,19,<0.10,12,<5,4,<0.02,7.5,2,297,11,24
+Comune,Civitella di Romagna,<0.02,<1,194,57,0.1,10,396,Dati Medi Carta dei Servizi anno 2019 II Semestre,19,<0.10,12,<5,1,<0.02,7.8,2,318,8,24
+Comune,Dozza,<0.02,<1,362,125,0.1,45,819,Dati Medi Carta dei Servizi anno 2019 II Semestre,40,0.16,22,<5,14,<0.02,7.3,3,491,38,37
+Comune,Dovadola,<0.02,<1,278,76,0.1,10,581,Dati Medi Carta dei Servizi anno 2019 II Semestre,28,0.15,21,<5,1,<0.02,7.4,3,368,19,50
+Comune,Fontanelice,<0.02,<1,183,48,0.1,41,531,Dati Medi Carta dei Servizi anno 2019 II Semestre,19,0.15,17,<5,1,<0.02,7.3,3,345,30,42
+Comune,Ferrara,<0.02,2,166,51,0.2,24,440,Dati Medi Carta dei Servizi anno 2019 II Semestre,17,<0.10,11,<5,6,<0.02,7.6,3,313,19,29
+Comune,Fiorano Modenese,<0.02,<1,230,122,0.04,154,1232,Dati Medi Carta dei Servizi anno 2019 II Semestre,37,<0.10,17,<5,15,<0.02,7.4,3,783,92,204
+Comune,Formigine,<0.02,<1,286,165,0.1,153,1366,Dati Medi Carta dei Servizi anno 2019 II Semestre,51,<0.10,25,<5,28,<0.02,7.2,4,843,104,197
+Comune,Frassinoro,0.02,<1,199,55,0.3,2,361,Dati Medi Carta dei Servizi anno 2019 II Semestre,16,<0.10,6,<5,1,<0.02,7.4,1,283,7,15
+Comune,Faenza,0.02,1,192,50,0.1,11,413,Dati Medi Carta dei Servizi anno 2019 II Semestre,17,<0.10,10,<5,2,<0.02,7.6,2,303,16,20
+Comune,Fusignano,0.04,<1,169,54,0.1,34,472,Dati Medi Carta dei Servizi anno 2019 II Semestre,19,<0.10,12,<5,5,<0.02,7.8,4,329,22,34
+Comune,Firenzuola,<0.02,<1,94,25,0.1,4,197,Dati Medi Carta dei Servizi anno 2019 II Semestre,8,<0.10,4,<5,2,<0.02,7.7,<1,197,4,6
+Comune,Forlì,<0.02,<1,205,59,0.1,14,446,Dati Medi Carta dei Servizi anno 2019 II Semestre,20,<0.10,13,<5,3,<0.02,7.6,2,319,11,23
+Comune,Forlimpopoli,<0.02,<1,183,57,0.1,10,401,Dati Medi Carta dei Servizi anno 2019 II Semestre,19,<0.10,11,<5,2,<0.02,7.7,2,289,9,20
+Comune,Gaggio Montano,<0.02,<1,110,34,0.3,7,223,Dati Medi Carta dei Servizi anno 2019 II Semestre,10,<0.10,4,<5,1,<0.02,8.0,<1,386,4,10
+Comune,Galliera,<0.02,<1,365,118,0.1,26,810,Dati Medi Carta dei Servizi anno 2019 II Semestre,38,<0.10,24,<5,6,<0.02,7.2,2,457,27,74
+Comune,Granarolo dell'Emilia,<0.02,<1,371,114,0.1,28,841,Dati Medi Carta dei Servizi anno 2019 II Semestre,38,<0.10,24,<5,7,<0.02,7.2,2,505,29,81
+Comune,Grizzana Morandi,<0.02,<1,148,47,0.1,30,422,Dati Medi Carta dei Servizi anno 2019 II Semestre,15,<0.10,9,<5,1,<0.02,7.4,2,325,16,30
+Comune,Guiglia,<0.02,<1,439,105,0.2,17,792,Dati Medi Carta dei Servizi anno 2019 II Semestre,40,0.36,33,<5,2,<0.02,7.4,2,484,12,38
+Comune,Gemmano,0.02,<1,327,87,0.1,22,744,Dati Medi Carta dei Servizi anno 2019 II Semestre,30,0.19,20,<5,2,<0.02,7.8,3,482,31,67
+Comune,Galeata,<0.02,<1,220,59,0.02,8,449,Dati Medi Carta dei Servizi anno 2019 II Semestre,21,<0.10,15,<5,1,<0.02,7.8,2,341,9,31
+Comune,Gambettola,<0.02,<1,220,65,0.1,15,458,Dati Medi Carta dei Servizi anno 2019 II Semestre,20,<0.10,13,<5,5,<0.02,7.5,2,323,11,29
+Comune,Gatteo,<0.02,<1,252,76,0.1,22,585,Dati Medi Carta dei Servizi anno 2019 II Semestre,27,0.17,20,<5,7,<0.02,7.7,2,423,24,50
+Comune,Loiano,<0.02,<1,135,52,0.4,23,394,Dati Medi Carta dei Servizi anno 2019 II Semestre,17,<0.10,9,<5,1,<0.02,7.6,2,331,16,25
+Comune,Lama Mocogno,<0.02,<1,89,29,0.2,1,169,Dati Medi Carta dei Servizi anno 2019 II Semestre,8,<0.10,2,<5,1,<0.02,7.6,<1,156,2,6
+Comune,Lugo,<0.02,<1,192,56,0.1,11,408,Dati Medi Carta dei Servizi anno 2019 II Semestre,19,<0.10,11,<5,2,<0.02,7.6,2,329,9,22
+Comune,Longiano,<0.02,<1,201,61,0.1,12,425,Dati Medi Carta dei Servizi anno 2019 II Semestre,20,<0.10,12,<5,4,<0.02,7.4,2,309,11,24
+Comune,Malalbergo,0.02,<1,368,101,0.1,27,811,Dati Medi Carta dei Servizi anno 2019 II Semestre,35,<0.10,22,<5,7,<0.02,7.2,2,496,28,79
+Comune,Marzabotto,<0.02,<1,146,49,0.5,25,399,Dati Medi Carta dei Servizi anno 2019 II Semestre,16,<0.10,9,<5,1,<0.02,7.4,2,321,19,26
+Comune,Medicina,<0.02,<1,329,105,0.1,29,798,Dati Medi Carta dei Servizi anno 2019 II Semestre,35,<0.10,22,8,11,<0.02,7.6,3,492,32,90
+Comune,Minerbio,0.03,<1,385,97,0.2,28,768,Dati Medi Carta dei Servizi anno 2019 II Semestre,33,<0.10,21,<5,6,<0.02,7.2,2,493,27,63
+Comune,Molinella,<0.02,<1,347,124,0.2,29,833,Dati Medi Carta dei Servizi anno 2019 II Semestre,41,<0.10,24,<5,12,<0.02,7.4,3,517,31,91
+Comune,Monghidoro,<0.02,<1,197,59,0.3,5,364,Dati Medi Carta dei Servizi anno 2019 II Semestre,18,<0.10,8,<5,2,<0.02,7.6,<1,266,6,11
+Comune,Imola,0.03,<1,423,128,0.1,58,1038,Dati Medi Carta dei Servizi anno 2019 II Semestre,46,<0.10,33,<5,37,<0.02,7.2,5,602,43,79
+Comune,Ozzano dell'Emilia,0.03,<1,348,133,0.2,36,971,Dati Medi Carta dei Servizi anno 2019 II Semestre,43,<0.10,26,6,28,<0.02,7.2,4,646,38,148
+Comune,Monte San Pietro,<0.02,<1,203,66,0.1,32,580,Dati Medi Carta dei Servizi anno 2019 II Semestre,23,<0.10,14,<5,5,<0.02,7.6,2,396,25,42
+Comune,Monterenzio,0.04,<1,309,111,0.1,35,880,Dati Medi Carta dei Servizi anno 2019 II Semestre,37,<0.10,21,<5,23,0.02,7.5,3,515,35,123
+Comune,Monzuno,<0.02,<1,162,55,0.3,32,450,Dati Medi Carta dei Servizi anno 2019 II Semestre,18,<0.10,10,<5,1,<0.02,7.8,3,317,23,35
+Comune,Mordano,0.15,<1,135,45,0.1,34,435,Dati Medi Carta dei Servizi anno 2019 II Semestre,16,0.10,13,<5,2,<0.02,7.3,3,368,19,34
+Comune,Masi Torello,0.02,3,194,55,0.1,52,546,Dati Medi Carta dei Servizi anno 2019 II Semestre,19,0.12,12,<5,7,<0.02,7.5,3,383,31,24
+Comune,Maranello,0.05,<1,285,135,0.1,110,1122,Dati Medi Carta dei Servizi anno 2019 II Semestre,42,<0.10,20,<5,32,<0.02,7.4,3,674,72,137
+Comune,Marano sul Panaro,0.02,<1,355,102,0.3,19,673,Dati Medi Carta dei Servizi anno 2019 II Semestre,34,0.22,20,<5,7,<0.02,7.5,3,410,13,27
+Comune,Modena,<0.02,<1,229,123,0.1,139,1173,Dati Medi Carta dei Servizi anno 2019 II Semestre,39,<0.10,20,<5,20,<0.02,7.3,3,707,84,177
+Comune,Montecreto,0.02,<1,235,81,0.2,3,551,Dati Medi Carta dei Servizi anno 2019 II Semestre,29,<0.10,22,<5,2,<0.02,7.6,2,362,6,84
+Comune,Montefiorino,<0.02,<1,60,18,0.2,2,120,Dati Medi Carta dei Servizi anno 2019 II Semestre,5,<0.10,1,5,1,<0.02,7.5,<1,161,2,4
+Comune,Massa Lombarda,<0.02,<1,431,90,0.1,33,814,Dati Medi Carta dei Servizi anno 2019 II Semestre,35,0.16,31,<5,2,<0.02,7.5,3,551,46,23
+Comune,Misano Adriatico,<0.02,<1,259,78,0.05,59,703,Dati Medi Carta dei Servizi anno 2019 II Semestre,28,0.13,21,<5,8,0.02,7.5,2,491,37,39
+Comune,Mondaino,0.02,<1,223,69,0.2,17,491,Dati Medi Carta dei Servizi anno 2019 II Semestre,23,<0.10,15,<5,5,<0.02,7.8,2,357,13,30
+Comune,Montefiore Conca,<0.02,<1,288,83,0.1,27,662,Dati Medi Carta dei Servizi anno 2019 II Semestre,29,0.14,19,<5,4,<0.02,7.5,3,485,26,54
+Comune,Montegridolfo,0.02,<1,223,68,0.1,19,492,Dati Medi Carta dei Servizi anno 2019 II Semestre,23,<0.10,14,<5,5,<0.02,7.9,2,392,12,37
+Comune,Montescudo - Monte Colombo,<0.02,<1,275,78,0.1,19,600,Dati Medi Carta dei Servizi anno 2019 II Semestre,27,0.14,17,<5,3,<0.02,7.8,3,435,21,53
+Comune,Morciano di Romagna,<0.02,<1,268,77,0.1,27,636,Dati Medi Carta dei Servizi anno 2019 II Semestre,27,0.15,19,<5,5,<0.02,7.4,3,416,26,54
+Comune,Marradi,<0.02,<1,240,62,0.2,10,488,Dati Medi Carta dei Servizi anno 2019 II Semestre,23,0.12,18,<5,1,<0.02,7.7,2,371,15,33
+Comune,Meldola,0.03,<1,166,52,0.1,11,368,Dati Medi Carta dei Servizi anno 2019 II Semestre,18,<0.10,10,8,1,<0.02,7.8,1,276,8,18
+Comune,Mercato Saraceno,<0.02,<1,214,66,0.1,30,540,Dati Medi Carta dei Servizi anno 2019 II Semestre,23,<0.10,17,<5,2,<0.02,7.8,2,330,24,41
+Comune,Modigliana,<0.02,<1,326,87,0.2,12,683,Dati Medi Carta dei Servizi anno 2019 II Semestre,33,0.18,27,<5,2,<0.02,7.5,3,463,17,67
+Comune,Montiano,<0.02,<1,201,60,0.1,12,442,Dati Medi Carta dei Servizi anno 2019 II Semestre,20,<0.10,12,<5,4,<0.02,7.6,2,308,10,23
+Comune,Pianoro,<0.02,<1,161,51,0.1,25,432,Dati Medi Carta dei Servizi anno 2019 II Semestre,17,<0.10,9,<5,1,<0.02,7.6,2,367,19,32
+Comune,Pieve di Cento,<0.02,<1,371,107,0.2,27,832,Dati Medi Carta dei Servizi anno 2019 II Semestre,37,<0.10,24,<5,8,<0.02,7.2,2,468,30,73
+Comune,Poggio Renatico,<0.02,<1,360,105,0.1,24,792,Dati Medi Carta dei Servizi anno 2019 II Semestre,36,<0.10,23,<5,5,<0.02,7.3,2,466,29,68
+Comune,Portomaggiore,0.09,2,162,53,0.2,24,440,Dati Medi Carta dei Servizi anno 2019 II Semestre,18,<0.10,11,<5,6,<0.02,7.7,3,302,17,27
+Comune,Palagano,<0.02,<1,210,64,0.2,3,447,Dati Medi Carta dei Servizi anno 2019 II Semestre,19,<0.10,8,<5,1,<0.02,7.7,1,297,5,18
+Comune,Pavullo nel Frignano,<0.02,<1,103,32,0.1,3,203,Dati Medi Carta dei Servizi anno 2019 II Semestre,9,<0.10,3,<5,<0.5,<0.02,7.7,<1,183,4,9
+Comune,Pievepelago,<0.02,<1,147,45,0.04,3,256,Dati Medi Carta dei Servizi anno 2019 II Semestre,12,<0.10,1,<5,1,<0.02,7.6,<1,177,2,4
+Comune,Polinago,<0.02,<1,87,28,0.2,2,179,Dati Medi Carta dei Servizi anno 2019 II Semestre,8,<0.10,3,<5,1,<0.02,7.5,2,148,4,7
+Comune,Prignano sulla Secchia,<0.02,<1,174,58,0.03,5,339,Dati Medi Carta dei Servizi anno 2019 II Semestre,17,<0.10,6,<5,2,<0.02,7.5,2,229,9,14
+Comune,Pennabilli,<0.02,<1,259,75,0.2,8,477,Dati Medi Carta dei Servizi anno 2019 II Semestre,24,<0.10,14,<5,3,<0.02,7.9,2,355,12,17
+Comune,Poggio Torriana,0.02,<1,223,62,0.1,16,489,Dati Medi Carta dei Servizi anno 2019 II Semestre,21,<0.10,13,<5,5,<0.02,7.4,2,325,12,30
+Comune,Palazzuolo sul Senio,0.02,<1,339,71,0.2,6,623,Dati Medi Carta dei Servizi anno 2019 II Semestre,27,0.11,23,<5,1,<0.02,8.1,3,393,18,39
+Comune,Portico e San Benedetto,<0.02,<1,274,71,0.1,6,541,Dati Medi Carta dei Servizi anno 2019 II Semestre,27,<0.10,21,<5,1,<0.02,7.3,2,354,14,31
+Comune,Predappio,<0.02,<1,271,71,0.2,8,564,Dati Medi Carta dei Servizi anno 2019 II Semestre,27,0.12,23,<5,1,<0.02,7.7,3,384,17,46
+Comune,Premilcuore,<0.02,<1,283,72,0.2,8,567,Dati Medi Carta dei Servizi anno 2019 II Semestre,27,0.13,23,<5,1,<0.02,7.9,2,392,15,46
+Comune,Ravenna,0.03,<1,183,54,0.1,39,544,Dati Medi Carta dei Servizi anno 2019 II Semestre,19,<0.10,13,<5,7,<0.02,7.7,6,397,27,41
+Comune,Riolo Terme,<0.02,<1,536,155,0.1,55,1184,Dati Medi Carta dei Servizi anno 2019 II Semestre,57,0.17,44,<5,15,<0.02,7.5,4,780,43,124
+Comune,Russi,<0.02,<1,152,49,0.1,37,450,Dati Medi Carta dei Servizi anno 2019 II Semestre,17,<0.10,11,<5,6,<0.02,7.8,3,322,22,32
+Comune,Riccione,<0.02,<1,366,109,0.1,154,1213,Dati Medi Carta dei Servizi anno 2019 II Semestre,40,0.16,30,<5,15,<0.02,7.2,3,735,93,65
+Comune,Rimini,<0.02,<1,240,73,0.1,17,574,Dati Medi Carta dei Servizi anno 2019 II Semestre,25,<0.10,16,<5,6,<0.02,7.6,2,394,19,49
+Comune,Rocca San Casciano,0.02,<1,279,76,0.1,10,575,Dati Medi Carta dei Servizi anno 2019 II Semestre,28,0.18,21,<5,1,<0.02,7.5,3,429,19,52
+Comune,Roncofreddo,<0.02,<1,221,67,0.1,18,489,Dati Medi Carta dei Servizi anno 2019 II Semestre,23,<0.10,15,<5,6,<0.02,7.5,2,347,14,31
+Comune,Sala Bolognese,0.04,<1,386,115,0.2,16,774,Dati Medi Carta dei Servizi anno 2019 II Semestre,37,<0.10,24,<5,2,<0.02,7.3,2,480,29,65
+Comune,San Benedetto Val di sambro,<0.02,<1,151,47,0.3,24,400,Dati Medi Carta dei Servizi anno 2019 II Semestre,15,<0.10,8,<5,1,<0.02,7.5,2,283,16,27
+Comune,San Giorgio di Piano,<0.02,<1,387,110,0.2,18,786,Dati Medi Carta dei Servizi anno 2019 II Semestre,38,<0.10,24,<5,3,<0.02,7.3,2,439,29,66
+Comune,San Giovanni in Persiceto,0.03,<1,380,106,0.2,18,808,Dati Medi Carta dei Servizi anno 2019 II Semestre,39,0.16,31,<5,13,<0.02,7.3,2,490,31,69
+Comune,San Lazzaro di Savena,0.06,<1,339,110,0.2,30,765,Dati Medi Carta dei Servizi anno 2019 II Semestre,36,<0.10,24,<5,7,<0.02,7.3,2,419,28,70
+Comune,San Pietro in Casale,0.09,<1,356,108,0.2,24,781,Dati Medi Carta dei Servizi anno 2019 II Semestre,37,<0.10,23,<5,5,<0.02,7.3,2,429,28,69
+Comune,Sasso Marconi,<0.02,<1,202,50,0.1,22,385,Dati Medi Carta dei Servizi anno 2019 II Semestre,17,<0.10,10,<5,1,<0.02,7.5,2,271,16,26
+Comune,San Cesario sul Panaro,<0.02,<1,203,65,0.1,9,440,Dati Medi Carta dei Servizi anno 2019 II Semestre,21,<0.10,11,<5,3,<0.02,7.6,2,314,12,30
+Comune,Sassuolo,0.03,<1,233,126,0.1,155,1236,Dati Medi Carta dei Servizi anno 2019 II Semestre,38,<0.10,18,<5,16,<0.02,7.3,3,769,87,210
+Comune,Savignano sul Panaro,0.04,<1,343,111,0.2,22,756,Dati Medi Carta dei Servizi anno 2019 II Semestre,35,<0.10,19,<5,15,<0.02,7.3,3,474,21,56
+Comune,Serramazzoni,0.03,<1,267,92,0.1,22,568,Dati Medi Carta dei Servizi anno 2019 II Semestre,28,<0.10,11,<5,6,<0.02,7.8,2,323,22,37
+Comune,Sestola,<0.02,<1,127,38,0.2,2,244,Dati Medi Carta dei Servizi anno 2019 II Semestre,12,<0.10,5,<5,1,<0.02,7.7,<1,221,2,11
+Comune,Spilamberto,<0.02,<1,223,75,0.2,14,487,Dati Medi Carta dei Servizi anno 2019 II Semestre,24,<0.10,13,<5,11,<0.02,7.5,2,351,13,27
+Comune,Sant'Agata sul Santerno,0.02,<1,153,44,0.1,35,315,Dati Medi Carta dei Servizi anno 2019 II Semestre,17,<0.10,14,<5,2,<0.02,7.6,3,357,20,41
+Comune,Solarolo,<0.02,<1,466,89,0.1,139,1319,Dati Medi Carta dei Servizi anno 2019 II Semestre,38,0.23,37,<5,7,<0.02,7.6,9,761,160,1
+Comune,Saludecio,<0.02,<1,205,62,0.2,15,455,Dati Medi Carta dei Servizi anno 2019 II Semestre,21,<0.10,13,<5,5,<0.02,7.8,2,341,11,27
+Comune,San Clemente,<0.02,<1,234,65,0.1,16,520,Dati Medi Carta dei Servizi anno 2019 II Semestre,23,<0.10,14,<5,3,<0.02,7.6,2,411,16,37
+Comune,San Giovanni in Marignano,<0.02,<1,205,62,0.1,14,452,Dati Medi Carta dei Servizi anno 2019 II Semestre,21,<0.10,13,<5,5,<0.02,7.7,2,335,11,27
+Comune,San Leo,<0.02,<1,164,59,0.2,17,505,Dati Medi Carta dei Servizi anno 2019 II Semestre,19,0.10,10,<5,6,<0.02,7.7,2,288,15,30
+Comune,Sant'Agata Feltria,0.02,<1,199,52,0.2,10,398,Dati Medi Carta dei Servizi anno 2019 II Semestre,16,<0.10,8,<5,2,<0.02,7.7,2,301,12,26
+Comune,Santarcangelo di Romagna,0.06,<1,286,89,0.1,21,708,Dati Medi Carta dei Servizi anno 2019 II Semestre,31,0.11,21,5,9,<0.02,7.4,3,485,28,85
+Comune,San Mauro Pascoli,<0.02,<1,265,72,0.2,25,625,Dati Medi Carta dei Servizi anno 2019 II Semestre,26,0.15,20,<5,9,<0.02,7.3,2,413,24,52
+Comune,Santa Sofia,0.03,<1,180,54,0.1,8,366,Dati Medi Carta dei Servizi anno 2019 II Semestre,18,<0.10,10,<5,1,<0.02,8.0,1,298,7,19
+Comune,Sarsina,<0.02,<1,432,100,0.04,8,783,Dati Medi Carta dei Servizi anno 2019 II Semestre,40,0.17,36,<5,1,<0.02,7.5,3,531,19,51
+Comune,Savignano sul Rubicone,<0.02,<1,261,73,0.1,21,597,Dati Medi Carta dei Servizi anno 2019 II Semestre,27,0.20,21,5,7,<0.02,7.7,2,407,27,55
+Comune,Sogliano al Rubicone,<0.02,<1,286,94,0.1,15,641,Dati Medi Carta dei Servizi anno 2019 II Semestre,31,0.11,18,<5,9,<0.02,7.6,2,393,15,69
+Comune,Terre del Reno,<0.02,1,164,51,0.2,24,434,Dati Medi Carta dei Servizi anno 2019 II Semestre,17,<0.10,11,<5,6,<0.02,7.7,3,335,18,29
+Comune,Talamello,<0.02,1,282,76,0.1,14,594,Dati Medi Carta dei Servizi anno 2019 II Semestre,25,<0.10,14,<5,4,<0.02,7.7,2,383,16,36
+Comune,Tredozio,<0.02,<1,338,94,0.1,7,731,Dati Medi Carta dei Servizi anno 2019 II Semestre,37,0.16,30,<5,1,<0.02,7.5,2,465,14,95
+Comune,Valsamoggia,<0.02,<1,236,75,0.2,24,553,Dati Medi Carta dei Servizi anno 2019 II Semestre,25,<0.10,12,<5,4,<0.02,7.4,2,363,20,31
+Comune,Vergato,<0.02,<1,352,87,0.3,9,690,Dati Medi Carta dei Servizi anno 2019 II Semestre,32,0.24,25,<5,1,<0.02,7.5,2,442,11,56
+Comune,Vigarano Mainarda,<0.02,1,163,34,0.2,25,430,Dati Medi Carta dei Servizi anno 2019 II Semestre,12,<0.10,8,<5,5,<0.02,7.7,3,326,12,29
+Comune,Voghiera,<0.02,1,157,51,0.2,22,428,Dati Medi Carta dei Servizi anno 2019 II Semestre,17,0.11,10,<5,6,<0.02,7.6,3,278,17,24
+Comune,Vignola,0.02,<1,409,117,0.2,27,849,Dati Medi Carta dei Servizi anno 2019 II Semestre,40,<0.10,24,<5,15,<0.02,7.4,4,537,22,56
+Comune,Verucchio,0.03,<1,223,60,0.1,19,514,Dati Medi Carta dei Servizi anno 2019 II Semestre,20,<0.10,14,8,5,<0.02,7.4,2,351,15,35
+Comune,Verghereto,<0.02,<1,172,55,0.1,5,319,Dati Medi Carta dei Servizi anno 2019 II Semestre,15,<0.10,3,<5,5,<0.02,7.8,<1,236,4,5
+Comune,Zola Predosa,<0.02,<1,154,63,0.1,23,410,Dati Medi Carta dei Servizi anno 2019 II Semestre,20,<0.10,10,<5,2,<0.02,7.3,3,283,21,27
+Comune,Zocca,<0.02,<1,363,114,0.2,9,623,Dati Medi Carta dei Servizi anno 2019 II Semestre,35,0.18,16,<5,6,<0.02,7.5,<1,370,6,14

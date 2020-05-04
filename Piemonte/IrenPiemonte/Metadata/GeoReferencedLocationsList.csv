@@ -1,0 +1,23 @@
+alias_address,alias_address_value,alias_city,alias_province,geocode,geometry,georeferencingString,type
+Cascina Bruciata,559,TRISOBBIO,AL,"Trisobbio, AL","{'type': 'Point', 'coordinates': [8.58573000000007, 44.65984000000003]}","TRISOBBIO, AL, Piemonte",POINT
+Tutte Le LocalitÀ,561,ALICE BEL COLLE,AL,"Alice Bel Colle, AL","{'type': 'Point', 'coordinates': [8.449640000000045, 44.72575000000006]}",", ALICE BEL COLLE, AL, Piemonte",POINT
+Tutte Le Altre LocalitÀ,555,OVADA,AL,"Ovada, AL","{'type': 'Point', 'coordinates': [8.644690000000026, 44.63998000000004]}","OVADA, AL, Piemonte",POINT
+Gnocchetto,556,OVADA,AL,"Gnocchetto, Ovada, AL","{'type': 'Point', 'coordinates': [8.66235000000006, 44.58752000000004]}","Gnocchetto, OVADA, AL, Piemonte",POINT
+LocalitÀ  Costa,558,OVADA,AL,"Frazione Costa, 15076, Ovada, AL","{'type': 'Point', 'coordinates': [8.638710497278149, 44.61386220257912]}","LocalitÀ  Costa, OVADA, AL, Piemonte",POINT
+Tutte Le LocalitÀ,560,RICALDONE,AL,"Ricaldone, AL","{'type': 'Point', 'coordinates': [8.46968000000004, 44.737190000000055]}",", RICALDONE, AL, Piemonte",POINT
+Tutte Le LocalitÀ,562,SEZZADIO,AL,"Sezzadio, AL","{'type': 'Point', 'coordinates': [8.573880000000031, 44.785330000000044]}",", SEZZADIO, AL, Piemonte",POINT
+Tutte Le LocalitÀ,563,STREVI,AL,"Strevi, AL","{'type': 'Point', 'coordinates': [8.523020000000031, 44.699310000000025]}",", STREVI, AL, Piemonte",POINT
+Tutte Le LocalitÀ,564,VISONE,AL,"Visone, AL","{'type': 'Point', 'coordinates': [8.502800000000036, 44.66240000000005]}",", VISONE, AL, Piemonte",POINT
+Tutte Le LocalitÀ,439,CANELLI,AT,"Canelli, AT","{'type': 'Point', 'coordinates': [8.287130000000047, 44.71784000000008]}",", CANELLI, AT, Piemonte",POINT
+Tutte Le LocalitÀ,440,CANTARANA,AT,"Cantarana, AT","{'type': 'Point', 'coordinates': [8.02982000000003, 44.90068000000008]}",", CANTARANA, AT, Piemonte",POINT
+Tutte Le LocalitÀ,441,FERRERE,AT,"Ferrere, AT","{'type': 'Point', 'coordinates': [7.993490000000065, 44.879440000000045]}",", FERRERE, AT, Piemonte",POINT
+S. Rocco,447,FERRERE,AT,"Ferrere, AT","{'type': 'Point', 'coordinates': [7.993490000000065, 44.879440000000045]}","S. Rocco, FERRERE, AT, Piemonte",POINT
+Tutte Le LocalitÀ,442,MONTAFIA,AT,"Montafia, AT","{'type': 'Point', 'coordinates': [8.024940000000072, 44.989130000000046]}",", MONTAFIA, AT, Piemonte",POINT
+Tutte Le LocalitÀ,443,NIZZA MONFERRATO,AT,"Nizza Monferrato, AT","{'type': 'Point', 'coordinates': [8.352870000000053, 44.773520000000076]}",", NIZZA MONFERRATO, AT, Piemonte",POINT
+Tutte Le LocalitÀ,444,VILLAFRANCA D'ASTI,AT,"Villafranca d'Asti, AT","{'type': 'Point', 'coordinates': [8.031270000000063, 44.91467000000006]}",", VILLAFRANCA D'ASTI, AT, Piemonte",POINT
+Tutte Le LocalitÀ,445,CERESOLE ALBA,CN,"Ceresole Alba, CN","{'type': 'Point', 'coordinates': [7.820410000000038, 44.80152000000004]}",", CERESOLE ALBA, CN, Piemonte",POINT
+Tutte Le LocalitÀ,446,COSTIGLIOLE SALUZZO,CN,"Costigliole Saluzzo, CN","{'type': 'Point', 'coordinates': [7.486900000000048, 44.56558000000007]}",", COSTIGLIOLE SALUZZO, CN, Piemonte",POINT
+Tutte Le LocalitÀ,448,RACCONIGI,CN,"Racconigi, CN","{'type': 'Point', 'coordinates': [7.679810000000032, 44.77058000000005]}",", RACCONIGI, CN, Piemonte",POINT
+Tutte Le LocalitÀ,449,SANFRE',CN,"Sanfrè, CN","{'type': 'Point', 'coordinates': [7.799120000000073, 44.753280000000075]}",", SANFRE', CN, Piemonte",POINT
+Tutte Le LocalitÀ,452,SAN PIETRO MOSEZZO,NO,"San Pietro Mosezzo, NO","{'type': 'Point', 'coordinates': [8.542140000000074, 45.454000000000065]}",", SAN PIETRO MOSEZZO, NO, Piemonte",POINT
+Lamporo,451,LAMPORO,VC,"Lamporo, VC","{'type': 'Point', 'coordinates': [8.097520000000031, 45.23050000000006]}","Lamporo, LAMPORO, VC, Piemonte",POINT
