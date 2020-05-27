@@ -1,0 +1,52 @@
+alias_address,alias_city,geocode,geometry,georeferencingString,type
+Comune,Arborio,"Arborio, Vercelli","{'type': 'Point', 'coordinates': [8.389200000000073, 45.49616000000003]}","Arborio, Piemonte",POINT
+Comune,Asigliano V.se,"Asigliano Vercellese, Vercelli","{'type': 'Point', 'coordinates': [8.412670000000048, 45.26324000000005]}","Asigliano Vercellese, Piemonte",POINT
+Comune,Azeglio,"Azeglio, Torino","{'type': 'Point', 'coordinates': [7.995640000000037, 45.42384000000004]}","Azeglio, Piemonte",POINT
+Comune,Balocco,"Balocco, Vercelli","{'type': 'Point', 'coordinates': [8.280880000000025, 45.45548000000008]}","Balocco, Piemonte",POINT
+Comune,Borgosesia,"Borgosesia, Vercelli","{'type': 'Point', 'coordinates': [8.273970000000077, 45.718000000000075]}","Borgosesia, Piemonte",POINT
+Comune,Borriana,"Borriana, Biella","{'type': 'Point', 'coordinates': [8.038690000000031, 45.50882000000007]}","Borriana, Piemonte",POINT
+Comune,Brusnengo,"Brusnengo, Biella","{'type': 'Point', 'coordinates': [8.25225000000006, 45.59423000000004]}","Brusnengo, Piemonte",POINT
+Comune,Buronzo,"Buronzo, Vercelli","{'type': 'Point', 'coordinates': [8.271420000000035, 45.482480000000066]}","Buronzo, Piemonte",POINT
+Comune,Caresanablot,"Caresanablot, Vercelli","{'type': 'Point', 'coordinates': [8.387260000000026, 45.35874000000007]}","Caresanablot, Piemonte",POINT
+Comune,Carisio,"Carisio, Vercelli","{'type': 'Point', 'coordinates': [8.20028000000002, 45.411140000000046]}","Carisio, Piemonte",POINT
+Comune,Carisio Crocicchio,"Carisio, Vercelli","{'type': 'Point', 'coordinates': [8.20028000000002, 45.411140000000046]}","Carisio Crocicchio, Piemonte",POINT
+Comune,Castelletto Cervo,"Castelletto Cervo, Biella","{'type': 'Point', 'coordinates': [8.226810000000057, 45.51580000000007]}","Castelletto Cervo, Piemonte",POINT
+Comune,Cerrione,"Cerrione, Biella","{'type': 'Point', 'coordinates': [8.06448000000006, 45.468300000000056]}","Cerrione, Piemonte",POINT
+Comune,Collobiano,"Collobiano, Vercelli","{'type': 'Point', 'coordinates': [8.34764000000007, 45.39691000000005]}","Collobiano, Piemonte",POINT
+Comune,Crescentino,"Crescentino, Vercelli","{'type': 'Point', 'coordinates': [8.101540000000057, 45.19046000000003]}","Crescentino, Piemonte",POINT
+Comune,Curino,"Curino, Biella","{'type': 'Point', 'coordinates': [8.236110000000053, 45.627680000000055]}","Curino, Piemonte",POINT
+Comune,Donato,"Donato, Biella","{'type': 'Point', 'coordinates': [7.9078700000000595, 45.528940000000034]}","Donato, Piemonte",POINT
+Comune,Fontanetto Po,"Fontanetto Po, Vercelli","{'type': 'Point', 'coordinates': [8.192800000000034, 45.19425000000007]}","Fontanetto Po, Piemonte",POINT
+Comune,Formigliana,"Formigliana, Vercelli","{'type': 'Point', 'coordinates': [8.285960000000046, 45.43046000000004]}","Formigliana, Piemonte",POINT
+Comune,Gattinara,"Gattinara, Vercelli","{'type': 'Point', 'coordinates': [8.371800000000064, 45.62924000000004]}","Gattinara, Piemonte",POINT
+Comune,Gifflenga,"Gifflenga, Biella","{'type': 'Point', 'coordinates': [8.229940000000056, 45.49414000000007]}","Gifflenga, Piemonte",POINT
+Comune,Graglia,"Graglia, Biella","{'type': 'Point', 'coordinates': [7.981700000000046, 45.558610000000044]}","Graglia, Piemonte",POINT
+Comune,Greggio,"Greggio, Vercelli","{'type': 'Point', 'coordinates': [8.385200000000054, 45.452360000000056]}","Greggio, Piemonte",POINT
+Comune,Lignana,"Lignana, Vercelli","{'type': 'Point', 'coordinates': [8.346910000000037, 45.28698000000003]}","Lignana, Piemonte",POINT
+Comune,Livorno Ferraris,"Livorno Ferraris, Vercelli","{'type': 'Point', 'coordinates': [8.080500000000029, 45.28083000000004]}","Livorno Ferraris, Piemonte",POINT
+Comune,Lozzolo,"Lozzolo, Vercelli","{'type': 'Point', 'coordinates': [8.323410000000024, 45.62597000000005]}","Lozzolo, Piemonte",POINT
+Comune,Massazza,"Massazza, Biella","{'type': 'Point', 'coordinates': [8.161670000000072, 45.49214000000006]}","Massazza, Piemonte",POINT
+Comune,Masserano,"Masserano, Biella","{'type': 'Point', 'coordinates': [8.226460000000031, 45.59340000000003]}","Masserano, Piemonte",POINT
+Comune,Mongrando,"Mongrando, Biella","{'type': 'Point', 'coordinates': [8.010470000000055, 45.52655000000004]}","Mongrando, Piemonte",POINT
+Comune,Mottalciata,"Mottalciata, Biella","{'type': 'Point', 'coordinates': [8.207610000000045, 45.507430000000056]}","Mottalciata, Piemonte",POINT
+Comune,Oldenico,"Oldenico, Vercelli","{'type': 'Point', 'coordinates': [8.37874000000005, 45.40330000000006]}","Oldenico, Piemonte",POINT
+Comune,Piverone,"Piverone, Torino","{'type': 'Point', 'coordinates': [8.007370000000037, 45.44772000000006]}","Piverone, Piemonte",POINT
+Comune,Roasio,"Roasio, Vercelli","{'type': 'Point', 'coordinates': [8.288000000000068, 45.609230000000025]}","Roasio, Piemonte",POINT
+Comune,Ronsecco,"Ronsecco, Vercelli","{'type': 'Point', 'coordinates': [8.277900000000045, 45.25350000000003]}","Ronsecco, Piemonte",POINT
+Comune,Roppolo,"Roppolo, Biella","{'type': 'Point', 'coordinates': [8.06642000000005, 45.420930000000055]}","Roppolo, Piemonte",POINT
+Comune,Rovasenda,"Rovasenda, Vercelli","{'type': 'Point', 'coordinates': [8.314270000000022, 45.53905000000003]}","Rovasenda, Piemonte",POINT
+Comune,Sali V.se,"Sali Vercellese, Vercelli","{'type': 'Point', 'coordinates': [8.329340000000059, 45.309210000000064]}","Sali Vercellese, Piemonte",POINT
+Comune,Salussola,"Salussola, Biella","{'type': 'Point', 'coordinates': [8.111700000000042, 45.446390000000065]}","Salussola, Piemonte",POINT
+Comune,San Germano V.se,"San Germano Vercellese, Vercelli","{'type': 'Point', 'coordinates': [8.250770000000045, 45.34925000000004]}","San Germano Vercellese, Piemonte",POINT
+Comune,San Giacomo V.se,"San Giacomo Vercellese, Vercelli","{'type': 'Point', 'coordinates': [8.326380000000029, 45.49749000000003]}","San Giacomo Vercellese, Piemonte",POINT
+Comune,Sandigliano,"Sandigliano, Biella","{'type': 'Point', 'coordinates': [8.075680000000034, 45.52159000000006]}","Sandigliano, Piemonte",POINT
+Comune,Santhià,"Santhià, Vercelli","{'type': 'Point', 'coordinates': [8.171290000000056, 45.366730000000075]}","Santhià, Piemonte",POINT
+Comune,Sostegno,"Sostegno, Biella","{'type': 'Point', 'coordinates': [8.268460000000061, 45.65480000000008]}","Sostegno, Piemonte",POINT
+Comune,Tricerro,"Tricerro, Vercelli","{'type': 'Point', 'coordinates': [8.327680000000043, 45.23601000000008]}","Tricerro, Piemonte",POINT
+Comune,Vallanzengo,"Vallanzengo, Biella","{'type': 'Point', 'coordinates': [8.148940000000039, 45.60319000000004]}","Vallanzengo, Piemonte",POINT
+Comune,Valle San Nicolao,"Valle San Nicolao, Biella","{'type': 'Point', 'coordinates': [8.141190000000051, 45.606840000000034]}","Valle San Nicolao, Piemonte",POINT
+Comune,Villa del Bosco,"Villa del Bosco, Biella","{'type': 'Point', 'coordinates': [8.282750000000021, 45.62115000000006]}","Villa del Bosco, Piemonte",POINT
+Comune,Villanova B.se,"Villanova, Castagneto Po, Torino","{'type': 'Point', 'coordinates': [7.901740000000075, 45.16044000000005]}","Villanova B.se, Piemonte",POINT
+Comune,Villarboit,"Villarboit, Vercelli","{'type': 'Point', 'coordinates': [8.338130000000035, 45.43626000000006]}","Villarboit, Piemonte",POINT
+Comune,Vinzaglio,"Vinzaglio, Novara","{'type': 'Point', 'coordinates': [8.517940000000067, 45.323090000000036]}","Vinzaglio, Piemonte",POINT
+Comune,Viverone,"Viverone, Biella","{'type': 'Point', 'coordinates': [8.051830000000052, 45.42250000000007]}","Viverone, Piemonte",POINT

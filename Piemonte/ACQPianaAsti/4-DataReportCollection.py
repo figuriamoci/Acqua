@@ -1,4 +1,4 @@
-#
+##
 import requests,logging,datetime
 import acqua.aqueduct as aq
 import pandas as pd,re
@@ -50,7 +50,7 @@ for i,report in reportFoundList.iterrows():
     #
     file = io.BytesIO( requests.get( urlReport ).content )
     pdf = pdfquery.PDFQuery( file )
-    pdf.load()###il LOAD imèpierga quasi 20minuti per questi tipi di documenti. Quindi ci volgino circa 12 ore
+    pdf.load()###il LOAD impiegherà almento 20minuti per questi tipi di documenti. Quindi ci volgino circa 12 ore in tutto.
     parms = {p:getValueParm(pdf,p) for p in parametersAdmitted}
     stdParms = parm.standardize( useThisDictionary, parms)
     data_report = getDataReport(pdf,'Analisi')

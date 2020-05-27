@@ -1,0 +1,22 @@
+alias_address,alias_city,geocode,geometry,georeferencingString,type
+Comune,Concordia,"Concordia sulla Secchia, MO","{'type': 'Point', 'coordinates': [10.98589000000004, 44.91381000000007]}","Concordia Sulla Secchia, MO, Emilia Romagna",POINT
+Comune,Novi,"Via per Novi, 41033, Concordia sulla Secchia, MO","{'type': 'Point', 'coordinates': [10.977222078320375, 44.90790679696148]}","Novi, MO",POINT
+Comune,San Prospero,"San Prospero, MO","{'type': 'Point', 'coordinates': [11.023240000000044, 44.79003000000006]}","San Prospero, MO",POINT
+Comune,San Possidonio,"San Possidonio, Modena","{'type': 'Point', 'coordinates': [10.994570000000067, 44.892130000000066]}","San Possidonio, Emilia Romagna",POINT
+Comune,S. Felice S.P.,"San Felice sul Panaro, MO","{'type': 'Point', 'coordinates': [11.139190000000042, 44.83948000000004]}","San Felice Sul Panaro, MO",POINT
+Comune,Borgofranco,"Borgofranco sul Po, Borgocarbonara, MN","{'type': 'Point', 'coordinates': [11.205500000000029, 45.04861000000005]}","Borgofranco Sul Po, MN",POINT
+Comune,S. Giacomo Segnate,"San Giacomo delle Segnate, MN","{'type': 'Point', 'coordinates': [11.030700000000024, 44.973700000000065]}","San Giacomo delle Segnate, MN",POINT
+Comune,Moglia,"Moglia, MN","{'type': 'Point', 'coordinates': [10.913910000000044, 44.93150000000003]}",Moglia MN,POINT
+Comune,Cavezzo,"Cavezzo, Modena","{'type': 'Point', 'coordinates': [11.034400000000062, 44.83868000000007]}","Cavezzo, Emilia Romagna",POINT
+Comune,Revere,"46036, Revere, Borgo Mantovano, MN, Lombardia","{'type': 'Point', 'coordinates': [11.12973043823638, 45.052937786946366]}",Revere 46036 MN,POINT
+Comune,Campogalliano,"Campogalliano, Modena","{'type': 'Point', 'coordinates': [10.84101000000004, 44.69057000000004]}","Campogalliano, Emilia Romagna",POINT
+Comune,Soliera,"Soliera, Modena","{'type': 'Point', 'coordinates': [10.925860000000057, 44.73993000000007]}","Soliera, Emilia Romagna",POINT
+Comune,Carpi,"Carpi, Modena","{'type': 'Point', 'coordinates': [10.88740000000007, 44.781310000000076]}","Carpi, Emilia Romagna",POINT
+Comune,Bastiglia,"Bastiglia, Modena","{'type': 'Point', 'coordinates': [10.999230000000068, 44.72711000000004]}","Bastiglia, Emilia Romagna",POINT
+Comune,Bomporto,"Bomporto, Modena","{'type': 'Point', 'coordinates': [11.037210000000073, 44.730290000000025]}","Bomporto, Emilia Romagna",POINT
+Comune,Camposanto,"Camposanto, Modena","{'type': 'Point', 'coordinates': [11.135690000000068, 44.78940000000006]}","Camposanto, Emilia Romagna",POINT
+Comune,Medolla,"Medolla, Modena","{'type': 'Point', 'coordinates': [11.068800000000067, 44.848520000000065]}","Medolla, Emilia Romagna",POINT
+Comune,Mirandola,"Mirandola, Modena","{'type': 'Point', 'coordinates': [11.06588000000005, 44.89015000000006]}","Mirandola, Emilia Romagna",POINT
+Comune,Poggio Rusco,"Poggio Rusco, Mantova","{'type': 'Point', 'coordinates': [11.117890000000045, 44.97813000000008]}","Poggio Rusco, Emilia Romagna",POINT
+Comune,S. Giovanni Dosso,"Via San Giovanni del Dosso, 41037, Mirandola, Modena","{'type': 'Point', 'coordinates': [11.081090464064655, 44.96039457597577]}","S. Giovanni Dosso, Emilia Romagna",POINT
+Comune,Quistello,"Quistello, Mantova","{'type': 'Point', 'coordinates': [10.979910000000075, 45.00911000000008]}","Quistello, Emilia Romagna",POINT

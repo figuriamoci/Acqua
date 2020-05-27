@@ -1,0 +1,6 @@
+alias_address,alias_city,geocode,geometry,georeferencingString,type
+Comune,Santo Stefano Belbo,"Santo Stefano Belbo, CN","{'type': 'Point', 'coordinates': [8.230160000000069, 44.708380000000034]}","Santo Stefano Belbo, CN, Piemonte",POINT
+Comune,Cossano Belbo,"Cossano Belbo, CN","{'type': 'Point', 'coordinates': [8.198910000000069, 44.67279000000008]}","Cossano Belbo, CN, Piemonte",POINT
+Comune,Benevello,"Benevello, CN","{'type': 'Point', 'coordinates': [8.10241000000002, 44.63155000000006]}","Benevello, CN, Piemonte",POINT
+Comune,Montelupo Albese,"Montelupo Albese, CN","{'type': 'Point', 'coordinates': [8.046840000000032, 44.62213000000003]}","Montelupo Albese, CN, Piemonte",POINT
+Comune,Rodello,"Rodello, CN","{'type': 'Point', 'coordinates': [8.055070000000057, 44.626820000000066]}","Rodello, CN, Piemonte",POINT

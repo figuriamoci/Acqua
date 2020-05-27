@@ -6,7 +6,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import Select
 import logging,pandas as pd
 import acqua.aqueduct as aq
-gestore = "IrenPiemonte"
+gestore = "IrenER"
 aq.setEnv('EmiliaRomagna//'+gestore)
 url = 'https://serviziweb.gruppoiren.it/QualitaAcqua/custom/VisualizzaAnalisi.aspx?codiceRegione=08'
 options = webdriver.ChromeOptions()
@@ -48,6 +48,6 @@ for provincia in elencoProvince:
 ##
 driver.close()
 locationList = pd.DataFrame({'alias_province':alias_province,'alias_city':alias_city, 'alias_address':alias_address, 'alias_address_value':alias_address_value})
-locationList['georeferencingString'] = locationList['alias_address'].str.replace('E Tutte Le Altre Zone','')+", "+locationList['alias_city']+", "+locationList['alias_province']+", Emilia Romagna"
+locationList['georeferencingString'] = locationList['alias_address'].str.replace('E Tutte Le Altre Zone','').str.replace('Tutte Le Zone','').str.replace('S.','San')+", "+locationList['alias_city']+", "+locationList['alias_province']+", Emilia Romagna"
 locationList['type'] = 'POINT'
 locationList.to_csv('Metadata/LocationList.csv',index=False)

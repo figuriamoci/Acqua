@@ -19,9 +19,16 @@ Campania,NA,Napoli,ABC Napoli,,https://www.abc.napoli.it,https://www.abc.napoli.
 Emilia Romagna,PR,Parma,Iren S.p.A.,IrenER,https://www.irenacqua.it,https://www.irenacqua.it/qualita-dell-acqua,HTML,PER_QUARTIERE,SEMESTRALE,43647,BASSO,,1
 Emilia Romagna,BO,Bologna,Gruppo Hera S.p.A.,HeraER,https://www.gruppohera.it,https://www.gruppohera.it/gruppo/attivita_servizi/business_acqua/canale_acqua/,HTML,PER_COMUNE,SEMESTRALE,2019,BASSO,,1
 Emilia Romagna,BO,Ferrara,C.A.D.F. s.p.a.,CADFFerrra,http://www.cadf.it/,http://www.cadf.it/qualita-acqua,PDF,PER_COMUNE,SEMESTRALE,2019,BASSO,,1
+Emilia Romagna,PR,Parma,EmiliAmbiente S.p.A.,EmiliAmbiente,https://www.emiliambiente.it,https://www.emiliambiente.it/chi-siamo/qualita/la-qualita-dellacqua/,PDF,PER_COMUNE,SEMESTRALE,2019,BASSO,,1
+Emilia Romagna,PR,Parma,Montagna 2000,Montagna2000,http://www.montagna2000.com,http://www.montagna2000.com/servizio-idrico-integrato/analisi-acqua-online/,HTML,PER_ZONA,SEMESTRALE,2019,MEDIO,,2
+Emilia Romagna,MO,Modena,AIMAG S.p.A.,AIMAGModena,https://www.aimag.it,https://www.aimag.it/cosa-facciamo/ciclo-idrico-integrato/controlli-acqua/,PDF,PER_COMUNE,ANNUALE,2019,MEDIO,,2
+
+Emilia Romagna,MO,Modena,SorgeAqua s.r.l.,SorgeaModena,http://www.sorgeaqua.it/qualita_dell_acqua/,http://www.sorgeaqua.it/qualita_dell_acqua/,SCANNER,PER_COMUNE,ANNUALE,2019,,,F
+
 Friuli Venezia Giulia,UD,Udine,CAFC S.p.A.,CACF,https://www.cafcspa.com,https://www.cafcspa.com/solud/it-_qualita_acqua.cfm,,,,,,,
 Friuli Venezia Giulia,GO,Gorizia,IRIS Acque,IRISAcque,http://www.irisacqua.it,http://www.irisacqua.it/it/20617/Qualita-dell-acqua-erogata,,,,,,,
 Friuli Venezia Giulia,TS,Trieste,AcegasApsAmga S.p.A.,AceGasAmgaTrieste,http://www.acegasapsamga.it,http://www.acegasapsamga.it/attivita_servizi/acqua_ciclo_idrico/qualita_controllo/,,,,,,,
+Friuli Venezia Giulia,TS,Trieste,ACQUEDOTTO DEL CARSO S.p.A,ACCARSO,http://www.ackv.it,http://www.ackv.it/it/servizi/acquedotto/analisi-acqua,PDF,COMUNE,ANNUALE,2019,BASSO,,1
 Friuli Venezia Giulia,PN,Pordenone,Hydrogea S.p.A.,HydroGEA,https://www.hydrogea-pn.it,https://www.hydrogea-pn.it/#/menu/informazioni/acqua,,,,,,,
 Friuli Venezia Giulia,PN,Pordenone,Livenza Tagliamento Acque S.p.A.,Lta,https://www.lta.it/le-analisi-della-tua-acqua,https://www.lta.it/le-analisi-della-tua-acqua,,,,,,,
 Friuli Venezia Giulia,UD,Udine,Poiana S.p.A.,Poiana,http://www.poiana.it,http://www.poiana.it/ddocs/DOC_18_ITA/,,,,,,,
@@ -32,7 +39,7 @@ Lazio,LT,Latina,Acqualatina S.p.A.,,http://www.acqualatina.it/,http://www.acqual
 Lazio,FR,Frosinone,Acea Ato 5 S.p.a.,,https://www.gruppo.acea.it/al-servizio-delle-persone/acqua/acea-ato-5,https://www.gruppo.acea.it/al-servizio-delle-persone/acqua/acea-ato-5/la-qualita-della-tua-acqua,PDF,PER_COMUNE,SEMESTRALE,2019,MEDIO,,
 Liguria,IM,Imperia,Amat S.p.A.,,http://www.amat-imperia.it/,http://www.amat-imperia.it/pages/analisi-acqua?z_search=acqua&currentPage=1,SCANNER,PER_COMUNE,ANNUALE,2017,MEDIO,,3
 Liguria,GE,Genova,Iren S.p.A.,IrenLiguria,https://www.gruppoiren.it/acqua,https://www.irenacqua.it/qualita-dell-acqua,HTML,PER_COMUNE,SEMESTRALE,43800,MEDIO,,
-Liguria,SP,La Spezia,Acam spa,,https://www.acamacque.it/,https://www.acamspa.com/qualit%C3%A0-delle-acque-0,PDF,PER_COMUNE,ANNUALE,2017,MEDIO,,1
+Liguria,SP,La Spezia,Acam spa,ACAMLaSpezia,https://www.acamacque.it/,https://www.acamspa.com/qualit%C3%A0-delle-acque-0,PDF,PER_COMUNE,SEMESTRALE,2019,MEDIO,,3
 Lombardia,VA,Varese,Lereti S.p.A.,LeretiVarese,http://www.leretispa.it,http://www.leretispa.it/l-acqua-che-bevi,PDF,PER_COMUNE,TRIMESTRE,2019,MEDIO,,2
 Lombardia,VA,Varese,Prealpi Servizi S.r.l.,PrealpiVarese,http://www.prealpiservizi.it,http://www.prealpiservizi.it/pages/acqua/analisi.htm,HTML,PER_COMUNE,SEMESTRALE,2019,BASSO,,1
 Lombardia,CO,Como,ACSM-AGAM Reti Acqua S.p.A.,ACSM-AGAMComo,http://www.reti.acsm-agam.i,http://www.reti.acsm-agam.it/l-acqua-che-bevi,PDF,PER_COMUNE,TRIMESTRE,,BASSO,In riorganizzazione,2
@@ -49,7 +56,7 @@ Lombardia,BS,Brescia,Servizi Idrici Valle Camonica S.r.L.,ValleCamonicaServizi,h
 Lombardia,PV,Pavia,Pavia Acque S.p.A.,PaviaAcque,http://www.paviaacque.it,http://www.paviaacque.it/attivita/qualita-dellacqua/,SCANNER,PER_COMUNE,SEMESTRALE,,,,
 Lombardia,CR,Cremona,Padania Acque S.p.A.,PadaniaAcque,https://www.padania-acque.it,https://www.padania-acque.it/it-IT/analisi-on-line.aspx,HTML,PER_ZONA,ANNUALE,2019,BASSO,,
 Lombardia,MN,Mantova,Tea acque S.r.l.,TeaAcqueMantova,https://www.cometea.it,https://www.cometea.it/verifica-la-tua-acqua/,HTML,PER_COMUNE,SEMESTRALE,2019,MEDIO,,1
-Lombardia,MN,Mantova,SISAM S.p.a.,SISAMMantova,http://www.sisamspa.it,http://www.sisamspa.it/index.php?option=com_content&view=article&id=153:qualita-dell-acqua&catid=28&showall=&limitstart=1,HTML,PER_COMUNE,SEMESTRALE,2019,MEDIO,,1
+Lombardia,MN,Mantova,SISAM S.p.a.,SISAMMantova,http://www.sisamspa.it,http://www.sisamspa.it/index.php?option=com_content&view=article&id=153:qualita-dell-acqua&catid=28&showall=&limitstart=1,HTML,PER_COMUNE,SEMESTRALE,2019,BASSO,,1
 Lombardia,LC,Lecco,Lario Reti Holding S.p.A.,LarioLecco,https://www.larioreti.it,http://box.larioreti.it/Box7/#analisi,HTML,PER_ZONA,SEMESTRALE,2019,ELEVATO,,
 Lombardia,LO,Lodi,SAL s.r.l.,AcquaLodigiana,http://www.acqualodigiana.it/,http://www.acqualodigiana.it/acqua-del-rubinetto/,HTML,PER_COMUNE,SEMESTRALE,2019,BASSO,,1
 Lombardia,MB,Monza E Della Brianza,BrianzAcque s.r.l.,BrianzAcque,http://www.brianzacque.it,https://richiesteassistenza.brianzacque.it/servizi/punti-prelievo,HTML,PER_COMUNE,MENSILE,2020,ELEVATO,Serve stradario,5
@@ -62,21 +69,27 @@ Marche,FM,Fermo,CIIP spa,,https://www.ciip.it/,https://www.ciip.it/informazioni-
 Molise,CB,Campobasso,Comune Campobasso,,https://www.comune.campobasso.it,https://www.comune.campobasso.it/campobasso2/images/Ambiente_Rifiuti/Acqua/BROCHURE_2018.pdf,PDF,PER_COMUNE,ANNUALE,2018,ELEVATO,DISEGNARE IL TERRITORIO,
 Molise,CB,Campobasso,ARPA Molise,,http://www.arpamolise.it,http://www.arpamolise.it/index.php?val=Acque/ConsUm/ConsUm.php#_top,HTML,PER_POZZO,ANNUALE,?,ELEVATO,DISEGNARE IL TERRITORIO,
 Molise,IS,Isernia,ARPA Molise,,http://www.arpamolise.it,http://www.arpamolise.it/index.php?val=Acque/ConsUm/ConsUm.php#_top,HTML,PER_POZZO,ANNUALE,?,ELEVATO,DISEGNARE IL TERRITORIO,
-Piemonte,TO,Torino,SMAT Società Acque Metropolitane di Torino,SMATTorino,https://www.smatorino.it,https://www.smatorino.it/monitoraggio-acque/,HTML,PER_COMUNE,SEMESTRALE,2019,MEDIO,Circoscrizioni Torino,1
-Piemonte,VC,Vercelli,ASM Vercelli S.p.A.,ASMVercelli,https://www.asmvercelli.it/,https://www.asmvercelli.it/Idrico/Qualita-e-tariffe/Livelli-di-qualita.html,HTML,PER_COMUNE,SEMESTRALE,2019,BASSO,,1
-Piemonte,NO,Novara,Acqua Novara.VCO S.p.a.,AcquaNovara,https://www.acquanovaravco.eu/,https://www.acquanovaravco.eu/AnalisiAcqua?id=qualita-dell-acqua,HTML,PER_COMUNE,SEMESTRALE,2018,BASSO,Il sito compara fa la comparazione con le acque commerciali,1
-Piemonte,CN,Cuneo,Azienda Cuneese dellAcqua S.p.A.,CuneeseAcqua,https://www.acda.it/,https://www.acda.it/analisi-delle-acque/,HTML,PER_COMUNE,SEMESTRALE,2019,BASSO,,1
-Piemonte,CN,Cuneo,Iren S.p.A.,IrenPiemonte,https://www.irenacqua.it,https://www.irenacqua.it/qualita-dell-acqua,HTML,PER_QUARTIERE,SEMESTRALE,43647,BASSO,,1
-Piemonte,CN,Cuneo,TECNOEDIL S.p.A.,TECNOEDILCuneo,http://www.tecnoedilspa.it,http://www.egea.it/idrico/ciclo-idrico-integrato/analisi-tecnoedil/,PDF,PER_COMUNE,ANNUALE,2017,ELEVATO,,4
-Piemonte,CN,Cuneo,Società Intercomunale Servizi Idrici S.r.l.,SISIAcqueAlba,https://www.sisiacque.it,https://www.sisiacque.it/?page_id=4117,PDF,PER_COMUNE,SEMETRALE,2019,MEDIO,,2
-Piemonte,CN,Cuneo,Alpi Acque S.p.A.,AlpiAcqueCuneo,http://www.alpiacque.it,http://www.alpiacque.it/Sportello-utenti,PDF,PER_COMUNE,SEMETRALE,2020,MEDIO,,2
-Piemonte,AL,Alessandria,Gestione Acqua S.p.A.,GestAcquaAlessandria,https://www.gestioneacqua.it,https://www.gestioneacqua.it/servizi/qualita-dellacqua/,HTML,PER_COMUNE,ANNUALE,2019,MEDIO,,2
-Piemonte,AT,Asti,ASTI SERVIZI PUBBLICI S.P.A.,ASPAsti,https://www.asp.asti.it/idrico-integrato/,https://www.asp.asti.it/idrico-integrato/acquedotto/qualita-dellacqua/,PDF,PER_COMUNE,SEMESTRALE,2019,MEDIO,Inclusa mappa zone servite dal'acquedotto,2
 Piemonte,AT,Asti,ACQUEDOTTO DELLA PIANA S.P.A.,ACQPianaAsti,https://www.acquedottopiana.it,https://www.acquedottopiana.it/l-acqua,PDF,PER_COMUNE,SEMESTRALE,2019,BASSO,,1
+Piemonte,CN,Cuneo,Alta Langa Servizi S.p.A.,ALSECuneo,http://www.altalangaservizi.it,http://www.altalangaservizi.it/Home/Menu?IDDettaglioPagina=45659,PDF,PER_COMUNE,SEMESTRALE,2019,MEDIO,,1
+Piemonte,CN,Cuneo,Mondo Acqua S.p.A.,MondoAcquaCuneo,https://www.mondoacqua.com,https://www.mondoacqua.com/conoscere-lacqua/la-qualita-dellacqua-del-tuo-rubinetto/,PDF,PER_COMUNE,SEMESTRALE,2019,MEDIO,,1
+Piemonte,NO,Novara,Acqua Novara.VCO S.p.a.,AcquaNovara,https://www.acquanovaravco.eu/,https://www.acquanovaravco.eu/AnalisiAcqua?id=qualita-dell-acqua,HTML,PER_COMUNE,SEMESTRALE,2018,BASSO,Il sito compara fa la comparazione con le acque commerciali,1
 Piemonte,AL,Alessandria,AMAG SPA,AMAGAlessandria,https://www.gruppoamag.it/,http://www.gruppoamag.it/laboratorio-analisi/,HTML,PER_COMUNE,SEMESTRALE,2020,BASSO,,1
 Piemonte,AL,Alessandria,Azienda Multiservizi Casalese S.p.A.,AMCASALE,www.amcasale.it,https://www.amcasale.it/it/la-tua-acqua/composizione-analitica-dell-acqua.html,PDF,PER_COMUNE,SEMESTRALE,2019,BASSO,,1
+Piemonte,VC,Vercelli,ASM Vercelli S.p.A.,ASMVercelli,https://www.asmvercelli.it/,https://www.asmvercelli.it/Idrico/Qualita-e-tariffe/Livelli-di-qualita.html,HTML,PER_COMUNE,SEMESTRALE,2019,BASSO,,1
+Piemonte,AT,Asti,ASTI SERVIZI PUBBLICI S.P.A.,ASPAsti,https://www.asp.asti.it/idrico-integrato/,https://www.asp.asti.it/idrico-integrato/acquedotto/qualita-dellacqua/,PDF,PER_COMUNE,SEMESTRALE,2019,MEDIO,Inclusa mappa zone servite dal'acquedotto,2
 Piemonte,BI,Biella,Cordar S.p.A.,CordarBiella,https://www.cordarbiella.it/,http://www2.cordarbiella.it/altro/analisi_comuni/index.php?sezione=2&sottosezione=1&menu=7,HTML,PER_ZONA,SEMESTRALE,2019,ELEVATO,,3
+Piemonte,CN,Cuneo,Azienda Cuneese dellAcqua S.p.A.,CuneeseAcqua,https://www.acda.it/,https://www.acda.it/analisi-delle-acque/,HTML,PER_COMUNE,SEMESTRALE,2019,BASSO,,1
+Piemonte,AL,Alessandria,Gestione Acqua S.p.A.,GestAcquaAlessandria,https://www.gestioneacqua.it,https://www.gestioneacqua.it/servizi/qualita-dellacqua/,HTML,PER_COMUNE,ANNUALE,2019,MEDIO,,2
 Piemonte,VB,Verbano-Cusio-Ossola,Idrablu S.p.A.,IdraBluVerbano,www.idrablu.it,http://www.idrablu.it/qualita-e-sicurezza-dellacqua/,,,,,BASSO,,1
+Piemonte,CN,Cuneo,Iren S.p.A.,IrenPiemonte,https://www.irenacqua.it,https://www.irenacqua.it/qualita-dell-acqua,HTML,PER_QUARTIERE,SEMESTRALE,43647,BASSO,,1
+Piemonte,CN,Cuneo,Società Intercomunale Servizi Idrici S.r.l.,SISIAcqueAlba,https://www.sisiacque.it,https://www.sisiacque.it/?page_id=4117,PDF,PER_COMUNE,SEMETRALE,2019,MEDIO,,2
+Piemonte,CN,Cuneo,Alpi Acque S.p.A.,AlpiAcqueCuneo,http://www.alpiacque.it,http://www.alpiacque.it/Sportello-utenti,PDF,PER_COMUNE,SEMETRALE,2020,MEDIO,,2
+Piemonte,CN,Cuneo,Servizio Idrico Integrato del Biellese e Vercellese S.p.A.,SSISPAVercelli,https://www.siispa.it,https://www.siispa.it/qualita-acqua/laboratorio-analisi/qualita-dell-acqua-fornita,PDF,PER_COMUNE,SEMETRALE,2019,MEDIO,,2
+Piemonte,TO,Torino,SMAT Società Acque Metropolitane di Torino,SMFTSATTorino,https://www.smatorino.it,https://www.smatorino.it/monitoraggio-acque/,HTML,PER_COMUNE,SEMESTRALE,2019,MEDIO,Circoscrizioni Torino,1
+Piemonte,CN,Cuneo,TECNOEDIL S.p.A.,TECNOEDILCuneo,http://www.tecnoedilspa.it,http://www.egea.it/idrico/ciclo-idrico-integrato/analisi-tecnoedil/,PDF,PER_COMUNE,ANNUALE,2017,ELEVATO,,4
+Piemonte,CN,Cuneo,Acquedotto delle Langhe e Alpi Cuneesi S.p.A.,ALACLanghe,https://www.acquambiente.it,https://www.acquambiente.it/wp/?author=5,SCANNER,PER_COMUNE,ANNUALE,2019,MEDIO,,4
+Piemonte,CN,Cuneo,CALSO S.p.A.,CALSOCuneo,https://calso.org/,https://calso.org/qualita-e-risorse/analisi-delle-acque/,HTML,PER_COMUNE,SEMETRE,2020,BASSO,,1
+Piemonte,AT,Asti,Acquedotto Valtiglione S.p.A.,AVAsti,http://www.acquedottovaltiglione.it,http://www.acquedottovaltiglione.it/index.php/113-analisi-acqua/257-analisi-acqua?highlight=WyJxdWFsaXRcdTAwZTAiXQ==,HTML,PER_COMUNE,TRIMESTER,2019,BASSO,,1
 Puglia,FG,Foggia,Acquedotto Pugliese S.p.A.,,http://www.aqp.it/portal/page/portal/MYAQP,http://www.aqp.it/portal/page/portal/MYAQP/SERVIZI/Qualita_Acqua,HTML,PER_COMUNE,SEMESTRALE,?,MEDIO,,
 Puglia,BA,Bari,Acquedotto Pugliese S.p.A.,,http://www.aqp.it/portal/page/portal/MYAQP,http://www.aqp.it/portal/page/portal/MYAQP/SERVIZI/Qualita_Acqua,HTML,PER_COMUNE,SEMESTRALE,?,MEDIO,,
 Puglia,TA,Taranto,Acquedotto Pugliese S.p.A.,,http://www.aqp.it/portal/page/portal/MYAQP,http://www.aqp.it/portal/page/portal/MYAQP/SERVIZI/Qualita_Acqua,HTML,PER_COMUNE,SEMESTRALE,?,MEDIO,,
@@ -110,7 +123,7 @@ Toscana,PO,Prato,Publiacqua S.p.A,,https://www.publiacqua.it/,https://www.publia
 Trentino Alto Adige,BZ,Bolzano - Bozen,Provincia Autonoma BZ,,https://ambiente.provincia.bz.it/acqua/qualita-acqua-nostri-acquedotti-dettaglio.asp,https://ambiente.provincia.bz.it/acqua/qualita-acqua-nostri-acquedotti-dettaglio.asp,XLS,PER_PUNTO_PRELIEVO,ANNUALE,FACILE,,2,
 Trentino Alto Adige,TN,Trento,Alto Garda Servizi SpA,,https://www.altogardaservizi.com,https://www.altogardaservizi.com/acqua-fognatura/qualita-servizio,PDF,SEMESTRALE,04/2020,MEDIO,,3,
 Trentino Alto Adige,TN,Trento,Azienda Intercommunale Rotaliana S.p.A.,,https://www.airspa.it,https://www.airspa.it/Servizi/Acquedotto/Analisi-acqua,SCANNER,SEMESTRALE,01/2020,BASSO,,2,
-Trentino Alto Adige,TN,Trento,Gruppo Dolomiti,,https://www.gruppodolomitienergia.it,https://www.gruppodolomitienergia.it/content/l-acqua-che-beviamo,HTML,ANNUALE,01/2019,ELEVATO,,4,
+Trentino Alto Adige,TN,Trento,Dolomiti Energia Holding SpA,GruppoDolomiti,https://www.gruppodolomitienergia.it,https://www.gruppodolomitienergia.it/content/l-acqua-che-beviamo,HTML,ANNUALE,01/2019,ELEVATO,,4,
 Trentino Alto Adige,TN,Trento,STET S.p.A.,,https://www.stetspa.it,https://www.stetspa.it/attivita/acquedotto/qualita-dellacqua#main-content,PDF,SEMESTRALE,2019,ELEVATO,,3,
 Umbria,PG,Perugia,Arpa Umbria,,http://www.lacquachebevo.it/,http://www.lacquachebevo.it/,HTML,PER_PUNTO_PRELIEVO,SEMESTRALE,2020,ELEVATO,,5
 Umbria,TR,Terni,Arpa Umbria,,http://www.lacquachebevo.it/,http://www.lacquachebevo.it/,HTML,PER_PUNTO_PRELIEVO,SEMESTRALE,2020,ELEVATO,,5

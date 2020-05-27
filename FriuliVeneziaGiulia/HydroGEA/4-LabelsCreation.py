@@ -46,7 +46,7 @@ def estractLabelFromRawTable(address,rawTable):
     ll['label'] = lbdict
     return ll
 
-reportFoundList = pd.read_csv( 'Definitions/ReportFoundList.csv' )
+reportFoundList = pd.read_csv( 'Medadata/ReportFoundList.csv' )
 #reportFoundList = reportFoundList.iloc[82:]
 logging.info('Caricato la DataReportCollection.csv con %s elementi.',len(reportFoundList))
 ##

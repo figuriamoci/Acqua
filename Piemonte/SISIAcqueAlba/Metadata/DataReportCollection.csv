@@ -1,0 +1,6 @@
+alias_address,alias_city,ammoniaca,arsenico,calcio,cloro_residuo,cloruro,conducibilita,data_report,durezza,ferro,fluoruri,magnesio,manganese,nitrato,nitrito,ossidabilita,ph,potassio,sodio,solfato
+Comune,Santo Stefano Belbo,0.073,<1,44,0.06,7,301,25/07/2019,13,<5,<0.5,4.4,<2,7,0.039,<0.50,7.64,2.0,1.2,59
+Comune,Cossano Belbo,0.065,<1,79,0.13,10,502,25/07/2019,25,<5,<0.5,13,20,5.1,0.039,<0.50,7.48,3.2,3.0,76
+Comune,Benevello,0.050,<1,32,0.03,6,230,24/07/2019,9.5,,<0.5,3.4,<2,4.8,0.030,,7.54,2.4,1.4,37
+Comune,Montelupo Albese,0.050,<1,31,0.06,5,230,24/07/2019,9.1,,<0.5,3.3,<2,2.4,0.030,,7.66,2.4,0.96,35
+Comune,Rodello,0.050,<1,32,0.05,5,226,24/07/2019,9.3,,<0.5,3.4,<2,7.7,0.030,,7.61,2.0,0.96,35

@@ -1,0 +1,368 @@
+alias_address,alias_address_value,alias_city,alias_province,geocode,geometry,georeferencingString,type
+"Bedogno, Bergonzano, Calinzano, Casa Valle, La Valle E Puianello (Nella Zona Compresa Fra L&#39;Incrocio Con Via Napoli E Il Confim&Igrave;Ne Con Il Comune Di Vezzano)",267,QUATTRO CASTELLA,RE,"Bedogno, Quattro Castella, RE","{'type': 'Point', 'coordinates': [10.48598000000004, 44.60722000000004]}","Bedogno, QUATTRO CASTELLA, RE, Emilia Romagna",POINT
+Tutte Le Zone,31,CALESTANO,PR,"Calestano, PR","{'type': 'Point', 'coordinates': [10.12190000000004, 44.601150000000075]}",", CALESTANO, PR, Emilia Romagna",POINT
+Tutte Le Zone,2,COLLECCHIO,PR,"Collecchio, PR","{'type': 'Point', 'coordinates': [10.21592000000004, 44.75236000000007]}",", COLLECCHIO, PR, Emilia Romagna",POINT
+Tutte Le Zone,48,CORNIGLIO,PR,"Corniglio, PR","{'type': 'Point', 'coordinates': [10.08907000000005, 44.475490000000036]}",", CORNIGLIO, PR, Emilia Romagna",POINT
+Tutte Le Zone,3,FELINO,PR,"Felino, PR","{'type': 'Point', 'coordinates': [10.241190000000074, 44.69590000000005]}",", FELINO, PR, Emilia Romagna",POINT
+Tutte Le Zone,5,FONTEVIVO,PR,"Fontevivo, PR","{'type': 'Point', 'coordinates': [10.174300000000073, 44.857470000000035]}",", FONTEVIVO, PR, Emilia Romagna",POINT
+Tutte Le Zone,7,LANGHIRANO,PR,"Langhirano, PR","{'type': 'Point', 'coordinates': [10.264940000000024, 44.61512000000005]}",", LANGHIRANO, PR, Emilia Romagna",POINT
+Tutte Le Zone,8,LESIGNANO DE' BAGNI,PR,"Lesignano de' Bagni, PR","{'type': 'Point', 'coordinates': [10.300640000000044, 44.64504000000005]}",", LESIGNANO DE' BAGNI, PR, Emilia Romagna",POINT
+Tutte Le Zone,9,MEDESANO,PR,"Medesano, PR","{'type': 'Point', 'coordinates': [10.140750000000025, 44.75603000000007]}",", MEDESANO, PR, Emilia Romagna",POINT
+Tutte Le Zone,10,MEZZANI,PR,"Via G. Mozzani, 43052, Colorno, PR","{'type': 'Point', 'coordinates': [10.375042500000001, 44.929791]}",", MEZZANI, PR, Emilia Romagna",POINT
+Tutte Le Zone,35,MONCHIO DELLE CORTI,PR,"Monchio delle Corti, PR","{'type': 'Point', 'coordinates': [10.12268000000006, 44.41061000000008]}",", MONCHIO DELLE CORTI, PR, Emilia Romagna",POINT
+Tutte Le Zone,11,MONTECHIARUGOLO,PR,"Montechiarugolo, PR","{'type': 'Point', 'coordinates': [10.42136000000005, 44.69437000000005]}",", MONTECHIARUGOLO, PR, Emilia Romagna",POINT
+Tutte Le Zone,36,NEVIANO DEGLI ARDUINI,PR,"Neviano degli Arduini, PR","{'type': 'Point', 'coordinates': [10.317390000000046, 44.58266000000003]}",", NEVIANO DEGLI ARDUINI, PR, Emilia Romagna",POINT
+Tutte Le Zone,12,NOCETO,PR,"Noceto, PR","{'type': 'Point', 'coordinates': [10.179050000000075, 44.81014000000005]}",", NOCETO, PR, Emilia Romagna",POINT
+Tutte Le Zone,433,PALANZANO,PR,"Palanzano, PR","{'type': 'Point', 'coordinates': [10.193370000000073, 44.437490000000025]}",", PALANZANO, PR, Emilia Romagna",POINT
+Tutte Le Zone,1,PARMA,PR,"Parma, PR","{'type': 'Point', 'coordinates': [10.340220000000045, 44.79853000000003]}",", PARMA, PR, Emilia Romagna",POINT
+Tutte Le Zone,14,SALA BAGANZA,PR,"Sala Baganza, PR","{'type': 'Point', 'coordinates': [10.228850000000023, 44.718620000000044]}",", SALA BAGANZA, PR, Emilia Romagna",POINT
+Tutte Le Zone,18,SORBOLO,PR,"Sorbolo, Sorbolo Mezzani, PR","{'type': 'Point', 'coordinates': [10.448570000000075, 44.84645000000006]}",", SORBOLO, PR, Emilia Romagna",POINT
+Tutte Le Zone,19,TIZZANO VAL PARMA,PR,"Tizzano Val Parma, PR","{'type': 'Point', 'coordinates': [10.20008000000007, 44.52279000000004]}",", TIZZANO VAL PARMA, PR, Emilia Romagna",POINT
+Tutte Le Zone,20,TRAVERSETOLO,PR,"Traversetolo, PR","{'type': 'Point', 'coordinates': [10.383790000000033, 44.64060000000006]}",", TRAVERSETOLO, PR, Emilia Romagna",POINT
+Tutte Le Zone,49,AGAZZANO,PC,"Agazzano, PC","{'type': 'Point', 'coordinates': [9.518700000000024, 44.948960000000056]}",", AGAZZANO, PC, Emilia Romagna",POINT
+Tutte Le Zone,50,ALSENO,PC,"Alseno, PC","{'type': 'Point', 'coordinates': [9.962310000000059, 44.89934000000005]}",", ALSENO, PC, Emilia Romagna",POINT
+Tutte Le Zone,51,BESENZONE,PC,"Besenzone, PC","{'type': 'Point', 'coordinates': [9.95655000000005, 44.98810000000003]}",", BESENZONE, PC, Emilia Romagna",POINT
+Tutte Le Zone,52,BETTOLA,PC,"Bettola, PC","{'type': 'Point', 'coordinates': [9.609350000000063, 44.78013000000004]}",", BETTOLA, PC, Emilia Romagna",POINT
+Tutte Le Zone,53,BOBBIO,PC,"Bobbio, PC","{'type': 'Point', 'coordinates': [9.386090000000024, 44.77058000000005]}",", BOBBIO, PC, Emilia Romagna",POINT
+Tutte Le Zone,54,BORGONOVO VAL TIDONE,PC,"Borgonovo Val Tidone, PC","{'type': 'Point', 'coordinates': [9.446750000000065, 45.018770000000075]}",", BORGONOVO VAL TIDONE, PC, Emilia Romagna",POINT
+Tutte Le Zone,55,CADEO,PC,"Cadeo, PC","{'type': 'Point', 'coordinates': [9.831260000000043, 44.974330000000066]}",", CADEO, PC, Emilia Romagna",POINT
+Tutte Le Zone,56,CALENDASCO,PC,"Calendasco, PC","{'type': 'Point', 'coordinates': [9.593720000000076, 45.08789000000007]}",", CALENDASCO, PC, Emilia Romagna",POINT
+Tutte Le Zone,57,CAMINATA,PC,"Caminata, Carpaneto Piacentino, PC","{'type': 'Point', 'coordinates': [9.827890000000025, 44.903440000000046]}",", CAMINATA, PC, Emilia Romagna",POINT
+Tutte Le Zone,58,CAORSO,PC,"Caorso, PC","{'type': 'Point', 'coordinates': [9.874630000000025, 45.04795000000007]}",", CAORSO, PC, Emilia Romagna",POINT
+Tutte Le Zone,59,CARPANETO PIACENTINO,PC,"Carpaneto Piacentino, PC","{'type': 'Point', 'coordinates': [9.788110000000074, 44.914100000000076]}",", CARPANETO PIACENTINO, PC, Emilia Romagna",POINT
+Tutte Le Zone,60,CASTEL SAN GIOVANNI,PC,"Castel San Giovanni, PC","{'type': 'Point', 'coordinates': [9.43512000000004, 45.060560000000066]}",", CASTEL SAN GIOVANNI, PC, Emilia Romagna",POINT
+Tutte Le Zone,61,CASTELL'ARQUATO,PC,"Castell'Arquato, PC","{'type': 'Point', 'coordinates': [9.871930000000077, 44.85296000000005]}",", CASTELL'ARQUATO, PC, Emilia Romagna",POINT
+Tutte Le Zone,62,CASTELVETRO PIACENTINO,PC,"Castelvetro Piacentino, PC","{'type': 'Point', 'coordinates': [9.98929000000004, 45.107300000000066]}",", CASTELVETRO PIACENTINO, PC, Emilia Romagna",POINT
+Tutte Le Zone,65,CERIGNALE,PC,"Cerignale, PC","{'type': 'Point', 'coordinates': [9.350700000000074, 44.67719000000005]}",", CERIGNALE, PC, Emilia Romagna",POINT
+Tutte Le Zone,63,COLI,PC,"Coli, PC","{'type': 'Point', 'coordinates': [9.414660000000026, 44.74524000000008]}",", COLI, PC, Emilia Romagna",POINT
+Tutte Le Zone,64,CORTE BRUGNATELLA,PC,"Corte Brugnatella, PC","{'type': 'Point', 'coordinates': [9.381250000000023, 44.71381000000008]}",", CORTE BRUGNATELLA, PC, Emilia Romagna",POINT
+Tutte Le Zone,437,CORTEMAGGIORE,PC,"Cortemaggiore, PC","{'type': 'Point', 'coordinates': [9.93085000000002, 44.994890000000055]}",", CORTEMAGGIORE, PC, Emilia Romagna",POINT
+Tutte Le Zone,66,FARINI,PC,"Farini, PC","{'type': 'Point', 'coordinates': [9.569710000000043, 44.71368000000007]}",", FARINI, PC, Emilia Romagna",POINT
+Tutte Le Zone,67,FERRIERE,PC,"Ferriere, PC","{'type': 'Point', 'coordinates': [9.498030000000028, 44.643980000000056]}",", FERRIERE, PC, Emilia Romagna",POINT
+Tutte Le Zone,68,FIORENZUOLA D'ARDA,PC,"Fiorenzuola d'Arda, PC","{'type': 'Point', 'coordinates': [9.907880000000034, 44.93047000000007]}",", FIORENZUOLA D'ARDA, PC, Emilia Romagna",POINT
+Tutte Le Zone,69,GAZZOLA,PC,"Gazzola, PC","{'type': 'Point', 'coordinates': [9.548680000000047, 44.96032000000008]}",", GAZZOLA, PC, Emilia Romagna",POINT
+Tutte Le Zone,70,GOSSOLENGO,PC,"Gossolengo, PC","{'type': 'Point', 'coordinates': [9.625090000000057, 45.00482000000005]}",", GOSSOLENGO, PC, Emilia Romagna",POINT
+Tutte Le Zone,71,GRAGNANO TREBBIENSE,PC,"Gragnano Trebbiense, PC","{'type': 'Point', 'coordinates': [9.567990000000066, 45.01457000000005]}",", GRAGNANO TREBBIENSE, PC, Emilia Romagna",POINT
+Tutte Le Zone,72,GROPPARELLO,PC,"Gropparello, PC","{'type': 'Point', 'coordinates': [9.730450000000076, 44.83218000000005]}",", GROPPARELLO, PC, Emilia Romagna",POINT
+Tutte Le Zone,73,LUGAGNANO VAL D'ARDA,PC,"Lugagnano Val d'Arda, PC","{'type': 'Point', 'coordinates': [9.825210000000027, 44.821690000000046]}",", LUGAGNANO VAL D'ARDA, PC, Emilia Romagna",POINT
+Tutte Le Zone,74,MONTICELLI D'ONGINA,PC,"Monticelli d'Ongina, PC","{'type': 'Point', 'coordinates': [9.932990000000075, 45.08818000000008]}",", MONTICELLI D'ONGINA, PC, Emilia Romagna",POINT
+Tutte Le Zone,75,MORFASSO,PC,"Morfasso, PC","{'type': 'Point', 'coordinates': [9.702690000000075, 44.72276000000005]}",", MORFASSO, PC, Emilia Romagna",POINT
+Tutte Le Zone,76,NIBBIANO,PC,"Nibbiano, Alta Val Tidone, PC","{'type': 'Point', 'coordinates': [9.327590000000043, 44.90521000000007]}",", NIBBIANO, PC, Emilia Romagna",POINT
+Tutte Le Zone,77,OTTONE,PC,"Ottone, PC","{'type': 'Point', 'coordinates': [9.331230000000062, 44.623680000000036]}",", OTTONE, PC, Emilia Romagna",POINT
+Tutte Le Zone,78,PECORARA,PC,"Pecorara, Alta Val Tidone, PC","{'type': 'Point', 'coordinates': [9.384040000000027, 44.874870000000044]}",", PECORARA, PC, Emilia Romagna",POINT
+Tutte Le Zone,79,PIACENZA,PC,"Piacenza, PC","{'type': 'Point', 'coordinates': [9.701760000000036, 45.05660000000006]}",", PIACENZA, PC, Emilia Romagna",POINT
+Tutte Le Zone,80,PIANELLO VAL TIDONE,PC,"Pianello Val Tidone, PC","{'type': 'Point', 'coordinates': [9.406900000000064, 44.94905000000006]}",", PIANELLO VAL TIDONE, PC, Emilia Romagna",POINT
+Tutte Le Zone,81,PIOZZANO,PC,"Piozzano, PC","{'type': 'Point', 'coordinates': [9.496740000000045, 44.926870000000065]}",", PIOZZANO, PC, Emilia Romagna",POINT
+Tutte Le Zone,82,PODENZANO,PC,"Podenzano, PC","{'type': 'Point', 'coordinates': [9.681710000000066, 44.95739000000003]}",", PODENZANO, PC, Emilia Romagna",POINT
+Tutte Le Zone,83,PONTE DELL'OLIO,PC,"Ponte dell'Olio, PC","{'type': 'Point', 'coordinates': [9.64369000000005, 44.87262000000004]}",", PONTE DELL'OLIO, PC, Emilia Romagna",POINT
+Tutte Le Zone,84,PONTENURE,PC,"Pontenure, PC","{'type': 'Point', 'coordinates': [9.786090000000058, 45.000950000000046]}",", PONTENURE, PC, Emilia Romagna",POINT
+Tutte Le Zone,85,RIVERGARO,PC,"Rivergaro, PC","{'type': 'Point', 'coordinates': [9.596660000000043, 44.91099000000003]}",", RIVERGARO, PC, Emilia Romagna",POINT
+Tutte Le Zone,86,ROTTOFRENO,PC,"Rottofreno, PC","{'type': 'Point', 'coordinates': [9.549630000000036, 45.058020000000056]}",", ROTTOFRENO, PC, Emilia Romagna",POINT
+Tutte Le Zone,87,SAN GIORGIO PIACENTINO,PC,"San Giorgio Piacentino, PC","{'type': 'Point', 'coordinates': [9.738350000000025, 44.957160000000044]}",", SAN GIORGIO PIACENTINO, PC, Emilia Romagna",POINT
+Tutte Le Zone,96,SAN PIETRO IN CERRO,PC,"San Pietro in Cerro, PC","{'type': 'Point', 'coordinates': [9.947130000000072, 45.021840000000054]}",", SAN PIETRO IN CERRO, PC, Emilia Romagna",POINT
+Tutte Le Zone,88,SARMATO,PC,"Sarmato, PC","{'type': 'Point', 'coordinates': [9.484070000000031, 45.06075000000004]}",", SARMATO, PC, Emilia Romagna",POINT
+Tutte Le Zone,89,TRAVO,PC,"Travo, PC","{'type': 'Point', 'coordinates': [9.544160000000034, 44.86171000000007]}",", TRAVO, PC, Emilia Romagna",POINT
+Tutte Le Zone,90,VERNASCA,PC,"Vernasca, PC","{'type': 'Point', 'coordinates': [9.829980000000035, 44.79937000000007]}",", VERNASCA, PC, Emilia Romagna",POINT
+Tutte Le Zone,91,VIGOLZONE,PC,"Vigolzone, PC","{'type': 'Point', 'coordinates': [9.669130000000052, 44.915260000000046]}",", VIGOLZONE, PC, Emilia Romagna",POINT
+Tutte Le Zone,92,VILLANOVA SULL'ARDA,PC,"Villanova sull'Arda, PC","{'type': 'Point', 'coordinates': [9.99517000000003, 45.02935000000008]}",", VILLANOVA SULL'ARDA, PC, Emilia Romagna",POINT
+Tutte Le Zone,93,ZERBA,PC,"Zerba, PC","{'type': 'Point', 'coordinates': [9.286340000000052, 44.66556000000003]}",", ZERBA, PC, Emilia Romagna",POINT
+Tutte Le Zone,94,ZIANO PIACENTINO,PC,"Ziano Piacentino, PC","{'type': 'Point', 'coordinates': [9.405280000000062, 45.00348000000008]}",", ZIANO PIACENTINO, PC, Emilia Romagna",POINT
+Albinea Tutte Le Altre Zone,174,ALBINEA,RE,"Albinea, RE","{'type': 'Point', 'coordinates': [10.606020000000058, 44.628040000000055]}","Albinea Tutte Le Altre Zone, ALBINEA, RE, Emilia Romagna",POINT
+"Capriolo, Caselline, La Razza",380,ALBINEA,RE,"Caselline, Albinea, RE","{'type': 'Point', 'coordinates': [10.606050000000039, 44.63623000000007]}","Capriolo, Caselline, La Razza, ALBINEA, RE, Emilia Romagna",POINT
+Bagnolo In Piano,176,BAGNOLO IN PIANO,RE,"Bagnolo in Piano, RE","{'type': 'Point', 'coordinates': [10.67408000000006, 44.763280000000066]}","Bagnolo In Piano, BAGNOLO IN PIANO, RE, Emilia Romagna",POINT
+Baiso,177,BAISO,RE,"Baiso, RE","{'type': 'Point', 'coordinates': [10.60265000000004, 44.49738000000008]}","Baiso, BAISO, RE, Emilia Romagna",POINT
+Piazzola,178,BIBBIANO,RE,"Piazzola, Bibbiano, RE","{'type': 'Point', 'coordinates': [10.448820000000069, 44.64294000000007]}","Piazzola, BIBBIANO, RE, Emilia Romagna",POINT
+Ghiardo E Zona Industriale,179,BIBBIANO,RE,Zona Industriale Ghiardo,"{'type': 'Point', 'coordinates': [10.504030000000057, 44.66792000000004]}","Ghiardo E Zona Industriale, BIBBIANO, RE, Emilia Romagna",POINT
+Bibbiano Centro,180,BIBBIANO,RE,"Bibbiano, RE","{'type': 'Point', 'coordinates': [10.473190000000045, 44.66378000000003]}","Bibbiano Centro, BIBBIANO, RE, Emilia Romagna",POINT
+Corniano,181,BIBBIANO,RE,"Corniano, Bibbiano, RE","{'type': 'Point', 'coordinates': [10.458260000000053, 44.65198000000004]}","Corniano, BIBBIANO, RE, Emilia Romagna",POINT
+Fossa Di Barco,182,BIBBIANO,RE,"Barco, Bibbiano, RE","{'type': 'Point', 'coordinates': [10.49374000000006, 44.68874000000005]}","Fossa Di Barco, BIBBIANO, RE, Emilia Romagna",POINT
+Barco E Zona Ind. Barco,183,BIBBIANO,RE,"Barco, Bibbiano, RE","{'type': 'Point', 'coordinates': [10.49374000000006, 44.68874000000005]}","Barco E Zona Ind. Barco, BIBBIANO, RE, Emilia Romagna",POINT
+Boretto,184,BORETTO,RE,"Boretto, RE","{'type': 'Point', 'coordinates': [10.553050000000042, 44.90500000000003]}","Boretto, BORETTO, RE, Emilia Romagna",POINT
+Brescello,185,BRESCELLO,RE,"Brescello, RE","{'type': 'Point', 'coordinates': [10.514180000000067, 44.89691000000005]}","Brescello, BRESCELLO, RE, Emilia Romagna",POINT
+"Campeggio, Tavernetta E Hotel Ilton",187,BUSANA,RE,"Busana, Ventasso, RE","{'type': 'Point', 'coordinates': [10.319260000000043, 44.36949000000004]}","Campeggio, Tavernetta E Hotel Ilton, BUSANA, RE, Emilia Romagna",POINT
+"Cervarezza, Frassinedolo, C&Agrave; De Ferrari, Casale Di Talada",188,BUSANA,RE,"Busana, Ventasso, RE","{'type': 'Point', 'coordinates': [10.319260000000043, 44.36949000000004]}","Cervarezza, Frassinedolo, C&Agrave; De Ferrari, Casale Di Talada, BUSANA, RE, Emilia Romagna",POINT
+Cadelbosco Sopra,189,CADELBOSCO DI SOPRA,RE,"Cadelbosco di Sopra, RE","{'type': 'Point', 'coordinates': [10.596480000000042, 44.763090000000034]}","Cadelbosco Sanpra, CADELBOSCO DI SOPRA, RE, Emilia Romagna",POINT
+Campagnola Emilia,190,CAMPAGNOLA EMILIA,RE,"Campagnola Emilia, RE","{'type': 'Point', 'coordinates': [10.75941000000006, 44.84104000000008]}","Campagnola Emilia, CAMPAGNOLA EMILIA, RE, Emilia Romagna",POINT
+Campegine,191,CAMPEGINE,RE,"Campegine, RE","{'type': 'Point', 'coordinates': [10.530610000000024, 44.785420000000045]}","Campegine, CAMPEGINE, RE, Emilia Romagna",POINT
+Carbonizzo,192,CANOSSA,RE,"Carbonizzo, Canossa, RE","{'type': 'Point', 'coordinates': [10.407080000000065, 44.604430000000036]}","Carbonizzo, CANOSSA, RE, Emilia Romagna",POINT
+Cerezzola,193,CANOSSA,RE,"Cerezzola, Canossa, RE","{'type': 'Point', 'coordinates': [10.40632000000005, 44.57217000000003]}","Cerezzola, CANOSSA, RE, Emilia Romagna",POINT
+Ciano D'Enza,194,CANOSSA,RE,"Ciano d'Enza, Canossa, RE","{'type': 'Point', 'coordinates': [10.41226000000006, 44.59989000000007]}","Ciano D'Enza, CANOSSA, RE, Emilia Romagna",POINT
+Vico,195,CANOSSA,RE,"Via Vico, 42026, Canossa, RE","{'type': 'Point', 'coordinates': [10.413896497344252, 44.59979211555304]}","Vico, CANOSSA, RE, Emilia Romagna",POINT
+Canossa Tutte Le Altre Zone,196,CANOSSA,RE,"Canossa, RE","{'type': 'Point', 'coordinates': [10.41226000000006, 44.59989000000007]}","Canossa Tutte Le Altre Zone, CANOSSA, RE, Emilia Romagna",POINT
+Carpineti,197,CARPINETI,RE,"Carpineti, RE","{'type': 'Point', 'coordinates': [10.52096000000006, 44.45515000000006]}","Carpineti, CARPINETI, RE, Emilia Romagna",POINT
+S. Donnino,198,CASALGRANDE,RE,"San Donnino di Liguria, Casalgrande, RE","{'type': 'Point', 'coordinates': [10.748710000000074, 44.625920000000065]}","San Donnino, CASALGRANDE, RE, Emilia Romagna",POINT
+Casalgrande Tutte Le Altre Zone,199,CASALGRANDE,RE,"Casalgrande, RE","{'type': 'Point', 'coordinates': [10.731550000000027, 44.58037000000007]}","Casalgrande Tutte Le Altre Zone, CASALGRANDE, RE, Emilia Romagna",POINT
+Via Statuaria Dal Rio Riazzone A Piazza Spinelli,401,CASALGRANDE,RE,"Casalgrande, RE","{'type': 'Point', 'coordinates': [10.731550000000027, 44.58037000000007]}","Via Sanatuaria Dal Rio Riazzone A Piazza Saninelli, CASALGRANDE, RE, Emilia Romagna",POINT
+Casina,200,CASINA,RE,"Casina, RE","{'type': 'Point', 'coordinates': [10.500610000000052, 44.51141000000007]}","Casina, CASINA, RE, Emilia Romagna",POINT
+Roteglia,201,CASTELLARANO,RE,"Roteglia, Castellarano, RE","{'type': 'Point', 'coordinates': [10.687400000000025, 44.48618000000005]}","Roteglia, CASTELLARANO, RE, Emilia Romagna",POINT
+Castellarano Tutte Le Altre Zone,202,CASTELLARANO,RE,"Castellarano, RE","{'type': 'Point', 'coordinates': [10.736920000000055, 44.519670000000076]}","Castellarano Tutte Le Altre Zone, CASTELLARANO, RE, Emilia Romagna",POINT
+Castelnovo Sotto,204,CASTELNOVO DI SOTTO,RE,"Castelnovo di Sotto, RE","{'type': 'Point', 'coordinates': [10.565570000000037, 44.809480000000065]}","Castelnovo Santto, CASTELNOVO DI SOTTO, RE, Emilia Romagna",POINT
+Castelnovo Ne' Monti,203,CASTELNOVO NE' MONTI,RE,"Castelnovo Ne' Monti, RE","{'type': 'Point', 'coordinates': [10.406540000000064, 44.43401000000006]}","Castelnovo Ne' Monti, CASTELNOVO NE' MONTI, RE, Emilia Romagna",POINT
+Corte Tegge,205,CAVRIAGO,RE,"Corte Tegge, Cavriago, RE","{'type': 'Point', 'coordinates': [10.556120000000021, 44.71448000000004]}","Corte Tegge, CAVRIAGO, RE, Emilia Romagna",POINT
+Zona Ind. Corte Tegge,206,CAVRIAGO,RE,"Corte Tegge, Cavriago, RE","{'type': 'Point', 'coordinates': [10.556120000000021, 44.71448000000004]}","Zona Ind. Corte Tegge, CAVRIAGO, RE, Emilia Romagna",POINT
+Cavriago Tutte Le Altre Zone,207,CAVRIAGO,RE,"Cavriago, RE","{'type': 'Point', 'coordinates': [10.524890000000028, 44.69382000000007]}","Cavriago Tutte Le Altre Zone, CAVRIAGO, RE, Emilia Romagna",POINT
+Cerreto Alpi,208,COLLAGNA,RE,"Collagna, Ventasso, RE","{'type': 'Point', 'coordinates': [10.275480000000073, 44.347410000000025]}","Cerreto Alpi, COLLAGNA, RE, Emilia Romagna",POINT
+Cerreto Lago,209,COLLAGNA,RE,"Collagna, Ventasso, RE","{'type': 'Point', 'coordinates': [10.275480000000073, 44.347410000000025]}","Cerreto Lago, COLLAGNA, RE, Emilia Romagna",POINT
+Cerreto Passo,210,COLLAGNA,RE,"Collagna, Ventasso, RE","{'type': 'Point', 'coordinates': [10.275480000000073, 44.347410000000025]}","Cerreto Passo, COLLAGNA, RE, Emilia Romagna",POINT
+Collagna Centro,211,COLLAGNA,RE,"Collagna, Ventasso, RE","{'type': 'Point', 'coordinates': [10.275480000000073, 44.347410000000025]}","Collagna Centro, COLLAGNA, RE, Emilia Romagna",POINT
+Oratorio,212,COLLAGNA,RE,"Collagna, Ventasso, RE","{'type': 'Point', 'coordinates': [10.275480000000073, 44.347410000000025]}","Oratorio, COLLAGNA, RE, Emilia Romagna",POINT
+Ponte Del Barone,213,COLLAGNA,RE,"Collagna, Ventasso, RE","{'type': 'Point', 'coordinates': [10.275480000000073, 44.347410000000025]}","Ponte Del Barone, COLLAGNA, RE, Emilia Romagna",POINT
+Valbona,214,COLLAGNA,RE,"Via Valbona, 42032, Ventasso, RE","{'type': 'Point', 'coordinates': [10.265199059328786, 44.34856622074977]}","Valbona, COLLAGNA, RE, Emilia Romagna",POINT
+Vallisnera Di Sopra,215,COLLAGNA,RE,"Vallisnera, Ventasso, RE","{'type': 'Point', 'coordinates': [10.269400000000076, 44.36101000000008]}","Vallisnera Di Sanpra, COLLAGNA, RE, Emilia Romagna",POINT
+Vallisnera Di Sotto,216,COLLAGNA,RE,"Vallisnera, Ventasso, RE","{'type': 'Point', 'coordinates': [10.269400000000076, 44.36101000000008]}","Vallisnera Di Santto, COLLAGNA, RE, Emilia Romagna",POINT
+Cavallerina,217,CORREGGIO,RE,"Correggio, RE","{'type': 'Point', 'coordinates': [10.782750000000021, 44.770440000000065]}","Cavallerina, CORREGGIO, RE, Emilia Romagna",POINT
+Colombarone,218,CORREGGIO,RE,"Correggio, RE","{'type': 'Point', 'coordinates': [10.782750000000021, 44.770440000000065]}","Colombarone, CORREGGIO, RE, Emilia Romagna",POINT
+Correggio Centro,219,CORREGGIO,RE,"Correggio, RE","{'type': 'Point', 'coordinates': [10.782750000000021, 44.770440000000065]}","Correggio Centro, CORREGGIO, RE, Emilia Romagna",POINT
+Ponte Dell'Agrato,220,CORREGGIO,RE,"Via Agrato, 42015, Correggio, RE","{'type': 'Point', 'coordinates': [10.743245192911248, 44.71081989626859]}","Ponte Dell'Agrato, CORREGGIO, RE, Emilia Romagna",POINT
+Prato,221,CORREGGIO,RE,"Prato, Correggio, RE","{'type': 'Point', 'coordinates': [10.74777000000006, 44.71705000000003]}","Prato, CORREGGIO, RE, Emilia Romagna",POINT
+S. Biagio,222,CORREGGIO,RE,"San Biagio, Correggio, RE","{'type': 'Point', 'coordinates': [10.789320000000032, 44.74834000000004]}","San Biagio, CORREGGIO, RE, Emilia Romagna",POINT
+Viazza,223,CORREGGIO,RE,"Correggio, RE","{'type': 'Point', 'coordinates': [10.782750000000021, 44.770440000000065]}","Viazza, CORREGGIO, RE, Emilia Romagna",POINT
+Villaggio Artigiano,224,CORREGGIO,RE,"Villaggio Artigiano, Poviglio, RE","{'type': 'Point', 'coordinates': [10.508150000000057, 44.845060000000046]}","Villaggio Artigiano, CORREGGIO, RE, Emilia Romagna",POINT
+Zona Industriale Correggio,225,CORREGGIO,RE,Zona Industriale Correggio Sud,"{'type': 'Point', 'coordinates': [10.786110000000065, 44.76045000000005]}","Zona Industriale Correggio, CORREGGIO, RE, Emilia Romagna",POINT
+Zone Rimanenti Correggio,226,CORREGGIO,RE,"Correggio, RE","{'type': 'Point', 'coordinates': [10.782750000000021, 44.770440000000065]}","Zone Rimanenti Correggio, CORREGGIO, RE, Emilia Romagna",POINT
+Fazzano Oltre I Civ 30 E 63 Di Via Fazzano,374,CORREGGIO,RE,"Fazzano, Correggio, RE","{'type': 'Point', 'coordinates': [10.76941000000005, 44.74491000000006]}","Fazzano Oltre I Civ 30 E 63 Di Via Fazzano, CORREGGIO, RE, Emilia Romagna",POINT
+Il Ghetto,375,CORREGGIO,RE,"Correggio, RE","{'type': 'Point', 'coordinates': [10.782750000000021, 44.770440000000065]}","Il Ghetto, CORREGGIO, RE, Emilia Romagna",POINT
+Lemizzone,376,CORREGGIO,RE,"Lemizzone, Correggio, RE","{'type': 'Point', 'coordinates': [10.756490000000042, 44.734020000000044]}","Lemizzone, CORREGGIO, RE, Emilia Romagna",POINT
+Casino Tirelli,377,CORREGGIO,RE,"Correggio, RE","{'type': 'Point', 'coordinates': [10.782750000000021, 44.770440000000065]}","Casino Tirelli, CORREGGIO, RE, Emilia Romagna",POINT
+Fazzano Fino Ai Civ 30 E 63 Di Via Fazzano,378,CORREGGIO,RE,"Fazzano, Correggio, RE","{'type': 'Point', 'coordinates': [10.76941000000005, 44.74491000000006]}","Fazzano Fino Ai Civ 30 E 63 Di Via Fazzano, CORREGGIO, RE, Emilia Romagna",POINT
+Prato Zona Industriale,379,CORREGGIO,RE,Zona Industriale Prato,"{'type': 'Point', 'coordinates': [10.72810000000004, 44.71124000000003]}","Prato Zona Industriale, CORREGGIO, RE, Emilia Romagna",POINT
+Bernolda,381,CORREGGIO,RE,"Bernolda, Correggio, RE","{'type': 'Point', 'coordinates': [10.814130000000034, 44.78250000000003]}","Bernolda, CORREGGIO, RE, Emilia Romagna",POINT
+Budrio,382,CORREGGIO,RE,"Budrio, Correggio, RE","{'type': 'Point', 'coordinates': [10.74237000000005, 44.75183000000004]}","Budrio, CORREGGIO, RE, Emilia Romagna",POINT
+Canolo,383,CORREGGIO,RE,"Canolo, Correggio, RE","{'type': 'Point', 'coordinates': [10.748390000000029, 44.79484000000008]}","Canolo, CORREGGIO, RE, Emilia Romagna",POINT
+Fosdondo,384,CORREGGIO,RE,"Fosdondo, Correggio, RE","{'type': 'Point', 'coordinates': [10.735740000000021, 44.775100000000066]}","Fosdondo, CORREGGIO, RE, Emilia Romagna",POINT
+Giardino,385,CORREGGIO,RE,"Strada Provinciale di Correggio, 42122, Reggio nell'Emilia, RE","{'type': 'Point', 'coordinates': [10.651261499741484, 44.6979025373081]}","Giardino, CORREGGIO, RE, Emilia Romagna",POINT
+Mandrio,386,CORREGGIO,RE,"Mandrio, Correggio, RE","{'type': 'Point', 'coordinates': [10.80615000000006, 44.792880000000025]}","Mandrio, CORREGGIO, RE, Emilia Romagna",POINT
+Mandriolo,387,CORREGGIO,RE,"Mandriolo, Correggio, RE","{'type': 'Point', 'coordinates': [10.786730000000034, 44.78703000000007]}","Mandriolo, CORREGGIO, RE, Emilia Romagna",POINT
+Tutte Le Zone,372,FABBRICO,RE,"Fabbrico, RE","{'type': 'Point', 'coordinates': [10.803790000000049, 44.871560000000045]}",", FABBRICO, RE, Emilia Romagna",POINT
+Zone A Nord Dell'Autostrada,227,GATTATICO,RE,"Via Guglielmo da Gattatico, 42043, Gattatico, RE","{'type': 'Point', 'coordinates': [10.45093695526366, 44.771294385213004]}","Zone A Nord Dell'Autostrada, GATTATICO, RE, Emilia Romagna",POINT
+Zone A Sud Dell'Autostrada,228,GATTATICO,RE,"Via Guglielmo da Gattatico, 42043, Gattatico, RE","{'type': 'Point', 'coordinates': [10.45093695526366, 44.771294385213004]}","Zone A Sand Dell'Autostrada, GATTATICO, RE, Emilia Romagna",POINT
+Gualtieri E Tutte Le Altre Zone,229,GUALTIERI,RE,"Gualtieri, RE","{'type': 'Point', 'coordinates': [10.62961000000007, 44.90052000000003]}","Gualtieri , GUALTIERI, RE, Emilia Romagna",POINT
+Santa Vittoria E Zona Industriale Di Gualtieri,373,GUALTIERI,RE,"Gualtieri, RE","{'type': 'Point', 'coordinates': [10.62961000000007, 44.90052000000003]}","Sannta Vittoria E Zona Industriale Di Gualtieri, GUALTIERI, RE, Emilia Romagna",POINT
+Baccanello,230,GUASTALLA,RE,Baccanello,"{'type': 'Point', 'coordinates': [10.848250000000064, 44.94214000000005]}","Baccanello, GUASTALLA, RE, Emilia Romagna",POINT
+CÀ De Frati (S. Giacomo),231,GUASTALLA,RE,"San Giacomo, Guastalla, RE","{'type': 'Point', 'coordinates': [10.662920000000042, 44.89438000000007]}","CÀ De Frati (San Giacomo), GUASTALLA, RE, Emilia Romagna",POINT
+Carrobioli,232,GUASTALLA,RE,"Carrobiol, Guastalla, RE","{'type': 'Point', 'coordinates': [10.680980000000034, 44.87317000000007]}","Carrobioli, GUASTALLA, RE, Emilia Romagna",POINT
+Case Fangaia (S. Giacomo),233,GUASTALLA,RE,"Case Fangaia, Guastalla, RE","{'type': 'Point', 'coordinates': [10.741700000000037, 44.91632000000004]}","Case Fangaia (San Giacomo), GUASTALLA, RE, Emilia Romagna",POINT
+Cerchietto (S. Martino),234,GUASTALLA,RE,"San Martino, Guastalla, RE","{'type': 'Point', 'coordinates': [10.685520000000054, 44.91438000000005]}","Cerchietto (San Martino), GUASTALLA, RE, Emilia Romagna",POINT
+Guastalla Centro,235,GUASTALLA,RE,Centro Revisioni Guastalla S.n.c.,"{'type': 'Point', 'coordinates': [10.653020037220683, 44.914710041115846]}","Guastalla Centro, GUASTALLA, RE, Emilia Romagna",POINT
+La Madonnina,236,GUASTALLA,RE,"Via Madonnina, 42016, Guastalla, RE","{'type': 'Point', 'coordinates': [10.66168901720079, 44.873377927468354]}","La Madonnina, GUASTALLA, RE, Emilia Romagna",POINT
+Nizzola,237,GUASTALLA,RE,"Nizzola, Guastalla, RE","{'type': 'Point', 'coordinates': [10.670350000000042, 44.91886000000005]}","Nizzola, GUASTALLA, RE, Emilia Romagna",POINT
+S. Giacomo E Zona Industriale Di S.Giacomo,238,GUASTALLA,RE,Zona Industriale San Giacomo di Guastalla,"{'type': 'Point', 'coordinates': [10.65384000000006, 44.89459000000005]}","San Giacomo E Zona Industriale Di SanGiacomo, GUASTALLA, RE, Emilia Romagna",POINT
+S. Giorgio,240,GUASTALLA,RE,"Via San Giorgio, 42016, Guastalla, RE","{'type': 'Point', 'coordinates': [10.671780674578079, 44.923473545877314]}","San Giorgio, GUASTALLA, RE, Emilia Romagna",POINT
+S. Girolamo,241,GUASTALLA,RE,"San Girolamo, Guastalla, RE","{'type': 'Point', 'coordinates': [10.72616000000005, 44.92031000000003]}","San Girolamo, GUASTALLA, RE, Emilia Romagna",POINT
+S. Martino,242,GUASTALLA,RE,"San Martino, Guastalla, RE","{'type': 'Point', 'coordinates': [10.685520000000054, 44.91438000000005]}","San Martino, GUASTALLA, RE, Emilia Romagna",POINT
+S. Rocco,243,GUASTALLA,RE,"San Rocco, Guastalla, RE","{'type': 'Point', 'coordinates': [10.656210000000044, 44.86959000000007]}","San Rocco, GUASTALLA, RE, Emilia Romagna",POINT
+Solarolo,244,GUASTALLA,RE,"Solarolo, Guastalla, RE","{'type': 'Point', 'coordinates': [10.66408000000007, 44.90480000000008]}","Sanlarolo, GUASTALLA, RE, Emilia Romagna",POINT
+Tagliata,245,GUASTALLA,RE,"Tagliata, Guastalla, RE","{'type': 'Point', 'coordinates': [10.683910000000026, 44.93205000000006]}","Tagliata, GUASTALLA, RE, Emilia Romagna",POINT
+Villa Pieve,246,GUASTALLA,RE,"Villa Pieve, Guastalla, RE","{'type': 'Point', 'coordinates': [10.665520000000072, 44.91232000000008]}","Villa Pieve, GUASTALLA, RE, Emilia Romagna",POINT
+Zone A Sud Del Cavo BPM,247,GUASTALLA,RE,"Guastalla, RE","{'type': 'Point', 'coordinates': [10.654370000000029, 44.91710000000006]}","Zone A Sand Del Cavo BPM, GUASTALLA, RE, Emilia Romagna",POINT
+Bracchi,248,LIGONCHIO,RE,"Ligonchio, Ventasso, RE","{'type': 'Point', 'coordinates': [10.33997000000005, 44.31617000000006]}","Bracchi, LIGONCHIO, RE, Emilia Romagna",POINT
+Campo,249,LIGONCHIO,RE,"Ligonchio, Ventasso, RE","{'type': 'Point', 'coordinates': [10.33997000000005, 44.31617000000006]}","Campo, LIGONCHIO, RE, Emilia Romagna",POINT
+Caprile,250,LIGONCHIO,RE,"Ligonchio, Ventasso, RE","{'type': 'Point', 'coordinates': [10.33997000000005, 44.31617000000006]}","Caprile, LIGONCHIO, RE, Emilia Romagna",POINT
+Casalino,251,LIGONCHIO,RE,"Ligonchio, Ventasso, RE","{'type': 'Point', 'coordinates': [10.33997000000005, 44.31617000000006]}","Casalino, LIGONCHIO, RE, Emilia Romagna",POINT
+Casenove,252,LIGONCHIO,RE,"Ligonchio, Ventasso, RE","{'type': 'Point', 'coordinates': [10.33997000000005, 44.31617000000006]}","Casenove, LIGONCHIO, RE, Emilia Romagna",POINT
+Cinquecerri,253,LIGONCHIO,RE,"Cinquecerri, Ventasso, RE","{'type': 'Point', 'coordinates': [10.330080000000066, 44.349860000000035]}","Cinquecerri, LIGONCHIO, RE, Emilia Romagna",POINT
+Costa Di Piolo,254,LIGONCHIO,RE,"Ligonchio, Ventasso, RE","{'type': 'Point', 'coordinates': [10.33997000000005, 44.31617000000006]}","Costa Di Piolo, LIGONCHIO, RE, Emilia Romagna",POINT
+Giarola,255,LIGONCHIO,RE,"Ligonchio, Ventasso, RE","{'type': 'Point', 'coordinates': [10.33997000000005, 44.31617000000006]}","Giarola, LIGONCHIO, RE, Emilia Romagna",POINT
+Le Vaglie,256,LIGONCHIO,RE,"Ligonchio, Ventasso, RE","{'type': 'Point', 'coordinates': [10.33997000000005, 44.31617000000006]}","Le Vaglie, LIGONCHIO, RE, Emilia Romagna",POINT
+Ligonchio Centro,257,LIGONCHIO,RE,"Ligonchio, Ventasso, RE","{'type': 'Point', 'coordinates': [10.33997000000005, 44.31617000000006]}","Ligonchio Centro, LIGONCHIO, RE, Emilia Romagna",POINT
+Loggia,258,LIGONCHIO,RE,"Ligonchio, Ventasso, RE","{'type': 'Point', 'coordinates': [10.33997000000005, 44.31617000000006]}","Loggia, LIGONCHIO, RE, Emilia Romagna",POINT
+Montecagno,259,LIGONCHIO,RE,"Montecagno, Ventasso, RE","{'type': 'Point', 'coordinates': [10.36641000000003, 44.33212000000003]}","Montecagno, LIGONCHIO, RE, Emilia Romagna",POINT
+Ospitaletto,260,LIGONCHIO,RE,"Ospitaletto, Ventasso, RE","{'type': 'Point', 'coordinates': [10.316530000000057, 44.29852000000005]}","Ospitaletto, LIGONCHIO, RE, Emilia Romagna",POINT
+Piazza Di Piolo,261,LIGONCHIO,RE,"Ligonchio, Ventasso, RE","{'type': 'Point', 'coordinates': [10.33997000000005, 44.31617000000006]}","Piazza Di Piolo, LIGONCHIO, RE, Emilia Romagna",POINT
+Piolo,262,LIGONCHIO,RE,"Ligonchio, Ventasso, RE","{'type': 'Point', 'coordinates': [10.33997000000005, 44.31617000000006]}","Piolo, LIGONCHIO, RE, Emilia Romagna",POINT
+Luzzara,263,LUZZARA,RE,"Luzzara, RE","{'type': 'Point', 'coordinates': [10.688050000000032, 44.959790000000055]}","Luzzara, LUZZARA, RE, Emilia Romagna",POINT
+Montecchio Emilia,264,MONTECCHIO EMILIA,RE,"Montecchio Emilia, RE","{'type': 'Point', 'coordinates': [10.449340000000063, 44.700360000000046]}","Montecchio Emilia, MONTECCHIO EMILIA, RE, Emilia Romagna",POINT
+"Zone A Sud Di Via A.Grandi E Via L.Landini, Comprese Vie Montale, Quasimodo E Battisti",389,MONTECCHIO EMILIA,RE,"Montecchio Emilia, RE","{'type': 'Point', 'coordinates': [10.449340000000063, 44.700360000000046]}","Zone A Sand Di Via A.Grandi E Via L.Landini, Comprese Vie Montale, Quasimodo E Battisti, MONTECCHIO EMILIA, RE, Emilia Romagna",POINT
+Novellara,265,NOVELLARA,RE,"Novellara, RE","{'type': 'Point', 'coordinates': [10.731480000000033, 44.84920000000005]}","Novellara, NOVELLARA, RE, Emilia Romagna",POINT
+Poviglio,266,POVIGLIO,RE,"Poviglio, RE","{'type': 'Point', 'coordinates': [10.536280000000033, 44.84133000000003]}","Poviglio, POVIGLIO, RE, Emilia Romagna",POINT
+Tutte Le Altre Zone,271,QUATTRO CASTELLA,RE,"Quattro Castella, RE","{'type': 'Point', 'coordinates': [10.471110000000067, 44.63613000000004]}","Tutte Le Altre Zone, QUATTRO CASTELLA, RE, Emilia Romagna",POINT
+Fornaci Di Quattro Castella,370,QUATTRO CASTELLA,RE,"Ca' Fornace, 42020, Quattro Castella, RE","{'type': 'Point', 'coordinates': [10.470334499999996, 44.64342]}","Fornaci Di Quattro Castella, QUATTRO CASTELLA, RE, Emilia Romagna",POINT
+Quattro Castella Capoluogo (Zona Nord),371,QUATTRO CASTELLA,RE,"Quattro Castella, RE","{'type': 'Point', 'coordinates': [10.471110000000067, 44.63613000000004]}","Quattro Castella Capoluogo (Zona Nord), QUATTRO CASTELLA, RE, Emilia Romagna",POINT
+Selvarola,390,QUATTRO CASTELLA,RE,"Quattro Castella, RE","{'type': 'Point', 'coordinates': [10.471110000000067, 44.63613000000004]}","Sanlvarola, QUATTRO CASTELLA, RE, Emilia Romagna",POINT
+Puianello Zone Rimaneneti,402,QUATTRO CASTELLA,RE,"Puianello, Quattro Castella, RE","{'type': 'Point', 'coordinates': [10.560780000000022, 44.627230000000054]}","Puianello Zone Rimaneneti, QUATTRO CASTELLA, RE, Emilia Romagna",POINT
+Camporella,272,RAMISETO,RE,"Camporella, Ventasso, RE","{'type': 'Point', 'coordinates': [10.235290000000077, 44.420990000000074]}","Camporella, RAMISETO, RE, Emilia Romagna",POINT
+Canova,273,RAMISETO,RE,"Ramiseto, Ventasso, RE","{'type': 'Point', 'coordinates': [10.270220000000052, 44.41414000000003]}","Canova, RAMISETO, RE, Emilia Romagna",POINT
+Casalobbio,274,RAMISETO,RE,"Ramiseto, Ventasso, RE","{'type': 'Point', 'coordinates': [10.270220000000052, 44.41414000000003]}","Casalobbio, RAMISETO, RE, Emilia Romagna",POINT
+Castagneto,275,RAMISETO,RE,"Castagneto, Baiso, RE","{'type': 'Point', 'coordinates': [10.59250000000003, 44.48390000000006]}","Castagneto, RAMISETO, RE, Emilia Romagna",POINT
+Cecciola,276,RAMISETO,RE,"Ramiseto, Ventasso, RE","{'type': 'Point', 'coordinates': [10.270220000000052, 44.41414000000003]}","Cecciola, RAMISETO, RE, Emilia Romagna",POINT
+Cerreggio,277,RAMISETO,RE,"Cerreggio, Ventasso, RE","{'type': 'Point', 'coordinates': [10.276100000000042, 44.44231000000008]}","Cerreggio, RAMISETO, RE, Emilia Romagna",POINT
+La Costa Ramiseto,278,RAMISETO,RE,"Ramiseto, Ventasso, RE","{'type': 'Point', 'coordinates': [10.270220000000052, 44.41414000000003]}","La Costa Ramiseto, RAMISETO, RE, Emilia Romagna",POINT
+Le Teggie,279,RAMISETO,RE,"Ramiseto, Ventasso, RE","{'type': 'Point', 'coordinates': [10.270220000000052, 44.41414000000003]}","Le Teggie, RAMISETO, RE, Emilia Romagna",POINT
+Lugolo,280,RAMISETO,RE,"Ramiseto, Ventasso, RE","{'type': 'Point', 'coordinates': [10.270220000000052, 44.41414000000003]}","Lugolo, RAMISETO, RE, Emilia Romagna",POINT
+Montedello,281,RAMISETO,RE,"Montedello, Ventasso, RE","{'type': 'Point', 'coordinates': [10.230870000000039, 44.41513000000003]}","Montedello, RAMISETO, RE, Emilia Romagna",POINT
+Nigone,282,RAMISETO,RE,"Ramiseto, Ventasso, RE","{'type': 'Point', 'coordinates': [10.270220000000052, 44.41414000000003]}","Nigone, RAMISETO, RE, Emilia Romagna",POINT
+Ramiseto Centro,284,RAMISETO,RE,"Ramiseto, Ventasso, RE","{'type': 'Point', 'coordinates': [10.270220000000052, 44.41414000000003]}","Ramiseto Centro, RAMISETO, RE, Emilia Romagna",POINT
+Storlo,285,RAMISETO,RE,"Ramiseto, Ventasso, RE","{'type': 'Point', 'coordinates': [10.270220000000052, 44.41414000000003]}","Sanorlo, RAMISETO, RE, Emilia Romagna",POINT
+Succiso,286,RAMISETO,RE,"Ramiseto, Ventasso, RE","{'type': 'Point', 'coordinates': [10.270220000000052, 44.41414000000003]}","Sancciso, RAMISETO, RE, Emilia Romagna",POINT
+Taviano,287,RAMISETO,RE,"Ramiseto, Ventasso, RE","{'type': 'Point', 'coordinates': [10.270220000000052, 44.41414000000003]}","Taviano, RAMISETO, RE, Emilia Romagna",POINT
+Temporia,288,RAMISETO,RE,"Ramiseto, Ventasso, RE","{'type': 'Point', 'coordinates': [10.270220000000052, 44.41414000000003]}","Temporia, RAMISETO, RE, Emilia Romagna",POINT
+Varvilla,289,RAMISETO,RE,"Ramiseto, Ventasso, RE","{'type': 'Point', 'coordinates': [10.270220000000052, 44.41414000000003]}","Varvilla, RAMISETO, RE, Emilia Romagna",POINT
+Ventasso Laghi,290,RAMISETO,RE,"Ventasso, RE","{'type': 'Point', 'coordinates': [10.319260000000043, 44.36949000000004]}","Ventasso Laghi, RAMISETO, RE, Emilia Romagna",POINT
+Reggio Emilia - Centro,97,REGGIO EMILIA,RE,Poste Italiane Reggio Emilia Centro,"{'type': 'Point', 'coordinates': [10.632259981678212, 44.698500051070475]}","Reggio Emilia - Centro, REGGIO EMILIA, RE, Emilia Romagna",POINT
+Bagno,102,REGGIO EMILIA,RE,"Bagno, Reggio nell'Emilia, RE","{'type': 'Point', 'coordinates': [10.745600000000024, 44.654810000000055]}","Bagno, REGGIO EMILIA, RE, Emilia Romagna",POINT
+Baragalla,106,REGGIO EMILIA,RE,"Via Baragalla, 42031, Baiso, Reggio nell'Emilia","{'type': 'Point', 'coordinates': [10.643901061822135, 44.53168331529923]}","Baragalla, REGGIO EMILIA, RE, Emilia Romagna",POINT
+Bazzarola,107,REGGIO EMILIA,RE,"Reggio Emilia, Reggio nell'Emilia","{'type': 'Point', 'coordinates': [10.64125000000007, 44.69559000000004]}","Bazzarola, REGGIO EMILIA, RE, Emilia Romagna",POINT
+Buco Del Signore,108,REGGIO EMILIA,RE,"Reggio Emilia, Reggio nell'Emilia","{'type': 'Point', 'coordinates': [10.64125000000007, 44.69559000000004]}","Buco Del Sangnore, REGGIO EMILIA, RE, Emilia Romagna",POINT
+Buda (Modolena),109,REGGIO EMILIA,RE,"Reggio Emilia, Reggio nell'Emilia","{'type': 'Point', 'coordinates': [10.64125000000007, 44.69559000000004]}","Buda (Modolena), REGGIO EMILIA, RE, Emilia Romagna",POINT
+CadÈ,110,REGGIO EMILIA,RE,"Cadè, Reggio nell'Emilia, RE","{'type': 'Point', 'coordinates': [10.51335000000006, 44.739400000000046]}","CadÈ, REGGIO EMILIA, RE, Emilia Romagna",POINT
+Calvetro (Masone),111,REGGIO EMILIA,RE,"Calvetro, Reggio nell'Emilia, RE","{'type': 'Point', 'coordinates': [10.717640000000074, 44.68180000000007]}","Calvetro (Masone), REGGIO EMILIA, RE, Emilia Romagna",POINT
+Campo Gelsi (Massenzatico),112,REGGIO EMILIA,RE,"Massenzatico, Reggio nell'Emilia, RE","{'type': 'Point', 'coordinates': [10.698910000000069, 44.73635000000007]}","Campo Gelsi (Massenzatico), REGGIO EMILIA, RE, Emilia Romagna",POINT
+Canali,113,REGGIO EMILIA,RE,"Via Enrico Casali, 42122, Reggio nell'Emilia, RE","{'type': 'Point', 'coordinates': [10.644146583650562, 44.69263730200427]}","Canali, REGGIO EMILIA, RE, Emilia Romagna",POINT
+Casale Di Rivalta,114,REGGIO EMILIA,RE,"Rivalta, Reggio nell'Emilia, RE","{'type': 'Point', 'coordinates': [10.589090000000056, 44.65856000000008]}","Casale Di Rivalta, REGGIO EMILIA, RE, Emilia Romagna",POINT
+Castellazzo,117,REGGIO EMILIA,RE,"Castellazzo, Reggio nell'Emilia, RE","{'type': 'Point', 'coordinates': [10.739730000000066, 44.67533000000003]}","Castellazzo, REGGIO EMILIA, RE, Emilia Romagna",POINT
+Castello Di Pratofontana,118,REGGIO EMILIA,RE,"Pratofontana, Reggio nell'Emilia, RE","{'type': 'Point', 'coordinates': [10.672360000000026, 44.741810000000044]}","Castello Di Pratofontana, REGGIO EMILIA, RE, Emilia Romagna",POINT
+Castello Di Vialato,119,REGGIO EMILIA,RE,"Via Castello, 42124, Reggio nell'Emilia, RE","{'type': 'Point', 'coordinates': [10.511699535814538, 44.73340715544235]}","Castello Di Vialato, REGGIO EMILIA, RE, Emilia Romagna",POINT
+Castello Motti (Gavassa),120,REGGIO EMILIA,RE,"Via Castello Motti, 42122, Reggio nell'Emilia, RE","{'type': 'Point', 'coordinates': [10.689181224498954, 44.71442970241879]}","Castello Motti (Gavassa), REGGIO EMILIA, RE, Emilia Romagna",POINT
+Cavazzoli,121,REGGIO EMILIA,RE,"Cavazzoli, Reggio nell'Emilia, RE","{'type': 'Point', 'coordinates': [10.610370000000046, 44.72280000000006]}","Cavazzoli, REGGIO EMILIA, RE, Emilia Romagna",POINT
+Cella,122,REGGIO EMILIA,RE,"Cella, Reggio nell'Emilia, RE","{'type': 'Point', 'coordinates': [10.545470000000023, 44.72832000000005]}","Cella, REGGIO EMILIA, RE, Emilia Romagna",POINT
+CÒ Di Sotto (Massenzatico),123,REGGIO EMILIA,RE,"Massenzatico, Reggio nell'Emilia, RE","{'type': 'Point', 'coordinates': [10.698910000000069, 44.73635000000007]}","CÒ Di Santto (Massenzatico), REGGIO EMILIA, RE, Emilia Romagna",POINT
+Codemondo,124,REGGIO EMILIA,RE,"Codemondo, Reggio nell'Emilia, RE","{'type': 'Point', 'coordinates': [10.550690000000031, 44.68837000000008]}","Codemondo, REGGIO EMILIA, RE, Emilia Romagna",POINT
+Corticella,125,REGGIO EMILIA,RE,"Corticella, Reggio nell'Emilia, RE","{'type': 'Point', 'coordinates': [10.751390000000072, 44.635530000000074]}","Corticella, REGGIO EMILIA, RE, Emilia Romagna",POINT
+Coviolo,126,REGGIO EMILIA,RE,"Coviolo, Reggio nell'Emilia, RE","{'type': 'Point', 'coordinates': [10.594620000000077, 44.67876000000007]}","Coviolo, REGGIO EMILIA, RE, Emilia Romagna",POINT
+Due MaestÀ,127,REGGIO EMILIA,RE,Due Maestà,"{'type': 'Point', 'coordinates': [10.650000000000034, 44.66667000000007]}","Due MaestÀ, REGGIO EMILIA, RE, Emilia Romagna",POINT
+Fogliano,128,REGGIO EMILIA,RE,"Fogliano, Reggio nell'Emilia, RE","{'type': 'Point', 'coordinates': [10.64537000000007, 44.649290000000065]}","Fogliano, REGGIO EMILIA, RE, Emilia Romagna",POINT
+Foscato,129,REGGIO EMILIA,RE,"Via Enrico Foscato, 42123, Reggio nell'Emilia, RE","{'type': 'Point', 'coordinates': [10.596006130662655, 44.693864764978635]}","Foscato, REGGIO EMILIA, RE, Emilia Romagna",POINT
+Gaida,130,REGGIO EMILIA,RE,"Gaida, Reggio nell'Emilia, RE","{'type': 'Point', 'coordinates': [10.503030000000024, 44.74294000000003]}","Gaida, REGGIO EMILIA, RE, Emilia Romagna",POINT
+Gavassa,132,REGGIO EMILIA,RE,"Gavassa, Reggio nell'Emilia, RE","{'type': 'Point', 'coordinates': [10.689940000000036, 44.710240000000056]}","Gavassa, REGGIO EMILIA, RE, Emilia Romagna",POINT
+Gavasseto,133,REGGIO EMILIA,RE,"Gavasseto, Reggio nell'Emilia, RE","{'type': 'Point', 'coordinates': [10.674310000000048, 44.65471000000008]}","Gavasseto, REGGIO EMILIA, RE, Emilia Romagna",POINT
+Chionso,136,REGGIO EMILIA,RE,"Il Chionso, Reggio nell'Emilia, RE","{'type': 'Point', 'coordinates': [10.664450000000045, 44.71284000000003]}","Chionso, REGGIO EMILIA, RE, Emilia Romagna",POINT
+La Villa,137,REGGIO EMILIA,RE,"Via Emidio Villa, 42124, Reggio nell'Emilia, RE","{'type': 'Point', 'coordinates': [10.656085272519979, 44.735209792836166]}","La Villa, REGGIO EMILIA, RE, Emilia Romagna",POINT
+Le Rotte (Confine Bagnolo),138,REGGIO EMILIA,RE,Le Rotte,"{'type': 'Point', 'coordinates': [10.66761002553528, 44.75589994113931]}","Le Rotte (Confine Bagnolo), REGGIO EMILIA, RE, Emilia Romagna",POINT
+Mancasale E Zona Industriale A Sud Di Via Lama,139,REGGIO EMILIA,RE,Zona Industriale Mancasale,"{'type': 'Point', 'coordinates': [10.649800000000027, 44.736410000000035]}","Mancasale E Zona Industriale A Sand Di Via Lama, REGGIO EMILIA, RE, Emilia Romagna",POINT
+Mancasale Zona Industriale A Nord Di Via Lama,140,REGGIO EMILIA,RE,Zona Industriale Mancasale,"{'type': 'Point', 'coordinates': [10.649800000000027, 44.736410000000035]}","Mancasale Zona Industriale A Nord Di Via Lama, REGGIO EMILIA, RE, Emilia Romagna",POINT
+Marmirolo,141,REGGIO EMILIA,RE,"Marmirolo, Reggio nell'Emilia, RE","{'type': 'Point', 'coordinates': [10.720050000000072, 44.65862000000004]}","Marmirolo, REGGIO EMILIA, RE, Emilia Romagna",POINT
+Masone,142,REGGIO EMILIA,RE,"Masone, Reggio nell'Emilia, RE","{'type': 'Point', 'coordinates': [10.703990000000033, 44.67184000000003]}","Masone, REGGIO EMILIA, RE, Emilia Romagna",POINT
+Massenzatico,143,REGGIO EMILIA,RE,"Massenzatico, Reggio nell'Emilia, RE","{'type': 'Point', 'coordinates': [10.698910000000069, 44.73635000000007]}","Massenzatico, REGGIO EMILIA, RE, Emilia Romagna",POINT
+Modolena,144,REGGIO EMILIA,RE,"Reggio Emilia, Reggio nell'Emilia","{'type': 'Point', 'coordinates': [10.64125000000007, 44.69559000000004]}","Modolena, REGGIO EMILIA, RE, Emilia Romagna",POINT
+Orologio (RE),145,REGGIO EMILIA,RE,"Reggio Emilia, Reggio nell'Emilia","{'type': 'Point', 'coordinates': [10.64125000000007, 44.69559000000004]}","Orologio (RE), REGGIO EMILIA, RE, Emilia Romagna",POINT
+Penizzo (Pratofontana),147,REGGIO EMILIA,RE,"Pratofontana, Reggio nell'Emilia, RE","{'type': 'Point', 'coordinates': [10.672360000000026, 44.741810000000044]}","Penizzo (Pratofontana), REGGIO EMILIA, RE, Emilia Romagna",POINT
+Pieve Modolena,148,REGGIO EMILIA,RE,"Pieve Modolena, Reggio nell'Emilia, RE","{'type': 'Point', 'coordinates': [10.597180000000037, 44.710300000000075]}","Pieve Modolena, REGGIO EMILIA, RE, Emilia Romagna",POINT
+Pratofontana,150,REGGIO EMILIA,RE,"Pratofontana, Reggio nell'Emilia, RE","{'type': 'Point', 'coordinates': [10.672360000000026, 44.741810000000044]}","Pratofontana, REGGIO EMILIA, RE, Emilia Romagna",POINT
+Quaresimo,151,REGGIO EMILIA,RE,"Via del Quaresimo, 42123, Reggio nell'Emilia, RE","{'type': 'Point', 'coordinates': [10.542256594420378, 44.68433295576757]}","Quaresimo, REGGIO EMILIA, RE, Emilia Romagna",POINT
+Rivalta,154,REGGIO EMILIA,RE,"Rivalta, Reggio nell'Emilia, RE","{'type': 'Point', 'coordinates': [10.589090000000056, 44.65856000000008]}","Rivalta, REGGIO EMILIA, RE, Emilia Romagna",POINT
+Roncadella,155,REGGIO EMILIA,RE,"Roncadelli, Casalgrande, Reggio nell'Emilia","{'type': 'Point', 'coordinates': [10.756230000000073, 44.56371000000007]}","Roncadella, REGGIO EMILIA, RE, Emilia Romagna",POINT
+Roncina,156,REGGIO EMILIA,RE,"Via Roncina, 42123, Reggio nell'Emilia, RE","{'type': 'Point', 'coordinates': [10.592691963600718, 44.69430393712979]}","Roncina, REGGIO EMILIA, RE, Emilia Romagna",POINT
+Roncocesi,157,REGGIO EMILIA,RE,"Roncocesi, Reggio nell'Emilia, RE","{'type': 'Point', 'coordinates': [10.578910000000064, 44.73822000000007]}","Roncocesi, REGGIO EMILIA, RE, Emilia Romagna",POINT
+S. Grisante E Daria (Masone),159,REGGIO EMILIA,RE,"Via Santi Grisante e Daria, 42124, Reggio nell'Emilia, RE","{'type': 'Point', 'coordinates': [10.636760021641907, 44.74647817045521]}","San Grisante E Daria (Masone), REGGIO EMILIA, RE, Emilia Romagna",POINT
+S. Maurizio,160,REGGIO EMILIA,RE,"San Maurizio, Reggio nell'Emilia, RE","{'type': 'Point', 'coordinates': [10.66972000000004, 44.68506000000008]}","San Maurizio, REGGIO EMILIA, RE, Emilia Romagna",POINT
+S. Nicola (Masone),161,REGGIO EMILIA,RE,"Masone, Reggio nell'Emilia, RE","{'type': 'Point', 'coordinates': [10.703990000000033, 44.67184000000003]}","San Nicola (Masone), REGGIO EMILIA, RE, Emilia Romagna",POINT
+S. Prospero Strinati,162,REGGIO EMILIA,RE,"San Prospero, Reggio nell'Emilia, RE","{'type': 'Point', 'coordinates': [10.636300000000062, 44.71882000000005]}","San Prospero Sanrinati, REGGIO EMILIA, RE, Emilia Romagna",POINT
+S. Rigo,163,REGGIO EMILIA,RE,"San Rigo, Reggio nell'Emilia, RE","{'type': 'Point', 'coordinates': [10.576320000000067, 44.66625000000005]}","San Rigo, REGGIO EMILIA, RE, Emilia Romagna",POINT
+Sabbione,164,REGGIO EMILIA,RE,"Sabbione, Reggio nell'Emilia, RE","{'type': 'Point', 'coordinates': [10.704840000000047, 44.64343000000008]}","Sanbbione, REGGIO EMILIA, RE, Emilia Romagna",POINT
+Sesso,167,REGGIO EMILIA,RE,"Reggio Emilia, Reggio nell'Emilia","{'type': 'Point', 'coordinates': [10.64125000000007, 44.69559000000004]}","Sansso, REGGIO EMILIA, RE, Emilia Romagna",POINT
+Sesso Zona Industriale,168,REGGIO EMILIA,RE,Zona Industriale Cade,"{'type': 'Point', 'coordinates': [10.510160000000042, 44.73988000000003]}","Sansso Zona Industriale, REGGIO EMILIA, RE, Emilia Romagna",POINT
+Vialato,169,REGGIO EMILIA,RE,"Via Vialato, 42023, Cadelbosco di Sopra, Reggio nell'Emilia","{'type': 'Point', 'coordinates': [10.627937630254909, 44.78489788375818]}","Vialato, REGGIO EMILIA, RE, Emilia Romagna",POINT
+Villa Curta,170,REGGIO EMILIA,RE,"Villa Curta, Reggio nell'Emilia, RE","{'type': 'Point', 'coordinates': [10.68906000000004, 44.69292000000007]}","Villa Curta, REGGIO EMILIA, RE, Emilia Romagna",POINT
+Zimella (Corticella),171,REGGIO EMILIA,RE,"Corticella, Reggio nell'Emilia, RE","{'type': 'Point', 'coordinates': [10.751390000000072, 44.635530000000074]}","Zimella (Corticella), REGGIO EMILIA, RE, Emilia Romagna",POINT
+Zona Annonaria,172,REGGIO EMILIA,RE,"Reggio Emilia, Reggio nell'Emilia","{'type': 'Point', 'coordinates': [10.64125000000007, 44.69559000000004]}","Zona Annonaria, REGGIO EMILIA, RE, Emilia Romagna",POINT
+Ghiarda,391,REGGIO EMILIA,RE,"Ghiarda, Reggio nell'Emilia, RE","{'type': 'Point', 'coordinates': [10.564320000000066, 44.66423000000003]}","Ghiarda, REGGIO EMILIA, RE, Emilia Romagna",POINT
+Massenzatico Battibana,392,REGGIO EMILIA,RE,"Massenzatico, Reggio nell'Emilia, RE","{'type': 'Point', 'coordinates': [10.698910000000069, 44.73635000000007]}","Massenzatico Battibana, REGGIO EMILIA, RE, Emilia Romagna",POINT
+Bettolino,291,REGGIOLO,RE,"Bettolino, Reggiolo, RE","{'type': 'Point', 'coordinates': [10.776640000000043, 44.890480000000025]}","Bettolino, REGGIOLO, RE, Emilia Romagna",POINT
+Zone A Sud Del Cavo BPM,292,REGGIOLO,RE,"Reggiolo, RE","{'type': 'Point', 'coordinates': [10.808910000000026, 44.91707000000008]}","Zone A Sand Del Cavo BPM, REGGIOLO, RE, Emilia Romagna",POINT
+Tutte Le Altre Zone,293,REGGIOLO,RE,"Reggiolo, RE","{'type': 'Point', 'coordinates': [10.808910000000026, 44.91707000000008]}","Tutte Le Altre Zone, REGGIOLO, RE, Emilia Romagna",POINT
+Rio Saliceto,294,RIO SALICETO,RE,"Rio Saliceto, RE","{'type': 'Point', 'coordinates': [10.803130000000067, 44.810790000000054]}","Rio Sanliceto, RIO SALICETO, RE, Emilia Romagna",POINT
+Rolo,295,ROLO,RE,"Rolo, RE","{'type': 'Point', 'coordinates': [10.856180000000052, 44.886540000000025]}","Rolo, ROLO, RE, Emilia Romagna",POINT
+Rubiera,296,RUBIERA,RE,"Rubiera, RE","{'type': 'Point', 'coordinates': [10.78239000000002, 44.65456000000006]}","Rubiera, RUBIERA, RE, Emilia Romagna",POINT
+San Martino In Rio,297,SAN MARTINO IN RIO,RE,"San Martino in Rio, RE","{'type': 'Point', 'coordinates': [10.786080000000027, 44.73356000000007]}","Sann Martino In Rio, SAN MARTINO IN RIO, RE, Emilia Romagna",POINT
+Carbognano,298,SAN POLO D'ENZA,RE,"Carbognano, San Polo d'Enza, RE","{'type': 'Point', 'coordinates': [10.464980000000025, 44.58496000000008]}","Carbognano, SAN POLO D'ENZA, RE, Emilia Romagna",POINT
+Grassano,299,SAN POLO D'ENZA,RE,"Grassano, San Polo d'Enza, RE","{'type': 'Point', 'coordinates': [10.451780000000042, 44.59165000000007]}","Grassano, SAN POLO D'ENZA, RE, Emilia Romagna",POINT
+Macigno,300,SAN POLO D'ENZA,RE,"Macigno, San Polo d'Enza, RE","{'type': 'Point', 'coordinates': [10.474200000000053, 44.597840000000076]}","Macigno, SAN POLO D'ENZA, RE, Emilia Romagna",POINT
+Montemoro,301,SAN POLO D'ENZA,RE,"Montemoro, San Polo d'Enza, RE","{'type': 'Point', 'coordinates': [10.477130000000045, 44.60781000000003]}","Montemoro, SAN POLO D'ENZA, RE, Emilia Romagna",POINT
+Vetto,302,SAN POLO D'ENZA,RE,"Via Vetto, 42020, San Polo d'Enza, RE","{'type': 'Point', 'coordinates': [10.465757717819796, 44.58326863364843]}","Vetto, SAN POLO D'ENZA, RE, Emilia Romagna",POINT
+Tutte Le Altre Zone,303,SAN POLO D'ENZA,RE,"San Polo d'Enza, RE","{'type': 'Point', 'coordinates': [10.432640000000049, 44.62653000000006]}","Tutte Le Altre Zone, SAN POLO D'ENZA, RE, Emilia Romagna",POINT
+Borsea,393,SAN POLO D'ENZA,RE,"Borsea, San Polo d'Enza, RE","{'type': 'Point', 'coordinates': [10.439510000000041, 44.60387000000003]}","Borsea, SAN POLO D'ENZA, RE, Emilia Romagna",POINT
+Caverzano,394,SAN POLO D'ENZA,RE,"San Polo d'Enza, RE","{'type': 'Point', 'coordinates': [10.432640000000049, 44.62653000000006]}","Caverzano, SAN POLO D'ENZA, RE, Emilia Romagna",POINT
+Madonna Della Battaglia,395,SAN POLO D'ENZA,RE,"San Polo d'Enza, RE","{'type': 'Point', 'coordinates': [10.432640000000049, 44.62653000000006]}","Madonna Della Battaglia, SAN POLO D'ENZA, RE, Emilia Romagna",POINT
+Pezzano,396,SAN POLO D'ENZA,RE,"Pezzano, San Polo d'Enza, RE","{'type': 'Point', 'coordinates': [10.431720000000041, 44.61441000000008]}","Pezzano, SAN POLO D'ENZA, RE, Emilia Romagna",POINT
+Pietre,397,SAN POLO D'ENZA,RE,"Pietre, San Polo d'Enza, RE","{'type': 'Point', 'coordinates': [10.451490000000035, 44.58834000000007]}","Pietre, SAN POLO D'ENZA, RE, Emilia Romagna",POINT
+Sedignano,398,SAN POLO D'ENZA,RE,"Sedignano, San Polo d'Enza, RE","{'type': 'Point', 'coordinates': [10.448170000000061, 44.60814000000005]}","Sandignano, SAN POLO D'ENZA, RE, Emilia Romagna",POINT
+Sant'Ilario D'Enza,304,SANT'ILARIO D'ENZA,RE,"Sant'Ilario d'Enza, RE","{'type': 'Point', 'coordinates': [10.447780000000023, 44.75992000000008]}","Sannt'Ilario D'Enza, SANT'ILARIO D'ENZA, RE, Emilia Romagna",POINT
+Cacciola,305,SCANDIANO,RE,"Cacciola, Scandiano, RE","{'type': 'Point', 'coordinates': [10.717290000000048, 44.633020000000045]}","Cacciola, SCANDIANO, RE, Emilia Romagna",POINT
+Chiozzino,308,SCANDIANO,RE,"Via Chizzino, 42019, Scandiano, RE","{'type': 'Point', 'coordinates': [10.711163856418134, 44.600464631044936]}","Chiozzino, SCANDIANO, RE, Emilia Romagna",POINT
+La Braglia,309,SCANDIANO,RE,"La Braglia, Scandiano, RE","{'type': 'Point', 'coordinates': [10.67357000000004, 44.55141000000003]}","La Braglia, SCANDIANO, RE, Emilia Romagna",POINT
+La Riva,310,SCANDIANO,RE,"La Riva, Scandiano, RE","{'type': 'Point', 'coordinates': [10.667620000000056, 44.541840000000036]}","La Riva, SCANDIANO, RE, Emilia Romagna",POINT
+Rondinara,311,SCANDIANO,RE,"Rondinara, Scandiano, RE","{'type': 'Point', 'coordinates': [10.651270000000068, 44.56251000000003]}","Rondinara, SCANDIANO, RE, Emilia Romagna",POINT
+Tutte Le Altre Zone,313,SCANDIANO,RE,"Scandiano, RE","{'type': 'Point', 'coordinates': [10.69387000000006, 44.60020000000003]}","Tutte Le Altre Zone, SCANDIANO, RE, Emilia Romagna",POINT
+Via Madonna Della Tosse,399,SCANDIANO,RE,"Via Madonna della Tosse, 42019, Scandiano, RE","{'type': 'Point', 'coordinates': [10.712500079668674, 44.602338210165655]}","Via Madonna Della Tosse, SCANDIANO, RE, Emilia Romagna",POINT
+Cerreto Laghi E Cerreto Passo,403,VENTASSO,RE,"Cerreto Laghi, Ventasso, RE","{'type': 'Point', 'coordinates': [10.243190000000027, 44.29797000000008]}","Cerreto Laghi E Cerreto Passo, VENTASSO, RE, Emilia Romagna",POINT
+Ramiseto Centro,404,VENTASSO,RE,"Ramiseto, Ventasso, RE","{'type': 'Point', 'coordinates': [10.270220000000052, 44.41414000000003]}","Ramiseto Centro, VENTASSO, RE, Emilia Romagna",POINT
+Valbona,405,VENTASSO,RE,"Valbona, Ventasso, RE","{'type': 'Point', 'coordinates': [10.247880000000066, 44.35191000000003]}","Valbona, VENTASSO, RE, Emilia Romagna",POINT
+Vallisnera Sopra,406,VENTASSO,RE,"Vallisnera, Ventasso, RE","{'type': 'Point', 'coordinates': [10.269400000000076, 44.36101000000008]}","Vallisnera Sanpra, VENTASSO, RE, Emilia Romagna",POINT
+Ligonchio E Ospitaletto,407,VENTASSO,RE,"Ospitaletto, Ventasso, RE","{'type': 'Point', 'coordinates': [10.316530000000057, 44.29852000000005]}","Ligonchio E Ospitaletto, VENTASSO, RE, Emilia Romagna",POINT
+Montecagno,408,VENTASSO,RE,"Montecagno, Ventasso, RE","{'type': 'Point', 'coordinates': [10.36641000000003, 44.33212000000003]}","Montecagno, VENTASSO, RE, Emilia Romagna",POINT
+Piolo,409,VENTASSO,RE,"Piolo, Ventasso, RE","{'type': 'Point', 'coordinates': [10.35525000000007, 44.330760000000055]}","Piolo, VENTASSO, RE, Emilia Romagna",POINT
+"Casalino, C&Agrave; Bracchi",410,VENTASSO,RE,"Ca' Bracchi, Ventasso, RE","{'type': 'Point', 'coordinates': [10.35895000000005, 44.32367000000005]}","Casalino, C&Agrave; Bracchi, VENTASSO, RE, Emilia Romagna",POINT
+"Cerreto Alpi , Ponte Barone, Vaccareccia",411,VENTASSO,RE,"Ventasso, RE","{'type': 'Point', 'coordinates': [10.319260000000043, 44.36949000000004]}","Cerreto Alpi , Ponte Barone, Vaccareccia, VENTASSO, RE, Emilia Romagna",POINT
+Collagna Centro,412,VENTASSO,RE,"Collagna, Ventasso, RE","{'type': 'Point', 'coordinates': [10.275480000000073, 44.347410000000025]}","Collagna Centro, VENTASSO, RE, Emilia Romagna",POINT
+Vallisnera Sotto,413,VENTASSO,RE,"Vallisnera, Ventasso, RE","{'type': 'Point', 'coordinates': [10.269400000000076, 44.36101000000008]}","Vallisnera Santto, VENTASSO, RE, Emilia Romagna",POINT
+Camporella,414,VENTASSO,RE,"Camporella, Ventasso, RE","{'type': 'Point', 'coordinates': [10.235290000000077, 44.420990000000074]}","Camporella, VENTASSO, RE, Emilia Romagna",POINT
+Castagneto,415,VENTASSO,RE,"Castagneto, Ventasso, RE","{'type': 'Point', 'coordinates': [10.23911000000004, 44.408300000000054]}","Castagneto, VENTASSO, RE, Emilia Romagna",POINT
+Montedello,416,VENTASSO,RE,"Montedello, Ventasso, RE","{'type': 'Point', 'coordinates': [10.230870000000039, 44.41513000000003]}","Montedello, VENTASSO, RE, Emilia Romagna",POINT
+Storlo,417,VENTASSO,RE,"Ventasso, RE","{'type': 'Point', 'coordinates': [10.319260000000043, 44.36949000000004]}","Sanorlo, VENTASSO, RE, Emilia Romagna",POINT
+"Casalobbio, Cereggio, Gazzolo, Le Tegge, Nigone, Taviano, Temporia",418,VENTASSO,RE,"Temporia, Ventasso, RE","{'type': 'Point', 'coordinates': [10.281220000000076, 44.449370000000044]}","Casalobbio, Cereggio, Gazzolo, Le Tegge, Nigone, Taviano, Temporia, VENTASSO, RE, Emilia Romagna",POINT
+"Cecciola, Succiso, Varvilla",419,VENTASSO,RE,"Ventasso, RE","{'type': 'Point', 'coordinates': [10.319260000000043, 44.36949000000004]}","Cecciola, Sancciso, Varvilla, VENTASSO, RE, Emilia Romagna",POINT
+La Costa,420,VENTASSO,RE,"Via La Costa, 42032, Ventasso, RE","{'type': 'Point', 'coordinates': [10.354851175843143, 44.336213648313745]}","La Costa, VENTASSO, RE, Emilia Romagna",POINT
+Poviglio Nuovo,421,VENTASSO,RE,"Poviglio, Ventasso, RE","{'type': 'Point', 'coordinates': [10.235430000000065, 44.38382000000007]}","Poviglio Nuovo, VENTASSO, RE, Emilia Romagna",POINT
+Ventasso Laghi,422,VENTASSO,RE,"Ventasso, RE","{'type': 'Point', 'coordinates': [10.319260000000043, 44.36949000000004]}","Ventasso Laghi, VENTASSO, RE, Emilia Romagna",POINT
+"Costa Di Piolo, Piazza Di Piolo",423,VENTASSO,RE,"Piolo, Ventasso, RE","{'type': 'Point', 'coordinates': [10.35525000000007, 44.330760000000055]}","Costa Di Piolo, Piazza Di Piolo, VENTASSO, RE, Emilia Romagna",POINT
+Loggia,424,VENTASSO,RE,"Loggia, Ventasso, RE","{'type': 'Point', 'coordinates': [10.355720000000076, 44.32503000000003]}","Loggia, VENTASSO, RE, Emilia Romagna",POINT
+Campo,425,VENTASSO,RE,"Campo, Ventasso, RE","{'type': 'Point', 'coordinates': [10.319920000000025, 44.35465000000005]}","Campo, VENTASSO, RE, Emilia Romagna",POINT
+Caprile,426,VENTASSO,RE,"Caprile, Ventasso, RE","{'type': 'Point', 'coordinates': [10.335830000000044, 44.33513000000005]}","Caprile, VENTASSO, RE, Emilia Romagna",POINT
+Casenove,427,VENTASSO,RE,"Ventasso, RE","{'type': 'Point', 'coordinates': [10.319260000000043, 44.36949000000004]}","Casenove, VENTASSO, RE, Emilia Romagna",POINT
+Cinquecerri,428,VENTASSO,RE,"Cinquecerri, Ventasso, RE","{'type': 'Point', 'coordinates': [10.330080000000066, 44.349860000000035]}","Cinquecerri, VENTASSO, RE, Emilia Romagna",POINT
+Giarola,429,VENTASSO,RE,"Giarola, Ventasso, RE","{'type': 'Point', 'coordinates': [10.313570000000027, 44.35333000000003]}","Giarola, VENTASSO, RE, Emilia Romagna",POINT
+Le Vaglie,430,VENTASSO,RE,"Le Vaglie, Ventasso, RE","{'type': 'Point', 'coordinates': [10.316400000000044, 44.32134000000008]}","Le Vaglie, VENTASSO, RE, Emilia Romagna",POINT
+"Campeggio, Tavernetta E Hotel Hilton",431,VENTASSO,RE,"Ventasso, RE","{'type': 'Point', 'coordinates': [10.319260000000043, 44.36949000000004]}","Campeggio, Tavernetta E Hotel Hilton, VENTASSO, RE, Emilia Romagna",POINT
+"Cervarezza, Frassinedolo, Case Ferrari, Casale",432,VENTASSO,RE,"Frassinedolo, Ventasso, RE","{'type': 'Point', 'coordinates': [10.347700000000032, 44.397020000000055]}","Cervarezza, Frassinedolo, Case Ferrari, Casale, VENTASSO, RE, Emilia Romagna",POINT
+Vetto D'Enza,315,VETTO,RE,"Vetto, RE","{'type': 'Point', 'coordinates': [10.335960000000057, 44.48375000000004]}","Vetto D'Enza, VETTO, RE, Emilia Romagna",POINT
+Vezzano Sul Crostolo Tutto Il Territorio,317,VEZZANO SUL CROSTOLO,RE,"Vezzano sul Crostolo, RE","{'type': 'Point', 'coordinates': [10.546160000000043, 44.60095000000007]}","Vezzano Sanl Crostolo Tutto Il Territorio, VEZZANO SUL CROSTOLO, RE, Emilia Romagna",POINT
+Viano,319,VIANO,RE,"Viano, RE","{'type': 'Point', 'coordinates': [10.622490000000028, 44.54499000000004]}","Viano, VIANO, RE, Emilia Romagna",POINT
+Zone Al Confine Di Cerro Di Rondinara,400,VIANO,RE,"Il Cerro, Viano, RE","{'type': 'Point', 'coordinates': [10.648510000000044, 44.55803000000003]}","Zone Al Confine Di Cerro Di Rondinara, VIANO, RE, Emilia Romagna",POINT
+Asta,320,VILLA MINOZZO,RE,"Villa Minozzo, RE","{'type': 'Point', 'coordinates': [10.466020000000071, 44.36710000000005]}","Asta, VILLA MINOZZO, RE, Emilia Romagna",POINT
+Bedogno,321,VILLA MINOZZO,RE,"Bedogno, Villa Minozzo, RE","{'type': 'Point', 'coordinates': [10.467900000000043, 44.35767000000004]}","Bedogno, VILLA MINOZZO, RE, Emilia Romagna",POINT
+Braglie,322,VILLA MINOZZO,RE,"Braglie, Villa Minozzo, RE","{'type': 'Point', 'coordinates': [10.38014000000004, 44.36656000000005]}","Braglie, VILLA MINOZZO, RE, Emilia Romagna",POINT
+Bruciata,323,VILLA MINOZZO,RE,"Villa Minozzo, RE","{'type': 'Point', 'coordinates': [10.466020000000071, 44.36710000000005]}","Bruciata, VILLA MINOZZO, RE, Emilia Romagna",POINT
+Budriotto,324,VILLA MINOZZO,RE,"Via Budriotto, 42030, Villa Minozzo, RE","{'type': 'Point', 'coordinates': [10.375234953053488, 44.374239466236155]}","Budriotto, VILLA MINOZZO, RE, Emilia Romagna",POINT
+CÀ Dell'Onesta,325,VILLA MINOZZO,RE,"Ca' dell'Onestà, Villa Minozzo, RE","{'type': 'Point', 'coordinates': [10.50705000000005, 44.334460000000036]}","CÀ Dell'Onesta, VILLA MINOZZO, RE, Emilia Romagna",POINT
+Calvello,327,VILLA MINOZZO,RE,"Via Calvello, 42030, Villa Minozzo, RE","{'type': 'Point', 'coordinates': [10.508197212777196, 44.32447667697035]}","Calvello, VILLA MINOZZO, RE, Emilia Romagna",POINT
+Campolungo,328,VILLA MINOZZO,RE,"Campolungo, Villa Minozzo, RE","{'type': 'Point', 'coordinates': [10.512150000000076, 44.328320000000076]}","Campolungo, VILLA MINOZZO, RE, Emilia Romagna",POINT
+Campomagnano,329,VILLA MINOZZO,RE,"Campomagnano, Villa Minozzo, RE","{'type': 'Point', 'coordinates': [10.504890000000046, 44.32056000000006]}","Campomagnano, VILLA MINOZZO, RE, Emilia Romagna",POINT
+Carniana,330,VILLA MINOZZO,RE,"Carniana, Villa Minozzo, RE","{'type': 'Point', 'coordinates': [10.46646000000004, 44.38868000000008]}","Carniana, VILLA MINOZZO, RE, Emilia Romagna",POINT
+CarÙ,331,VILLA MINOZZO,RE,"Carù, Villa Minozzo, RE","{'type': 'Point', 'coordinates': [10.376310000000046, 44.36430000000007]}","CarÙ, VILLA MINOZZO, RE, Emilia Romagna",POINT
+Case Bagatti,332,VILLA MINOZZO,RE,"Case Bagatti, Villa Minozzo, RE","{'type': 'Point', 'coordinates': [10.45524000000006, 44.29857000000004]}","Case Bagatti, VILLA MINOZZO, RE, Emilia Romagna",POINT
+Case Balocchi,333,VILLA MINOZZO,RE,"Case Balocchi, Villa Minozzo, RE","{'type': 'Point', 'coordinates': [10.45649000000003, 44.295840000000055]}","Case Balocchi, VILLA MINOZZO, RE, Emilia Romagna",POINT
+Case Bondi,334,VILLA MINOZZO,RE,"Case Bondi, Villa Minozzo, RE","{'type': 'Point', 'coordinates': [10.505520000000047, 44.32871000000006]}","Case Bondi, VILLA MINOZZO, RE, Emilia Romagna",POINT
+Case Rossi,335,VILLA MINOZZO,RE,"Via Case Rossi, 42030, Villa Minozzo, RE","{'type': 'Point', 'coordinates': [10.510318890983271, 44.31293573255231]}","Case Rossi, VILLA MINOZZO, RE, Emilia Romagna",POINT
+Case Stantini,336,VILLA MINOZZO,RE,"Case Stantini, Villa Minozzo, RE","{'type': 'Point', 'coordinates': [10.443560000000048, 44.30675000000008]}","Case Sanantini, VILLA MINOZZO, RE, Emilia Romagna",POINT
+Castellaro,337,VILLA MINOZZO,RE,"Castellaro, Villa Minozzo, RE","{'type': 'Point', 'coordinates': [10.368160000000046, 44.370040000000074]}","Castellaro, VILLA MINOZZO, RE, Emilia Romagna",POINT
+Castiglione,338,VILLA MINOZZO,RE,"Castiglione, Villa Minozzo, RE","{'type': 'Point', 'coordinates': [10.461140000000057, 44.30639000000008]}","Castiglione, VILLA MINOZZO, RE, Emilia Romagna",POINT
+CerrÈ Sologno,339,VILLA MINOZZO,RE,"Villa Minozzo, RE","{'type': 'Point', 'coordinates': [10.466020000000071, 44.36710000000005]}","CerrÈ Sanlogno, VILLA MINOZZO, RE, Emilia Romagna",POINT
+Costabona,340,VILLA MINOZZO,RE,"Costabona, Villa Minozzo, RE","{'type': 'Point', 'coordinates': [10.49243000000007, 44.34944000000007]}","Costabona, VILLA MINOZZO, RE, Emilia Romagna",POINT
+Costalta,341,VILLA MINOZZO,RE,"Costalta, Villa Minozzo, RE","{'type': 'Point', 'coordinates': [10.499310000000037, 44.29401000000007]}","Costalta, VILLA MINOZZO, RE, Emilia Romagna",POINT
+Deusi,342,VILLA MINOZZO,RE,"Deusi, Villa Minozzo, RE","{'type': 'Point', 'coordinates': [10.471070000000054, 44.320190000000025]}","Deusi, VILLA MINOZZO, RE, Emilia Romagna",POINT
+Gacciola,343,VILLA MINOZZO,RE,"Gacciola, Villa Minozzo, RE","{'type': 'Point', 'coordinates': [10.374370000000056, 44.37152000000003]}","Gacciola, VILLA MINOZZO, RE, Emilia Romagna",POINT
+Garfagno,344,VILLA MINOZZO,RE,"Garfagno, Villa Minozzo, RE","{'type': 'Point', 'coordinates': [10.417890000000057, 44.35644000000008]}","Garfagno, VILLA MINOZZO, RE, Emilia Romagna",POINT
+Gova,345,VILLA MINOZZO,RE,"Gova, Villa Minozzo, RE","{'type': 'Point', 'coordinates': [10.514140000000054, 44.335480000000075]}","Gova, VILLA MINOZZO, RE, Emilia Romagna",POINT
+Governara,346,VILLA MINOZZO,RE,"Governara, Villa Minozzo, RE","{'type': 'Point', 'coordinates': [10.463950000000068, 44.30956000000003]}","Governara, VILLA MINOZZO, RE, Emilia Romagna",POINT
+Landibasi,347,VILLA MINOZZO,RE,"Villa Minozzo, RE","{'type': 'Point', 'coordinates': [10.466020000000071, 44.36710000000005]}","Landibasi, VILLA MINOZZO, RE, Emilia Romagna",POINT
+Le Bore,348,VILLA MINOZZO,RE,"Le Bore, Villa Minozzo, RE","{'type': 'Point', 'coordinates': [10.507560000000069, 44.31671000000006]}","Le Bore, VILLA MINOZZO, RE, Emilia Romagna",POINT
+Minozzo,349,VILLA MINOZZO,RE,"Minozzo, Villa Minozzo, RE","{'type': 'Point', 'coordinates': [10.433680000000038, 44.357290000000035]}","Minozzo, VILLA MINOZZO, RE, Emilia Romagna",POINT
+Montefelecchio,350,VILLA MINOZZO,RE,"Monte Felecchio, Villa Minozzo, RE","{'type': 'Point', 'coordinates': [10.44124000000005, 44.35573000000005]}","Montefelecchio, VILLA MINOZZO, RE, Emilia Romagna",POINT
+Morsiano,351,VILLA MINOZZO,RE,"Morsiano, Villa Minozzo, RE","{'type': 'Point', 'coordinates': [10.506570000000067, 44.304940000000045]}","Morsiano, VILLA MINOZZO, RE, Emilia Romagna",POINT
+Novellano,352,VILLA MINOZZO,RE,"Novellano, Villa Minozzo, RE","{'type': 'Point', 'coordinates': [10.483020000000067, 44.303450000000055]}","Novellano, VILLA MINOZZO, RE, Emilia Romagna",POINT
+Pigazzo,353,VILLA MINOZZO,RE,"Villa Minozzo, RE","{'type': 'Point', 'coordinates': [10.466020000000071, 44.36710000000005]}","Pigazzo, VILLA MINOZZO, RE, Emilia Romagna",POINT
+Poiano,354,VILLA MINOZZO,RE,"Poiano, Villa Minozzo, RE","{'type': 'Point', 'coordinates': [10.435110000000066, 44.38250000000005]}","Poiano, VILLA MINOZZO, RE, Emilia Romagna",POINT
+Primaore,355,VILLA MINOZZO,RE,"Primaore, Villa Minozzo, RE","{'type': 'Point', 'coordinates': [10.349080000000072, 44.35269000000005]}","Primaore, VILLA MINOZZO, RE, Emilia Romagna",POINT
+Razzolo,356,VILLA MINOZZO,RE,"Via Razzolo, 42030, Villa Minozzo, RE","{'type': 'Point', 'coordinates': [10.454710500000015, 44.37544503145912]}","Razzolo, VILLA MINOZZO, RE, Emilia Romagna",POINT
+Rescadore,357,VILLA MINOZZO,RE,"Via Rescadore, 42030, Villa Minozzo, RE","{'type': 'Point', 'coordinates': [10.429367094936639, 44.300444598052636]}","Rescadore, VILLA MINOZZO, RE, Emilia Romagna",POINT
+Roncolo,358,VILLA MINOZZO,RE,"Villa Minozzo, RE","{'type': 'Point', 'coordinates': [10.466020000000071, 44.36710000000005]}","Roncolo, VILLA MINOZZO, RE, Emilia Romagna",POINT
+Roncomezzano,359,VILLA MINOZZO,RE,"Via Roncomezzano, 42030, Villa Minozzo, RE","{'type': 'Point', 'coordinates': [10.478662518449365, 44.29506575253165]}","Roncomezzano, VILLA MINOZZO, RE, Emilia Romagna",POINT
+Roncopianigi,360,VILLA MINOZZO,RE,"Ronco Pianigi, Villa Minozzo, RE","{'type': 'Point', 'coordinates': [10.424390000000074, 44.30892000000006]}","Roncopianigi, VILLA MINOZZO, RE, Emilia Romagna",POINT
+S. Rocco,361,VILLA MINOZZO,RE,"Villa Minozzo, RE","{'type': 'Point', 'coordinates': [10.466020000000071, 44.36710000000005]}","San Rocco, VILLA MINOZZO, RE, Emilia Romagna",POINT
+Sassatello,362,VILLA MINOZZO,RE,"Sassatello, Villa Minozzo, RE","{'type': 'Point', 'coordinates': [10.485510000000033, 44.36076000000003]}","Sanssatello, VILLA MINOZZO, RE, Emilia Romagna",POINT
+Secchio,363,VILLA MINOZZO,RE,"Villa Minozzo, RE","{'type': 'Point', 'coordinates': [10.466020000000071, 44.36710000000005]}","Sancchio, VILLA MINOZZO, RE, Emilia Romagna",POINT
+Segalare,364,VILLA MINOZZO,RE,"Villa Minozzo, RE","{'type': 'Point', 'coordinates': [10.466020000000071, 44.36710000000005]}","Sangalare, VILLA MINOZZO, RE, Emilia Romagna",POINT
+Sonareto,365,VILLA MINOZZO,RE,"Sonareto, Villa Minozzo, RE","{'type': 'Point', 'coordinates': [10.455610000000036, 44.38264000000004]}","Sannareto, VILLA MINOZZO, RE, Emilia Romagna",POINT
+Strinati,366,VILLA MINOZZO,RE,"Strinati, Villa Minozzo, RE","{'type': 'Point', 'coordinates': [10.50040000000007, 44.31311000000005]}","Sanrinati, VILLA MINOZZO, RE, Emilia Romagna",POINT
+Triglia,367,VILLA MINOZZO,RE,"Triglia, Villa Minozzo, RE","{'type': 'Point', 'coordinates': [10.42766000000006, 44.35630000000003]}","Triglia, VILLA MINOZZO, RE, Emilia Romagna",POINT
+Villa Minozzo,368,VILLA MINOZZO,RE,"Villa Minozzo, RE","{'type': 'Point', 'coordinates': [10.466020000000071, 44.36710000000005]}","Villa Minozzo, VILLA MINOZZO, RE, Emilia Romagna",POINT

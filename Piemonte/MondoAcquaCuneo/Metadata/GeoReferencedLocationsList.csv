@@ -1,0 +1,9 @@
+alias_address,alias_city,geocode,geometry,georeferencingString,type
+Comune,BENE VAGIENNA,"Bene Vagienna, CN","{'type': 'Point', 'coordinates': [7.831400000000031, 44.54352000000006]}","BENE VAGIENNA, CN, Piemonte",POINT
+Comune,BENE VAGIENNA,"Bene Vagienna, CN","{'type': 'Point', 'coordinates': [7.831400000000031, 44.54352000000006]}","BENE VAGIENNA, CN, Piemonte",POINT
+Comune,BRIAGLIA,"Briaglia, CN","{'type': 'Point', 'coordinates': [7.875360000000057, 44.39857000000006]}","BRIAGLIA, CN, Piemonte",POINT
+Comune,FRABOSA SOPRANA,"Frabosa Soprana, CN","{'type': 'Point', 'coordinates': [7.805720000000065, 44.28888000000006]}","FRABOSA SOPRANA, CN, Piemonte",POINT
+Comune,MONDOVÌ,"Mondovì, CN","{'type': 'Point', 'coordinates': [7.8203300000000695, 44.38897000000003]}","MONDOVÌ, CN, Piemonte",POINT
+Comune,ROCCAFORTE MONDOVì,"Roccaforte Mondovì, CN","{'type': 'Point', 'coordinates': [7.743630000000053, 44.31926000000004]}","ROCCAFORTE MONDOVì, CN, Piemonte",POINT
+Comune,S. MICHELE MONDOVì,"San Michele Mondovì, CN","{'type': 'Point', 'coordinates': [7.911740000000066, 44.37724000000003]}","S. MICHELE MONDOVì, CN, Piemonte",POINT
+Comune,VICOFORTE,"Vicoforte, CN","{'type': 'Point', 'coordinates': [7.858970000000056, 44.37326000000007]}","VICOFORTE, CN, Piemonte",POINT

@@ -6,7 +6,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import Select
 import logging,pandas as pd
 import acqua.aqueduct as aq
-gestore = "IrenPiemonte"
+gestore = "IrenLiguria"
 aq.setEnv('Liguria//'+gestore)
 url = 'https://serviziweb.gruppoiren.it/QualitaAcqua/custom/VisualizzaAnalisi.aspx?codiceRegione=07'
 options = webdriver.ChromeOptions()

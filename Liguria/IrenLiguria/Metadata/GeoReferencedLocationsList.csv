@@ -1,4 +1,5 @@
 alias_address,alias_city,alias_province,geocode,geometry,georeferencingString,type
+Santa Margherita,SANTA MARGHERITA LIGURE,GE,"Santa Margherita Ligure, GE","{'type': 'Point', 'coordinates': [9.215170000000057, 44.33580000000006]}","Santa Margherita Ligure, GE, Liguria",POINT
 Arenzano,ARENZANO,GE,"Arenzano, GE","{'type': 'Point', 'coordinates': [8.686360000000036, 44.404310000000066]}","Arenzano, GE, Liguria",POINT
 Avegno,AVEGNO,GE,"Avegno, GE","{'type': 'Point', 'coordinates': [9.159550000000024, 44.38271000000003]}","Avegno, GE, Liguria",POINT
 Bargagli,BARGAGLI,GE,"Bargagli, GE","{'type': 'Point', 'coordinates': [9.086950000000058, 44.449970000000064]}","Bargagli, GE, Liguria",POINT
@@ -47,7 +48,6 @@ Rondanina,RONDANINA,GE,"Rondanina, GE","{'type': 'Point', 'coordinates': [9.2177
 Rossiglione,ROSSIGLIONE,GE,"Rossiglione, GE","{'type': 'Point', 'coordinates': [8.665320000000065, 44.565990000000056]}","Rossiglione, GE, Liguria",POINT
 Rovegno,ROVEGNO,GE,"Rovegno, GE","{'type': 'Point', 'coordinates': [9.278590000000065, 44.576730000000055]}","Rovegno, GE, Liguria",POINT
 San Colombano Certenoli,SAN COLOMBANO CERTENOLI,GE,"San Colombano Certenoli, GE","{'type': 'Point', 'coordinates': [9.31176000000005, 44.37172000000004]}","San Colombano Certenoli, GE, Liguria",POINT
-Santa Margherita,SANTA MARGHERITA LIGURE,GE,"Piazza Santa Margherita, 16010, Sant'Olcese, GE","{'type': 'Point', 'coordinates': [8.945975249999993, 44.47034549999999]}","Santa Margherita, GE, Liguria",POINT
 Santo Stefano D'Aveto,SANTO STEFANO D'AVETO,GE,"Santo Stefano d'Aveto, GE","{'type': 'Point', 'coordinates': [9.451520000000073, 44.54576000000003]}","Santo Stefano D'Aveto, GE, Liguria",POINT
 Sant'Olcese,SANT'OLCESE,GE,"Sant'Olcese, GE","{'type': 'Point', 'coordinates': [8.96933000000007, 44.491070000000036]}","Sant'Olcese, GE, Liguria",POINT
 Savignone,SAVIGNONE,GE,"Savignone, GE","{'type': 'Point', 'coordinates': [8.989900000000034, 44.56412000000006]}","Savignone, GE, Liguria",POINT

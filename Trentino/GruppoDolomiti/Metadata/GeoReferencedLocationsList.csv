@@ -1,0 +1,80 @@
+alias_address,alias_city,geocode,geometry,georeferencingString,type
+Arco - Rete 2 - Utenza scuola materna,Arco,"Viale dei Capitelli 16, 38062, Arco, TN","{'type': 'Point', 'coordinates': [10.8799366398917, 45.919216360108315]}","Via Capitelli, 16, 38062 Arco TN",POINT
+Arco - Frazione - Velo,Arco,"Via Monte Velo, 38060, Ronzo-Chienis, TN","{'type': 'Point', 'coordinates': [10.939034797318769, 45.89671206079112]}",Via Monte Velo 38060 Arco TN,POINT
+Arco - Rete1,Arco,"Arco, TN","{'type': 'Point', 'coordinates': [10.88599000000005, 45.917940000000044]}","Arco, TN",POINT
+Arco - Rete 2,Arco,"Arco, TN","{'type': 'Point', 'coordinates': [10.88599000000005, 45.917940000000044]}","Arco, TN",POINT
+Arco - Rete 3 - Bolognano,Arco,"Bolognano-Vignole, Arco, TN","{'type': 'Point', 'coordinates': [10.903080000000045, 45.91321000000005]}","Bolognano, Arco, TN",POINT
+Arco - Rete 3 - Massone,Arco,"Località Massone, 38062, Arco, TN","{'type': 'Point', 'coordinates': [10.900134055276252, 45.92435754946173]}","Massone, Arco, TN",POINT
+Arco - Frazione - Marcarie/San Giovanni,Arco,"Località San Giovanni, 38062, Arco, TN","{'type': 'Point', 'coordinates': [10.886337229997073, 45.97281591899913]}","San Giovanni Arco, TN",POINT
+Ala - Marani,Ala,"Località Marani, 38061, Ala, TN","{'type': 'Point', 'coordinates': [11.014942754348347, 45.779088412605745]}","Marani, Ala, TN",POINT
+Rovereto - Lizzana Alta,Rovereto,"Località Lizzana, 38068, Rovereto, TN","{'type': 'Point', 'coordinates': [11.028459443465046, 45.86383924937039]}","Lizzana Alta, Rovereto, TN",POINT
+Trento - Centro,Trento,"Trento, TN","{'type': 'Point', 'coordinates': [11.119260000000054, 46.07005000000004]}","Trento, TN",POINT
+Volano - Rete Alta,Volano,"Volano, TN","{'type': 'Point', 'coordinates': [11.063570000000027, 45.91782000000006]}","Volano, TN",POINT
+Ala,Ala,"Ala, TN","{'type': 'Point', 'coordinates': [11.000110000000063, 45.757690000000025]}","Ala, TN",POINT
+Ala - Chizzola,Ala,"Chizzola, Ala, TN","{'type': 'Point', 'coordinates': [11.008620000000064, 45.80945000000003]}","Ala - Chizzola, TN",POINT
+Ala - Muravalle,Ala,"Muravalle, 38061, Ala, Trento","{'type': 'Point', 'coordinates': [11.039466755743014, 45.74792698081624]}","Ala - Muravalle, TN",POINT
+Ala - Pilcante,Ala,"Pilcante, Ala, TN","{'type': 'Point', 'coordinates': [11.001590000000022, 45.76807000000008]}","Ala - Pilcante, TN",POINT
+Ala - Ronchi,Ala,"Ronchi, Ala, TN","{'type': 'Point', 'coordinates': [11.065620000000024, 45.73899000000006]}","Ala - Ronchi, TN",POINT
+Ala - Santa Cecilia,Ala,"Via Santa Cecilia, 38061, Ala, Trento","{'type': 'Point', 'coordinates': [10.997963911973327, 45.82243722907464]}","Ala - Santa Cecilia, TN",POINT
+Ala - Santa Margherita,Ala,"Santa Margherita, Ala, TN","{'type': 'Point', 'coordinates': [11.024940000000072, 45.79734000000008]}","Ala - Santa Margherita, TN",POINT
+Ala - Sdruzzinà,Ala,"Viadotto Sdruzzina, 38061, Ala, Trento","{'type': 'Point', 'coordinates': [10.988264912726612, 45.75060414818105]}","Ala - Sdruzzinà, TN",POINT
+Ala - Serravalle,Ala,"Viadotto Serravalle, 38061, Ala, Trento","{'type': 'Point', 'coordinates': [11.00416250700325, 45.82311820073871]}","Ala - Serravalle, TN",POINT
+Ala Sega (Boldera),Ala Sega (Boldera),"Sega di Ala, Ala, TN","{'type': 'Point', 'coordinates': [10.975490000000036, 45.69584000000003]}","Ala Sega (Boldera), TN",POINT
+Aldeno,Aldeno,"Aldeno, TN","{'type': 'Point', 'coordinates': [11.091160000000059, 45.97690000000006]}","Aldeno, TN",POINT
+Arco - Frazione - Linfano,Arco,"Via Linfano, 38062, Arco, Trento","{'type': 'Point', 'coordinates': [10.88162155961941, 45.89477429289321]}","Arco - Frazione - Linfano, TN",POINT
+Arco - Frazione - Padaro,Arco,"Padaro, Arco, Trento","{'type': 'Point', 'coordinates': [10.870270000000062, 45.93243000000007]}","Arco - Frazione - Padaro, TN",POINT
+Arco - Frazione - Pratosaiano,Arco,"Località Prato Saiano, 38062, Arco, Trento","{'type': 'Point', 'coordinates': [10.888513133408958, 45.904358484523335]}","Arco - Frazione - Pratosaiano, TN",POINT
+Arco - Rete 1 - Varignano,Arco,"Varignano, Arco, Trento","{'type': 'Point', 'coordinates': [10.858270000000061, 45.92049000000003]}","Arco - Rete 1 - Varignano, TN",POINT
+Calliano,Calliano,"Calliano, TN","{'type': 'Point', 'coordinates': [11.095940000000041, 45.934480000000065]}","Calliano, TN",POINT
+Civezzano,Civezzano,"Civezzano, TN","{'type': 'Point', 'coordinates': [11.182360000000074, 46.088520000000074]}","Civezzano, TN",POINT
+Civezzano - Bosco,Civezzano,"Bosco, Civezzano, TN","{'type': 'Point', 'coordinates': [11.17390000000006, 46.11321000000004]}","Civezzano - Bosco, TN",POINT
+Civezzano - S.Agnese,Civezzano,"Via di Sant'Agnese, 38045, Civezzano, Trento","{'type': 'Point', 'coordinates': [11.183667096426634, 46.10772913247039]}","Civezzano - S.Agnese, TN",POINT
+Civezzano - Torchio,Civezzano,"Torchio, Civezzano, TN","{'type': 'Point', 'coordinates': [11.198230000000024, 46.09202000000005]}","Civezzano - Torchio, TN",POINT
+Fornace,Fornace,"Fornace, TN","{'type': 'Point', 'coordinates': [11.209300000000042, 46.11809000000005]}","Fornace, TN",POINT
+Mori,Mori,"Mori, TN","{'type': 'Point', 'coordinates': [10.979070000000036, 45.85174000000006]}","Mori, TN",POINT
+Mori - Loppio,Mori,"Loppio, Mori, TN","{'type': 'Point', 'coordinates': [10.927940000000035, 45.85602000000006]}","Mori - Loppio, TN",POINT
+Mori - Manzano,Mori,"Manzano, Mori, TN","{'type': 'Point', 'coordinates': [10.952170000000024, 45.86566000000005]}","Mori - Manzano, TN",POINT
+Mori - Nomesino,Mori,"Nomesino, Mori, TN","{'type': 'Point', 'coordinates': [10.962320000000034, 45.865440000000035]}","Mori - Nomesino, TN",POINT
+Mori - Tierno,Mori,"Tierno, Mori, TN","{'type': 'Point', 'coordinates': [10.979610000000037, 45.84622000000007]}","Mori - Tierno, TN",POINT
+Mori - Valle San Felice,Mori,"Valle San Felice Mori, Mori, TN","{'type': 'Point', 'coordinates': [10.936750000000075, 45.86967000000004]}","Mori - Valle San Felice, TN",POINT
+Mori Vecio (Giovo),Mori Vecio (Giovo),"Giovo, TN","{'type': 'Point', 'coordinates': [11.151520000000062, 46.15733000000006]}","Mori Vecio (Giovo), TN",POINT
+Nomi,Nomi,"Nomi, TN","{'type': 'Point', 'coordinates': [11.070070000000044, 45.92919000000006]}","Nomi, TN",POINT
+Rovereto - Borgo Sacco,Rovereto,"Rovereto, TN","{'type': 'Point', 'coordinates': [11.043310000000076, 45.88713000000007]}","Rovereto - Borgo Sacco, TN",POINT
+Rovereto - Centro,Rovereto,Rovereto Centro,"{'type': 'Point', 'coordinates': [11.036100000000033, 45.89339000000007]}","Rovereto - Centro, TN",POINT
+Rovereto - Marco,Rovereto,"Marco, Rovereto, TN","{'type': 'Point', 'coordinates': [11.007940000000076, 45.843210000000056]}","Rovereto - Marco, TN",POINT
+Rovereto - Moietto,Rovereto,"Località Moietto, 38068, Rovereto, Trento","{'type': 'Point', 'coordinates': [11.082485553843695, 45.888205112044766]}","Rovereto - Moietto, TN",POINT
+Rovereto - Noriglio,Rovereto,"Noriglio, Rovereto, TN","{'type': 'Point', 'coordinates': [11.063740000000053, 45.88692000000003]}","Rovereto - Noriglio, TN",POINT
+Rovereto - Noriglio Bassa,Rovereto,"Noriglio, Rovereto, Trento","{'type': 'Point', 'coordinates': [11.063740000000053, 45.88692000000003]}","Rovereto - Noriglio Bassa, TN",POINT
+Trento - Baselga del Bondone,Trento,"Baselga del Bondone, Trento, TN","{'type': 'Point', 'coordinates': [11.045210000000054, 46.07710000000003]}","Trento - Baselga del Bondone, TN",POINT
+Trento - Cadine,Trento,"Cadine, Trento, TN","{'type': 'Point', 'coordinates': [11.063330000000065, 46.08662000000004]}","Trento - Cadine, TN",POINT
+Trento - Candriai,Trento,"Candriai, Trento, TN","{'type': 'Point', 'coordinates': [11.082350000000076, 46.06361000000004]}","Trento - Candriai, TN",POINT
+Trento - Cognola,Trento,"Cognola, Trento, TN","{'type': 'Point', 'coordinates': [11.140070000000037, 46.07662000000005]}","Trento - Cognola, TN",POINT
+Trento - Cortesano,Trento,"Cortesano, Trento, TN","{'type': 'Point', 'coordinates': [11.13393000000002, 46.12426000000005]}","Trento - Cortesano, TN",POINT
+Trento - Gardolo di Mezzo,Trento,"Gardolo di Mezzo, Trento, TN","{'type': 'Point', 'coordinates': [11.117040000000031, 46.11584000000005]}","Trento - Gardolo di Mezzo, TN",POINT
+Trento - Grotta/Villazzano,Trento,"Villazzano, Trento","{'type': 'Point', 'coordinates': [11.143860000000075, 46.04925000000003]}","Trento - Grotta/Villazzano, TN",POINT
+Trento - Martignano,Trento,"Martignano, Trento, TN","{'type': 'Point', 'coordinates': [11.13065000000006, 46.089000000000055]}","Trento - Martignano, TN",POINT
+Trento - Mattarello Alta,Trento,"Mattarello, Trento","{'type': 'Point', 'coordinates': [11.127930000000049, 46.00685000000004]}","Trento - Mattarello Alta, TN",POINT
+Trento - Mattarello Bassa,Trento,"Mattarello, Trento","{'type': 'Point', 'coordinates': [11.127930000000049, 46.00685000000004]}","Trento - Mattarello Bassa, TN",POINT
+Trento - Meano,Trento,"Meano, Trento, TN","{'type': 'Point', 'coordinates': [11.117150000000038, 46.122700000000066]}","Trento - Meano, TN",POINT
+Trento - Monte Bondone,Trento,"Strada del Monte Bondone, 38123, Trento","{'type': 'Point', 'coordinates': [11.096582440998844, 46.07045924720094]}","Trento - Monte Bondone, TN",POINT
+Trento - Montevaccino,Trento,"Montevaccino, Trento, TN","{'type': 'Point', 'coordinates': [11.144890000000032, 46.108430000000055]}","Trento - Montevaccino, TN",POINT
+Trento - Nord,Trento,"Svincolo Trento Nord, 38121, Trento, TN","{'type': 'Point', 'coordinates': [11.085755465630237, 46.120680236701766]}","Trento - Nord, TN",POINT
+Trento - Nord - Gardolo,Trento,"Gardolo, Trento","{'type': 'Point', 'coordinates': [11.111540000000048, 46.10862000000003]}","Trento - Nord - Gardolo, TN",POINT
+Trento - Nord - San Lazzaro,Trento,"San Lazzaro, Trento","{'type': 'Point', 'coordinates': [11.117180000000076, 46.137200000000064]}","Trento - Nord - San Lazzaro, TN",POINT
+Trento - Oltrecastello,Trento,"Oltrecastello, Trento, TN","{'type': 'Point', 'coordinates': [11.16226000000006, 46.072940000000074]}","Trento - Oltrecastello, TN",POINT
+Trento - Passo del Cimirlo,Trento,"Passo Cimirlo, 38123, Trento","{'type': 'Point', 'coordinates': [11.188711848222553, 46.06789406785781]}","Trento - Passo del Cimirlo, TN",POINT
+Trento - Povo,Trento,"Povo, Trento, TN","{'type': 'Point', 'coordinates': [11.152910000000077, 46.064820000000054]}","Trento - Povo, TN",POINT
+Trento - Povo Centro,Trento,"Povo, Trento","{'type': 'Point', 'coordinates': [11.152910000000077, 46.064820000000054]}","Trento - Povo Centro, TN",POINT
+Trento - Sardagna,Trento,"Sardagna, Trento, TN","{'type': 'Point', 'coordinates': [11.096630000000062, 46.06453000000005]}","Trento - Sardagna, TN",POINT
+Trento - Sud,Trento,"Svincolo Trento Sud, 38123, Trento, TN","{'type': 'Point', 'coordinates': [11.122013448090225, 46.03135438655026]}","Trento - Sud, TN",POINT
+Trento - Sud - Ravina,Trento,"Ravina, Trento","{'type': 'Point', 'coordinates': [11.106800000000021, 46.03749000000005]}","Trento - Sud - Ravina, TN",POINT
+Trento - Sud - Romagnano,Trento,"Romagnano, Trento","{'type': 'Point', 'coordinates': [11.105910000000051, 46.01747000000006]}","Trento - Sud - Romagnano, TN",POINT
+Trento - Valsorda,Trento,"Valsorda, Trento, TN","{'type': 'Point', 'coordinates': [11.155440000000056, 46.008530000000064]}","Trento - Valsorda, TN",POINT
+Trento - Vason,Trento,"Vason, Trento, TN","{'type': 'Point', 'coordinates': [11.058770000000038, 46.04110000000003]}","Trento - Vason, TN",POINT
+Trento - Vigo Meano,Trento,"Vigo Meano, Trento, TN","{'type': 'Point', 'coordinates': [11.135370000000023, 46.13142000000005]}","Trento - Vigo Meano, TN",POINT
+Trento - Vigolo Baselga,Trento,"Vigolo Baselga, Trento, TN","{'type': 'Point', 'coordinates': [11.043900000000065, 46.08098000000007]}","Trento - Vigolo Baselga, TN",POINT
+Trento - Villamontagna,Trento,"Villamontagna, Trento, TN","{'type': 'Point', 'coordinates': [11.159750000000031, 46.08623000000006]}","Trento - Villamontagna, TN",POINT
+Trento - Villazzano,Trento,"Villazzano, Trento, TN","{'type': 'Point', 'coordinates': [11.143860000000075, 46.04925000000003]}","Trento - Villazzano, TN",POINT
+Trento - Zona Via Brescia,Trento,"Via Brescia, 38121, Trento","{'type': 'Point', 'coordinates': [11.112049739078357, 46.07064761767679]}","Trento - Zona Via Brescia, TN",POINT
+Trento - Zona via Asiago,Trento,"Via Asiago, 38122, Trento","{'type': 'Point', 'coordinates': [11.136493688167306, 46.053795099422]}","Trento - Zona via Asiago, TN",POINT
+Volano - Rete Bassa,Volano,"Volano, TN","{'type': 'Point', 'coordinates': [11.063570000000027, 45.91782000000006]}","Volano, TN",POINT

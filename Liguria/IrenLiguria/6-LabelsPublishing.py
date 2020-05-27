@@ -1,7 +1,7 @@
 import acqua.labelCollection as lc
 import logging
 import acqua.aqueduct as aq
-gestore = "IrenPiemonte"
+gestore = "IrenLiguria"
 aq.setEnv('Liguria//'+gestore)
 geoJsonFile = gestore+'.geojson'
 ll = lc.removeEtichette(gestore)

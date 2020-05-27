@@ -1,0 +1,209 @@
+alias_address,alias_city,data_report,geocode,geometry,georeferencingString,type
+Acquedotto capoluogo (centro storico),MONTEROSSO,26/02/19,,,"19016, Fegina, Monterosso al Mare, SP, Liguria",POINT
+Acquedotto Fegina,MONTEROSSO,24/07/19,"Via Fegina, 19016, Monterosso al Mare, SP","{'type': 'Point', 'coordinates': [9.651112800276334, 44.14574459998095]}",Via Fegina 19016 Monterosso al Mare SP,POINT
+Acquedotto Monterosso Fegina,MONTEROSSO,26/02/19,"Via Fegina, 19016, Monterosso al Mare, SP","{'type': 'Point', 'coordinates': [9.651112800276334, 44.14574459998095]}",Via Fegina 19016 Monterosso al Mare SP,POINT
+Acquedotto Marinella,SARZANA,31/07/19,"19038, Marinella di Sarzana, Sarzana, SP, Liguria","{'type': 'Point', 'coordinates': [10.016296339583493, 44.04874104172436]}",Marinella di Sarzana 19038 SP,POINT
+Acquedotto Beverone,ROCCHETTA VARA,22/01/19,"Rocchetta di Vara, SP","{'type': 'Point', 'coordinates': [9.75645000000003, 44.25212000000005]}","Beverone, ROCCHETTA VARA, SP, Liguria",POINT
+Acquedotto Ameglia capoluogo,AMEGLIA,19/06/19,"Ameglia, SP","{'type': 'Point', 'coordinates': [9.95619000000005, 44.06582000000003]}","Ameglia capoluogo, AMEGLIA, SP, Liguria",POINT
+Acquedotto Montemarcello,AMEGLIA,28/01/19,"Montemarcello, Ameglia, SP","{'type': 'Point', 'coordinates': [9.965590000000077, 44.044350000000065]}","Montemarcello, AMEGLIA, SP, Liguria",POINT
+Acquedotto Arcola alta,ARCOLA,19/06/19,"Arcola, SP","{'type': 'Point', 'coordinates': [9.904430000000048, 44.113920000000064]}","Arcola alta, ARCOLA, SP, Liguria",POINT
+Acquedotto Baccano,ARCOLA,28/01/19,"Baccano, Arcola, SP","{'type': 'Point', 'coordinates': [9.89808000000005, 44.11136000000005]}","Baccano, ARCOLA, SP, Liguria",POINT
+Acquedotto Piano di Arcola,ARCOLA,28/01/19,"Arcola, SP","{'type': 'Point', 'coordinates': [9.904430000000048, 44.113920000000064]}","Piano di Arcola, ARCOLA, SP, Liguria",POINT
+Acquedotto Ressora,ARCOLA,28/01/19,"Ressora, Arcola, SP","{'type': 'Point', 'coordinates': [9.921150000000068, 44.109210000000076]}","Ressora, ARCOLA, SP, Liguria",POINT
+Acquedotto Romito Magra,ARCOLA,28/01/19,"Romito Magra, Arcola, SP","{'type': 'Point', 'coordinates': [9.935790000000054, 44.099420000000066]}","Romito Magra, ARCOLA, SP, Liguria",POINT
+Acquedotto Trebiano,ARCOLA,28/01/19,"Trebiano, Arcola, SP","{'type': 'Point', 'coordinates': [9.923790000000054, 44.10312000000005]}","Trebiano, ARCOLA, SP, Liguria",POINT
+Acquedotto Bracelli,BEVERINO,26/06/19,"Bracelli, Beverino, SP","{'type': 'Point', 'coordinates': [9.756430000000023, 44.19390000000004]}","Bracelli, BEVERINO, SP, Liguria",POINT
+Acquedotto Castello,BEVERINO,26/06/19,"Via Castello, 19020, Beverino, SP","{'type': 'Point', 'coordinates': [9.819194564156883, 44.201277598091416]}","Castello, BEVERINO, SP, Liguria",POINT
+Acquedotto Castiglione Gambella,BEVERINO,26/06/19,"Gambella, Beverino, SP","{'type': 'Point', 'coordinates': [9.818200000000047, 44.21317000000005]}","Castiglione Gambella, BEVERINO, SP, Liguria",POINT
+Acquedotto Castiglione Vara,BEVERINO,14/02/19,"Castiglione Vara, Beverino, SP","{'type': 'Point', 'coordinates': [9.810970000000054, 44.19986000000006]}","Castiglione Vara, BEVERINO, SP, Liguria",POINT
+Acquedotto Cavanella Capanne,BEVERINO,10/12/19,"Cavanella V., Beverino, SP","{'type': 'Point', 'coordinates': [9.785470000000032, 44.204090000000065]}","Cavanella Capanne, BEVERINO, SP, Liguria",POINT
+Acquedotto Cavanella Costa,BEVERINO,10/12/19,"Cavanella V., Beverino, SP","{'type': 'Point', 'coordinates': [9.785470000000032, 44.204090000000065]}","Cavanella Costa, BEVERINO, SP, Liguria",POINT
+Acquedotto Cernadore,BEVERINO,26/06/19,"Via Cernadore, 19020, Beverino, SP","{'type': 'Point', 'coordinates': [9.798929702162038, 44.19089145081077]}","Cernadore, BEVERINO, SP, Liguria",POINT
+Acquedotto Corvara,BEVERINO,10/12/19,"Corvara, Beverino, SP","{'type': 'Point', 'coordinates': [9.732890000000054, 44.170930000000055]}","Corvara, BEVERINO, SP, Liguria",POINT
+Acquedotto Memola,BEVERINO,26/06/19,"Memola, Beverino, SP","{'type': 'Point', 'coordinates': [9.737630000000024, 44.20393000000007]}","Memola, BEVERINO, SP, Liguria",POINT
+Acquedotto Padivarma,BEVERINO,10/12/19,"Padivarma, Beverino, SP","{'type': 'Point', 'coordinates': [9.767820000000029, 44.196480000000065]}","Padivarma, BEVERINO, SP, Liguria",POINT
+Acquedotto Pastani,BEVERINO,26/06/19,"Via Pastani, 19020, Beverino, SP","{'type': 'Point', 'coordinates': [9.799191361195403, 44.185028727154574]}","Pastani, BEVERINO, SP, Liguria",POINT
+Acquedotto Piandibarca,BEVERINO,21/10/19,"Beverino, SP","{'type': 'Point', 'coordinates': [9.793680000000052, 44.20115000000004]}","Piandibarca, BEVERINO, SP, Liguria",POINT
+Acquedotto San Cipriano,BEVERINO,26/06/19,"San Cipriano, Beverino, SP","{'type': 'Point', 'coordinates': [9.787670000000048, 44.186120000000074]}","San Cipriano, BEVERINO, SP, Liguria",POINT
+Acquedotto San Remigio,BEVERINO,10/12/19,"Località San Remigio, 19020, Beverino, SP","{'type': 'Point', 'coordinates': [9.811172414919993, 44.198573121728906]}","San Remigio, BEVERINO, SP, Liguria",POINT
+Acquedotto Stagnedo,BEVERINO,26/07/19,"Località Stagnedo, 19020, Beverino, SP","{'type': 'Point', 'coordinates': [9.763150839853946, 44.211761853396354]}","Stagnedo, BEVERINO, SP, Liguria",POINT
+Acquedotto Trezzo,BEVERINO,10/12/19,"Trezzo, Beverino, SP","{'type': 'Point', 'coordinates': [9.744360000000029, 44.17805000000004]}","Trezzo, BEVERINO, SP, Liguria",POINT
+Acquedotto Casa Scattina,BOLANO,23/01/19,"Casa Scattina, Bolano, SP","{'type': 'Point', 'coordinates': [9.880290000000059, 44.190510000000074]}","Casa Scattina, BOLANO, SP, Liguria",POINT
+Acquedotto Ceparana,BOLANO,30/09/19,"Ceparana, Bolano, SP","{'type': 'Point', 'coordinates': [9.885020000000054, 44.16938000000005]}","Ceparana, BOLANO, SP, Liguria",POINT
+Acquedotto Ceparana capoluogo,BOLANO,23/01/19,"Ceparana, Bolano, SP","{'type': 'Point', 'coordinates': [9.885020000000054, 44.16938000000005]}","Ceparana capoluogo, BOLANO, SP, Liguria",POINT
+Acquedotto Bonassola  capoluogo,BONASSOLA,11/02/19,"Bonassola, SP","{'type': 'Point', 'coordinates': [9.585170000000062, 44.18222000000003]}","Bonassola  capoluogo, BONASSOLA, SP, Liguria",POINT
+Acquedotto Fena,BONASSOLA,11/02/19,"Località Fena, 19011, Bonassola, SP","{'type': 'Point', 'coordinates': [9.58346195900838, 44.18983821311298]}","Fena, BONASSOLA, SP, Liguria",POINT
+Acquedotto Montaretto,BONASSOLA,14/10/19,"Montaretto, Bonassola, SP","{'type': 'Point', 'coordinates': [9.57603000000006, 44.19607000000008]}","Montaretto, BONASSOLA, SP, Liguria",POINT
+Acquedotto San Giorgio,BONASSOLA,11/02/19,"San Giorgio, Bonassola, SP","{'type': 'Point', 'coordinates': [9.584400000000073, 44.19354000000004]}","San Giorgio, BONASSOLA, SP, Liguria",POINT
+Acquedotto Bocca Pignone,BORGHETTO VARA,17/01/19,"Bocca Pignone, Borghetto di Vara, SP","{'type': 'Point', 'coordinates': [9.753940000000057, 44.22097000000008]}","Bocca Pignone, BORGHETTO VARA, SP, Liguria",POINT
+Acquedotto Borghetto Vara capoluogo,BORGHETTO VARA,25/03/19,"Borghetto di Vara, SP","{'type': 'Point', 'coordinates': [9.720010000000059, 44.22281000000004]}","Borghetto Vara capoluogo, BORGHETTO VARA, SP, Liguria",POINT
+Acquedotto Borghetto capoluogo,BORGHETTO VARA,17/01/19,"Borghetto di Vara, SP","{'type': 'Point', 'coordinates': [9.720010000000059, 44.22281000000004]}","Borghetto capoluogo, BORGHETTO VARA, SP, Liguria",POINT
+Acquedotto Cassana Chiesa,BORGHETTO VARA,16/10/19,"Cassana, Borghetto di Vara, SP","{'type': 'Point', 'coordinates': [9.689460000000054, 44.215850000000046]}","Cassana Chiesa, BORGHETTO VARA, SP, Liguria",POINT
+Acquedotto Cassana Corneto,BORGHETTO VARA,16/10/19,"Cassana, Borghetto di Vara, SP","{'type': 'Point', 'coordinates': [9.689460000000054, 44.215850000000046]}","Cassana Corneto, BORGHETTO VARA, SP, Liguria",POINT
+Acquedotto L'Ago,BORGHETTO VARA,16/10/19,"L'Ago, Borghetto di Vara, SP","{'type': 'Point', 'coordinates': [9.674690000000055, 44.22752000000003]}","L'Ago, BORGHETTO VARA, SP, Liguria",POINT
+Acquedotto Pogliasca,BORGHETTO VARA,16/10/19,"Pogliasca, Borghetto di Vara, SP","{'type': 'Point', 'coordinates': [9.687550000000044, 44.22779000000003]}","Pogliasca, BORGHETTO VARA, SP, Liguria",POINT
+Acquedotto Ripalta,BORGHETTO VARA,17/01/19,"Ripalta, Borghetto di Vara, SP","{'type': 'Point', 'coordinates': [9.721060000000023, 44.21719000000007]}","Ripalta, BORGHETTO VARA, SP, Liguria",POINT
+Acquedotto Termine di Roverano,BORGHETTO VARA,17/01/19,"Roverano, Borghetto di Vara, SP","{'type': 'Point', 'coordinates': [9.665280000000052, 44.23188000000005]}","Termine di Roverano, BORGHETTO VARA, SP, Liguria",POINT
+Acquedotto Bozzolo,BRUGNATO,16/10/19,"Bozzolo, Brugnato, SP","{'type': 'Point', 'coordinates': [9.711530000000039, 44.24333000000007]}","Bozzolo, BRUGNATO, SP, Liguria",POINT
+Acquedotto Brugnato capoluogo,BRUGNATO,16/10/19,"Brugnato, SP","{'type': 'Point', 'coordinates': [9.723900000000071, 44.23608000000007]}","Brugnato capoluogo, BRUGNATO, SP, Liguria",POINT
+Acquedotto  S. Maria Cassorane,CALICE AL CORNOVIGLIO,13/02/19,"Località Santa Maria, 19020, Calice al Cornoviglio, SP","{'type': 'Point', 'coordinates': [9.847118805038548, 44.24901950314355]}","S. Maria Cassorane, CALICE AL CORNOVIGLIO, SP, Liguria",POINT
+Acquedotto Borseda,CALICE AL CORNOVIGLIO,21/11/19,"Borseda, Calice al Cornoviglio, SP","{'type': 'Point', 'coordinates': [9.821120000000064, 44.24530000000004]}","Borseda, CALICE AL CORNOVIGLIO, SP, Liguria",POINT
+Acquedotto Bruscarolo,CALICE AL CORNOVIGLIO,21/11/19,"Bruscarolo, Calice al Cornoviglio, SP","{'type': 'Point', 'coordinates': [9.863200000000063, 44.22235000000006]}","Bruscarolo, CALICE AL CORNOVIGLIO, SP, Liguria",POINT
+Acquedotto Castello,CALICE AL CORNOVIGLIO,13/02/19,"Via Castello, 19020, Calice al Cornoviglio, SP","{'type': 'Point', 'coordinates': [9.841018591419385, 44.212883647854845]}","Castello, CALICE AL CORNOVIGLIO, SP, Liguria",POINT
+Acquedotto Debeduse,CALICE AL CORNOVIGLIO,21/11/19,"Debeduse, Calice al Cornoviglio, SP","{'type': 'Point', 'coordinates': [9.821870000000047, 44.25040000000007]}","Debeduse, CALICE AL CORNOVIGLIO, SP, Liguria",POINT
+Acquedotto Nasso,CALICE AL CORNOVIGLIO,21/11/19,"Nasso, 19020, Calice al Cornoviglio, SP","{'type': 'Point', 'coordinates': [9.845162263588342, 44.241564763588336]}","Nasso, CALICE AL CORNOVIGLIO, SP, Liguria",POINT
+Acquedotto Pegui,CALICE AL CORNOVIGLIO,13/02/19,"Pegui, Calice al Cornoviglio, SP","{'type': 'Point', 'coordinates': [9.860250000000065, 44.21049000000005]}","Pegui, CALICE AL CORNOVIGLIO, SP, Liguria",POINT
+Acquedotto Piano di Madrignano,CALICE AL CORNOVIGLIO,13/02/19,"Piano di Madrignano, Calice al Cornoviglio, SP","{'type': 'Point', 'coordinates': [9.844560000000058, 44.200540000000046]}","Piano di Madrignano, CALICE AL CORNOVIGLIO, SP, Liguria",POINT
+Acquedotto S. Maria Beigo,CALICE AL CORNOVIGLIO,21/11/19,"Località Santa Maria, 19020, Calice al Cornoviglio, SP","{'type': 'Point', 'coordinates': [9.847118805038548, 44.24901950314355]}","S. Maria Beigo, CALICE AL CORNOVIGLIO, SP, Liguria",POINT
+Acquedotto S. Maria Cassorane,CALICE AL CORNOVIGLIO,21/11/19,"Località Santa Maria, 19020, Calice al Cornoviglio, SP","{'type': 'Point', 'coordinates': [9.847118805038548, 44.24901950314355]}","S. Maria Cassorane, CALICE AL CORNOVIGLIO, SP, Liguria",POINT
+Acquedotto Terrugiara,CALICE AL CORNOVIGLIO,21/11/19,"Località Terrugiara, 19020, Calice al Cornoviglio, SP","{'type': 'Point', 'coordinates': [9.83568350239589, 44.24371312607814]}","Terrugiara, CALICE AL CORNOVIGLIO, SP, Liguria",POINT
+Acquedotto Tranci,CALICE AL CORNOVIGLIO,13/02/19,"Tranci, Calice al Cornoviglio, SP","{'type': 'Point', 'coordinates': [9.856040000000064, 44.20811000000003]}","Tranci, CALICE AL CORNOVIGLIO, SP, Liguria",POINT
+Acquedotto Usurana Alta,CALICE AL CORNOVIGLIO,13/02/19,"Usurana, Calice al Cornoviglio, SP","{'type': 'Point', 'coordinates': [9.828540000000032, 44.21588000000003]}","Usurana Alta, CALICE AL CORNOVIGLIO, SP, Liguria",POINT
+Acquedotto Valdonica,CALICE AL CORNOVIGLIO,13/02/19,"Valdonica, Calice al Cornoviglio, SP","{'type': 'Point', 'coordinates': [9.847190000000069, 44.21112000000005]}","Valdonica, CALICE AL CORNOVIGLIO, SP, Liguria",POINT
+Acquedotto Villagrossa,CALICE AL CORNOVIGLIO,21/11/19,"Località Villagrossa, 19020, Calice al Cornoviglio, SP","{'type': 'Point', 'coordinates': [9.830871343861206, 44.25529611105464]}","Villagrossa, CALICE AL CORNOVIGLIO, SP, Liguria",POINT
+Acquedotto Agnola,CARRO,05/12/19,"Località Agnola, 19012, Carro, SP","{'type': 'Point', 'coordinates': [9.592848834734296, 44.278257026113465]}","Agnola, CARRO, SP, Liguria",POINT
+Acquedotto Carro Capoluogo Castellaro,CARRO,05/12/19,"Castello, Carro, SP","{'type': 'Point', 'coordinates': [9.601060000000075, 44.282890000000066]}","Carro Capoluogo Castellaro, CARRO, SP, Liguria",POINT
+Acquedotto Carro Capoluogo Costa,CARRO,05/12/19,"Carro, SP","{'type': 'Point', 'coordinates': [9.605120000000056, 44.272830000000056]}","Carro Capoluogo Costa, CARRO, SP, Liguria",POINT
+Acquedotto Carro capoluogo,CARRO,05/12/19,"Carro, SP","{'type': 'Point', 'coordinates': [9.605120000000056, 44.272830000000056]}","Carro capoluogo, CARRO, SP, Liguria",POINT
+Acquedotto Carro capoluogo Confraternita,CARRO,29/05/19,"Carro, SP","{'type': 'Point', 'coordinates': [9.605120000000056, 44.272830000000056]}","Carro capoluogo Confraternita, CARRO, SP, Liguria",POINT
+Acquedotto Carro capoluogo Municipio,CARRO,29/05/19,"Carro, SP","{'type': 'Point', 'coordinates': [9.605120000000056, 44.272830000000056]}","Carro capoluogo Municipio, CARRO, SP, Liguria",POINT
+Acquedotto Carro capoluogo via Paganini,CARRO,29/05/19,"Via Niccolò Paganini, 19012, Carro, SP","{'type': 'Point', 'coordinates': [9.611670837532419, 44.27283289836817]}","Carro capoluogo via Paganini, CARRO, SP, Liguria",POINT
+Acquedotto Castello,CARRO,05/12/19,"Castello, Carro, SP","{'type': 'Point', 'coordinates': [9.601060000000075, 44.282890000000066]}","Castello, CARRO, SP, Liguria",POINT
+Acquedotto Cerreta,CARRO,05/12/19,"Località Cerreta, 19012, Carro, SP","{'type': 'Point', 'coordinates': [9.63839663319093, 44.27320500000001]}","Cerreta, CARRO, SP, Liguria",POINT
+Acquedotto Debbio,CARRO,07/01/19,"Debbio, Zignago, SP","{'type': 'Point', 'coordinates': [9.744490000000042, 44.28806000000003]}","Debbio, CARRO, SP, Liguria",POINT
+Acquedotto Pavareto,CARRO,05/12/19,"Pavareto, Carro, SP","{'type': 'Point', 'coordinates': [9.591950000000054, 44.271840000000054]}","Pavareto, CARRO, SP, Liguria",POINT
+Acquedotto Pavareto Rocche di Maggio,CARRO,05/12/19,"Pavareto, Carro, SP","{'type': 'Point', 'coordinates': [9.591950000000054, 44.271840000000054]}","Pavareto Rocche di Maggio, CARRO, SP, Liguria",POINT
+Acquedotto Pera,CARRO,29/05/19,"Pera, 19012, Carro, SP","{'type': 'Point', 'coordinates': [9.582457043245771, 44.30755467405254]}","Pera, CARRO, SP, Liguria",POINT
+Acquedotto Ponte S. Margherita,CARRO,05/12/19,"Ponte S. Margherita, Carro, SP","{'type': 'Point', 'coordinates': [9.658380000000022, 44.27488000000005]}","Ponte S. Margherita, CARRO, SP, Liguria",POINT
+Acquedotto Verdigliolo,CARRO,29/05/19,"Carro, SP","{'type': 'Point', 'coordinates': [9.605120000000056, 44.272830000000056]}","Verdigliolo, CARRO, SP, Liguria",POINT
+Acquedotto Verdigliolo (Serbatoio Serracciana),CARRO,29/05/19,"Carro, SP","{'type': 'Point', 'coordinates': [9.605120000000056, 44.272830000000056]}","Verdigliolo (Serbatoio Serracciana), CARRO, SP, Liguria",POINT
+Acquedotto Ziona,CARRO,05/06/19,"Ziona, Carro, SP","{'type': 'Point', 'coordinates': [9.619330000000048, 44.26287000000008]}","Ziona, CARRO, SP, Liguria",POINT
+Acquedotto Ziona (Pianesola),CARRO,05/06/19,"Ziona, Carro, SP","{'type': 'Point', 'coordinates': [9.619330000000048, 44.26287000000008]}","Ziona (Pianesola), CARRO, SP, Liguria",POINT
+Acquedotto Ziona Massucasco,CARRO,05/12/19,"Ziona, Carro, SP","{'type': 'Point', 'coordinates': [9.619330000000048, 44.26287000000008]}","Ziona Massucasco, CARRO, SP, Liguria",POINT
+Acquedotto Ziona Muettola,CARRO,05/12/19,"Ziona, Carro, SP","{'type': 'Point', 'coordinates': [9.619330000000048, 44.26287000000008]}","Ziona Muettola, CARRO, SP, Liguria",POINT
+Carro Ponte S. Margherita,CARRO,29/05/19,"Strada Provinciale di Carro, 19012, Carro, SP","{'type': 'Point', 'coordinates': [9.614716472479031, 44.27057699999999]}","Carro Ponte S. Margherita, CARRO, SP, Liguria",POINT
+Acquedotto Caprignano,CASTELNUOVO MAGRA,06/02/19,"Via Caprignano, 19033, Castelnuovo Magra, SP","{'type': 'Point', 'coordinates': [10.015881634963588, 44.11246998158166]}","Caprignano, CASTELNUOVO MAGRA, SP, Liguria",POINT
+Acquedotto Castelnuovo capoluogo,CASTELNUOVO MAGRA,06/02/19,"Castelnuovo Magra, SP","{'type': 'Point', 'coordinates': [10.017220000000066, 44.10131000000007]}","Castelnuovo capoluogo, CASTELNUOVO MAGRA, SP, Liguria",POINT
+Acquedotto Molino del Piano,CASTELNUOVO MAGRA,06/02/19,"Via Molino del Piano, 19033, Castelnuovo Magra, SP","{'type': 'Point', 'coordinates': [10.01534017467133, 44.095426350803415]}","Molino del Piano, CASTELNUOVO MAGRA, SP, Liguria",POINT
+Acquedotto  Pian di Follo,FOLLO,26/03/19,"Pian di Follo, Follo, SP","{'type': 'Point', 'coordinates': [9.862250000000074, 44.163680000000056]}","Pian di Follo, FOLLO, SP, Liguria",POINT
+Acquedotto Bottagna,FOLLO,23/01/19,"Bottagna, Vezzano Ligure, SP","{'type': 'Point', 'coordinates': [9.87549000000007, 44.158060000000035]}","Bottagna, FOLLO, SP, Liguria",POINT
+Acquedotto Pian di Follo,FOLLO,20/06/19,"Pian di Follo, Follo, SP","{'type': 'Point', 'coordinates': [9.862250000000074, 44.163680000000056]}","Pian di Follo, FOLLO, SP, Liguria",POINT
+Acquedotto Piana Battolla,FOLLO,04/12/19,"Piana Battolla, Follo, SP","{'type': 'Point', 'coordinates': [9.851780000000076, 44.196150000000046]}","Piana Battolla, FOLLO, SP, Liguria",POINT
+Acquedotto Sorbolo,FOLLO,20/06/19,"Sorbolo, Follo, SP","{'type': 'Point', 'coordinates': [9.831840000000057, 44.16237000000007]}","Sorbolo, FOLLO, SP, Liguria",POINT
+Acquedotto Tivegna,FOLLO,26/03/19,"Tivegna, Follo, SP","{'type': 'Point', 'coordinates': [9.834290000000067, 44.180180000000064]}","Tivegna, FOLLO, SP, Liguria",POINT
+Acquedotto Tivegna Canale del monte,FOLLO,20/06/19,"Tivegna, Follo, SP","{'type': 'Point', 'coordinates': [9.834290000000067, 44.180180000000064]}","Tivegna Canale del monte, FOLLO, SP, Liguria",POINT
+Acquedotto Anzo,FRAMURA,25/07/19,"Anzo, Framura, SP","{'type': 'Point', 'coordinates': [9.556290000000047, 44.203160000000025]}","Anzo, FRAMURA, SP, Liguria",POINT
+Acquedotto Castagnola,FRAMURA,25/07/19,"Castagnola, Framura, SP","{'type': 'Point', 'coordinates': [9.568750000000023, 44.22288000000003]}","Castagnola, FRAMURA, SP, Liguria",POINT
+Acquedotto Costa,FRAMURA,08/01/19,"Costa, Framura, SP","{'type': 'Point', 'coordinates': [9.557780000000037, 44.21231000000006]}","Costa, FRAMURA, SP, Liguria",POINT
+Acquedotto Laviosa,FRAMURA,25/07/19,"Via Laviosa, 19014, Framura, SP","{'type': 'Point', 'coordinates': [9.561936397079009, 44.20628613831248]}","Laviosa, FRAMURA, SP, Liguria",POINT
+Acquedotto Ravecca,FRAMURA,25/07/19,"Località Ravecca, 19014, Framura, SP","{'type': 'Point', 'coordinates': [9.555276469665055, 44.20672861476421]}","Ravecca, FRAMURA, SP, Liguria",POINT
+Acquedotto Setta,FRAMURA,25/07/19,"Setta, Framura, SP","{'type': 'Point', 'coordinates': [9.555940000000021, 44.21090000000004]}","Setta, FRAMURA, SP, Liguria",POINT
+Acquedotto Tarì,FRAMURA,25/07/19,"Località Tarì, 19014, Framura, SP","{'type': 'Point', 'coordinates': [9.57115440457052, 44.21929930090239]}","Tarì, FRAMURA, SP, Liguria",POINT
+Acquedotto La Spezia (P.zza S.Agostino),LA SPEZIA,28/03/19,"Piazza Sant'Agostino, 19121, La Spezia, SP","{'type': 'Point', 'coordinates': [9.821796908827377, 44.10518204617294]}","La Spezia (P.zza S.Agostino), LA SPEZIA, SP, Liguria",POINT
+Acquedotto La Spezia capoluogo (Capitaneria),LA SPEZIA,01/10/19,"La Spezia, SP","{'type': 'Point', 'coordinates': [9.820060000000069, 44.10211000000004]}","La Spezia capoluogo (Capitaneria), LA SPEZIA, SP, Liguria",POINT
+Acquedotto Pitelli,LA SPEZIA,17/10/19,"Pitelli, La Spezia, SP","{'type': 'Point', 'coordinates': [9.88375000000002, 44.095890000000054]}","Pitelli, LA SPEZIA, SP, Liguria",POINT
+Acquedotto Ruffino,LA SPEZIA,07/10/19,"Ruffino, La Spezia, SP","{'type': 'Point', 'coordinates': [9.86910000000006, 44.09227000000004]}","Ruffino, LA SPEZIA, SP, Liguria",POINT
+Acquedotto Barcola,LERICI,28/03/19,"Località Barcola, 19032, Lerici, SP","{'type': 'Point', 'coordinates': [9.914722050561828, 44.083134032525166]}","Barcola, LERICI, SP, Liguria",POINT
+Acquedotto Lerici capoluogo,LERICI,08/10/19,"Lerici, SP","{'type': 'Point', 'coordinates': [9.90999000000005, 44.07609000000008]}","Lerici capoluogo, LERICI, SP, Liguria",POINT
+Acquedotto Senato,LERICI,20/02/19,"Senato, Lerici, SP","{'type': 'Point', 'coordinates': [9.954950000000053, 44.086430000000064]}","Senato, LERICI, SP, Liguria",POINT
+Acquedotto  Montale,LEVANTO,11/03/19,"Montale, Levanto, SP","{'type': 'Point', 'coordinates': [9.624770000000069, 44.18647000000004]}","Montale, LEVANTO, SP, Liguria",POINT
+Acquedotto  Vignana inferiore,LEVANTO,18/07/19,"Vignana, Levanto, SP","{'type': 'Point', 'coordinates': [9.633390000000077, 44.190960000000075]}","Vignana inferiore, LEVANTO, SP, Liguria",POINT
+Acquedotto Casella,LEVANTO,11/03/19,"Casella, Levanto, SP","{'type': 'Point', 'coordinates': [9.62611000000004, 44.19178000000005]}","Casella, LEVANTO, SP, Liguria",POINT
+Acquedotto Chiesanuova,LEVANTO,17/07/19,"Località Chiesanuova, 19015, Levanto, SP","{'type': 'Point', 'coordinates': [9.645975588154908, 44.17156283862151]}","Chiesanuova, LEVANTO, SP, Liguria",POINT
+Acquedotto Fontona,LEVANTO,17/07/19,"Fontona, Levanto, SP","{'type': 'Point', 'coordinates': [9.636580000000038, 44.16847000000007]}","Fontona, LEVANTO, SP, Liguria",POINT
+Acquedotto Gallona,LEVANTO,17/07/19,"Località Gallona, 19015, Levanto, SP","{'type': 'Point', 'coordinates': [9.637830000000017, 44.17948292221122]}","Gallona, LEVANTO, SP, Liguria",POINT
+Acquedotto Groppo,LEVANTO,11/03/19,"Groppo, Levanto, SP","{'type': 'Point', 'coordinates': [9.619000000000028, 44.19119000000006]}","Groppo, LEVANTO, SP, Liguria",POINT
+Acquedotto Lavaggiorosso,LEVANTO,18/07/19,"Lavaggiorosso, Levanto, SP","{'type': 'Point', 'coordinates': [9.612370000000055, 44.19311000000005]}","Lavaggiorosso, LEVANTO, SP, Liguria",POINT
+Acquedotto Legnaro,LEVANTO,17/07/19,"Legnaro, Levanto, SP","{'type': 'Point', 'coordinates': [9.643130000000042, 44.17518000000007]}","Legnaro, LEVANTO, SP, Liguria",POINT
+Acquedotto Levanto capoluogo,LEVANTO,11/03/19,"Levanto, SP","{'type': 'Point', 'coordinates': [9.614070000000027, 44.17194000000006]}","Levanto capoluogo, LEVANTO, SP, Liguria",POINT
+Acquedotto Lizza,LEVANTO,18/07/19,"Lizza, Levanto, SP","{'type': 'Point', 'coordinates': [9.612120000000061, 44.19001000000003]}","Lizza, LEVANTO, SP, Liguria",POINT
+Acquedotto Montale,LEVANTO,18/07/19,"Montale, Levanto, SP","{'type': 'Point', 'coordinates': [9.624770000000069, 44.18647000000004]}","Montale, LEVANTO, SP, Liguria",POINT
+Acquedotto Pastine Inferiore,LEVANTO,11/03/19,"Località Pastine Inferiore, 19015, Levanto, SP","{'type': 'Point', 'coordinates': [9.635966405698253, 44.18632850963097]}","Pastine Inferiore, LEVANTO, SP, Liguria",POINT
+Acquedotto Ridarolo,LEVANTO,17/07/19,"Ridarolo, Levanto, SP","{'type': 'Point', 'coordinates': [9.626130000000046, 44.17703000000006]}","Ridarolo, LEVANTO, SP, Liguria",POINT
+Acquedotto Vignana inferiore,LEVANTO,11/03/19,"Vignana, Levanto, SP","{'type': 'Point', 'coordinates': [9.633390000000077, 44.190960000000075]}","Vignana inferiore, LEVANTO, SP, Liguria",POINT
+Acquedotto Vignana superiore,LEVANTO,11/03/19,"Vignana, Levanto, SP","{'type': 'Point', 'coordinates': [9.633390000000077, 44.190960000000075]}","Vignana superiore, LEVANTO, SP, Liguria",POINT
+Casella,LEVANTO,18/07/19,"Casella, Levanto, SP","{'type': 'Point', 'coordinates': [9.62611000000004, 44.19178000000005]}","Casella, LEVANTO, SP, Liguria",POINT
+Levanto  capoluogo (loc. Chiesa dei frati),LEVANTO,11/03/19,"Levanto, SP","{'type': 'Point', 'coordinates': [9.614070000000027, 44.17194000000006]}","Levanto  capoluogo (loc. Chiesa dei frati), LEVANTO, SP, Liguria",POINT
+Acquedotto Marcianella,LUNI (ORTONOVO),04/06/19,"Via Marcianella, 19034, Luni, SP","{'type': 'Point', 'coordinates': [10.044100907187623, 44.09182281437526]}","Marcianella, LUNI (ORTONOVO), SP, Liguria",POINT
+Acquedotto Ortonovo capoluogo,LUNI (ORTONOVO),04/06/19,"Ortonovo, Luni, SP","{'type': 'Point', 'coordinates': [10.05556000000007, 44.089150000000075]}","Ortonovo capoluogo, LUNI (ORTONOVO), SP, Liguria",POINT
+Acquedotto Pistello,LUNI (ORTONOVO),04/06/19,"Ortonovo, Luni, SP","{'type': 'Point', 'coordinates': [10.05556000000007, 44.089150000000075]}","Pistello, LUNI (ORTONOVO), SP, Liguria",POINT
+Acquedotto San Giuseppe,LUNI (ORTONOVO),20/03/19,"Via San Giuseppe, 19034, Luni, SP","{'type': 'Point', 'coordinates': [10.045576926201589, 44.08660242804482]}","San Giuseppe, LUNI (ORTONOVO), SP, Liguria",POINT
+Acquedotto Fegina (Padre Semeria),MONTEROSSO,06/06/19,"Via Padre Giovanni Semeria, 19016, Monterosso al Mare, SP","{'type': 'Point', 'coordinates': [9.6452530560769, 44.14654029594872]}","Fegina (Padre Semeria), MONTEROSSO, SP, Liguria",POINT
+Acquedotto Monte Albereto,MONTEROSSO,26/02/19,"Località Montealbereto, 19016, Monterosso al Mare, SP","{'type': 'Point', 'coordinates': [9.675302776625939, 44.16572044467482]}","Monte Albereto, MONTEROSSO, SP, Liguria",POINT
+Acquedotto Casale,PIGNONE,07/03/19,"Casale, Pignone, SP","{'type': 'Point', 'coordinates': [9.712060000000065, 44.18945000000008]}","Casale, PIGNONE, SP, Liguria",POINT
+Acquedotto Faggiona,PIGNONE,07/03/19,"Località Faggiona, 19020, Pignone, SP","{'type': 'Point', 'coordinates': [9.701495824744686, 44.1997382463048]}","Faggiona, PIGNONE, SP, Liguria",POINT
+Acquedotto Pignone capoluogo,PIGNONE,07/03/19,"Pignone, SP","{'type': 'Point', 'coordinates': [9.726080000000024, 44.18022000000008]}","Pignone capoluogo, PIGNONE, SP, Liguria",POINT
+Acquedotto Puin,PIGNONE,07/03/19,"Pignone, SP","{'type': 'Point', 'coordinates': [9.726080000000024, 44.18022000000008]}","Puin, PIGNONE, SP, Liguria",POINT
+Acquedotto Villa,PIGNONE,14/10/19,"Via Villa, 19020, Pignone, SP","{'type': 'Point', 'coordinates': [9.7094030788596, 44.19032945788595]}","Villa, PIGNONE, SP, Liguria",POINT
+Acquedotto Le Grazie,PORTOVENERE,22/03/19,"Le Grazie, Portovenere, SP","{'type': 'Point', 'coordinates': [9.836820000000046, 44.06979000000007]}","Le Grazie, PORTOVENERE, SP, Liguria",POINT
+Acquedotto  Riccò capoluogo,RICCO' DEL GOLFO,09/01/19,"Via San Rocco, 19020, Riccò del Golfo di Spezia, SP","{'type': 'Point', 'coordinates': [9.762785851435481, 44.13311025629988]}","Riccò capoluogo, RICCO' DEL GOLFO, SP, Liguria",POINT
+Acquedotto Bovecchio,RICCO' DEL GOLFO,09/01/19,"Bovecchio, Riccò del Golfo di Spezia, SP","{'type': 'Point', 'coordinates': [9.741150000000061, 44.156210000000044]}","Bovecchio, RICCO' DEL GOLFO, SP, Liguria",POINT
+Acquedotto Carpena,RICCO' DEL GOLFO,21/10/19,"Carpena, Riccò del Golfo di Spezia, SP","{'type': 'Point', 'coordinates': [9.765880000000038, 44.11621000000008]}","Carpena, RICCO' DEL GOLFO, SP, Liguria",POINT
+Acquedotto Falabiana,RICCO' DEL GOLFO,09/01/19,"Via Falabiana, 19020, Riccò del Golfo di Spezia, SP","{'type': 'Point', 'coordinates': [9.746895645979468, 44.1515618978234]}","Falabiana, RICCO' DEL GOLFO, SP, Liguria",POINT
+Acquedotto Piandibarca,RICCO' DEL GOLFO,09/01/19,"Riccò del Golfo di Spezia, SP","{'type': 'Point', 'coordinates': [9.764490000000023, 44.15462000000008]}","Piandibarca, RICCO' DEL GOLFO, SP, Liguria",POINT
+Acquedotto Polverara,RICCO' DEL GOLFO,08/11/19,"Polverara, Riccò del Golfo di Spezia, SP","{'type': 'Point', 'coordinates': [9.794170000000065, 44.16432000000003]}","Polverara, RICCO' DEL GOLFO, SP, Liguria",POINT
+Acquedotto Ponzò,RICCO' DEL GOLFO,01/04/19,"Ponzo, Riccò del Golfo di Spezia, SP","{'type': 'Point', 'coordinates': [9.749830000000031, 44.156930000000045]}","Ponzò, RICCO' DEL GOLFO, SP, Liguria",POINT
+Acquedotto Quaratica,RICCO' DEL GOLFO,09/01/19,"Quaratica, Riccò del Golfo di Spezia, SP","{'type': 'Point', 'coordinates': [9.764470000000074, 44.136600000000044]}","Quaratica, RICCO' DEL GOLFO, SP, Liguria",POINT
+Acquedotto Riccò del Golfo capoluogo,RICCO' DEL GOLFO,21/10/19,"Riccò del Golfo di Spezia, SP","{'type': 'Point', 'coordinates': [9.764490000000023, 44.15462000000008]}","Riccò del Golfo capoluogo, RICCO' DEL GOLFO, SP, Liguria",POINT
+Acquedotto S. Benedetto,RICCO' DEL GOLFO,09/01/19,"San Benedetto, Riccò del Golfo di Spezia, SP","{'type': 'Point', 'coordinates': [9.777520000000038, 44.134150000000034]}","S. Benedetto, RICCO' DEL GOLFO, SP, Liguria",POINT
+Acquedotto Valdipino,RICCO' DEL GOLFO,21/10/19,"Valdipino, Riccò del Golfo di Spezia, SP","{'type': 'Point', 'coordinates': [9.751760000000047, 44.14880000000005]}","Valdipino, RICCO' DEL GOLFO, SP, Liguria",POINT
+Acquedotto Valgraveglia,RICCO' DEL GOLFO,21/10/19,"Valgraveglia, Riccò del Golfo di Spezia, SP","{'type': 'Point', 'coordinates': [9.782730000000072, 44.15673000000004]}","Valgraveglia, RICCO' DEL GOLFO, SP, Liguria",POINT
+Acquedotto Groppo,RIOMAGGIORE,28/11/19,"Groppo, Riomaggiore, SP","{'type': 'Point', 'coordinates': [9.737500000000068, 44.11436000000003]}","Groppo, RIOMAGGIORE, SP, Liguria",POINT
+Acquedotto Manarola,RIOMAGGIORE,23/07/19,"Manarola, Riomaggiore, SP","{'type': 'Point', 'coordinates': [9.730090000000075, 44.107470000000035]}","Manarola, RIOMAGGIORE, SP, Liguria",POINT
+Acquedotto Riomaggiore capoluogo,RIOMAGGIORE,28/11/19,"Riomaggiore, SP","{'type': 'Point', 'coordinates': [9.743210000000033, 44.09991000000008]}","Riomaggiore capoluogo, RIOMAGGIORE, SP, Liguria",POINT
+Acquedotto Volastra,RIOMAGGIORE,28/11/19,"Volastra, Riomaggiore, SP","{'type': 'Point', 'coordinates': [9.728860000000054, 44.116100000000074]}","Volastra, RIOMAGGIORE, SP, Liguria",POINT
+Acquedotto Casoni,ROCCHETTA VARA,22/01/19,"Strada Provinciale dei Casoni, 19020, Rocchetta di Vara, SP","{'type': 'Point', 'coordinates': [9.806149655242491, 44.28018172008595]}","Casoni, ROCCHETTA VARA, SP, Liguria",POINT
+Acquedotto Foce,ROCCHETTA VARA,22/01/19,"Rocchetta di Vara, SP","{'type': 'Point', 'coordinates': [9.75645000000003, 44.25212000000005]}","Foce, ROCCHETTA VARA, SP, Liguria",POINT
+Acquedotto Garbugliaga,ROCCHETTA VARA,22/01/19,"Località Garbugliaga, 19020, Rocchetta di Vara, SP","{'type': 'Point', 'coordinates': [9.807947322575599, 44.228762151536245]}","Garbugliaga, ROCCHETTA VARA, SP, Liguria",POINT
+Acquedotto Manzile,ROCCHETTA VARA,22/01/19,"Località Manzile, 19020, Rocchetta di Vara, SP","{'type': 'Point', 'coordinates': [9.770055934756321, 44.22722934128067]}","Manzile, ROCCHETTA VARA, SP, Liguria",POINT
+Acquedotto Molino Rotato,ROCCHETTA VARA,22/01/19,"Località Molino Rotato, 19020, Rocchetta di Vara, SP","{'type': 'Point', 'coordinates': [9.777607714602832, 44.26933397434593]}","Molino Rotato, ROCCHETTA VARA, SP, Liguria",POINT
+Acquedotto Rocchetta capoluogo,ROCCHETTA VARA,22/01/19,"Via Rocchetta, 19020, Rocchetta di Vara, SP","{'type': 'Point', 'coordinates': [9.776158197917203, 44.265346818247735]}","Rocchetta capoluogo, ROCCHETTA VARA, SP, Liguria",POINT
+Acquedotto Stadomelli,ROCCHETTA VARA,22/01/19,"Località Stadomelli, 19020, Rocchetta di Vara, SP","{'type': 'Point', 'coordinates': [9.774435008805227, 44.22247641954421]}","Stadomelli, ROCCHETTA VARA, SP, Liguria",POINT
+Acquedotto Suvero Perfagliaga,ROCCHETTA VARA,22/01/19,"Suvero, Rocchetta di Vara, SP","{'type': 'Point', 'coordinates': [9.778340000000071, 44.26696000000004]}","Suvero Perfagliaga, ROCCHETTA VARA, SP, Liguria",POINT
+Acquedotto Suvero Vicchieda,ROCCHETTA VARA,22/01/19,"Suvero, Rocchetta di Vara, SP","{'type': 'Point', 'coordinates': [9.778340000000071, 44.26696000000004]}","Suvero Vicchieda, ROCCHETTA VARA, SP, Liguria",POINT
+Acquedotto Veppo,ROCCHETTA VARA,22/01/19,"Veppo, Rocchetta di Vara, SP","{'type': 'Point', 'coordinates': [9.78899000000007, 44.25631000000004]}","Veppo, ROCCHETTA VARA, SP, Liguria",POINT
+Acquedotto Veppo Volpara,ROCCHETTA VARA,22/01/19,"Veppo, Rocchetta di Vara, SP","{'type': 'Point', 'coordinates': [9.78899000000007, 44.25631000000004]}","Veppo Volpara, ROCCHETTA VARA, SP, Liguria",POINT
+Acquedotto Ponzano,SANTO STEFANO MAGRA,22/11/19,"Santo Stefano di Magra, SP","{'type': 'Point', 'coordinates': [9.919900000000041, 44.16632000000004]}","Ponzano, SANTO STEFANO MAGRA, SP, Liguria",POINT
+Acquedotto S. Stefano capoluogo,SANTO STEFANO MAGRA,18/09/19,"Viadotto Santo Stefano, 19037, Santo Stefano di Magra, SP","{'type': 'Point', 'coordinates': [9.914243599237633, 44.166070530403566]}","S. Stefano capoluogo, SANTO STEFANO MAGRA, SP, Liguria",POINT
+Acquedotto Santo Stefano capoluogo,SANTO STEFANO MAGRA,23/01/19,"Viadotto Santo Stefano, 19037, Santo Stefano di Magra, SP","{'type': 'Point', 'coordinates': [9.914243599237633, 44.166070530403566]}","Santo Stefano capoluogo, SANTO STEFANO MAGRA, SP, Liguria",POINT
+Acquedotto Sarzana capoluogo,SARZANA,12/09/19,"Sarzana, SP","{'type': 'Point', 'coordinates': [9.958860000000072, 44.111860000000036]}","Sarzana capoluogo, SARZANA, SP, Liguria",POINT
+Acquedotto Airola,SESTA GODANO,29/01/19,"Airola, Sesta Godano, SP","{'type': 'Point', 'coordinates': [9.694560000000024, 44.321660000000065]}","Airola, SESTA GODANO, SP, Liguria",POINT
+Acquedotto Airola inferiore,SESTA GODANO,13/06/19,"Via Airola Inferiore, 19020, Sesta Godano, SP","{'type': 'Point', 'coordinates': [9.69444504163968, 44.320874041639705]}","Airola inferiore, SESTA GODANO, SP, Liguria",POINT
+Acquedotto Airola superiore,SESTA GODANO,29/01/19,"Via Airola Superiore, 19020, Sesta Godano, SP","{'type': 'Point', 'coordinates': [9.696365017067922, 44.32286281348947]}","Airola superiore, SESTA GODANO, SP, Liguria",POINT
+Acquedotto Antessio,SESTA GODANO,17/06/19,"Antessio, Sesta Godano, SP","{'type': 'Point', 'coordinates': [9.708660000000066, 44.321120000000064]}","Antessio, SESTA GODANO, SP, Liguria",POINT
+Acquedotto Bergassana,SESTA GODANO,17/06/19,"Bergassana, Sesta Godano, SP","{'type': 'Point', 'coordinates': [9.678310000000067, 44.26639000000006]}","Bergassana, SESTA GODANO, SP, Liguria",POINT
+Acquedotto Ca'di Vara,SESTA GODANO,13/06/19,"Località Ca' di Vara, 19020, Sesta Godano, SP","{'type': 'Point', 'coordinates': [9.686091426184525, 44.24622261931284]}","Ca'di Vara, SESTA GODANO, SP, Liguria",POINT
+Acquedotto Calabria,SESTA GODANO,13/06/19,"Calabria, Sesta Godano, SP","{'type': 'Point', 'coordinates': [9.701550000000054, 44.28964000000008]}","Calabria, SESTA GODANO, SP, Liguria",POINT
+Acquedotto Chiusola,SESTA GODANO,17/06/19,"Chiusola, Sesta Godano, SP","{'type': 'Point', 'coordinates': [9.701540000000023, 44.33704000000006]}","Chiusola, SESTA GODANO, SP, Liguria",POINT
+Acquedotto Codarmo,SESTA GODANO,17/06/19,"Via Codarmo, 19020, Sesta Godano, SP","{'type': 'Point', 'coordinates': [9.673728714374713, 44.29332355541713]}","Codarmo, SESTA GODANO, SP, Liguria",POINT
+Acquedotto Cornice,SESTA GODANO,13/06/19,"Cornice, Sesta Godano, SP","{'type': 'Point', 'coordinates': [9.690130000000067, 44.251960000000054]}","Cornice, SESTA GODANO, SP, Liguria",POINT
+Acquedotto Godano,SESTA GODANO,13/06/19,"Godano, Sesta Godano, SP","{'type': 'Point', 'coordinates': [9.690860000000043, 44.29325000000006]}","Godano, SESTA GODANO, SP, Liguria",POINT
+Acquedotto Groppo,SESTA GODANO,17/06/19,"Groppo, Sesta Godano, SP","{'type': 'Point', 'coordinates': [9.664560000000051, 44.31280000000004]}","Groppo, SESTA GODANO, SP, Liguria",POINT
+Acquedotto Mangia,SESTA GODANO,13/06/19,"Mangia, Sesta Godano, SP","{'type': 'Point', 'coordinates': [9.703310000000045, 44.257310000000075]}","Mangia, SESTA GODANO, SP, Liguria",POINT
+Acquedotto Merzò,SESTA GODANO,13/06/19,"Merzo, Sesta Godano, SP","{'type': 'Point', 'coordinates': [9.697490000000073, 44.289810000000045]}","Merzò, SESTA GODANO, SP, Liguria",POINT
+Acquedotto Oradoro,SESTA GODANO,30/01/19,"Via Oradoro, 19020, Sesta Godano, SP","{'type': 'Point', 'coordinates': [9.726096365097511, 44.299562611136515]}","Oradoro, SESTA GODANO, SP, Liguria",POINT
+Acquedotto Orneto,SESTA GODANO,17/06/19,"Orneto, Sesta Godano, SP","{'type': 'Point', 'coordinates': [9.714570000000037, 44.35138000000006]}","Orneto, SESTA GODANO, SP, Liguria",POINT
+Acquedotto Pignona,SESTA GODANO,13/06/19,"Pignona, Sesta Godano, SP","{'type': 'Point', 'coordinates': [9.69909000000007, 44.31492000000003]}","Pignona, SESTA GODANO, SP, Liguria",POINT
+Acquedotto Rio,SESTA GODANO,17/06/19,"Rio, Sesta Godano, SP","{'type': 'Point', 'coordinates': [9.675090000000068, 44.30683000000005]}","Rio, SESTA GODANO, SP, Liguria",POINT
+Acquedotto Rio Case sparse,SESTA GODANO,30/01/19,"Rio, Sesta Godano, SP","{'type': 'Point', 'coordinates': [9.675090000000068, 44.30683000000005]}","Rio Case sparse, SESTA GODANO, SP, Liguria",POINT
+Acquedotto Roggiano,SESTA GODANO,13/06/19,"Roggiano, Sesta Godano, SP","{'type': 'Point', 'coordinates': [9.675110000000075, 44.28917000000007]}","Roggiano, SESTA GODANO, SP, Liguria",POINT
+Acquedotto S.Maria,SESTA GODANO,30/01/19,"Sesta Godano, SP","{'type': 'Point', 'coordinates': [9.674320000000023, 44.29437000000007]}","S.Maria, SESTA GODANO, SP, Liguria",POINT
+Acquedotto Sanata Maria,SESTA GODANO,13/06/19,"Santa Maria, Sesta Godano, SP","{'type': 'Point', 'coordinates': [9.718520000000069, 44.29520000000008]}","Sanata Maria, SESTA GODANO, SP, Liguria",POINT
+Acquedotto Scogna,SESTA GODANO,13/06/19,"Località Santa Maria Scogna, 19020, Sesta Godano, SP","{'type': 'Point', 'coordinates': [9.718427705513188, 44.295312524540584]}","Scogna, SESTA GODANO, SP, Liguria",POINT
+Acquedotto Serò,SESTA GODANO,07/01/19,"Sesta Godano, SP","{'type': 'Point', 'coordinates': [9.674320000000023, 44.29437000000007]}","Serò, SESTA GODANO, SP, Liguria",POINT
+Acquedotto Sesta Godano capoluogo,SESTA GODANO,17/06/19,"Sesta Godano, SP","{'type': 'Point', 'coordinates': [9.674320000000023, 44.29437000000007]}","Sesta Godano capoluogo, SESTA GODANO, SP, Liguria",POINT
+Acquedotto Corniglia,VERNAZZA,31/07/19,"Corniglia, Vernazza, SP","{'type': 'Point', 'coordinates': [9.708750000000066, 44.120790000000056]}","Corniglia, VERNAZZA, SP, Liguria",POINT
+Acquedotto San Bernardino,VERNAZZA,17/06/19,"Località San Bernardino, 19018, Vernazza, SP","{'type': 'Point', 'coordinates': [9.701688579717686, 44.13213982457746]}","San Bernardino, VERNAZZA, SP, Liguria",POINT
+Acquedotto Vernazza capoluogo,VERNAZZA,26/02/19,"Vernazza, SP","{'type': 'Point', 'coordinates': [9.684870000000046, 44.13566000000003]}","Vernazza capoluogo, VERNAZZA, SP, Liguria",POINT
+Acquedotto Prati,VEZZANO LIGURE,25/11/19,"Prati, Vezzano Ligure, SP","{'type': 'Point', 'coordinates': [9.88996000000003, 44.12782000000004]}","Prati, VEZZANO LIGURE, SP, Liguria",POINT
+Acquedotto Valeriano,VEZZANO LIGURE,23/01/19,"Valeriano, Vezzano Ligure, SP","{'type': 'Point', 'coordinates': [9.855590000000063, 44.14937000000003]}","Valeriano, VEZZANO LIGURE, SP, Liguria",POINT
+Acquedotto Vezzano basso,VEZZANO LIGURE,23/01/19,"Vezzano Ligure, SP","{'type': 'Point', 'coordinates': [9.884460000000047, 44.14143000000007]}","Vezzano basso, VEZZANO LIGURE, SP, Liguria",POINT
+Acquedotto Debbio,ZIGNAGO,11/12/19,"Debbio, Zignago, SP","{'type': 'Point', 'coordinates': [9.744490000000042, 44.28806000000003]}","Debbio, ZIGNAGO, SP, Liguria",POINT
+Acquedotto Pieve,ZIGNAGO,02/10/19,"Pieve di Zignago, Zignago, SP","{'type': 'Point', 'coordinates': [9.744890000000055, 44.27819000000005]}","Pieve, ZIGNAGO, SP, Liguria",POINT
+Acquedotto Sasseta,ZIGNAGO,11/12/19,"Sasseta, Zignago, SP","{'type': 'Point', 'coordinates': [9.736920000000055, 44.29714000000007]}","Sasseta, ZIGNAGO, SP, Liguria",POINT
+Acquedotto Serò,ZIGNAGO,11/12/19,"Sero, Zignago, SP","{'type': 'Point', 'coordinates': [9.737010000000055, 44.262410000000045]}","Serò, ZIGNAGO, SP, Liguria",POINT
+Acquedotto Torpiana Via Canale,ZIGNAGO,11/12/19,"Via del Canale, 19020, Zignago, SP","{'type': 'Point', 'coordinates': [9.732985689673013, 44.310654]}","Torpiana Via Canale, ZIGNAGO, SP, Liguria",POINT
+Acquedotto Torpiana zona Cimitero,ZIGNAGO,07/01/19,"Torpiana, Zignago, SP","{'type': 'Point', 'coordinates': [9.730630000000076, 44.310290000000066]}","Torpiana zona Cimitero, ZIGNAGO, SP, Liguria",POINT
+Acquedotto Torpiana zona Via Canale,ZIGNAGO,07/01/19,"Via del Canale, 19020, Zignago, SP","{'type': 'Point', 'coordinates': [9.732985689673013, 44.310654]}","Torpiana zona Via Canale, ZIGNAGO, SP, Liguria",POINT
+Acquedotto Torpiana zona cimitero,ZIGNAGO,11/12/19,"Torpiana, Zignago, SP","{'type': 'Point', 'coordinates': [9.730630000000076, 44.310290000000066]}","Torpiana zona cimitero, ZIGNAGO, SP, Liguria",POINT
+Acquedotto Vezzola,ZIGNAGO,11/12/19,"Vezzola, Zignago, SP","{'type': 'Point', 'coordinates': [9.755910000000029, 44.277540000000045]}","Vezzola, ZIGNAGO, SP, Liguria",POINT

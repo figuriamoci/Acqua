@@ -1,0 +1,9 @@
+alias_address,alias_city,ammoniaca,arsenico,bicarbonato,calcio,cloruro,conducibilita,data_report,durezza,fluoruri,magnesio,manganese,nitrato,nitrito,ph,potassio,residuo_fisso,sodio,solfato
+Comune,BENE VAGIENNA,0.05,0.34,129.37,78.36,15.70,432.33,Gennaio 2019-Giugno 2019,22.07,0.15,8.60,0.46,13.44,0.05,7.72,0.65,288.00,8.90,97.15
+Comune,BENE VAGIENNA,0.05,0.34,129.37,78.36,15.70,432.33,Gennaio 2019-Giugno 2019,22.07,0.15,8.60,0.46,13.44,0.05,7.72,0.65,288.00,8.90,97.15
+Comune,BRIAGLIA,0.05,0.48,144.73,40.74,3.33,216.33,Gennaio 2019-Giugno 2019,12.40,0.15,7.12,3.38,2.90,0.05,8.02,0.73,120.83,2.16,4.29
+Comune,FRABOSA SOPRANA,0.05,1.09,19.04,5.30,0.63,41.00,Gennaio 2019-Giugno 2019,1.88,0.15,2.21,1.32,2.26,0.05,7.40,0.64,25.30,1.61,1.47
+Comune,MONDOVÌ,0.05,0.79,99.18,27.76,1.99,164.06,Gennaio 2019-Giugno 2019,9.46,0.15,4.98,0.81,2.84,0.05,7.48,1.01,107.00,2.25,3.89
+Comune,ROCCAFORTE MONDOVì,0.05,1.69,28.98,9.06,0.64,58.91,Gennaio 2019-Giugno 2019,2.54,0.15,0.48,1.54,2.83,0.05,7.33,0.80,39.36,1.57,1.91
+Comune,S. MICHELE MONDOVì,0.05,0.37,313.16,67.96,1.94,463.88,Gennaio 2019-Giugno 2019,26.48,0.15,29.38,2.58,2.13,0.05,7.86,0.47,306.94,1.56,7.49
+Comune,VICOFORTE,0.05,0.49,163.08,43.22,3.06,255.50,Gennaio 2019-Giugno 2019,15.37,0.15,10.56,1.71,2.82,0.05,7.99,0.72,172.67,1.98,4.78

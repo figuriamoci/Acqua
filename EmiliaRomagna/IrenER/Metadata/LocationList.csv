@@ -1,362 +1,368 @@
 alias_province,alias_city,alias_address,alias_address_value,georeferencingString,type
-PR,CALESTANO,Tutte Le Zone,31,"Tutte Le Zone, PR, Emilia Romagna",POINT
-PR,COLLECCHIO,Tutte Le Zone,2,"Tutte Le Zone, PR, Emilia Romagna",POINT
-PR,CORNIGLIO,Tutte Le Zone,48,"Tutte Le Zone, PR, Emilia Romagna",POINT
-PR,FELINO,Tutte Le Zone,3,"Tutte Le Zone, PR, Emilia Romagna",POINT
-PR,FONTEVIVO,Tutte Le Zone,5,"Tutte Le Zone, PR, Emilia Romagna",POINT
-PR,LANGHIRANO,Tutte Le Zone,7,"Tutte Le Zone, PR, Emilia Romagna",POINT
-PR,LESIGNANO DE' BAGNI,Tutte Le Zone,8,"Tutte Le Zone, PR, Emilia Romagna",POINT
-PR,MEDESANO,Tutte Le Zone,9,"Tutte Le Zone, PR, Emilia Romagna",POINT
-PR,MEZZANI,Tutte Le Zone,10,"Tutte Le Zone, PR, Emilia Romagna",POINT
-PR,MONCHIO DELLE CORTI,Tutte Le Zone,35,"Tutte Le Zone, PR, Emilia Romagna",POINT
-PR,MONTECHIARUGOLO,Tutte Le Zone,11,"Tutte Le Zone, PR, Emilia Romagna",POINT
-PR,NEVIANO DEGLI ARDUINI,Tutte Le Zone,36,"Tutte Le Zone, PR, Emilia Romagna",POINT
-PR,NOCETO,Tutte Le Zone,12,"Tutte Le Zone, PR, Emilia Romagna",POINT
-PR,PALANZANO,Tutte Le Zone,433,"Tutte Le Zone, PR, Emilia Romagna",POINT
-PR,PARMA,Tutte Le Zone,1,"Tutte Le Zone, PR, Emilia Romagna",POINT
-PR,SALA BAGANZA,Tutte Le Zone,14,"Tutte Le Zone, PR, Emilia Romagna",POINT
-PR,SORBOLO,Tutte Le Zone,18,"Tutte Le Zone, PR, Emilia Romagna",POINT
-PR,TIZZANO VAL PARMA,Tutte Le Zone,19,"Tutte Le Zone, PR, Emilia Romagna",POINT
-PR,TRAVERSETOLO,Tutte Le Zone,20,"Tutte Le Zone, PR, Emilia Romagna",POINT
-PC,AGAZZANO,Tutte Le Zone,49,"Tutte Le Zone, PC, Emilia Romagna",POINT
-PC,ALSENO,Tutte Le Zone,50,"Tutte Le Zone, PC, Emilia Romagna",POINT
-PC,BETTOLA,Tutte Le Zone,51,"Tutte Le Zone, PC, Emilia Romagna",POINT
-PC,BETTOLA,Tutte Le Zone,52,"Tutte Le Zone, PC, Emilia Romagna",POINT
-PC,BOBBIO,Tutte Le Zone,53,"Tutte Le Zone, PC, Emilia Romagna",POINT
-PC,BORGONOVO VAL TIDONE,Tutte Le Zone,54,"Tutte Le Zone, PC, Emilia Romagna",POINT
-PC,CADEO,Tutte Le Zone,55,"Tutte Le Zone, PC, Emilia Romagna",POINT
-PC,CALENDASCO,Tutte Le Zone,56,"Tutte Le Zone, PC, Emilia Romagna",POINT
-PC,CAMINATA,Tutte Le Zone,57,"Tutte Le Zone, PC, Emilia Romagna",POINT
-PC,CAORSO,Tutte Le Zone,58,"Tutte Le Zone, PC, Emilia Romagna",POINT
-PC,CARPANETO PIACENTINO,Tutte Le Zone,59,"Tutte Le Zone, PC, Emilia Romagna",POINT
-PC,CASTEL SAN GIOVANNI,Tutte Le Zone,60,"Tutte Le Zone, PC, Emilia Romagna",POINT
-PC,CASTELL'ARQUATO,Tutte Le Zone,61,"Tutte Le Zone, PC, Emilia Romagna",POINT
-PC,CASTELVETRO PIACENTINO,Tutte Le Zone,62,"Tutte Le Zone, PC, Emilia Romagna",POINT
-PC,CERIGNALE,Tutte Le Zone,65,"Tutte Le Zone, PC, Emilia Romagna",POINT
-PC,COLI,Tutte Le Zone,63,"Tutte Le Zone, PC, Emilia Romagna",POINT
-PC,CORTE BRUGNATELLA,Tutte Le Zone,64,"Tutte Le Zone, PC, Emilia Romagna",POINT
-PC,FARINI,Tutte Le Zone,437,"Tutte Le Zone, PC, Emilia Romagna",POINT
-PC,FARINI,Tutte Le Zone,66,"Tutte Le Zone, PC, Emilia Romagna",POINT
-PC,FERRIERE,Tutte Le Zone,67,"Tutte Le Zone, PC, Emilia Romagna",POINT
-PC,FIORENZUOLA D'ARDA,Tutte Le Zone,68,"Tutte Le Zone, PC, Emilia Romagna",POINT
-PC,GAZZOLA,Tutte Le Zone,69,"Tutte Le Zone, PC, Emilia Romagna",POINT
-PC,GOSSOLENGO,Tutte Le Zone,70,"Tutte Le Zone, PC, Emilia Romagna",POINT
-PC,GRAGNANO TREBBIENSE,Tutte Le Zone,71,"Tutte Le Zone, PC, Emilia Romagna",POINT
-PC,GROPPARELLO,Tutte Le Zone,72,"Tutte Le Zone, PC, Emilia Romagna",POINT
-PC,LUGAGNANO VAL D'ARDA,Tutte Le Zone,73,"Tutte Le Zone, PC, Emilia Romagna",POINT
-PC,MONTICELLI D'ONGINA,Tutte Le Zone,74,"Tutte Le Zone, PC, Emilia Romagna",POINT
-PC,MORFASSO,Tutte Le Zone,75,"Tutte Le Zone, PC, Emilia Romagna",POINT
-PC,NIBBIANO,Tutte Le Zone,76,"Tutte Le Zone, PC, Emilia Romagna",POINT
-PC,OTTONE,Tutte Le Zone,77,"Tutte Le Zone, PC, Emilia Romagna",POINT
-PC,PECORARA,Tutte Le Zone,78,"Tutte Le Zone, PC, Emilia Romagna",POINT
-PC,PIACENZA,Tutte Le Zone,79,"Tutte Le Zone, PC, Emilia Romagna",POINT
-PC,PIANELLO VAL TIDONE,Tutte Le Zone,80,"Tutte Le Zone, PC, Emilia Romagna",POINT
-PC,PIOZZANO,Tutte Le Zone,81,"Tutte Le Zone, PC, Emilia Romagna",POINT
-PC,PODENZANO,Tutte Le Zone,82,"Tutte Le Zone, PC, Emilia Romagna",POINT
-PC,PONTE DELL'OLIO,Tutte Le Zone,83,"Tutte Le Zone, PC, Emilia Romagna",POINT
-PC,PONTENURE,Tutte Le Zone,84,"Tutte Le Zone, PC, Emilia Romagna",POINT
-PC,RIVERGARO,Tutte Le Zone,85,"Tutte Le Zone, PC, Emilia Romagna",POINT
-PC,ROTTOFRENO,Tutte Le Zone,86,"Tutte Le Zone, PC, Emilia Romagna",POINT
-PC,SAN GIORGIO PIACENTINO,Tutte Le Zone,87,"Tutte Le Zone, PC, Emilia Romagna",POINT
-PC,SAN PIETRO IN CERRO,Tutte Le Zone,96,"Tutte Le Zone, PC, Emilia Romagna",POINT
-PC,SARMATO,Tutte Le Zone,88,"Tutte Le Zone, PC, Emilia Romagna",POINT
-PC,TRAVO,Tutte Le Zone,89,"Tutte Le Zone, PC, Emilia Romagna",POINT
-PC,VERNASCA,Tutte Le Zone,90,"Tutte Le Zone, PC, Emilia Romagna",POINT
-PC,VIGOLZONE,Tutte Le Zone,91,"Tutte Le Zone, PC, Emilia Romagna",POINT
-PC,VILLANOVA SULL'ARDA,Tutte Le Zone,92,"Tutte Le Zone, PC, Emilia Romagna",POINT
-PC,ZERBA,Tutte Le Zone,93,"Tutte Le Zone, PC, Emilia Romagna",POINT
-PC,ZIANO PIACENTINO,Tutte Le Zone,94,"Tutte Le Zone, PC, Emilia Romagna",POINT
-RE,ALBINEA,Albinea Tutte Le Altre Zone,174,"Albinea Tutte Le Altre Zone, RE, Emilia Romagna",POINT
-RE,ALBINEA,"Capriolo, Caselline, La Razza",380,"Capriolo, ALBINEA, RE, Emilia Romagna",POINT
-RE,BAGNOLO IN PIANO,Bagnolo In Piano,176,"Bagnolo In Piano, RE, Emilia Romagna",POINT
-RE,BAISO,Baiso,177,"Baiso, RE, Emilia Romagna",POINT
-RE,BIBBIANO,Piazzola,178,"Piazzola, RE, Emilia Romagna",POINT
-RE,BIBBIANO,Ghiardo E Zona Industriale,179,"Ghiardo E Zona Industriale, RE, Emilia Romagna",POINT
-RE,BIBBIANO,Bibbiano Centro,180,"Bibbiano Centro, RE, Emilia Romagna",POINT
-RE,BIBBIANO,Corniano,181,"Corniano, RE, Emilia Romagna",POINT
-RE,BIBBIANO,Fossa Di Barco,182,"Fossa Di Barco, RE, Emilia Romagna",POINT
-RE,BIBBIANO,Barco E Zona Ind. Barco,183,"Barco E Zona Ind. Barco, RE, Emilia Romagna",POINT
-RE,BORETTO,Boretto,184,"Boretto, RE, Emilia Romagna",POINT
-RE,BRESCELLO,Brescello,185,"Brescello, RE, Emilia Romagna",POINT
-RE,BUSANA,"Campeggio, Tavernetta E Hotel Ilton",187,"Tavernetta,BUSANA, RE, Emilia Romagna",POINT
-RE,BUSANA,"Cervarezza, Frassinedolo, C&Agrave; De Ferrari, Casale Di Talada",188,"Cervarezza, Frassinedolo, De Ferrari, Casale Di Talada,BUSANA, RE, Emilia Romagna",POINT
-RE,CADELBOSCO DI SOPRA,Cadelbosco Sopra,189,"Cadelbosco Sopra, RE, Emilia Romagna",POINT
-RE,CAMPAGNOLA EMILIA,Campagnola Emilia,190,"Campagnola Emilia, RE, Emilia Romagna",POINT
-RE,CAMPEGINE,Campegine,191,"Campegine, RE, Emilia Romagna",POINT
-RE,CANOSSA,Carbonizzo,192,"Carbonizzo, RE, Emilia Romagna",POINT
-RE,CANOSSA,Cerezzola,193,"Cerezzola, RE, Emilia Romagna",POINT
-RE,CANOSSA,Ciano D'Enza,194,"Ciano D'Enza, RE, Emilia Romagna",POINT
-RE,CANOSSA,Vico,195,"Vico, RE, Emilia Romagna",POINT
-RE,CANOSSA,Canossa Tutte Le Altre Zone,196,"Canossa, RE, Emilia Romagna",POINT
-RE,CARPINETI,Carpineti,197,"Carpineti, RE, Emilia Romagna",POINT
-RE,CASALGRANDE,S. Donnino,198,"S. Donnino, RE, Emilia Romagna",POINT
-RE,CASALGRANDE,Casalgrande Tutte Le Altre Zone,199,"Casalgrande, RE, Emilia Romagna",POINT
-RE,CASALGRANDE,Via Statuaria Dal Rio Riazzone A Piazza Spinelli,401,"Via Statuaria CASALGRANDE, RE, Emilia Romagna",POINT
-RE,CASINA,Casina,200,"Casina, RE, Emilia Romagna",POINT
-RE,CASTELLARANO,Roteglia,201,"Roteglia, RE, Emilia Romagna",POINT
-RE,CASTELLARANO,Castellarano Tutte Le Altre Zone,202,"Castellarano Tutte Le Altre Zone, RE, Emilia Romagna",POINT
-RE,CASTELNOVO DI SOTTO,Castelnovo Sotto,204,"Castelnovo Sotto, RE, Emilia Romagna",POINT
-RE,CASTELNOVO NE' MONTI,Castelnovo Ne' Monti,203,"Castelnovo Ne' Monti, RE, Emilia Romagna",POINT
-RE,CAVRIAGO,Corte Tegge,205,"Corte Tegge, RE, Emilia Romagna",POINT
-RE,CAVRIAGO,Zona Ind. Corte Tegge,206,"Zona Ind. Corte Tegge, RE, Emilia Romagna",POINT
-RE,CAVRIAGO,Cavriago Tutte Le Altre Zone,207,"Cavriago Tutte Le Altre Zone, RE, Emilia Romagna",POINT
-RE,COLLAGNA,Cerreto Alpi,208,"Cerreto Alpi, RE, Emilia Romagna",POINT
-RE,COLLAGNA,Cerreto Lago,209,"Cerreto Lago, RE, Emilia Romagna",POINT
-RE,COLLAGNA,Cerreto Passo,210,"Cerreto Passo, RE, Emilia Romagna",POINT
-RE,COLLAGNA,Collagna Centro,211,"Collagna Centro, RE, Emilia Romagna",POINT
-RE,COLLAGNA,Oratorio,212,"Oratorio, RE, Emilia Romagna",POINT
-RE,COLLAGNA,Ponte Del Barone,213,"Ponte Del Barone, RE, Emilia Romagna",POINT
-RE,COLLAGNA,Valbona,214,"Valbona, RE, Emilia Romagna",POINT
-RE,COLLAGNA,Vallisnera Di Sopra,215,"Vallisnera Di Sopra, RE, Emilia Romagna",POINT
-RE,COLLAGNA,Vallisnera Di Sotto,216,"Vallisnera Di Sotto, RE, Emilia Romagna",POINT
-RE,CORREGGIO,Cavallerina,217,"Cavallerina, RE, Emilia Romagna",POINT
-RE,CORREGGIO,Colombarone,218,"Colombarone, RE, Emilia Romagna",POINT
-RE,CORREGGIO,Correggio Centro,219,"Correggio Centro, RE, Emilia Romagna",POINT
-RE,CORREGGIO,Ponte Dell'Agrato,220,"Ponte Dell'Agrato, RE, Emilia Romagna",POINT
-RE,CORREGGIO,Prato,221,"Prato, RE, Emilia Romagna",POINT
-RE,CORREGGIO,S. Biagio,222,"S. Biagio, RE, Emilia Romagna",POINT
-RE,CORREGGIO,Viazza,223,"Viazza, RE, Emilia Romagna",POINT
-RE,CORREGGIO,Villaggio Artigiano,224,"Villaggio Artigiano, RE, Emilia Romagna",POINT
-RE,CORREGGIO,Zona Industriale Correggio,225,"Zona Industriale Correggio, RE, Emilia Romagna",POINT
-RE,CORREGGIO,Zone Rimanenti Correggio,226,"Zone Rimanenti Correggio, RE, Emilia Romagna",POINT
-RE,CORREGGIO,Fazzano Oltre I Civ 30 E 63 Di Via Fazzano,374,"Fazzano Oltre I Civ 30 E 63 Di Via Fazzano, RE, Emilia Romagna",POINT
-RE,CORREGGIO,Il Ghetto,375,"Il Ghetto, RE, Emilia Romagna",POINT
-RE,CORREGGIO,Lemizzone,376,"Lemizzone, RE, Emilia Romagna",POINT
-RE,CORREGGIO,Casino Tirelli,377,"Casino Tirelli, RE, Emilia Romagna",POINT
-RE,CORREGGIO,Fazzano Fino Ai Civ 30 E 63 Di Via Fazzano,378,"Fazzano Fino Ai Civ 30 E 63 Di Via Fazzano, RE, Emilia Romagna",POINT
-RE,CORREGGIO,Prato Zona Industriale,379,"Prato Zona Industriale, RE, Emilia Romagna",POINT
-RE,CORREGGIO,Bernolda,381,"Bernolda, RE, Emilia Romagna",POINT
-RE,CORREGGIO,Budrio,382,"Budrio, RE, Emilia Romagna",POINT
-RE,CORREGGIO,Canolo,383,"Canolo, RE, Emilia Romagna",POINT
-RE,CORREGGIO,Fosdondo,384,"Fosdondo, RE, Emilia Romagna",POINT
-RE,CORREGGIO,Giardino,385,"Giardino, RE, Emilia Romagna",POINT
-RE,CORREGGIO,Mandrio,386,"Mandrio, RE, Emilia Romagna",POINT
-RE,CORREGGIO,Mandriolo,387,"Mandriolo, RE, Emilia Romagna",POINT
-RE,FABBRICO,Tutte Le Zone,372,"Tutte Le Zone, RE, Emilia Romagna",POINT
-RE,GATTATICO,Zone A Nord Dell'Autostrada,227,"Zone A Nord Dell'Autostrada, RE, Emilia Romagna",POINT
-RE,GATTATICO,Zone A Sud Dell'Autostrada,228,"Zone A Sud Dell'Autostrada, RE, Emilia Romagna",POINT
-RE,GUALTIERI,Gualtieri E Tutte Le Altre Zone,229,"Gualtieri E Tutte Le Altre Zone, RE, Emilia Romagna",POINT
-RE,GUALTIERI,Santa Vittoria E Zona Industriale Di Gualtieri,373,"Santa Vittoria E Zona Industriale Di Gualtieri, RE, Emilia Romagna",POINT
-RE,GUASTALLA,Baccanello,230,"Baccanello, RE, Emilia Romagna",POINT
-RE,GUASTALLA,CÀ De Frati (S. Giacomo),231,"CÀ De Frati (S. Giacomo), RE, Emilia Romagna",POINT
-RE,GUASTALLA,Carrobioli,232,"Carrobioli, RE, Emilia Romagna",POINT
-RE,GUASTALLA,Case Fangaia (S. Giacomo),233,"Case Fangaia (S. Giacomo), RE, Emilia Romagna",POINT
-RE,GUASTALLA,Cerchietto (S. Martino),234,"Cerchietto (S. Martino), RE, Emilia Romagna",POINT
-RE,GUASTALLA,Guastalla Centro,235,"Guastalla Centro, RE, Emilia Romagna",POINT
-RE,GUASTALLA,La Madonnina,236,"La Madonnina, RE, Emilia Romagna",POINT
-RE,GUASTALLA,Nizzola,237,"Nizzola, RE, Emilia Romagna",POINT
-RE,GUASTALLA,S. Giacomo E Zona Industriale Di S.Giacomo,238,"S. Giacomo E Zona Industriale Di S.Giacomo, RE, Emilia Romagna",POINT
-RE,GUASTALLA,S. Giorgio,240,"S. Giorgio, RE, Emilia Romagna",POINT
-RE,GUASTALLA,S. Girolamo,241,"S. Girolamo, RE, Emilia Romagna",POINT
-RE,GUASTALLA,S. Martino,242,"S. Martino, RE, Emilia Romagna",POINT
-RE,GUASTALLA,S. Rocco,243,"S. Rocco, RE, Emilia Romagna",POINT
-RE,GUASTALLA,Solarolo,244,"Solarolo, RE, Emilia Romagna",POINT
-RE,GUASTALLA,Tagliata,245,"Tagliata, RE, Emilia Romagna",POINT
-RE,GUASTALLA,Villa Pieve,246,"Villa Pieve, RE, Emilia Romagna",POINT
-RE,GUASTALLA,Zone A Sud Del Cavo BPM,247,"Zone A Sud Del Cavo BPM, RE, Emilia Romagna",POINT
-RE,LIGONCHIO,Bracchi,248,"Bracchi, RE, Emilia Romagna",POINT
-RE,LIGONCHIO,Campo,249,"Campo, RE, Emilia Romagna",POINT
-RE,LIGONCHIO,Caprile,250,"Caprile, RE, Emilia Romagna",POINT
-RE,LIGONCHIO,Casalino,251,"Casalino, RE, Emilia Romagna",POINT
-RE,LIGONCHIO,Casenove,252,"Casenove, RE, Emilia Romagna",POINT
-RE,LIGONCHIO,Cinquecerri,253,"Cinquecerri, RE, Emilia Romagna",POINT
-RE,LIGONCHIO,Costa Di Piolo,254,"Costa Di Piolo, RE, Emilia Romagna",POINT
-RE,LIGONCHIO,Giarola,255,"Giarola, RE, Emilia Romagna",POINT
-RE,LIGONCHIO,Le Vaglie,256,"Le Vaglie, RE, Emilia Romagna",POINT
-RE,LIGONCHIO,Ligonchio Centro,257,"Ligonchio Centro, RE, Emilia Romagna",POINT
-RE,LIGONCHIO,Loggia,258,"Loggia, RE, Emilia Romagna",POINT
-RE,LIGONCHIO,Montecagno,259,"Montecagno, RE, Emilia Romagna",POINT
-RE,LIGONCHIO,Ospitaletto,260,"Ospitaletto, RE, Emilia Romagna",POINT
-RE,LIGONCHIO,Piazza Di Piolo,261,"Piazza Di Piolo, RE, Emilia Romagna",POINT
-RE,LIGONCHIO,Piolo,262,"Piolo, RE, Emilia Romagna",POINT
-RE,LUZZARA,Luzzara,263,"Luzzara, RE, Emilia Romagna",POINT
-RE,MONTECCHIO EMILIA,Montecchio Emilia,264,"Montecchio Emilia, RE, Emilia Romagna",POINT
-RE,MONTECCHIO EMILIA,"Zone A Sud Di Via A.Grandi E Via L.Landini, Comprese Vie Montale, Quasimodo E Battisti",389,"Zone A Sud Di Via A.Grandi E Via L.Landini, Comprese Vie Montale, Quasimodo E Battisti, RE, Emilia Romagna",POINT
-RE,NOVELLARA,Novellara,265,"Novellara, RE, Emilia Romagna",POINT
-RE,POVIGLIO,Poviglio,266,"Poviglio, RE, Emilia Romagna",POINT
-RE,RAMISETO,Camporella,272,"Camporella, RE, Emilia Romagna",POINT
-RE,RAMISETO,Canova,273,"Canova, RE, Emilia Romagna",POINT
-RE,RAMISETO,Casalobbio,274,"Casalobbio, RE, Emilia Romagna",POINT
-RE,RAMISETO,Castagneto,275,"Castagneto, RE, Emilia Romagna",POINT
-RE,RAMISETO,Cecciola,276,"Cecciola, RE, Emilia Romagna",POINT
-RE,RAMISETO,Cerreggio,277,"Cerreggio, RE, Emilia Romagna",POINT
-RE,RAMISETO,La Costa Ramiseto,278,"La Costa Ramiseto, RE, Emilia Romagna",POINT
-RE,RAMISETO,Le Teggie,279,"Le Teggie, RE, Emilia Romagna",POINT
-RE,RAMISETO,Lugolo,280,"Lugolo, RE, Emilia Romagna",POINT
-RE,RAMISETO,Montedello,281,"Montedello, RE, Emilia Romagna",POINT
-RE,RAMISETO,Nigone,282,"Nigone, RE, Emilia Romagna",POINT
-RE,RAMISETO,Ramiseto Centro,284,"Ramiseto Centro, RE, Emilia Romagna",POINT
-RE,RAMISETO,Storlo,285,"Storlo, RE, Emilia Romagna",POINT
-RE,RAMISETO,Succiso,286,"Succiso, RE, Emilia Romagna",POINT
-RE,RAMISETO,Taviano,287,"Taviano, RE, Emilia Romagna",POINT
-RE,RAMISETO,Temporia,288,"Temporia, RE, Emilia Romagna",POINT
-RE,RAMISETO,Varvilla,289,"Varvilla, RE, Emilia Romagna",POINT
-RE,RAMISETO,Ventasso Laghi,290,"Ventasso Laghi, RE, Emilia Romagna",POINT
-RE,REGGIO EMILIA,Reggio Emilia - Centro,97,"Reggio Emilia - Centro, RE, Emilia Romagna",POINT
-RE,REGGIO EMILIA,Bagno,102,"Bagno, RE, Emilia Romagna",POINT
-RE,REGGIO EMILIA,Baragalla,106,"Baragalla, RE, Emilia Romagna",POINT
-RE,REGGIO EMILIA,Bazzarola,107,"Bazzarola, RE, Emilia Romagna",POINT
-RE,REGGIO EMILIA,Buco Del Signore,108,"Buco Del Signore, RE, Emilia Romagna",POINT
-RE,REGGIO EMILIA,Buda (Modolena),109,"Buda (Modolena), RE, Emilia Romagna",POINT
-RE,REGGIO EMILIA,CadÈ,110,"CadÈ, RE, Emilia Romagna",POINT
-RE,REGGIO EMILIA,Calvetro (Masone),111,"Calvetro (Masone), RE, Emilia Romagna",POINT
-RE,REGGIO EMILIA,Campo Gelsi (Massenzatico),112,"Campo Gelsi (Massenzatico), RE, Emilia Romagna",POINT
-RE,REGGIO EMILIA,Canali,113,"Canali, RE, Emilia Romagna",POINT
-RE,REGGIO EMILIA,Casale Di Rivalta,114,"Casale Di Rivalta, RE, Emilia Romagna",POINT
-RE,REGGIO EMILIA,Castellazzo,117,"Castellazzo, RE, Emilia Romagna",POINT
-RE,REGGIO EMILIA,Castello Di Pratofontana,118,"Castello Di Pratofontana, RE, Emilia Romagna",POINT
-RE,REGGIO EMILIA,Castello Di Vialato,119,"Castello Di Vialato, RE, Emilia Romagna",POINT
-RE,REGGIO EMILIA,Castello Motti (Gavassa),120,"Castello Motti (Gavassa), RE, Emilia Romagna",POINT
-RE,REGGIO EMILIA,Cavazzoli,121,"Cavazzoli, RE, Emilia Romagna",POINT
-RE,REGGIO EMILIA,Cella,122,"Cella, RE, Emilia Romagna",POINT
-RE,REGGIO EMILIA,CÒ Di Sotto (Massenzatico),123,"CÒ Di Sotto (Massenzatico), RE, Emilia Romagna",POINT
-RE,REGGIO EMILIA,Codemondo,124,"Codemondo, RE, Emilia Romagna",POINT
-RE,REGGIO EMILIA,Corticella,125,"Corticella, RE, Emilia Romagna",POINT
-RE,REGGIO EMILIA,Coviolo,126,"Coviolo, RE, Emilia Romagna",POINT
-RE,REGGIO EMILIA,Due MaestÀ,127,"Due MaestÀ, RE, Emilia Romagna",POINT
-RE,REGGIO EMILIA,Fogliano,128,"Fogliano, RE, Emilia Romagna",POINT
-RE,REGGIO EMILIA,Foscato,129,"Foscato, RE, Emilia Romagna",POINT
-RE,REGGIO EMILIA,Gaida,130,"Gaida, RE, Emilia Romagna",POINT
-RE,REGGIO EMILIA,Gavassa,132,"Gavassa, RE, Emilia Romagna",POINT
-RE,REGGIO EMILIA,Gavasseto,133,"Gavasseto, RE, Emilia Romagna",POINT
-RE,REGGIO EMILIA,Chionso,136,"Chionso, RE, Emilia Romagna",POINT
-RE,REGGIO EMILIA,La Villa,137,"La Villa, RE, Emilia Romagna",POINT
-RE,REGGIO EMILIA,Le Rotte (Confine Bagnolo),138,"Le Rotte (Confine Bagnolo), RE, Emilia Romagna",POINT
-RE,REGGIO EMILIA,Mancasale E Zona Industriale A Sud Di Via Lama,139,"Mancasale E Zona Industriale A Sud Di Via Lama, RE, Emilia Romagna",POINT
-RE,REGGIO EMILIA,Mancasale Zona Industriale A Nord Di Via Lama,140,"Mancasale Zona Industriale A Nord Di Via Lama, RE, Emilia Romagna",POINT
-RE,REGGIO EMILIA,Marmirolo,141,"Marmirolo, RE, Emilia Romagna",POINT
-RE,REGGIO EMILIA,Masone,142,"Masone, RE, Emilia Romagna",POINT
-RE,REGGIO EMILIA,Massenzatico,143,"Massenzatico, RE, Emilia Romagna",POINT
-RE,REGGIO EMILIA,Modolena,144,"Modolena, RE, Emilia Romagna",POINT
-RE,REGGIO EMILIA,Orologio (RE),145,"Orologio (RE), RE, Emilia Romagna",POINT
-RE,REGGIO EMILIA,Penizzo (Pratofontana),147,"Penizzo (Pratofontana), RE, Emilia Romagna",POINT
-RE,REGGIO EMILIA,Pieve Modolena,148,"Pieve Modolena, RE, Emilia Romagna",POINT
-RE,REGGIO EMILIA,Pratofontana,150,"Pratofontana, RE, Emilia Romagna",POINT
-RE,REGGIO EMILIA,Quaresimo,151,"Quaresimo, RE, Emilia Romagna",POINT
-RE,REGGIO EMILIA,Rivalta,154,"Rivalta, RE, Emilia Romagna",POINT
-RE,REGGIO EMILIA,Roncadella,155,"Roncadella, RE, Emilia Romagna",POINT
-RE,REGGIO EMILIA,Roncina,156,"Roncina, RE, Emilia Romagna",POINT
-RE,REGGIO EMILIA,Roncocesi,157,"Roncocesi, RE, Emilia Romagna",POINT
-RE,REGGIO EMILIA,S. Grisante E Daria (Masone),159,"S. Grisante E Daria (Masone), RE, Emilia Romagna",POINT
-RE,REGGIO EMILIA,S. Maurizio,160,"S. Maurizio, RE, Emilia Romagna",POINT
-RE,REGGIO EMILIA,S. Nicola (Masone),161,"S. Nicola (Masone), RE, Emilia Romagna",POINT
-RE,REGGIO EMILIA,S. Prospero Strinati,162,"S. Prospero Strinati, RE, Emilia Romagna",POINT
-RE,REGGIO EMILIA,S. Rigo,163,"S. Rigo, RE, Emilia Romagna",POINT
-RE,REGGIO EMILIA,Sabbione,164,"Sabbione, RE, Emilia Romagna",POINT
-RE,REGGIO EMILIA,Sesso,167,"Sesso, RE, Emilia Romagna",POINT
-RE,REGGIO EMILIA,Sesso Zona Industriale,168,"Sesso Zona Industriale, RE, Emilia Romagna",POINT
-RE,REGGIO EMILIA,Vialato,169,"Vialato, RE, Emilia Romagna",POINT
-RE,REGGIO EMILIA,Villa Curta,170,"Villa Curta, RE, Emilia Romagna",POINT
-RE,REGGIO EMILIA,Zimella (Corticella),171,"Zimella (Corticella), RE, Emilia Romagna",POINT
-RE,REGGIO EMILIA,Zona Annonaria,172,"Zona Annonaria, RE, Emilia Romagna",POINT
-RE,REGGIO EMILIA,Ghiarda,391,"Ghiarda, RE, Emilia Romagna",POINT
-RE,REGGIO EMILIA,Massenzatico Battibana,392,"Massenzatico Battibana, RE, Emilia Romagna",POINT
-RE,REGGIOLO,Bettolino,291,"Bettolino, RE, Emilia Romagna",POINT
-RE,REGGIOLO,Zone A Sud Del Cavo BPM,292,"Zone A Sud Del Cavo BPM, RE, Emilia Romagna",POINT
-RE,REGGIOLO,Tutte Le Altre Zone,293,"Tutte Le Altre Zone, RE, Emilia Romagna",POINT
-RE,RIO SALICETO,Rio Saliceto,294,"Rio Saliceto, RE, Emilia Romagna",POINT
-RE,ROLO,Rolo,295,"Rolo, RE, Emilia Romagna",POINT
-RE,RUBIERA,Rubiera,296,"Rubiera, RE, Emilia Romagna",POINT
-RE,SAN MARTINO IN RIO,San Martino In Rio,297,"San Martino In Rio, RE, Emilia Romagna",POINT
-RE,SAN POLO D'ENZA,Carbognano,298,"Carbognano, RE, Emilia Romagna",POINT
-RE,SAN POLO D'ENZA,Grassano,299,"Grassano, RE, Emilia Romagna",POINT
-RE,SAN POLO D'ENZA,Macigno,300,"Macigno, RE, Emilia Romagna",POINT
-RE,SAN POLO D'ENZA,Montemoro,301,"Montemoro, RE, Emilia Romagna",POINT
-RE,SAN POLO D'ENZA,Vetto,302,"Vetto, RE, Emilia Romagna",POINT
-RE,SAN POLO D'ENZA,Tutte Le Altre Zone,303,"Tutte Le Altre Zone, RE, Emilia Romagna",POINT
-RE,SAN POLO D'ENZA,Borsea,393,"Borsea, RE, Emilia Romagna",POINT
-RE,SAN POLO D'ENZA,Caverzano,394,"Caverzano, RE, Emilia Romagna",POINT
-RE,SAN POLO D'ENZA,Madonna Della Battaglia,395,"Madonna Della Battaglia, RE, Emilia Romagna",POINT
-RE,SAN POLO D'ENZA,Pezzano,396,"Pezzano, RE, Emilia Romagna",POINT
-RE,SAN POLO D'ENZA,Pietre,397,"Pietre, RE, Emilia Romagna",POINT
-RE,SAN POLO D'ENZA,Sedignano,398,"Sedignano, RE, Emilia Romagna",POINT
-RE,SANT'ILARIO D'ENZA,Sant'Ilario D'Enza,304,"Sant'Ilario D'Enza, RE, Emilia Romagna",POINT
-RE,SCANDIANO,Cacciola,305,"Cacciola, RE, Emilia Romagna",POINT
-RE,SCANDIANO,Chiozzino,308,"Chiozzino, RE, Emilia Romagna",POINT
-RE,SCANDIANO,La Braglia,309,"La Braglia, RE, Emilia Romagna",POINT
-RE,SCANDIANO,La Riva,310,"La Riva, RE, Emilia Romagna",POINT
-RE,SCANDIANO,Rondinara,311,"Rondinara, RE, Emilia Romagna",POINT
-RE,SCANDIANO,Tutte Le Altre Zone,313,"Tutte Le Altre Zone, RE, Emilia Romagna",POINT
-RE,SCANDIANO,Via Madonna Della Tosse,399,"Via Madonna Della Tosse, RE, Emilia Romagna",POINT
-RE,VENTASSO,Cerreto Laghi E Cerreto Passo,403,"Cerreto Laghi E Cerreto Passo, RE, Emilia Romagna",POINT
-RE,VENTASSO,Ramiseto Centro,404,"Ramiseto Centro, RE, Emilia Romagna",POINT
-RE,VENTASSO,Valbona,405,"Valbona, RE, Emilia Romagna",POINT
-RE,VENTASSO,Vallisnera Sopra,406,"Vallisnera Sopra, RE, Emilia Romagna",POINT
-RE,VENTASSO,Ligonchio E Ospitaletto,407,"Ligonchio E Ospitaletto, RE, Emilia Romagna",POINT
-RE,VENTASSO,Montecagno,408,"Montecagno, RE, Emilia Romagna",POINT
-RE,VENTASSO,Piolo,409,"Piolo, RE, Emilia Romagna",POINT
-RE,VENTASSO,"Casalino, C&Agrave; Bracchi",410,"Casalino, C&Agrave; Bracchi, RE, Emilia Romagna",POINT
-RE,VENTASSO,"Cerreto Alpi , Ponte Barone, Vaccareccia",411,"Cerreto Alpi , Ponte Barone, Vaccareccia, RE, Emilia Romagna",POINT
-RE,VENTASSO,Collagna Centro,412,"Collagna Centro, RE, Emilia Romagna",POINT
-RE,VENTASSO,Vallisnera Sotto,413,"Vallisnera Sotto, RE, Emilia Romagna",POINT
-RE,VENTASSO,Camporella,414,"Camporella, RE, Emilia Romagna",POINT
-RE,VENTASSO,Castagneto,415,"Castagneto, RE, Emilia Romagna",POINT
-RE,VENTASSO,Montedello,416,"Montedello, RE, Emilia Romagna",POINT
-RE,VENTASSO,Storlo,417,"Storlo, RE, Emilia Romagna",POINT
-RE,VENTASSO,"Casalobbio, Cereggio, Gazzolo, Le Tegge, Nigone, Taviano, Temporia",418,"Casalobbio, Cereggio, Gazzolo, Le Tegge, Nigone, Taviano, Temporia, RE, Emilia Romagna",POINT
-RE,VENTASSO,"Cecciola, Succiso, Varvilla",419,"Cecciola, Succiso, Varvilla, RE, Emilia Romagna",POINT
-RE,VENTASSO,La Costa,420,"La Costa, RE, Emilia Romagna",POINT
-RE,VENTASSO,Poviglio Nuovo,421,"Poviglio Nuovo, RE, Emilia Romagna",POINT
-RE,VENTASSO,Ventasso Laghi,422,"Ventasso Laghi, RE, Emilia Romagna",POINT
-RE,VENTASSO,"Costa Di Piolo, Piazza Di Piolo",423,"Costa Di Piolo, Piazza Di Piolo, RE, Emilia Romagna",POINT
-RE,VENTASSO,Loggia,424,"Loggia, RE, Emilia Romagna",POINT
-RE,VENTASSO,Campo,425,"Campo, RE, Emilia Romagna",POINT
-RE,VENTASSO,Caprile,426,"Caprile, RE, Emilia Romagna",POINT
-RE,VENTASSO,Casenove,427,"Casenove, RE, Emilia Romagna",POINT
-RE,VENTASSO,Cinquecerri,428,"Cinquecerri, RE, Emilia Romagna",POINT
-RE,VENTASSO,Giarola,429,"Giarola, RE, Emilia Romagna",POINT
-RE,VENTASSO,Le Vaglie,430,"Le Vaglie, RE, Emilia Romagna",POINT
-RE,VENTASSO,"Campeggio, Tavernetta E Hotel Hilton",431,"Campeggio, Tavernetta E Hotel Hilton, RE, Emilia Romagna",POINT
-RE,VENTASSO,"Cervarezza, Frassinedolo, Case Ferrari, Casale",432,"Cervarezza, Frassinedolo, Case Ferrari, Casale, RE, Emilia Romagna",POINT
-RE,VETTO,Vetto D'Enza,315,"Vetto D'Enza, RE, Emilia Romagna",POINT
-RE,VEZZANO SUL CROSTOLO,Vezzano Sul Crostolo Tutto Il Territorio,317,"Vezzano Sul Crostolo Tutto Il Territorio, RE, Emilia Romagna",POINT
-RE,VIANO,Viano,319,"Viano, RE, Emilia Romagna",POINT
-RE,VIANO,Zone Al Confine Di Cerro Di Rondinara,400,"Zone Al Confine Di Cerro Di Rondinara, RE, Emilia Romagna",POINT
-RE,VILLA MINOZZO,Asta,320,"Asta, RE, Emilia Romagna",POINT
-RE,VILLA MINOZZO,Bedogno,321,"Bedogno, RE, Emilia Romagna",POINT
-RE,VILLA MINOZZO,Braglie,322,"Braglie, RE, Emilia Romagna",POINT
-RE,VILLA MINOZZO,Bruciata,323,"Bruciata, RE, Emilia Romagna",POINT
-RE,VILLA MINOZZO,Budriotto,324,"Budriotto, RE, Emilia Romagna",POINT
-RE,VILLA MINOZZO,CÀ Dell'Onesta,325,"CÀ Dell'Onesta, RE, Emilia Romagna",POINT
-RE,VILLA MINOZZO,Calvello,327,"Calvello, RE, Emilia Romagna",POINT
-RE,VILLA MINOZZO,Campolungo,328,"Campolungo, RE, Emilia Romagna",POINT
-RE,VILLA MINOZZO,Campomagnano,329,"Campomagnano, RE, Emilia Romagna",POINT
-RE,VILLA MINOZZO,Carniana,330,"Carniana, RE, Emilia Romagna",POINT
-RE,VILLA MINOZZO,CarÙ,331,"CarÙ, RE, Emilia Romagna",POINT
-RE,VILLA MINOZZO,Case Bagatti,332,"Case Bagatti, RE, Emilia Romagna",POINT
-RE,VILLA MINOZZO,Case Balocchi,333,"Case Balocchi, RE, Emilia Romagna",POINT
-RE,VILLA MINOZZO,Case Bondi,334,"Case Bondi, RE, Emilia Romagna",POINT
-RE,VILLA MINOZZO,Case Rossi,335,"Case Rossi, RE, Emilia Romagna",POINT
-RE,VILLA MINOZZO,Case Stantini,336,"Case Stantini, RE, Emilia Romagna",POINT
-RE,VILLA MINOZZO,Castellaro,337,"Castellaro, RE, Emilia Romagna",POINT
-RE,VILLA MINOZZO,Castiglione,338,"Castiglione, RE, Emilia Romagna",POINT
-RE,VILLA MINOZZO,CerrÈ Sologno,339,"CerrÈ Sologno, RE, Emilia Romagna",POINT
-RE,VILLA MINOZZO,Costabona,340,"Costabona, RE, Emilia Romagna",POINT
-RE,VILLA MINOZZO,Costalta,341,"Costalta, RE, Emilia Romagna",POINT
-RE,VILLA MINOZZO,Deusi,342,"Deusi, RE, Emilia Romagna",POINT
-RE,VILLA MINOZZO,Gacciola,343,"Gacciola, RE, Emilia Romagna",POINT
-RE,VILLA MINOZZO,Garfagno,344,"Garfagno, RE, Emilia Romagna",POINT
-RE,VILLA MINOZZO,Gova,345,"Gova, RE, Emilia Romagna",POINT
-RE,VILLA MINOZZO,Governara,346,"Governara, RE, Emilia Romagna",POINT
-RE,VILLA MINOZZO,Landibasi,347,"Landibasi, RE, Emilia Romagna",POINT
-RE,VILLA MINOZZO,Le Bore,348,"Le Bore, RE, Emilia Romagna",POINT
-RE,VILLA MINOZZO,Minozzo,349,"Minozzo, RE, Emilia Romagna",POINT
-RE,VILLA MINOZZO,Montefelecchio,350,"Montefelecchio, RE, Emilia Romagna",POINT
-RE,VILLA MINOZZO,Morsiano,351,"Morsiano, RE, Emilia Romagna",POINT
-RE,VILLA MINOZZO,Novellano,352,"Novellano, RE, Emilia Romagna",POINT
-RE,VILLA MINOZZO,Pigazzo,353,"Pigazzo, RE, Emilia Romagna",POINT
-RE,VILLA MINOZZO,Poiano,354,"Poiano, RE, Emilia Romagna",POINT
-RE,VILLA MINOZZO,Primaore,355,"Primaore, RE, Emilia Romagna",POINT
-RE,VILLA MINOZZO,Razzolo,356,"Razzolo, RE, Emilia Romagna",POINT
-RE,VILLA MINOZZO,Rescadore,357,"Rescadore, RE, Emilia Romagna",POINT
-RE,VILLA MINOZZO,Roncolo,358,"Roncolo, RE, Emilia Romagna",POINT
-RE,VILLA MINOZZO,Roncomezzano,359,"Roncomezzano, RE, Emilia Romagna",POINT
-RE,VILLA MINOZZO,Roncopianigi,360,"Roncopianigi, RE, Emilia Romagna",POINT
-RE,VILLA MINOZZO,S. Rocco,361,"S. Rocco, RE, Emilia Romagna",POINT
-RE,VILLA MINOZZO,Sassatello,362,"Sassatello, RE, Emilia Romagna",POINT
-RE,VILLA MINOZZO,Secchio,363,"Secchio, RE, Emilia Romagna",POINT
-RE,VILLA MINOZZO,Segalare,364,"Segalare, RE, Emilia Romagna",POINT
-RE,VILLA MINOZZO,Sonareto,365,"Sonareto, RE, Emilia Romagna",POINT
-RE,VILLA MINOZZO,Strinati,366,"Strinati, RE, Emilia Romagna",POINT
-RE,VILLA MINOZZO,Triglia,367,"Triglia, RE, Emilia Romagna",POINT
-RE,VILLA MINOZZO,Villa Minozzo,368,"Villa Minozzo, RE, Emilia Romagna",POINT
+PR,CALESTANO,Tutte Le Zone,31,", CALESTANO, PR, Emilia Romagna",POINT
+PR,COLLECCHIO,Tutte Le Zone,2,", COLLECCHIO, PR, Emilia Romagna",POINT
+PR,CORNIGLIO,Tutte Le Zone,48,", CORNIGLIO, PR, Emilia Romagna",POINT
+PR,FELINO,Tutte Le Zone,3,", FELINO, PR, Emilia Romagna",POINT
+PR,FONTEVIVO,Tutte Le Zone,5,", FONTEVIVO, PR, Emilia Romagna",POINT
+PR,LANGHIRANO,Tutte Le Zone,7,", LANGHIRANO, PR, Emilia Romagna",POINT
+PR,LESIGNANO DE' BAGNI,Tutte Le Zone,8,", LESIGNANO DE' BAGNI, PR, Emilia Romagna",POINT
+PR,MEDESANO,Tutte Le Zone,9,", MEDESANO, PR, Emilia Romagna",POINT
+PR,MEZZANI,Tutte Le Zone,10,", MEZZANI, PR, Emilia Romagna",POINT
+PR,MONCHIO DELLE CORTI,Tutte Le Zone,35,", MONCHIO DELLE CORTI, PR, Emilia Romagna",POINT
+PR,MONTECHIARUGOLO,Tutte Le Zone,11,", MONTECHIARUGOLO, PR, Emilia Romagna",POINT
+PR,NEVIANO DEGLI ARDUINI,Tutte Le Zone,36,", NEVIANO DEGLI ARDUINI, PR, Emilia Romagna",POINT
+PR,NOCETO,Tutte Le Zone,12,", NOCETO, PR, Emilia Romagna",POINT
+PR,PALANZANO,Tutte Le Zone,433,", PALANZANO, PR, Emilia Romagna",POINT
+PR,PARMA,Tutte Le Zone,1,", PARMA, PR, Emilia Romagna",POINT
+PR,SALA BAGANZA,Tutte Le Zone,14,", SALA BAGANZA, PR, Emilia Romagna",POINT
+PR,SORBOLO,Tutte Le Zone,18,", SORBOLO, PR, Emilia Romagna",POINT
+PR,TIZZANO VAL PARMA,Tutte Le Zone,19,", TIZZANO VAL PARMA, PR, Emilia Romagna",POINT
+PR,TRAVERSETOLO,Tutte Le Zone,20,", TRAVERSETOLO, PR, Emilia Romagna",POINT
+PC,AGAZZANO,Tutte Le Zone,49,", AGAZZANO, PC, Emilia Romagna",POINT
+PC,ALSENO,Tutte Le Zone,50,", ALSENO, PC, Emilia Romagna",POINT
+PC,BESENZONE,Tutte Le Zone,51,", BESENZONE, PC, Emilia Romagna",POINT
+PC,BETTOLA,Tutte Le Zone,52,", BETTOLA, PC, Emilia Romagna",POINT
+PC,BOBBIO,Tutte Le Zone,53,", BOBBIO, PC, Emilia Romagna",POINT
+PC,BORGONOVO VAL TIDONE,Tutte Le Zone,54,", BORGONOVO VAL TIDONE, PC, Emilia Romagna",POINT
+PC,CADEO,Tutte Le Zone,55,", CADEO, PC, Emilia Romagna",POINT
+PC,CALENDASCO,Tutte Le Zone,56,", CALENDASCO, PC, Emilia Romagna",POINT
+PC,CAMINATA,Tutte Le Zone,57,", CAMINATA, PC, Emilia Romagna",POINT
+PC,CAORSO,Tutte Le Zone,58,", CAORSO, PC, Emilia Romagna",POINT
+PC,CARPANETO PIACENTINO,Tutte Le Zone,59,", CARPANETO PIACENTINO, PC, Emilia Romagna",POINT
+PC,CASTEL SAN GIOVANNI,Tutte Le Zone,60,", CASTEL SAN GIOVANNI, PC, Emilia Romagna",POINT
+PC,CASTELL'ARQUATO,Tutte Le Zone,61,", CASTELL'ARQUATO, PC, Emilia Romagna",POINT
+PC,CASTELVETRO PIACENTINO,Tutte Le Zone,62,", CASTELVETRO PIACENTINO, PC, Emilia Romagna",POINT
+PC,CERIGNALE,Tutte Le Zone,65,", CERIGNALE, PC, Emilia Romagna",POINT
+PC,COLI,Tutte Le Zone,63,", COLI, PC, Emilia Romagna",POINT
+PC,CORTE BRUGNATELLA,Tutte Le Zone,64,", CORTE BRUGNATELLA, PC, Emilia Romagna",POINT
+PC,CORTEMAGGIORE,Tutte Le Zone,437,", CORTEMAGGIORE, PC, Emilia Romagna",POINT
+PC,FARINI,Tutte Le Zone,66,", FARINI, PC, Emilia Romagna",POINT
+PC,FERRIERE,Tutte Le Zone,67,", FERRIERE, PC, Emilia Romagna",POINT
+PC,FIORENZUOLA D'ARDA,Tutte Le Zone,68,", FIORENZUOLA D'ARDA, PC, Emilia Romagna",POINT
+PC,GAZZOLA,Tutte Le Zone,69,", GAZZOLA, PC, Emilia Romagna",POINT
+PC,GOSSOLENGO,Tutte Le Zone,70,", GOSSOLENGO, PC, Emilia Romagna",POINT
+PC,GRAGNANO TREBBIENSE,Tutte Le Zone,71,", GRAGNANO TREBBIENSE, PC, Emilia Romagna",POINT
+PC,GROPPARELLO,Tutte Le Zone,72,", GROPPARELLO, PC, Emilia Romagna",POINT
+PC,LUGAGNANO VAL D'ARDA,Tutte Le Zone,73,", LUGAGNANO VAL D'ARDA, PC, Emilia Romagna",POINT
+PC,MONTICELLI D'ONGINA,Tutte Le Zone,74,", MONTICELLI D'ONGINA, PC, Emilia Romagna",POINT
+PC,MORFASSO,Tutte Le Zone,75,", MORFASSO, PC, Emilia Romagna",POINT
+PC,NIBBIANO,Tutte Le Zone,76,", NIBBIANO, PC, Emilia Romagna",POINT
+PC,OTTONE,Tutte Le Zone,77,", OTTONE, PC, Emilia Romagna",POINT
+PC,PECORARA,Tutte Le Zone,78,", PECORARA, PC, Emilia Romagna",POINT
+PC,PIACENZA,Tutte Le Zone,79,", PIACENZA, PC, Emilia Romagna",POINT
+PC,PIANELLO VAL TIDONE,Tutte Le Zone,80,", PIANELLO VAL TIDONE, PC, Emilia Romagna",POINT
+PC,PIOZZANO,Tutte Le Zone,81,", PIOZZANO, PC, Emilia Romagna",POINT
+PC,PODENZANO,Tutte Le Zone,82,", PODENZANO, PC, Emilia Romagna",POINT
+PC,PONTE DELL'OLIO,Tutte Le Zone,83,", PONTE DELL'OLIO, PC, Emilia Romagna",POINT
+PC,PONTENURE,Tutte Le Zone,84,", PONTENURE, PC, Emilia Romagna",POINT
+PC,RIVERGARO,Tutte Le Zone,85,", RIVERGARO, PC, Emilia Romagna",POINT
+PC,ROTTOFRENO,Tutte Le Zone,86,", ROTTOFRENO, PC, Emilia Romagna",POINT
+PC,SAN GIORGIO PIACENTINO,Tutte Le Zone,87,", SAN GIORGIO PIACENTINO, PC, Emilia Romagna",POINT
+PC,SAN PIETRO IN CERRO,Tutte Le Zone,96,", SAN PIETRO IN CERRO, PC, Emilia Romagna",POINT
+PC,SARMATO,Tutte Le Zone,88,", SARMATO, PC, Emilia Romagna",POINT
+PC,TRAVO,Tutte Le Zone,89,", TRAVO, PC, Emilia Romagna",POINT
+PC,VERNASCA,Tutte Le Zone,90,", VERNASCA, PC, Emilia Romagna",POINT
+PC,VIGOLZONE,Tutte Le Zone,91,", VIGOLZONE, PC, Emilia Romagna",POINT
+PC,VILLANOVA SULL'ARDA,Tutte Le Zone,92,", VILLANOVA SULL'ARDA, PC, Emilia Romagna",POINT
+PC,ZERBA,Tutte Le Zone,93,", ZERBA, PC, Emilia Romagna",POINT
+PC,ZIANO PIACENTINO,Tutte Le Zone,94,", ZIANO PIACENTINO, PC, Emilia Romagna",POINT
+RE,ALBINEA,Albinea Tutte Le Altre Zone,174,"Albinea Tutte Le Altre Zone, ALBINEA, RE, Emilia Romagna",POINT
+RE,ALBINEA,"Capriolo, Caselline, La Razza",380,"Capriolo, Caselline, La Razza, ALBINEA, RE, Emilia Romagna",POINT
+RE,BAGNOLO IN PIANO,Bagnolo In Piano,176,"Bagnolo In Piano, BAGNOLO IN PIANO, RE, Emilia Romagna",POINT
+RE,BAISO,Baiso,177,"Baiso, BAISO, RE, Emilia Romagna",POINT
+RE,BIBBIANO,Piazzola,178,"Piazzola, BIBBIANO, RE, Emilia Romagna",POINT
+RE,BIBBIANO,Ghiardo E Zona Industriale,179,"Ghiardo E Zona Industriale, BIBBIANO, RE, Emilia Romagna",POINT
+RE,BIBBIANO,Bibbiano Centro,180,"Bibbiano Centro, BIBBIANO, RE, Emilia Romagna",POINT
+RE,BIBBIANO,Corniano,181,"Corniano, BIBBIANO, RE, Emilia Romagna",POINT
+RE,BIBBIANO,Fossa Di Barco,182,"Fossa Di Barco, BIBBIANO, RE, Emilia Romagna",POINT
+RE,BIBBIANO,Barco E Zona Ind. Barco,183,"Barco E Zona Ind. Barco, BIBBIANO, RE, Emilia Romagna",POINT
+RE,BORETTO,Boretto,184,"Boretto, BORETTO, RE, Emilia Romagna",POINT
+RE,BRESCELLO,Brescello,185,"Brescello, BRESCELLO, RE, Emilia Romagna",POINT
+RE,BUSANA,"Campeggio, Tavernetta E Hotel Ilton",187,"Campeggio, Tavernetta E Hotel Ilton, BUSANA, RE, Emilia Romagna",POINT
+RE,BUSANA,"Cervarezza, Frassinedolo, C&Agrave; De Ferrari, Casale Di Talada",188,"Cervarezza, Frassinedolo, C&Agrave; De Ferrari, Casale Di Talada, BUSANA, RE, Emilia Romagna",POINT
+RE,CADELBOSCO DI SOPRA,Cadelbosco Sopra,189,"Cadelbosco Sanpra, CADELBOSCO DI SOPRA, RE, Emilia Romagna",POINT
+RE,CAMPAGNOLA EMILIA,Campagnola Emilia,190,"Campagnola Emilia, CAMPAGNOLA EMILIA, RE, Emilia Romagna",POINT
+RE,CAMPEGINE,Campegine,191,"Campegine, CAMPEGINE, RE, Emilia Romagna",POINT
+RE,CANOSSA,Carbonizzo,192,"Carbonizzo, CANOSSA, RE, Emilia Romagna",POINT
+RE,CANOSSA,Cerezzola,193,"Cerezzola, CANOSSA, RE, Emilia Romagna",POINT
+RE,CANOSSA,Ciano D'Enza,194,"Ciano D'Enza, CANOSSA, RE, Emilia Romagna",POINT
+RE,CANOSSA,Vico,195,"Vico, CANOSSA, RE, Emilia Romagna",POINT
+RE,CANOSSA,Canossa Tutte Le Altre Zone,196,"Canossa Tutte Le Altre Zone, CANOSSA, RE, Emilia Romagna",POINT
+RE,CARPINETI,Carpineti,197,"Carpineti, CARPINETI, RE, Emilia Romagna",POINT
+RE,CASALGRANDE,S. Donnino,198,"San Donnino, CASALGRANDE, RE, Emilia Romagna",POINT
+RE,CASALGRANDE,Casalgrande Tutte Le Altre Zone,199,"Casalgrande Tutte Le Altre Zone, CASALGRANDE, RE, Emilia Romagna",POINT
+RE,CASALGRANDE,Via Statuaria Dal Rio Riazzone A Piazza Spinelli,401,"Via Sanatuaria Dal Rio Riazzone A Piazza Saninelli, CASALGRANDE, RE, Emilia Romagna",POINT
+RE,CASINA,Casina,200,"Casina, CASINA, RE, Emilia Romagna",POINT
+RE,CASTELLARANO,Roteglia,201,"Roteglia, CASTELLARANO, RE, Emilia Romagna",POINT
+RE,CASTELLARANO,Castellarano Tutte Le Altre Zone,202,"Castellarano Tutte Le Altre Zone, CASTELLARANO, RE, Emilia Romagna",POINT
+RE,CASTELNOVO DI SOTTO,Castelnovo Sotto,204,"Castelnovo Santto, CASTELNOVO DI SOTTO, RE, Emilia Romagna",POINT
+RE,CASTELNOVO NE' MONTI,Castelnovo Ne' Monti,203,"Castelnovo Ne' Monti, CASTELNOVO NE' MONTI, RE, Emilia Romagna",POINT
+RE,CAVRIAGO,Corte Tegge,205,"Corte Tegge, CAVRIAGO, RE, Emilia Romagna",POINT
+RE,CAVRIAGO,Zona Ind. Corte Tegge,206,"Zona Ind. Corte Tegge, CAVRIAGO, RE, Emilia Romagna",POINT
+RE,CAVRIAGO,Cavriago Tutte Le Altre Zone,207,"Cavriago Tutte Le Altre Zone, CAVRIAGO, RE, Emilia Romagna",POINT
+RE,COLLAGNA,Cerreto Alpi,208,"Cerreto Alpi, COLLAGNA, RE, Emilia Romagna",POINT
+RE,COLLAGNA,Cerreto Lago,209,"Cerreto Lago, COLLAGNA, RE, Emilia Romagna",POINT
+RE,COLLAGNA,Cerreto Passo,210,"Cerreto Passo, COLLAGNA, RE, Emilia Romagna",POINT
+RE,COLLAGNA,Collagna Centro,211,"Collagna Centro, COLLAGNA, RE, Emilia Romagna",POINT
+RE,COLLAGNA,Oratorio,212,"Oratorio, COLLAGNA, RE, Emilia Romagna",POINT
+RE,COLLAGNA,Ponte Del Barone,213,"Ponte Del Barone, COLLAGNA, RE, Emilia Romagna",POINT
+RE,COLLAGNA,Valbona,214,"Valbona, COLLAGNA, RE, Emilia Romagna",POINT
+RE,COLLAGNA,Vallisnera Di Sopra,215,"Vallisnera Di Sanpra, COLLAGNA, RE, Emilia Romagna",POINT
+RE,COLLAGNA,Vallisnera Di Sotto,216,"Vallisnera Di Santto, COLLAGNA, RE, Emilia Romagna",POINT
+RE,CORREGGIO,Cavallerina,217,"Cavallerina, CORREGGIO, RE, Emilia Romagna",POINT
+RE,CORREGGIO,Colombarone,218,"Colombarone, CORREGGIO, RE, Emilia Romagna",POINT
+RE,CORREGGIO,Correggio Centro,219,"Correggio Centro, CORREGGIO, RE, Emilia Romagna",POINT
+RE,CORREGGIO,Ponte Dell'Agrato,220,"Ponte Dell'Agrato, CORREGGIO, RE, Emilia Romagna",POINT
+RE,CORREGGIO,Prato,221,"Prato, CORREGGIO, RE, Emilia Romagna",POINT
+RE,CORREGGIO,S. Biagio,222,"San Biagio, CORREGGIO, RE, Emilia Romagna",POINT
+RE,CORREGGIO,Viazza,223,"Viazza, CORREGGIO, RE, Emilia Romagna",POINT
+RE,CORREGGIO,Villaggio Artigiano,224,"Villaggio Artigiano, CORREGGIO, RE, Emilia Romagna",POINT
+RE,CORREGGIO,Zona Industriale Correggio,225,"Zona Industriale Correggio, CORREGGIO, RE, Emilia Romagna",POINT
+RE,CORREGGIO,Zone Rimanenti Correggio,226,"Zone Rimanenti Correggio, CORREGGIO, RE, Emilia Romagna",POINT
+RE,CORREGGIO,Fazzano Oltre I Civ 30 E 63 Di Via Fazzano,374,"Fazzano Oltre I Civ 30 E 63 Di Via Fazzano, CORREGGIO, RE, Emilia Romagna",POINT
+RE,CORREGGIO,Il Ghetto,375,"Il Ghetto, CORREGGIO, RE, Emilia Romagna",POINT
+RE,CORREGGIO,Lemizzone,376,"Lemizzone, CORREGGIO, RE, Emilia Romagna",POINT
+RE,CORREGGIO,Casino Tirelli,377,"Casino Tirelli, CORREGGIO, RE, Emilia Romagna",POINT
+RE,CORREGGIO,Fazzano Fino Ai Civ 30 E 63 Di Via Fazzano,378,"Fazzano Fino Ai Civ 30 E 63 Di Via Fazzano, CORREGGIO, RE, Emilia Romagna",POINT
+RE,CORREGGIO,Prato Zona Industriale,379,"Prato Zona Industriale, CORREGGIO, RE, Emilia Romagna",POINT
+RE,CORREGGIO,Bernolda,381,"Bernolda, CORREGGIO, RE, Emilia Romagna",POINT
+RE,CORREGGIO,Budrio,382,"Budrio, CORREGGIO, RE, Emilia Romagna",POINT
+RE,CORREGGIO,Canolo,383,"Canolo, CORREGGIO, RE, Emilia Romagna",POINT
+RE,CORREGGIO,Fosdondo,384,"Fosdondo, CORREGGIO, RE, Emilia Romagna",POINT
+RE,CORREGGIO,Giardino,385,"Giardino, CORREGGIO, RE, Emilia Romagna",POINT
+RE,CORREGGIO,Mandrio,386,"Mandrio, CORREGGIO, RE, Emilia Romagna",POINT
+RE,CORREGGIO,Mandriolo,387,"Mandriolo, CORREGGIO, RE, Emilia Romagna",POINT
+RE,FABBRICO,Tutte Le Zone,372,", FABBRICO, RE, Emilia Romagna",POINT
+RE,GATTATICO,Zone A Nord Dell'Autostrada,227,"Zone A Nord Dell'Autostrada, GATTATICO, RE, Emilia Romagna",POINT
+RE,GATTATICO,Zone A Sud Dell'Autostrada,228,"Zone A Sand Dell'Autostrada, GATTATICO, RE, Emilia Romagna",POINT
+RE,GUALTIERI,Gualtieri E Tutte Le Altre Zone,229,"Gualtieri , GUALTIERI, RE, Emilia Romagna",POINT
+RE,GUALTIERI,Santa Vittoria E Zona Industriale Di Gualtieri,373,"Sannta Vittoria E Zona Industriale Di Gualtieri, GUALTIERI, RE, Emilia Romagna",POINT
+RE,GUASTALLA,Baccanello,230,"Baccanello, GUASTALLA, RE, Emilia Romagna",POINT
+RE,GUASTALLA,CÀ De Frati (S. Giacomo),231,"CÀ De Frati (San Giacomo), GUASTALLA, RE, Emilia Romagna",POINT
+RE,GUASTALLA,Carrobioli,232,"Carrobioli, GUASTALLA, RE, Emilia Romagna",POINT
+RE,GUASTALLA,Case Fangaia (S. Giacomo),233,"Case Fangaia (San Giacomo), GUASTALLA, RE, Emilia Romagna",POINT
+RE,GUASTALLA,Cerchietto (S. Martino),234,"Cerchietto (San Martino), GUASTALLA, RE, Emilia Romagna",POINT
+RE,GUASTALLA,Guastalla Centro,235,"Guastalla Centro, GUASTALLA, RE, Emilia Romagna",POINT
+RE,GUASTALLA,La Madonnina,236,"La Madonnina, GUASTALLA, RE, Emilia Romagna",POINT
+RE,GUASTALLA,Nizzola,237,"Nizzola, GUASTALLA, RE, Emilia Romagna",POINT
+RE,GUASTALLA,S. Giacomo E Zona Industriale Di S.Giacomo,238,"San Giacomo E Zona Industriale Di SanGiacomo, GUASTALLA, RE, Emilia Romagna",POINT
+RE,GUASTALLA,S. Giorgio,240,"San Giorgio, GUASTALLA, RE, Emilia Romagna",POINT
+RE,GUASTALLA,S. Girolamo,241,"San Girolamo, GUASTALLA, RE, Emilia Romagna",POINT
+RE,GUASTALLA,S. Martino,242,"San Martino, GUASTALLA, RE, Emilia Romagna",POINT
+RE,GUASTALLA,S. Rocco,243,"San Rocco, GUASTALLA, RE, Emilia Romagna",POINT
+RE,GUASTALLA,Solarolo,244,"Sanlarolo, GUASTALLA, RE, Emilia Romagna",POINT
+RE,GUASTALLA,Tagliata,245,"Tagliata, GUASTALLA, RE, Emilia Romagna",POINT
+RE,GUASTALLA,Villa Pieve,246,"Villa Pieve, GUASTALLA, RE, Emilia Romagna",POINT
+RE,GUASTALLA,Zone A Sud Del Cavo BPM,247,"Zone A Sand Del Cavo BPM, GUASTALLA, RE, Emilia Romagna",POINT
+RE,LIGONCHIO,Bracchi,248,"Bracchi, LIGONCHIO, RE, Emilia Romagna",POINT
+RE,LIGONCHIO,Campo,249,"Campo, LIGONCHIO, RE, Emilia Romagna",POINT
+RE,LIGONCHIO,Caprile,250,"Caprile, LIGONCHIO, RE, Emilia Romagna",POINT
+RE,LIGONCHIO,Casalino,251,"Casalino, LIGONCHIO, RE, Emilia Romagna",POINT
+RE,LIGONCHIO,Casenove,252,"Casenove, LIGONCHIO, RE, Emilia Romagna",POINT
+RE,LIGONCHIO,Cinquecerri,253,"Cinquecerri, LIGONCHIO, RE, Emilia Romagna",POINT
+RE,LIGONCHIO,Costa Di Piolo,254,"Costa Di Piolo, LIGONCHIO, RE, Emilia Romagna",POINT
+RE,LIGONCHIO,Giarola,255,"Giarola, LIGONCHIO, RE, Emilia Romagna",POINT
+RE,LIGONCHIO,Le Vaglie,256,"Le Vaglie, LIGONCHIO, RE, Emilia Romagna",POINT
+RE,LIGONCHIO,Ligonchio Centro,257,"Ligonchio Centro, LIGONCHIO, RE, Emilia Romagna",POINT
+RE,LIGONCHIO,Loggia,258,"Loggia, LIGONCHIO, RE, Emilia Romagna",POINT
+RE,LIGONCHIO,Montecagno,259,"Montecagno, LIGONCHIO, RE, Emilia Romagna",POINT
+RE,LIGONCHIO,Ospitaletto,260,"Ospitaletto, LIGONCHIO, RE, Emilia Romagna",POINT
+RE,LIGONCHIO,Piazza Di Piolo,261,"Piazza Di Piolo, LIGONCHIO, RE, Emilia Romagna",POINT
+RE,LIGONCHIO,Piolo,262,"Piolo, LIGONCHIO, RE, Emilia Romagna",POINT
+RE,LUZZARA,Luzzara,263,"Luzzara, LUZZARA, RE, Emilia Romagna",POINT
+RE,MONTECCHIO EMILIA,Montecchio Emilia,264,"Montecchio Emilia, MONTECCHIO EMILIA, RE, Emilia Romagna",POINT
+RE,MONTECCHIO EMILIA,"Zone A Sud Di Via A.Grandi E Via L.Landini, Comprese Vie Montale, Quasimodo E Battisti",389,"Zone A Sand Di Via A.Grandi E Via L.Landini, Comprese Vie Montale, Quasimodo E Battisti, MONTECCHIO EMILIA, RE, Emilia Romagna",POINT
+RE,NOVELLARA,Novellara,265,"Novellara, NOVELLARA, RE, Emilia Romagna",POINT
+RE,POVIGLIO,Poviglio,266,"Poviglio, POVIGLIO, RE, Emilia Romagna",POINT
+RE,QUATTRO CASTELLA,"Bedogno, Bergonzano, Calinzano, Casa Valle, La Valle E Puianello (Nella Zona Compresa Fra L&#39;Incrocio Con Via Napoli E Il Confim&Igrave;Ne Con Il Comune Di Vezzano)",267,"Bedogno, Bergonzano, Calinzano, Casa Valle, La Valle E Puianello (Nella Zona Compresa Fra L&#39;Incrocio Con Via Napoli E Il Confim&Igrave;Ne Con Il Comune Di Vezzano), QUATTRO CASTELLA, RE, Emilia Romagna",POINT
+RE,QUATTRO CASTELLA,Tutte Le Altre Zone,271,"Tutte Le Altre Zone, QUATTRO CASTELLA, RE, Emilia Romagna",POINT
+RE,QUATTRO CASTELLA,Fornaci Di Quattro Castella,370,"Fornaci Di Quattro Castella, QUATTRO CASTELLA, RE, Emilia Romagna",POINT
+RE,QUATTRO CASTELLA,Quattro Castella Capoluogo (Zona Nord),371,"Quattro Castella Capoluogo (Zona Nord), QUATTRO CASTELLA, RE, Emilia Romagna",POINT
+RE,QUATTRO CASTELLA,Selvarola,390,"Sanlvarola, QUATTRO CASTELLA, RE, Emilia Romagna",POINT
+RE,QUATTRO CASTELLA,Puianello Zone Rimaneneti,402,"Puianello Zone Rimaneneti, QUATTRO CASTELLA, RE, Emilia Romagna",POINT
+RE,RAMISETO,Camporella,272,"Camporella, RAMISETO, RE, Emilia Romagna",POINT
+RE,RAMISETO,Canova,273,"Canova, RAMISETO, RE, Emilia Romagna",POINT
+RE,RAMISETO,Casalobbio,274,"Casalobbio, RAMISETO, RE, Emilia Romagna",POINT
+RE,RAMISETO,Castagneto,275,"Castagneto, RAMISETO, RE, Emilia Romagna",POINT
+RE,RAMISETO,Cecciola,276,"Cecciola, RAMISETO, RE, Emilia Romagna",POINT
+RE,RAMISETO,Cerreggio,277,"Cerreggio, RAMISETO, RE, Emilia Romagna",POINT
+RE,RAMISETO,La Costa Ramiseto,278,"La Costa Ramiseto, RAMISETO, RE, Emilia Romagna",POINT
+RE,RAMISETO,Le Teggie,279,"Le Teggie, RAMISETO, RE, Emilia Romagna",POINT
+RE,RAMISETO,Lugolo,280,"Lugolo, RAMISETO, RE, Emilia Romagna",POINT
+RE,RAMISETO,Montedello,281,"Montedello, RAMISETO, RE, Emilia Romagna",POINT
+RE,RAMISETO,Nigone,282,"Nigone, RAMISETO, RE, Emilia Romagna",POINT
+RE,RAMISETO,Ramiseto Centro,284,"Ramiseto Centro, RAMISETO, RE, Emilia Romagna",POINT
+RE,RAMISETO,Storlo,285,"Sanorlo, RAMISETO, RE, Emilia Romagna",POINT
+RE,RAMISETO,Succiso,286,"Sancciso, RAMISETO, RE, Emilia Romagna",POINT
+RE,RAMISETO,Taviano,287,"Taviano, RAMISETO, RE, Emilia Romagna",POINT
+RE,RAMISETO,Temporia,288,"Temporia, RAMISETO, RE, Emilia Romagna",POINT
+RE,RAMISETO,Varvilla,289,"Varvilla, RAMISETO, RE, Emilia Romagna",POINT
+RE,RAMISETO,Ventasso Laghi,290,"Ventasso Laghi, RAMISETO, RE, Emilia Romagna",POINT
+RE,REGGIO EMILIA,Reggio Emilia - Centro,97,"Reggio Emilia - Centro, REGGIO EMILIA, RE, Emilia Romagna",POINT
+RE,REGGIO EMILIA,Bagno,102,"Bagno, REGGIO EMILIA, RE, Emilia Romagna",POINT
+RE,REGGIO EMILIA,Baragalla,106,"Baragalla, REGGIO EMILIA, RE, Emilia Romagna",POINT
+RE,REGGIO EMILIA,Bazzarola,107,"Bazzarola, REGGIO EMILIA, RE, Emilia Romagna",POINT
+RE,REGGIO EMILIA,Buco Del Signore,108,"Buco Del Sangnore, REGGIO EMILIA, RE, Emilia Romagna",POINT
+RE,REGGIO EMILIA,Buda (Modolena),109,"Buda (Modolena), REGGIO EMILIA, RE, Emilia Romagna",POINT
+RE,REGGIO EMILIA,CadÈ,110,"CadÈ, REGGIO EMILIA, RE, Emilia Romagna",POINT
+RE,REGGIO EMILIA,Calvetro (Masone),111,"Calvetro (Masone), REGGIO EMILIA, RE, Emilia Romagna",POINT
+RE,REGGIO EMILIA,Campo Gelsi (Massenzatico),112,"Campo Gelsi (Massenzatico), REGGIO EMILIA, RE, Emilia Romagna",POINT
+RE,REGGIO EMILIA,Canali,113,"Canali, REGGIO EMILIA, RE, Emilia Romagna",POINT
+RE,REGGIO EMILIA,Casale Di Rivalta,114,"Casale Di Rivalta, REGGIO EMILIA, RE, Emilia Romagna",POINT
+RE,REGGIO EMILIA,Castellazzo,117,"Castellazzo, REGGIO EMILIA, RE, Emilia Romagna",POINT
+RE,REGGIO EMILIA,Castello Di Pratofontana,118,"Castello Di Pratofontana, REGGIO EMILIA, RE, Emilia Romagna",POINT
+RE,REGGIO EMILIA,Castello Di Vialato,119,"Castello Di Vialato, REGGIO EMILIA, RE, Emilia Romagna",POINT
+RE,REGGIO EMILIA,Castello Motti (Gavassa),120,"Castello Motti (Gavassa), REGGIO EMILIA, RE, Emilia Romagna",POINT
+RE,REGGIO EMILIA,Cavazzoli,121,"Cavazzoli, REGGIO EMILIA, RE, Emilia Romagna",POINT
+RE,REGGIO EMILIA,Cella,122,"Cella, REGGIO EMILIA, RE, Emilia Romagna",POINT
+RE,REGGIO EMILIA,CÒ Di Sotto (Massenzatico),123,"CÒ Di Santto (Massenzatico), REGGIO EMILIA, RE, Emilia Romagna",POINT
+RE,REGGIO EMILIA,Codemondo,124,"Codemondo, REGGIO EMILIA, RE, Emilia Romagna",POINT
+RE,REGGIO EMILIA,Corticella,125,"Corticella, REGGIO EMILIA, RE, Emilia Romagna",POINT
+RE,REGGIO EMILIA,Coviolo,126,"Coviolo, REGGIO EMILIA, RE, Emilia Romagna",POINT
+RE,REGGIO EMILIA,Due MaestÀ,127,"Due MaestÀ, REGGIO EMILIA, RE, Emilia Romagna",POINT
+RE,REGGIO EMILIA,Fogliano,128,"Fogliano, REGGIO EMILIA, RE, Emilia Romagna",POINT
+RE,REGGIO EMILIA,Foscato,129,"Foscato, REGGIO EMILIA, RE, Emilia Romagna",POINT
+RE,REGGIO EMILIA,Gaida,130,"Gaida, REGGIO EMILIA, RE, Emilia Romagna",POINT
+RE,REGGIO EMILIA,Gavassa,132,"Gavassa, REGGIO EMILIA, RE, Emilia Romagna",POINT
+RE,REGGIO EMILIA,Gavasseto,133,"Gavasseto, REGGIO EMILIA, RE, Emilia Romagna",POINT
+RE,REGGIO EMILIA,Chionso,136,"Chionso, REGGIO EMILIA, RE, Emilia Romagna",POINT
+RE,REGGIO EMILIA,La Villa,137,"La Villa, REGGIO EMILIA, RE, Emilia Romagna",POINT
+RE,REGGIO EMILIA,Le Rotte (Confine Bagnolo),138,"Le Rotte (Confine Bagnolo), REGGIO EMILIA, RE, Emilia Romagna",POINT
+RE,REGGIO EMILIA,Mancasale E Zona Industriale A Sud Di Via Lama,139,"Mancasale E Zona Industriale A Sand Di Via Lama, REGGIO EMILIA, RE, Emilia Romagna",POINT
+RE,REGGIO EMILIA,Mancasale Zona Industriale A Nord Di Via Lama,140,"Mancasale Zona Industriale A Nord Di Via Lama, REGGIO EMILIA, RE, Emilia Romagna",POINT
+RE,REGGIO EMILIA,Marmirolo,141,"Marmirolo, REGGIO EMILIA, RE, Emilia Romagna",POINT
+RE,REGGIO EMILIA,Masone,142,"Masone, REGGIO EMILIA, RE, Emilia Romagna",POINT
+RE,REGGIO EMILIA,Massenzatico,143,"Massenzatico, REGGIO EMILIA, RE, Emilia Romagna",POINT
+RE,REGGIO EMILIA,Modolena,144,"Modolena, REGGIO EMILIA, RE, Emilia Romagna",POINT
+RE,REGGIO EMILIA,Orologio (RE),145,"Orologio (RE), REGGIO EMILIA, RE, Emilia Romagna",POINT
+RE,REGGIO EMILIA,Penizzo (Pratofontana),147,"Penizzo (Pratofontana), REGGIO EMILIA, RE, Emilia Romagna",POINT
+RE,REGGIO EMILIA,Pieve Modolena,148,"Pieve Modolena, REGGIO EMILIA, RE, Emilia Romagna",POINT
+RE,REGGIO EMILIA,Pratofontana,150,"Pratofontana, REGGIO EMILIA, RE, Emilia Romagna",POINT
+RE,REGGIO EMILIA,Quaresimo,151,"Quaresimo, REGGIO EMILIA, RE, Emilia Romagna",POINT
+RE,REGGIO EMILIA,Rivalta,154,"Rivalta, REGGIO EMILIA, RE, Emilia Romagna",POINT
+RE,REGGIO EMILIA,Roncadella,155,"Roncadella, REGGIO EMILIA, RE, Emilia Romagna",POINT
+RE,REGGIO EMILIA,Roncina,156,"Roncina, REGGIO EMILIA, RE, Emilia Romagna",POINT
+RE,REGGIO EMILIA,Roncocesi,157,"Roncocesi, REGGIO EMILIA, RE, Emilia Romagna",POINT
+RE,REGGIO EMILIA,S. Grisante E Daria (Masone),159,"San Grisante E Daria (Masone), REGGIO EMILIA, RE, Emilia Romagna",POINT
+RE,REGGIO EMILIA,S. Maurizio,160,"San Maurizio, REGGIO EMILIA, RE, Emilia Romagna",POINT
+RE,REGGIO EMILIA,S. Nicola (Masone),161,"San Nicola (Masone), REGGIO EMILIA, RE, Emilia Romagna",POINT
+RE,REGGIO EMILIA,S. Prospero Strinati,162,"San Prospero Sanrinati, REGGIO EMILIA, RE, Emilia Romagna",POINT
+RE,REGGIO EMILIA,S. Rigo,163,"San Rigo, REGGIO EMILIA, RE, Emilia Romagna",POINT
+RE,REGGIO EMILIA,Sabbione,164,"Sanbbione, REGGIO EMILIA, RE, Emilia Romagna",POINT
+RE,REGGIO EMILIA,Sesso,167,"Sansso, REGGIO EMILIA, RE, Emilia Romagna",POINT
+RE,REGGIO EMILIA,Sesso Zona Industriale,168,"Sansso Zona Industriale, REGGIO EMILIA, RE, Emilia Romagna",POINT
+RE,REGGIO EMILIA,Vialato,169,"Vialato, REGGIO EMILIA, RE, Emilia Romagna",POINT
+RE,REGGIO EMILIA,Villa Curta,170,"Villa Curta, REGGIO EMILIA, RE, Emilia Romagna",POINT
+RE,REGGIO EMILIA,Zimella (Corticella),171,"Zimella (Corticella), REGGIO EMILIA, RE, Emilia Romagna",POINT
+RE,REGGIO EMILIA,Zona Annonaria,172,"Zona Annonaria, REGGIO EMILIA, RE, Emilia Romagna",POINT
+RE,REGGIO EMILIA,Ghiarda,391,"Ghiarda, REGGIO EMILIA, RE, Emilia Romagna",POINT
+RE,REGGIO EMILIA,Massenzatico Battibana,392,"Massenzatico Battibana, REGGIO EMILIA, RE, Emilia Romagna",POINT
+RE,REGGIOLO,Bettolino,291,"Bettolino, REGGIOLO, RE, Emilia Romagna",POINT
+RE,REGGIOLO,Zone A Sud Del Cavo BPM,292,"Zone A Sand Del Cavo BPM, REGGIOLO, RE, Emilia Romagna",POINT
+RE,REGGIOLO,Tutte Le Altre Zone,293,"Tutte Le Altre Zone, REGGIOLO, RE, Emilia Romagna",POINT
+RE,RIO SALICETO,Rio Saliceto,294,"Rio Sanliceto, RIO SALICETO, RE, Emilia Romagna",POINT
+RE,ROLO,Rolo,295,"Rolo, ROLO, RE, Emilia Romagna",POINT
+RE,RUBIERA,Rubiera,296,"Rubiera, RUBIERA, RE, Emilia Romagna",POINT
+RE,SAN MARTINO IN RIO,San Martino In Rio,297,"Sann Martino In Rio, SAN MARTINO IN RIO, RE, Emilia Romagna",POINT
+RE,SAN POLO D'ENZA,Carbognano,298,"Carbognano, SAN POLO D'ENZA, RE, Emilia Romagna",POINT
+RE,SAN POLO D'ENZA,Grassano,299,"Grassano, SAN POLO D'ENZA, RE, Emilia Romagna",POINT
+RE,SAN POLO D'ENZA,Macigno,300,"Macigno, SAN POLO D'ENZA, RE, Emilia Romagna",POINT
+RE,SAN POLO D'ENZA,Montemoro,301,"Montemoro, SAN POLO D'ENZA, RE, Emilia Romagna",POINT
+RE,SAN POLO D'ENZA,Vetto,302,"Vetto, SAN POLO D'ENZA, RE, Emilia Romagna",POINT
+RE,SAN POLO D'ENZA,Tutte Le Altre Zone,303,"Tutte Le Altre Zone, SAN POLO D'ENZA, RE, Emilia Romagna",POINT
+RE,SAN POLO D'ENZA,Borsea,393,"Borsea, SAN POLO D'ENZA, RE, Emilia Romagna",POINT
+RE,SAN POLO D'ENZA,Caverzano,394,"Caverzano, SAN POLO D'ENZA, RE, Emilia Romagna",POINT
+RE,SAN POLO D'ENZA,Madonna Della Battaglia,395,"Madonna Della Battaglia, SAN POLO D'ENZA, RE, Emilia Romagna",POINT
+RE,SAN POLO D'ENZA,Pezzano,396,"Pezzano, SAN POLO D'ENZA, RE, Emilia Romagna",POINT
+RE,SAN POLO D'ENZA,Pietre,397,"Pietre, SAN POLO D'ENZA, RE, Emilia Romagna",POINT
+RE,SAN POLO D'ENZA,Sedignano,398,"Sandignano, SAN POLO D'ENZA, RE, Emilia Romagna",POINT
+RE,SANT'ILARIO D'ENZA,Sant'Ilario D'Enza,304,"Sannt'Ilario D'Enza, SANT'ILARIO D'ENZA, RE, Emilia Romagna",POINT
+RE,SCANDIANO,Cacciola,305,"Cacciola, SCANDIANO, RE, Emilia Romagna",POINT
+RE,SCANDIANO,Chiozzino,308,"Chiozzino, SCANDIANO, RE, Emilia Romagna",POINT
+RE,SCANDIANO,La Braglia,309,"La Braglia, SCANDIANO, RE, Emilia Romagna",POINT
+RE,SCANDIANO,La Riva,310,"La Riva, SCANDIANO, RE, Emilia Romagna",POINT
+RE,SCANDIANO,Rondinara,311,"Rondinara, SCANDIANO, RE, Emilia Romagna",POINT
+RE,SCANDIANO,Tutte Le Altre Zone,313,"Tutte Le Altre Zone, SCANDIANO, RE, Emilia Romagna",POINT
+RE,SCANDIANO,Via Madonna Della Tosse,399,"Via Madonna Della Tosse, SCANDIANO, RE, Emilia Romagna",POINT
+RE,VENTASSO,Cerreto Laghi E Cerreto Passo,403,"Cerreto Laghi E Cerreto Passo, VENTASSO, RE, Emilia Romagna",POINT
+RE,VENTASSO,Ramiseto Centro,404,"Ramiseto Centro, VENTASSO, RE, Emilia Romagna",POINT
+RE,VENTASSO,Valbona,405,"Valbona, VENTASSO, RE, Emilia Romagna",POINT
+RE,VENTASSO,Vallisnera Sopra,406,"Vallisnera Sanpra, VENTASSO, RE, Emilia Romagna",POINT
+RE,VENTASSO,Ligonchio E Ospitaletto,407,"Ligonchio E Ospitaletto, VENTASSO, RE, Emilia Romagna",POINT
+RE,VENTASSO,Montecagno,408,"Montecagno, VENTASSO, RE, Emilia Romagna",POINT
+RE,VENTASSO,Piolo,409,"Piolo, VENTASSO, RE, Emilia Romagna",POINT
+RE,VENTASSO,"Casalino, C&Agrave; Bracchi",410,"Casalino, C&Agrave; Bracchi, VENTASSO, RE, Emilia Romagna",POINT
+RE,VENTASSO,"Cerreto Alpi , Ponte Barone, Vaccareccia",411,"Cerreto Alpi , Ponte Barone, Vaccareccia, VENTASSO, RE, Emilia Romagna",POINT
+RE,VENTASSO,Collagna Centro,412,"Collagna Centro, VENTASSO, RE, Emilia Romagna",POINT
+RE,VENTASSO,Vallisnera Sotto,413,"Vallisnera Santto, VENTASSO, RE, Emilia Romagna",POINT
+RE,VENTASSO,Camporella,414,"Camporella, VENTASSO, RE, Emilia Romagna",POINT
+RE,VENTASSO,Castagneto,415,"Castagneto, VENTASSO, RE, Emilia Romagna",POINT
+RE,VENTASSO,Montedello,416,"Montedello, VENTASSO, RE, Emilia Romagna",POINT
+RE,VENTASSO,Storlo,417,"Sanorlo, VENTASSO, RE, Emilia Romagna",POINT
+RE,VENTASSO,"Casalobbio, Cereggio, Gazzolo, Le Tegge, Nigone, Taviano, Temporia",418,"Casalobbio, Cereggio, Gazzolo, Le Tegge, Nigone, Taviano, Temporia, VENTASSO, RE, Emilia Romagna",POINT
+RE,VENTASSO,"Cecciola, Succiso, Varvilla",419,"Cecciola, Sancciso, Varvilla, VENTASSO, RE, Emilia Romagna",POINT
+RE,VENTASSO,La Costa,420,"La Costa, VENTASSO, RE, Emilia Romagna",POINT
+RE,VENTASSO,Poviglio Nuovo,421,"Poviglio Nuovo, VENTASSO, RE, Emilia Romagna",POINT
+RE,VENTASSO,Ventasso Laghi,422,"Ventasso Laghi, VENTASSO, RE, Emilia Romagna",POINT
+RE,VENTASSO,"Costa Di Piolo, Piazza Di Piolo",423,"Costa Di Piolo, Piazza Di Piolo, VENTASSO, RE, Emilia Romagna",POINT
+RE,VENTASSO,Loggia,424,"Loggia, VENTASSO, RE, Emilia Romagna",POINT
+RE,VENTASSO,Campo,425,"Campo, VENTASSO, RE, Emilia Romagna",POINT
+RE,VENTASSO,Caprile,426,"Caprile, VENTASSO, RE, Emilia Romagna",POINT
+RE,VENTASSO,Casenove,427,"Casenove, VENTASSO, RE, Emilia Romagna",POINT
+RE,VENTASSO,Cinquecerri,428,"Cinquecerri, VENTASSO, RE, Emilia Romagna",POINT
+RE,VENTASSO,Giarola,429,"Giarola, VENTASSO, RE, Emilia Romagna",POINT
+RE,VENTASSO,Le Vaglie,430,"Le Vaglie, VENTASSO, RE, Emilia Romagna",POINT
+RE,VENTASSO,"Campeggio, Tavernetta E Hotel Hilton",431,"Campeggio, Tavernetta E Hotel Hilton, VENTASSO, RE, Emilia Romagna",POINT
+RE,VENTASSO,"Cervarezza, Frassinedolo, Case Ferrari, Casale",432,"Cervarezza, Frassinedolo, Case Ferrari, Casale, VENTASSO, RE, Emilia Romagna",POINT
+RE,VETTO,Vetto D'Enza,315,"Vetto D'Enza, VETTO, RE, Emilia Romagna",POINT
+RE,VEZZANO SUL CROSTOLO,Vezzano Sul Crostolo Tutto Il Territorio,317,"Vezzano Sanl Crostolo Tutto Il Territorio, VEZZANO SUL CROSTOLO, RE, Emilia Romagna",POINT
+RE,VIANO,Viano,319,"Viano, VIANO, RE, Emilia Romagna",POINT
+RE,VIANO,Zone Al Confine Di Cerro Di Rondinara,400,"Zone Al Confine Di Cerro Di Rondinara, VIANO, RE, Emilia Romagna",POINT
+RE,VILLA MINOZZO,Asta,320,"Asta, VILLA MINOZZO, RE, Emilia Romagna",POINT
+RE,VILLA MINOZZO,Bedogno,321,"Bedogno, VILLA MINOZZO, RE, Emilia Romagna",POINT
+RE,VILLA MINOZZO,Braglie,322,"Braglie, VILLA MINOZZO, RE, Emilia Romagna",POINT
+RE,VILLA MINOZZO,Bruciata,323,"Bruciata, VILLA MINOZZO, RE, Emilia Romagna",POINT
+RE,VILLA MINOZZO,Budriotto,324,"Budriotto, VILLA MINOZZO, RE, Emilia Romagna",POINT
+RE,VILLA MINOZZO,CÀ Dell'Onesta,325,"CÀ Dell'Onesta, VILLA MINOZZO, RE, Emilia Romagna",POINT
+RE,VILLA MINOZZO,Calvello,327,"Calvello, VILLA MINOZZO, RE, Emilia Romagna",POINT
+RE,VILLA MINOZZO,Campolungo,328,"Campolungo, VILLA MINOZZO, RE, Emilia Romagna",POINT
+RE,VILLA MINOZZO,Campomagnano,329,"Campomagnano, VILLA MINOZZO, RE, Emilia Romagna",POINT
+RE,VILLA MINOZZO,Carniana,330,"Carniana, VILLA MINOZZO, RE, Emilia Romagna",POINT
+RE,VILLA MINOZZO,CarÙ,331,"CarÙ, VILLA MINOZZO, RE, Emilia Romagna",POINT
+RE,VILLA MINOZZO,Case Bagatti,332,"Case Bagatti, VILLA MINOZZO, RE, Emilia Romagna",POINT
+RE,VILLA MINOZZO,Case Balocchi,333,"Case Balocchi, VILLA MINOZZO, RE, Emilia Romagna",POINT
+RE,VILLA MINOZZO,Case Bondi,334,"Case Bondi, VILLA MINOZZO, RE, Emilia Romagna",POINT
+RE,VILLA MINOZZO,Case Rossi,335,"Case Rossi, VILLA MINOZZO, RE, Emilia Romagna",POINT
+RE,VILLA MINOZZO,Case Stantini,336,"Case Sanantini, VILLA MINOZZO, RE, Emilia Romagna",POINT
+RE,VILLA MINOZZO,Castellaro,337,"Castellaro, VILLA MINOZZO, RE, Emilia Romagna",POINT
+RE,VILLA MINOZZO,Castiglione,338,"Castiglione, VILLA MINOZZO, RE, Emilia Romagna",POINT
+RE,VILLA MINOZZO,CerrÈ Sologno,339,"CerrÈ Sanlogno, VILLA MINOZZO, RE, Emilia Romagna",POINT
+RE,VILLA MINOZZO,Costabona,340,"Costabona, VILLA MINOZZO, RE, Emilia Romagna",POINT
+RE,VILLA MINOZZO,Costalta,341,"Costalta, VILLA MINOZZO, RE, Emilia Romagna",POINT
+RE,VILLA MINOZZO,Deusi,342,"Deusi, VILLA MINOZZO, RE, Emilia Romagna",POINT
+RE,VILLA MINOZZO,Gacciola,343,"Gacciola, VILLA MINOZZO, RE, Emilia Romagna",POINT
+RE,VILLA MINOZZO,Garfagno,344,"Garfagno, VILLA MINOZZO, RE, Emilia Romagna",POINT
+RE,VILLA MINOZZO,Gova,345,"Gova, VILLA MINOZZO, RE, Emilia Romagna",POINT
+RE,VILLA MINOZZO,Governara,346,"Governara, VILLA MINOZZO, RE, Emilia Romagna",POINT
+RE,VILLA MINOZZO,Landibasi,347,"Landibasi, VILLA MINOZZO, RE, Emilia Romagna",POINT
+RE,VILLA MINOZZO,Le Bore,348,"Le Bore, VILLA MINOZZO, RE, Emilia Romagna",POINT
+RE,VILLA MINOZZO,Minozzo,349,"Minozzo, VILLA MINOZZO, RE, Emilia Romagna",POINT
+RE,VILLA MINOZZO,Montefelecchio,350,"Montefelecchio, VILLA MINOZZO, RE, Emilia Romagna",POINT
+RE,VILLA MINOZZO,Morsiano,351,"Morsiano, VILLA MINOZZO, RE, Emilia Romagna",POINT
+RE,VILLA MINOZZO,Novellano,352,"Novellano, VILLA MINOZZO, RE, Emilia Romagna",POINT
+RE,VILLA MINOZZO,Pigazzo,353,"Pigazzo, VILLA MINOZZO, RE, Emilia Romagna",POINT
+RE,VILLA MINOZZO,Poiano,354,"Poiano, VILLA MINOZZO, RE, Emilia Romagna",POINT
+RE,VILLA MINOZZO,Primaore,355,"Primaore, VILLA MINOZZO, RE, Emilia Romagna",POINT
+RE,VILLA MINOZZO,Razzolo,356,"Razzolo, VILLA MINOZZO, RE, Emilia Romagna",POINT
+RE,VILLA MINOZZO,Rescadore,357,"Rescadore, VILLA MINOZZO, RE, Emilia Romagna",POINT
+RE,VILLA MINOZZO,Roncolo,358,"Roncolo, VILLA MINOZZO, RE, Emilia Romagna",POINT
+RE,VILLA MINOZZO,Roncomezzano,359,"Roncomezzano, VILLA MINOZZO, RE, Emilia Romagna",POINT
+RE,VILLA MINOZZO,Roncopianigi,360,"Roncopianigi, VILLA MINOZZO, RE, Emilia Romagna",POINT
+RE,VILLA MINOZZO,S. Rocco,361,"San Rocco, VILLA MINOZZO, RE, Emilia Romagna",POINT
+RE,VILLA MINOZZO,Sassatello,362,"Sanssatello, VILLA MINOZZO, RE, Emilia Romagna",POINT
+RE,VILLA MINOZZO,Secchio,363,"Sancchio, VILLA MINOZZO, RE, Emilia Romagna",POINT
+RE,VILLA MINOZZO,Segalare,364,"Sangalare, VILLA MINOZZO, RE, Emilia Romagna",POINT
+RE,VILLA MINOZZO,Sonareto,365,"Sannareto, VILLA MINOZZO, RE, Emilia Romagna",POINT
+RE,VILLA MINOZZO,Strinati,366,"Sanrinati, VILLA MINOZZO, RE, Emilia Romagna",POINT
+RE,VILLA MINOZZO,Triglia,367,"Triglia, VILLA MINOZZO, RE, Emilia Romagna",POINT
+RE,VILLA MINOZZO,Villa Minozzo,368,"Villa Minozzo, VILLA MINOZZO, RE, Emilia Romagna",POINT

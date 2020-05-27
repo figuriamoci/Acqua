@@ -1,0 +1,21 @@
+alias_address,alias_city,geocode,geometry,georeferencingString,type
+Comune,PEZZOLO VALLE UZZONE - FR. TODOCCO,"Frazione Todocco, 12070, Pezzolo Valle Uzzone, CN","{'type': 'Point', 'coordinates': [8.223508155603662, 44.5157326224146]}","Frazione TODOCCO, PEZZOLO VALLE UZZONE, CN, Piemonte",POINT
+Comune,CAMERANA,"Camerana, CN","{'type': 'Point', 'coordinates': [8.141890000000046, 44.424000000000035]}","CAMERANA, CN, Piemonte",POINT
+Comune,NIELLA BELBO,"Niella Belbo, CN","{'type': 'Point', 'coordinates': [8.08149000000003, 44.51367000000005]}","NIELLA BELBO, CN, Piemonte",POINT
+Comune,CASTINO,"Castino, CN","{'type': 'Point', 'coordinates': [8.183880000000045, 44.621390000000076]}","CASTINO, CN, Piemonte",POINT
+Comune,CORTEMILIA,"Cortemilia, CN","{'type': 'Point', 'coordinates': [8.192540000000065, 44.580670000000055]}","CORTEMILIA, CN, Piemonte",POINT
+Comune,CRAVANZANA,"Cravanzana, CN","{'type': 'Point', 'coordinates': [8.128540000000044, 44.57609000000008]}","CRAVANZANA, CN, Piemonte",POINT
+Comune,FEISOGLIO,"Feisoglio, CN","{'type': 'Point', 'coordinates': [8.106090000000052, 44.54365000000007]}","FEISOGLIO, CN, Piemonte",POINT
+Comune,BONVICINO,"Bonvicino, CN","{'type': 'Point', 'coordinates': [8.015030000000024, 44.50465000000003]}","BONVICINO, CN, Piemonte",POINT
+Comune,ALBARETTO DELLA TORRE,"Albaretto della Torre, CN","{'type': 'Point', 'coordinates': [8.062400000000025, 44.59698000000003]}","ALBARETTO DELLA TORRE, CN, Piemonte",POINT
+Comune,ARGUELLO,"Arguello, CN","{'type': 'Point', 'coordinates': [8.108450000000062, 44.58302000000003]}","ARGUELLO, CN, Piemonte",POINT
+Comune,CERRETTO LANGHE,"Cerretto Langhe, CN","{'type': 'Point', 'coordinates': [8.094100000000026, 44.57583000000005]}","CERRETTO LANGHE, CN, Piemonte",POINT
+Comune,SERRAVALLE LANGHE,"Serravalle Langhe, CN","{'type': 'Point', 'coordinates': [8.058890000000076, 44.55913000000004]}","SERRAVALLE LANGHE, CN, Piemonte",POINT
+Comune,SOMANO,"Somano, CN","{'type': 'Point', 'coordinates': [8.01275000000004, 44.53704000000005]}","SOMANO, CN, Piemonte",POINT
+Comune,BORGOMALE,"Borgomale, CN","{'type': 'Point', 'coordinates': [8.132120000000043, 44.621120000000076]}","BORGOMALE, CN, Piemonte",POINT
+Comune,BOSIA,"Bosia, CN","{'type': 'Point', 'coordinates': [8.146840000000054, 44.60209000000003]}","BOSIA, CN, Piemonte",POINT
+Comune,BOSSOLASCO,"Bossolasco, CN","{'type': 'Point', 'coordinates': [8.048700000000053, 44.52986000000004]}","BOSSOLASCO, CN, Piemonte",POINT
+Comune,PERLETTO,"Perletto, CN","{'type': 'Point', 'coordinates': [8.212360000000047, 44.60050000000007]}","PERLETTO, CN, Piemonte",POINT
+Comune,SAN BENEDETTO BELBO,"San Benedetto Belbo, CN","{'type': 'Point', 'coordinates': [8.056290000000047, 44.492540000000076]}","SAN BENEDETTO BELBO, CN, Piemonte",POINT
+Comune,SALICETO,"Saliceto, CN","{'type': 'Point', 'coordinates': [8.170640000000049, 44.416030000000035]}","SALICETO, CN, Piemonte",POINT
+Comune,PEZZOLO VALLE UZZONE - CAPOLUOGO,"Pezzolo Valle Uzzone, CN","{'type': 'Point', 'coordinates': [8.194520000000068, 44.54108000000008]}","PEZZOLO VALLE UZZONE - CAPOLUOGO, CN, Piemonte",POINT

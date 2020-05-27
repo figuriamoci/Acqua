@@ -1,0 +1,25 @@
+alias_address,alias_city,geocode,geometry,georeferencingString,type
+Comune,Monasterolo di Sav.,"Monasterolo di Savigliano, CN","{'type': 'Point', 'coordinates': [7.6218600000000265, 44.687220000000025]}","Monasterolo di Savigliano, CN, Piemonte",POINT
+Comune,Cardè,"Cardè, CN","{'type': 'Point', 'coordinates': [7.477240000000052, 44.74419000000006]}","Cardè, CN, Piemonte",POINT
+Comune,Cavallerleone,"Cavallerleone, CN","{'type': 'Point', 'coordinates': [7.663080000000036, 44.73945000000003]}","Cavallerleone, CN, Piemonte",POINT
+Comune,Cavallermaggiore,"Cavallermaggiore, CN","{'type': 'Point', 'coordinates': [7.6874200000000315, 44.70626000000004]}","Cavallermaggiore, CN, Piemonte",POINT
+Comune,Cervere,"Cervere, CN","{'type': 'Point', 'coordinates': [7.789380000000051, 44.635980000000075]}","Cervere, CN, Piemonte",POINT
+Comune,Fossano,"Fossano, CN","{'type': 'Point', 'coordinates': [7.725810000000024, 44.55203000000006]}","Fossano, CN, Piemonte",POINT
+Comune,Genola,"Genola, CN","{'type': 'Point', 'coordinates': [7.662810000000036, 44.58761000000004]}","Genola, CN, Piemonte",POINT
+Comune,Marene,"Marene, CN","{'type': 'Point', 'coordinates': [7.737590000000068, 44.661460000000034]}","Marene, CN, Piemonte",POINT
+Comune,Moretta,"Moretta, CN","{'type': 'Point', 'coordinates': [7.531930000000045, 44.76341000000008]}","Moretta, CN, Piemonte",POINT
+Comune,Murello,"Murello, CN","{'type': 'Point', 'coordinates': [7.6006700000000365, 44.75249000000008]}","Murello, CN, Piemonte",POINT
+Comune,Piozzo,"Piozzo, CN","{'type': 'Point', 'coordinates': [7.892310000000066, 44.51770000000005]}","Piozzo, CN, Piemonte",POINT
+Comune,Rifreddo,"Rifreddo, CN","{'type': 'Point', 'coordinates': [7.3472600000000625, 44.64742000000007]}","Rifreddo, CN, Piemonte",POINT
+Comune,Ruffia,"Ruffia, CN","{'type': 'Point', 'coordinates': [7.604470000000049, 44.705910000000074]}","Ruffia, CN, Piemonte",POINT
+Comune,Salmour,"Salmour, CN","{'type': 'Point', 'coordinates': [7.794100000000071, 44.57539000000003]}","Salmour, CN, Piemonte",POINT
+Comune,Saluzzo,"Saluzzo, CN","{'type': 'Point', 'coordinates': [7.489550000000065, 44.64626000000004]}","Saluzzo, CN, Piemonte",POINT
+Comune,Sant'Albano Stura,"Sant'Albano Stura, CN","{'type': 'Point', 'coordinates': [7.723140000000058, 44.50800000000004]}","Sant'Albano Stura, CN, Piemonte",POINT
+Comune,Savigliano,"Savigliano, CN","{'type': 'Point', 'coordinates': [7.650590000000022, 44.648060000000044]}","Savigliano, CN, Piemonte",POINT
+Comune,Scarnafigi,"Scarnafigi, CN","{'type': 'Point', 'coordinates': [7.56973000000005, 44.68124000000006]}","Scarnafigi, CN, Piemonte",POINT
+Comune,Torre San Giorgio,"Torre San Giorgio, CN","{'type': 'Point', 'coordinates': [7.527270000000044, 44.73793000000006]}","Torre San Giorgio, CN, Piemonte",POINT
+Comune,Trinità,"Trinità, CN","{'type': 'Point', 'coordinates': [7.758270000000039, 44.50866000000008]}","Trinità, CN, Piemonte",POINT
+Comune,Verzuolo,"Verzuolo, CN","{'type': 'Point', 'coordinates': [7.482840000000067, 44.60023000000007]}","Verzuolo, CN, Piemonte",POINT
+Comune,Villafalletto,"Villafalletto, CN","{'type': 'Point', 'coordinates': [7.540080000000046, 44.54637000000008]}","Villafalletto, CN, Piemonte",POINT
+Comune,Villanova Solaro,"Villanova Solaro, CN","{'type': 'Point', 'coordinates': [7.572990000000061, 44.73174000000006]}","Villanova Solaro, CN, Piemonte",POINT
+Comune,Vottignasco,"Vottignasco, CN","{'type': 'Point', 'coordinates': [7.579800000000034, 44.56353000000007]}","Vottignasco, CN, Piemonte",POINT

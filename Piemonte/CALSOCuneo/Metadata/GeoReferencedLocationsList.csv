@@ -1,0 +1,24 @@
+alias_address,alias_city,geocode,geometry,georeferencingString,type
+Comune,Bastia Mondovì,"Bastia Mondovì, CN","{'type': 'Point', 'coordinates': [7.892950000000042, 44.44286000000005]}","Bastia Mondovì, CN, Piemonte",POINT
+Comune,Belvedere Langhe,"Belvedere Langhe, CN","{'type': 'Point', 'coordinates': [7.970630000000028, 44.495010000000036]}","Belvedere Langhe, CN, Piemonte",POINT
+Comune,Bonvicino,"Bonvicino, CN","{'type': 'Point', 'coordinates': [8.015030000000024, 44.50465000000003]}","Bonvicino, CN, Piemonte",POINT
+Comune,Carrù,"Carrù, CN","{'type': 'Point', 'coordinates': [7.879270000000076, 44.48024000000004]}","Carrù, CN, Piemonte",POINT
+Comune,Castellino Tanaro,"Castellino Tanaro, CN","{'type': 'Point', 'coordinates': [7.980960000000039, 44.427910000000054]}","Castellino Tanaro, CN, Piemonte",POINT
+Comune,Cigliè,"Cigliè, CN","{'type': 'Point', 'coordinates': [7.926550000000077, 44.43525000000005]}","Cigliè, CN, Piemonte",POINT
+Comune,Clavesana,"Clavesana, CN","{'type': 'Point', 'coordinates': [7.911440000000027, 44.482710000000054]}","Clavesana, CN, Piemonte",POINT
+Comune,Dogliani,"Dogliani, CN","{'type': 'Point', 'coordinates': [7.945590000000038, 44.53216000000003]}","Dogliani, CN, Piemonte",POINT
+Comune,Farigliano,"Farigliano, CN","{'type': 'Point', 'coordinates': [7.916120000000035, 44.51121000000006]}","Farigliano, CN, Piemonte",POINT
+Comune,Igliano,"Igliano, CN","{'type': 'Point', 'coordinates': [8.015510000000063, 44.44718000000006]}","Igliano, CN, Piemonte",POINT
+Comune,Lequio Tanaro,"Lequio Tanaro, CN","{'type': 'Point', 'coordinates': [7.882540000000063, 44.560280000000034]}","Lequio Tanaro, CN, Piemonte",POINT
+Comune,Marsaglia,"Marsaglia, CN","{'type': 'Point', 'coordinates': [7.983390000000043, 44.45372000000003]}","Marsaglia, CN, Piemonte",POINT
+Comune,Monchiero,"Monchiero, CN","{'type': 'Point', 'coordinates': [7.91682000000003, 44.573420000000056]}","Monchiero, CN, Piemonte",POINT
+Comune,Monforte d'Alba,"Monforte d'Alba, CN","{'type': 'Point', 'coordinates': [7.967830000000049, 44.58300000000003]}","Monforte d'Alba, CN, Piemonte",POINT
+Comune,Montezemolo,"Montezemolo, CN","{'type': 'Point', 'coordinates': [8.134340000000066, 44.381170000000054]}","Montezemolo, CN, Piemonte",POINT
+Comune,Murazzano,"Murazzano, CN","{'type': 'Point', 'coordinates': [8.016010000000051, 44.47324000000003]}","Murazzano, CN, Piemonte",POINT
+Comune,Niella Tanaro,"Niella Tanaro, CN","{'type': 'Point', 'coordinates': [7.922860000000071, 44.41369000000003]}","Niella Tanaro, CN, Piemonte",POINT
+Comune,Paroldo,"Paroldo, CN","{'type': 'Point', 'coordinates': [8.074440000000038, 44.43229000000008]}","Paroldo, CN, Piemonte",POINT
+Comune,Roascio,"Roascio, CN","{'type': 'Point', 'coordinates': [8.022590000000037, 44.41823000000005]}","Roascio, CN, Piemonte",POINT
+Comune,Rocca Cigliè,"Rocca Cigliè, CN","{'type': 'Point', 'coordinates': [7.950400000000059, 44.44724000000008]}","Rocca Cigliè, CN, Piemonte",POINT
+Comune,Sale delle Langhe,"Sale delle Langhe, CN","{'type': 'Point', 'coordinates': [8.082270000000051, 44.39628000000005]}","Sale delle Langhe, CN, Piemonte",POINT
+Comune,Sale San Giovanni,"Sale San Giovanni, CN","{'type': 'Point', 'coordinates': [8.078370000000064, 44.39849000000004]}","Sale San Giovanni, CN, Piemonte",POINT
+Comune,Torresina,"Torresina, CN","{'type': 'Point', 'coordinates': [8.035920000000033, 44.43413000000004]}","Torresina, CN, Piemonte",POINT

@@ -1,0 +1,14 @@
+alias_address,alias_city,geocode,geometry,georeferencingString,type
+Comune,MONTEFESTONE,"Fidenza, PR","{'type': 'Point', 'coordinates': [10.060850000000073, 44.86221000000006]}","FIDENZA, PR, Emilia Romagna",POINT
+Comune,RONCOLE VERDI - BUSSETO,"Roncole Verdi, Busseto, Parma","{'type': 'Point', 'coordinates': [10.06887000000006, 44.953250000000025]}",Roncole Verdi,POINT
+Comune,SAN SECONDO,"San Secondo Parmense, PR","{'type': 'Point', 'coordinates': [10.22992000000005, 44.92289000000005]}","San Secondo Parmense, PR, Emilia Romagna",POINT
+Comune,VIDALENZO,"Vidalenzo, Polesine Zibello, PR","{'type': 'Point', 'coordinates': [10.047840000000065, 45.01484000000005]}","Vidalenzo, PR, Emilia Romagna",POINT
+Comune,COLORNO,"Colorno, PR","{'type': 'Point', 'coordinates': [10.375520000000051, 44.92843000000005]}","Colorno, PR, Emilia Romagna",POINT
+Comune,ROCCABIANCA,"Roccabianca, PR","{'type': 'Point', 'coordinates': [10.218360000000075, 45.00845000000004]}","ROCCABIANCA, PR, Emilia Romagna",POINT
+Comune,RONCO C.C.,"Ronco Campo Canneto, Sissa Trecasali, PR","{'type': 'Point', 'coordinates': [10.257130000000075, 44.89775000000003]}","Ronco Campo Canneto, PR, Emilia Romagna",POINT
+Comune,POLESINE,"Polesine Parmense, Polesine Zibello, PR","{'type': 'Point', 'coordinates': [10.086830000000077, 45.019750000000045]}","Polesine Parmense, PR, Emilia Romagna",POINT
+Comune,TRECASALI,"Trecasali, Sissa Trecasali, PR","{'type': 'Point', 'coordinates': [10.264860000000056, 44.93897000000004]}","Trecasali, PR, Emilia Romagna",POINT
+Comune,SORAGNA,"Soragna, PR","{'type': 'Point', 'coordinates': [10.122270000000071, 44.92918000000003]}","SORAGNA, PR, Emilia Romagna",POINT
+Comune,FONTANELLATO,"Fontanellato, PR","{'type': 'Point', 'coordinates': [10.173800000000028, 44.88047000000006]}","FONTANELLATO, PR, Emilia Romagna",POINT
+Comune,TORRILE,"Torrile, PR","{'type': 'Point', 'coordinates': [10.326960000000042, 44.921820000000025]}","TORRILE, PR, Emilia Romagna",POINT
+Comune,SALSOMAGGIORE,"Salsomaggiore Terme, PR","{'type': 'Point', 'coordinates': [9.982450000000028, 44.81573000000003]}","Salsomaggiore Terme, PR, Emilia Romagna",POINT

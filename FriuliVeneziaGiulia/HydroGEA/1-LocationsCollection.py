@@ -34,6 +34,6 @@ for i,controlWebElement in enumerate(webElementsList):
         logging.critical('Skip %s',comune)
 ##
 driver.close()
-#listLocations.to_csv('Medadata/LocationList.csv',index=False)
+listLocations.to_csv('Medadata/LocationList.csv',index=False)
 
 

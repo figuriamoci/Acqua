@@ -1,6 +1,6 @@
 import acqua.geoCode as gc
 import acqua.aqueduct as aq
-gestore = "IrenPiemonte"
+gestore = "IrenER"
 aq.setEnv('EmiliaRomagna//'+gestore)
 locationListFile = 'Metadata/LocationList.csv'
 geoReferencedLocationsFile = 'Metadata/GeoReferencedLocationsList.csv'

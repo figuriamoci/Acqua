@@ -1,0 +1,67 @@
+alias_address,alias_city,geocode,geometry,georeferencingString,type
+Comune,ALBA - FR SANTA ROSALIA,"Località Santa Rosalia, 12051, Alba, CN","{'type': 'Point', 'coordinates': [8.020391991002672, 44.66292140319128]}","SANTA ROSALIA, ALBA, CN, Piemonte",POINT
+Comune,ALBA-CORSO LANGHE-FR. MORETTA,"Moretta, Alba","{'type': 'Point', 'coordinates': [8.034240000000068, 44.69056000000006]}","Moretta, Alba",POINT
+Comune,MANGO - CAPOLUOGO,"Mango, CN","{'type': 'Point', 'coordinates': [8.148110000000031, 44.68699000000004]}","MANGO, CN, Piemonte",POINT
+Comune,ALBA - FR MADONNA DI COMO,"Madonna di Como, Alba, CN","{'type': 'Point', 'coordinates': [8.061530000000062, 44.66633000000007]}","ALBA -  MADONNA DI COMO, CN, Piemonte",POINT
+Comune,ALBA - FR RICCA,"Piazza Alba, 12055, Diano d'Alba, CN","{'type': 'Point', 'coordinates': [8.04894603442462, 44.65335706673709]}","ALBA -  RICCA, CN, Piemonte",POINT
+Comune,CASTIGLIONE FALLETTO,"Castiglione Falletto, CN","{'type': 'Point', 'coordinates': [7.975360000000023, 44.62602000000004]}","CASTIGLIONE FALLETTO, CN, Piemonte",POINT
+Comune,DIANO D'ALBA,"Diano d'Alba, CN","{'type': 'Point', 'coordinates': [8.026450000000068, 44.654120000000034]}","DIANO D'ALBA, CN, Piemonte",POINT
+Comune,GRINZANE CAVOUR - CAPOLUOGO,"Grinzane Cavour, CN","{'type': 'Point', 'coordinates': [7.9946800000000735, 44.653620000000046]}","GRINZANE CAVOUR - CAPOLUOGO, CN, Piemonte",POINT
+Comune,RODDINO,"Roddino, CN","{'type': 'Point', 'coordinates': [8.015320000000031, 44.576190000000054]}","RODDINO, CN, Piemonte",POINT
+Comune,SERRALUNGA D'ALBA,"Serralunga d'Alba, CN","{'type': 'Point', 'coordinates': [8.001310000000046, 44.61427000000003]}","SERRALUNGA D'ALBA, CN, Piemonte",POINT
+Comune,SINIO,"Sinio, CN","{'type': 'Point', 'coordinates': [8.020520000000033, 44.59948000000003]}","SINIO, CN, Piemonte",POINT
+Comune,BARBARESCO,"Barbaresco, CN","{'type': 'Point', 'coordinates': [8.081650000000025, 44.72502000000003]}","BARBARESCO, CN, Piemonte",POINT
+Comune,TREISO,"Treiso, CN","{'type': 'Point', 'coordinates': [8.087720000000047, 44.68939000000006]}","TREISO, CN, Piemonte",POINT
+Comune,ALBA - FR MUSSOTTO,"Mussotto, Alba, CN","{'type': 'Point', 'coordinates': [8.017450000000053, 44.712780000000066]}","ALBA -  MUSSOTTO, CN, Piemonte",POINT
+Comune,CANALE,"Canale, CN","{'type': 'Point', 'coordinates': [7.988740000000064, 44.79651000000007]}","CANALE, CN, Piemonte",POINT
+Comune,GUARENE,"Guarene, CN","{'type': 'Point', 'coordinates': [8.029670000000067, 44.73858000000007]}","GUARENE, CN, Piemonte",POINT
+Comune,MONTEU ROERO - FR. TRE RIVI,"Tre Rivi, Monteu Roero, CN","{'type': 'Point', 'coordinates': [7.9480100000000675, 44.77633000000003]}","MONTEU ROERO - . TRE RIVI, CN, Piemonte",POINT
+Comune,ALBA FR PIANA BIGLINI,"Biglini, Alba, CN","{'type': 'Point', 'coordinates': [7.983000000000061, 44.70395000000008]}","ALBA  PIANA BIGLINI, CN, Piemonte",POINT
+Comune,CORNELIANO D'ALBA,"Corneliano d'Alba, CN","{'type': 'Point', 'coordinates': [7.957170000000076, 44.735730000000046]}","CORNELIANO D'ALBA, CN, Piemonte",POINT
+Comune,MONTICELLO D'ALBA,"Monticello d'Alba, CN","{'type': 'Point', 'coordinates': [7.972080000000062, 44.70143000000007]}","MONTICELLO D'ALBA, CN, Piemonte",POINT
+Comune,PIOBESI D'ALBA,"Piobesi d'Alba, CN","{'type': 'Point', 'coordinates': [7.981890000000021, 44.73757000000006]}","PIOBESI D'ALBA, CN, Piemonte",POINT
+Comune,SOMMARIVA PERNO,"Sommariva Perno, CN","{'type': 'Point', 'coordinates': [7.898920000000032, 44.74672000000004]}","SOMMARIVA PERNO, CN, Piemonte",POINT
+Comune,BALDISSERO D'ALBA,"Baldissero d'Alba, CN","{'type': 'Point', 'coordinates': [7.910570000000064, 44.761700000000076]}","BALDISSERO D'ALBA, CN, Piemonte",POINT
+Comune,CASTAGNITO,"Castagnito, CN","{'type': 'Point', 'coordinates': [8.031900000000064, 44.754890000000046]}","CASTAGNITO, CN, Piemonte",POINT
+Comune,CASTELLINALDO,"Via Castellinaldo, 12040, Vezza d'Alba, CN","{'type': 'Point', 'coordinates': [8.017331718580285, 44.76334037414393]}","CASTELLINALDO, CN, Piemonte",POINT
+Comune,GOVONE CAPOLUOGO,"Govone, CN","{'type': 'Point', 'coordinates': [8.097860000000026, 44.80422000000004]}","GOVONE CAPOLUOGO, CN, Piemonte",POINT
+Comune,MAGLIANO ALFIERI,"Magliano Alfieri, CN","{'type': 'Point', 'coordinates': [8.066860000000077, 44.76956000000007]}","MAGLIANO ALFIERI, CN, Piemonte",POINT
+Comune,MONTALDO ROERO,"Montaldo Roero, CN","{'type': 'Point', 'coordinates': [7.9213700000000244, 44.76906000000008]}","MONTALDO ROERO, CN, Piemonte",POINT
+Comune,MONTEU ROERO CAPOLUOGO,"Monteu Roero, CN","{'type': 'Point', 'coordinates': [7.932390000000055, 44.78099000000003]}","MONTEU ROERO CAPOLUOGO, CN, Piemonte",POINT
+Comune,PRIOCCA,"Priocca, CN","{'type': 'Point', 'coordinates': [8.063320000000033, 44.79195000000004]}","PRIOCCA, CN, Piemonte",POINT
+Comune,SANTO STEFANO ROERO,"Santo Stefano Roero, CN","{'type': 'Point', 'coordinates': [7.939360000000022, 44.789480000000026]}","SANTO STEFANO ROERO, CN, Piemonte",POINT
+Comune,VEZZA D'ALBA,"Vezza d'Alba, CN","{'type': 'Point', 'coordinates': [7.995040000000074, 44.764050000000054]}","VEZZA D'ALBA, CN, Piemonte",POINT
+Comune,BAROLO,"Barolo, CN","{'type': 'Point', 'coordinates': [7.9406000000000745, 44.61211000000003]}","BAROLO, CN, Piemonte",POINT
+Comune,LA MORRA,"La Morra, CN","{'type': 'Point', 'coordinates': [7.933740000000057, 44.638900000000035]}","LA MORRA, CN, Piemonte",POINT
+Comune,NOVELLO,"Novello, CN","{'type': 'Point', 'coordinates': [7.928510000000074, 44.59137000000004]}","NOVELLO, CN, Piemonte",POINT
+Comune,TREZZO TINELLA,"Trezzo Tinella, CN","{'type': 'Point', 'coordinates': [8.107030000000066, 44.67781000000008]}","TREZZO TINELLA, CN, Piemonte",POINT
+Comune,VERDUNO,"Verduno, CN","{'type': 'Point', 'coordinates': [7.934630000000027, 44.66633000000007]}","VERDUNO, CN, Piemonte",POINT
+Comune,BRA,"Bra, CN","{'type': 'Point', 'coordinates': [7.857500000000073, 44.695530000000076]}","BRA, CN, Piemonte",POINT
+Comune,CAMO,"Camo, Santo Stefano Belbo, CN","{'type': 'Point', 'coordinates': [8.192450000000065, 44.69486000000006]}","CAMO, CN, Piemonte",POINT
+Comune,NEVIGLIE,"Neviglie, CN","{'type': 'Point', 'coordinates': [8.11725000000007, 44.69128000000006]}","NEVIGLIE, CN, Piemonte",POINT
+Comune,CHERASCO - FR SAN GIOVANNI,"San Giovanni, Cherasco, CN","{'type': 'Point', 'coordinates': [7.8207400000000575, 44.60513000000003]}","CHERASCO -  SAN GIOVANNI, CN, Piemonte",POINT
+Comune,CHERASCO - FR SAN BARTOLOMEO,"San Bartolomeo, Cherasco, CN","{'type': 'Point', 'coordinates': [7.898270000000025, 44.624520000000075]}","CHERASCO -  SAN BARTOLOMEO, CN, Piemonte",POINT
+Comune,CHERASCO - FR PICCHI,"Cherasco, CN","{'type': 'Point', 'coordinates': [7.8580800000000295, 44.65162000000004]}","CHERASCO -  PICCHI, CN, Piemonte",POINT
+Comune,NARZOLE - FR VERGNE,"Vergne, Barolo, CN","{'type': 'Point', 'coordinates': [7.920350000000042, 44.61345000000006]}","NARZOLE -  VERGNE, CN, Piemonte",POINT
+Comune,NEIVE - ALTO,"Neive, CN","{'type': 'Point', 'coordinates': [8.115020000000072, 44.72507000000007]}","NEIVE - ALTO, CN, Piemonte",POINT
+Comune,CASTIGLIONE TINELLA,"Castiglione Tinella, CN","{'type': 'Point', 'coordinates': [8.189340000000072, 44.724680000000035]}","CASTIGLIONE TINELLA, CN, Piemonte",POINT
+Comune,CHERASCO - CAPOLUOGO,"Cherasco, CN","{'type': 'Point', 'coordinates': [7.8580800000000295, 44.65162000000004]}","CHERASCO - CAPOLUOGO, CN, Piemonte",POINT
+Comune,CHERASCO FR RORETO,"Roreto, Cherasco, CN","{'type': 'Point', 'coordinates': [7.832560000000058, 44.666870000000074]}","CHERASCO  RORETO, CN, Piemonte",POINT
+Comune,CHERASCO FR CAPPELLAZZO,"Cappellazzo, Cherasco, CN","{'type': 'Point', 'coordinates': [7.772670000000062, 44.650180000000034]}","CHERASCO  CAPPELLAZZO, CN, Piemonte",POINT
+Comune,CHERASCO FR BRICCO DE FAULE,"Cherasco, CN","{'type': 'Point', 'coordinates': [7.8580800000000295, 44.65162000000004]}","CHERASCO  BRICCO DE FAULE, CN, Piemonte",POINT
+Comune,GOVONE - FR. CANOVE,"Canove, Govone, CN","{'type': 'Point', 'coordinates': [8.091110000000072, 44.77843000000007]}","GOVONE - . CANOVE, CN, Piemonte",POINT
+Comune,GRINZANE CAVOUR-FR GALLO,"Grinzane Cavour, CN","{'type': 'Point', 'coordinates': [7.9946800000000735, 44.653620000000046]}","GRINZANE CAVOUR- GALLO, CN, Piemonte",POINT
+Comune,RODDI,"Roddi, CN","{'type': 'Point', 'coordinates': [7.970570000000066, 44.68119000000007]}","RODDI, CN, Piemonte",POINT
+Comune,MANGO - FR. SAN DONATO,"San Donato, Mango, CN","{'type': 'Point', 'coordinates': [8.152680000000032, 44.66292000000004]}","MANGO - . SAN DONATO, CN, Piemonte",POINT
+Comune,MONTA',"Montà, CN","{'type': 'Point', 'coordinates': [7.958030000000065, 44.813510000000065]}","MONTA', CN, Piemonte",POINT
+Comune,NARZOLE CAPOLUOGO,"Narzole, CN","{'type': 'Point', 'coordinates': [7.870150000000024, 44.59919000000008]}","NARZOLE CAPOLUOGO, CN, Piemonte",POINT
+Comune,NARZOLE FR LUCCHI,"Lucchi, Narzole, CN","{'type': 'Point', 'coordinates': [7.835110000000043, 44.584160000000054]}","NARZOLE  LUCCHI, CN, Piemonte",POINT
+Comune,NEIVE - BASSO,"Neive, CN","{'type': 'Point', 'coordinates': [8.115020000000072, 44.72507000000007]}","NEIVE - BASSO, CN, Piemonte",POINT
+Comune,POCAPAGLIA,"Pocapaglia, CN","{'type': 'Point', 'coordinates': [7.886250000000075, 44.71578000000005]}","POCAPAGLIA, CN, Piemonte",POINT
+Comune,SANTA VITTORIA D'ALBA,"Santa Vittoria d'Alba, CN","{'type': 'Point', 'coordinates': [7.9366900000000555, 44.69897000000003]}","SANTA VITTORIA D'ALBA, CN, Piemonte",POINT
+Comune,SOMMARIVA BOSCO CAPOLUOGO,"Sommariva del Bosco, CN","{'type': 'Point', 'coordinates': [7.779960000000074, 44.77028000000007]}","SOMMARIVA BOSCO CAPOLUOGO, CN, Piemonte",POINT
+Comune,SOMMARIVA BOSCO FR MANIGA,"Sommariva del Bosco, CN","{'type': 'Point', 'coordinates': [7.779960000000074, 44.77028000000007]}","SOMMARIVA BOSCO  MANIGA, CN, Piemonte",POINT
+Comune,SOMMARIVA BOSCO FR TAVELLE,"Sommariva del Bosco, CN","{'type': 'Point', 'coordinates': [7.779960000000074, 44.77028000000007]}","SOMMARIVA BOSCO  TAVELLE, CN, Piemonte",POINT
+Comune,SOMMARIVA BOSCO FR AGOSTINASSI,"Agostinassi, Sommariva del Bosco, CN","{'type': 'Point', 'coordinates': [7.759730000000047, 44.752740000000074]}","SOMMARIVA BOSCO  AGOSTINASSI, CN, Piemonte",POINT
+Comune,SOMMARIVA BOSCO- FR. GABRIELASSI,"Sommariva del Bosco, CN","{'type': 'Point', 'coordinates': [7.779960000000074, 44.77028000000007]}","SOMMARIVA BOSCO- . GABRIELASSI, CN, Piemonte",POINT
+Comune,SOMMARIVA BOSCO FR PAOLORIO,"Sommariva del Bosco, CN","{'type': 'Point', 'coordinates': [7.779960000000074, 44.77028000000007]}","SOMMARIVA BOSCO  PAOLORIO, CN, Piemonte",POINT

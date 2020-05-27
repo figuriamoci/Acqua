@@ -1,7 +1,7 @@
 import acqua.aqueduct as aq
 import acqua.label as al
 import acqua.labelCollection as coll
-gestore = "IrenPiemonte"
+gestore = "IrenER"
 aq.setEnv('EmiliaRomagna//'+gestore)
 dataReportCollectionFile = 'Metadata/DataReportCollection.csv'
 geoReferencedLocationsListFile = 'Metadata/GeoReferencedLocationsList.csv'

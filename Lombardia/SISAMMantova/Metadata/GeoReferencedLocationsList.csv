@@ -1,0 +1,20 @@
+alias_address,alias_city,geocode,geometry,georeferencingString,type
+Comune,Canneto sull'Oglio,"Canneto sull'Oglio, MN","{'type': 'Point', 'coordinates': [10.382910000000038, 45.15155000000004]}","Canneto sull'Oglio, MN",POINT
+Comune,Castel Goffredo,"Castel Goffredo, MN","{'type': 'Point', 'coordinates': [10.477580000000046, 45.298050000000046]}","Castel Goffredo, MN",POINT
+Comune,Medole,"Medole, MN","{'type': 'Point', 'coordinates': [10.51186000000007, 45.32645000000008]}","Medole, MN",POINT
+Comune,Asola,"Asola, MN","{'type': 'Point', 'coordinates': [10.420060000000035, 45.22086000000007]}","Asola, MN",POINT
+Comune,Cavriana,"Cavriana, MN","{'type': 'Point', 'coordinates': [10.601180000000056, 45.35202000000004]}","Cavriana, MN",POINT
+Comune,Monzambano,"Monzambano, MN","{'type': 'Point', 'coordinates': [10.693700000000035, 45.38448000000005]}","Monzambano, MN",POINT
+Comune,Asola - località Castelnuovo,"Castelnuovo, Asola, Mantova","{'type': 'Point', 'coordinates': [10.45437000000004, 45.248410000000035]}","Asola - località Castelnuovo, MN",POINT
+Comune,Ceresara,"Ceresara, MN","{'type': 'Point', 'coordinates': [10.567810000000065, 45.26579000000004]}","Ceresara, MN",POINT
+Comune,Redondesco,"Redondesco, MN","{'type': 'Point', 'coordinates': [10.514110000000073, 45.16865000000007]}","Redondesco, MN",POINT
+Comune,Casalmoro,"Casalmoro, MN","{'type': 'Point', 'coordinates': [10.406840000000045, 45.261250000000075]}","Casalmoro, MN",POINT
+Comune,Goito,"Goito, MN","{'type': 'Point', 'coordinates': [10.668700000000058, 45.251310000000046]}","Goito, MN",POINT
+Comune,Volta Mantovana,"Volta Mantovana, MN","{'type': 'Point', 'coordinates': [10.658180000000073, 45.32648000000006]}","Volta Mantovana, MN",POINT
+Comune,Casaloldo,"Casaloldo, MN","{'type': 'Point', 'coordinates': [10.473700000000065, 45.25421000000006]}","Casaloldo, MN",POINT
+Comune,Guidizzolo,"Guidizzolo, MN","{'type': 'Point', 'coordinates': [10.578590000000077, 45.320010000000025]}","Guidizzolo, MN",POINT
+Comune,Solferino,"Solferino, MN","{'type': 'Point', 'coordinates': [10.569170000000042, 45.37286000000006]}","Solferino, MN",POINT
+Comune,Casalromano,"Casalromano, MN","{'type': 'Point', 'coordinates': [10.367440000000045, 45.19850000000008]}","Casalromano, MN",POINT
+Comune,Mariana Mantovana,"Mariana Mantovana, MN","{'type': 'Point', 'coordinates': [10.48449000000005, 45.19350000000003]}","Mariana Mantovana, MN",POINT
+Comune,Gazoldo degli Ippoliti,"Gazoldo degli Ippoliti, MN","{'type': 'Point', 'coordinates': [10.58182000000005, 45.20026000000007]}","Gazoldo degli Ippoliti, MN",POINT
+Comune,Piubega,"Piubega, MN","{'type': 'Point', 'coordinates': [10.535300000000063, 45.22821000000005]}","Piubega, MN",POINT

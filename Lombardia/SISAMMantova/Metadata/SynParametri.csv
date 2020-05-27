@@ -1,0 +1,20 @@
+parametro,syn0,syn1,syn2,syn3,syn4,syn5,syn6,syn7,syn8,syn9
+residuo_fisso,Residuo fisso  a 180°C
+durezza,
+ph,pH
+calcio,Calcio (Ca)
+sodio,Sodio (Na)
+magnesio,Magnesio (Mg)
+potassio,Potassio (K)
+solfato,Solfati (SO4)
+nitrato,Nitrati (NO3)
+nitrito,Nitriti (NO2-)
+cloruro,Cloruri(Cl-)
+conducibilita,Conducibilità (a 20°C)
+fluoruri,Fluoruri (F)
+ammoniaca,Ammoniaca (come NH4)
+manganese,Manganese (Mn)
+arsenico,Arsenico (As)
+bicarbonato,Alcalinità equivalente a bicarbonati (HCO3)
+cloro_residuo,Cloro libero (Cl2)
+ferro,Ferro (Fe)
