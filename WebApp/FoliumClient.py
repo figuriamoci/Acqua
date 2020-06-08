@@ -1,7 +1,7 @@
 #Location di interesse per i parametri dell'acqua
 #targetLocation = 'Isola Morosini Via due fiumi'
 #%%
-targetLocation = "San Michele di Pagana"
+targetLocation = "bolzano"
 
 import folium,os,geojson as js,logging
 from geopy.geocoders import Nominatim

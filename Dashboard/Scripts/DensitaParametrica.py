@@ -20,10 +20,11 @@ for e_ in e:
     points.append(p)
 ##
 # Find the Water supply network target
-searcingString = {"properties.regione":"Veneto"}
+#searcingString = {"properties.regione":"Veneto"}
 #searcingString = {"properties.regione":"Lombardia"}
 #searcingString = {"properties.regione":"EmiliaRomagna"}
 #searcingString = {"properties.regione":"Piemonte"}
+searcingString = {"properties.regione":"Trentino"}
 #searcingString = {"properties.regione":"Friuli Venezia Giulia"}
 f = db.rete_acuquedotti.find( searcingString )
 features = []

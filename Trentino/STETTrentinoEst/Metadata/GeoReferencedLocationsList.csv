@@ -1,0 +1,117 @@
+alias_address,alias_city,aqueduct,geocode,geometry,georeferencingString,type
+Villa Rosa,Pergine Valsugana,Madrano Oltrefersina,"Località Maso Grillo, 38057, Pergine Valsugana, Trento","{'type': 'Point', 'coordinates': [11.22104435886973, 46.07286074193928]}","Località Maso Grillo, Pergine Valsugana",POINT
+Dos Di san Cristoforo,Pergine Valsugana,"San Cristoforo, Canale, Valcanover","Via del Dos, 38057, Pergine Valsugana, Trento","{'type': 'Point', 'coordinates': [11.214244024194597, 46.05934984455783]}","Via del Dos, 38057, Pergine Valsugana, Trento",POINT
+San Cristoforo,Pergine Valsugana,"San Cristoforo, Canale, Valcanover","San Cristoforo al Lago, Pergine Valsugana, TN","{'type': 'Point', 'coordinates': [11.235290000000077, 46.03980000000007]}","San Cristoforo al Lago, Pergine Valsugana, TN",POINT
+Canale (bassa),Pergine Valsugana,"San Cristoforo, Canale, Valcanover","Canale, Pergine Valsugana, TN","{'type': 'Point', 'coordinates': [11.227720000000033, 46.043210000000045]}","Canale, Pergine Valsugana, TN, Trentino",POINT
+Roncogno,Pergine Valsugana,Roncogno,"Roncogno, Pergine Valsugana, TN","{'type': 'Point', 'coordinates': [11.206960000000038, 46.06943000000007]}","Roncogno, Pergine Valsugana, TN, Trentino",POINT
+Assizzi (bassa),Pergine Valsugana,"Assizzi, Masetti","Assizzi, Pergine Valsugana, TN","{'type': 'Point', 'coordinates': [11.256460000000061, 46.05026000000004]}","Assizzi (bassa), Pergine Valsugana, TN, Trentino",POINT
+Masetti,Pergine Valsugana,"Assizzi, Masetti","Masetti, Pergine Valsugana, TN","{'type': 'Point', 'coordinates': [11.248700000000042, 46.051150000000064]}","Masetti, Pergine Valsugana, TN, Trentino",POINT
+Valderban,Pergine Valsugana,"Assizzi, Masetti","Maso Valderban, 38057, Pergine Valsugana, TN","{'type': 'Point', 'coordinates': [11.245847443989176, 46.047253632987555]}","Valderban, Pergine Valsugana, TN, Trentino",POINT
+Telotti,Pergine Valsugana,"Assizzi, Masetti","Via ai Teloti, 38057, Pergine Valsugana, TN","{'type': 'Point', 'coordinates': [11.248601611486222, 46.04921198798774]}","Telotti, Pergine Valsugana, TN, Trentino",POINT
+Colle del Tegazzo,Pergine Valsugana,"Assizzi, Masetti","Via Tegazzo, 38057, Pergine Valsugana, TN","{'type': 'Point', 'coordinates': [11.243973127057993, 46.06062067447739]}","Colle del Tegazzo, Pergine Valsugana, TN, Trentino",POINT
+Pergine,Pergine Valsugana,Busneck,Pergine,"{'type': 'Point', 'coordinates': [11.232400000000041, 46.06289000000004]}","Pergine, Pergine Valsugana, TN, Trentino",POINT
+Canezza,Pergine Valsugana,Busneck,"Canezza, Pergine Valsugana, TN","{'type': 'Point', 'coordinates': [11.275410000000022, 46.08003000000008]}","Canezza, Pergine Valsugana, TN, Trentino",POINT
+Cire',Pergine Valsugana,Busneck,"Ciré, Pergine Valsugana, TN","{'type': 'Point', 'coordinates': [11.207250000000045, 46.07707000000005]}","Cire', Pergine Valsugana, TN, Trentino",POINT
+Serso,Pergine Valsugana,Busneck,"Serso, Pergine Valsugana, TN","{'type': 'Point', 'coordinates': [11.253610000000037, 46.07523000000003]}","Serso, Pergine Valsugana, TN, Trentino",POINT
+Zivignago (bassa),Pergine Valsugana,Busneck,"Zivignago, Pergine Valsugana, TN","{'type': 'Point', 'coordinates': [11.257300000000043, 46.06821000000008]}","Zivignago (bassa), Pergine Valsugana, TN, Trentino",POINT
+Sacchi,Pergine Valsugana,Busneck,"Via Sacchi, 38057, Pergine Valsugana, TN","{'type': 'Point', 'coordinates': [11.239653369233016, 46.05539196083671]}","Sacchi, Pergine Valsugana, TN, Trentino",POINT
+Maso San Pietro,Pergine Valsugana,Busneck,"Via San Pietro, 38057, Pergine Valsugana, TN","{'type': 'Point', 'coordinates': [11.25106826756409, 46.06572602767904]}","Maso San Pietro, Pergine Valsugana, TN, Trentino",POINT
+Maso Osler,Pergine Valsugana,Busneck,"Pergine Valsugana, TN","{'type': 'Point', 'coordinates': [11.241860000000031, 46.06368000000003]}","Maso Osler, Pergine Valsugana, TN, Trentino",POINT
+Canale (alto),Pergine Valsugana,Canale alto,"Canale, Pergine Valsugana, TN","{'type': 'Point', 'coordinates': [11.227720000000033, 46.043210000000045]}","Canale (alto), Pergine Valsugana, TN, Trentino",POINT
+Maso delle Rive,Pergine Valsugana,Canale alto,"Via alle Rive, 38057, Pergine Valsugana, TN","{'type': 'Point', 'coordinates': [11.225304143153105, 46.04111157261244]}","Maso delle Rive, Pergine Valsugana, TN, Trentino",POINT
+Fontanele,Pergine Valsugana,Canale alto,"Via Fontanèle, 38057, Pergine Valsugana, TN","{'type': 'Point', 'coordinates': [11.211648479295565, 46.08715571013769]}","Fontanele, Pergine Valsugana, TN, Trentino",POINT
+Zivignago (alta),Pergine Valsugana,"Ciomba, Zivignago alta","Zivignago, Pergine Valsugana, TN","{'type': 'Point', 'coordinates': [11.257300000000043, 46.06821000000008]}","Zivignago (alta), Pergine Valsugana, TN, Trentino",POINT
+Ciomba,Pergine Valsugana,"Ciomba, Zivignago alta","Via alla Ciomba, 38057, Pergine Valsugana, TN","{'type': 'Point', 'coordinates': [11.255879746060716, 46.06627024946875]}","Ciomba, Pergine Valsugana, TN, Trentino",POINT
+Costasavina,Pergine Valsugana,Costasavina,"Costasavina, Pergine Valsugana, TN","{'type': 'Point', 'coordinates': [11.21566000000007, 46.05910000000006]}","Costasavina, Pergine Valsugana, TN, Trentino",POINT
+Canezza sinistra Fersina Maso Ferar,Pergine Valsugana,Ferar Canezza sinistra Fersina,"Canezza, Pergine Valsugana, TN","{'type': 'Point', 'coordinates': [11.275410000000022, 46.08003000000008]}","Canezza sinistra Fersina Maso Ferar, Pergine Valsugana, TN, Trentino",POINT
+Guarda,Pergine Valsugana,Guarda - Riposo,"Guarda, Pergine Valsugana, TN","{'type': 'Point', 'coordinates': [11.230910000000051, 46.09178000000003]}","Guarda, Pergine Valsugana, TN, Trentino",POINT
+Riposo,Pergine Valsugana,Guarda - Riposo,"Località Riposo, 38057, Pergine Valsugana, TN","{'type': 'Point', 'coordinates': [11.237148218338568, 46.09389391424662]}","Riposo, Pergine Valsugana, TN, Trentino",POINT
+Molino Sassi Grandi,Pergine Valsugana,Guarda - Riposo,"Via ai Molini, 38057, Pergine Valsugana, TN","{'type': 'Point', 'coordinates': [11.281081324204052, 46.07779848143564]}","Molino Sassi Grandi, Pergine Valsugana, TN, Trentino",POINT
+Madrano,Pergine Valsugana,Madrano Oltrefersina,"Madrano, Pergine Valsugana, TN","{'type': 'Point', 'coordinates': [11.215810000000033, 46.08523000000008]}","Madrano, Pergine Valsugana, TN, Trentino",POINT
+Canzolino,Pergine Valsugana,Madrano Oltrefersina,"Canzolino, Pergine Valsugana, TN","{'type': 'Point', 'coordinates': [11.221160000000054, 46.082760000000064]}","Canzolino, Pergine Valsugana, TN, Trentino",POINT
+Pissol,Pergine Valsugana,Madrano Oltrefersina,"Località Pissol, 38057, Pergine Valsugana, TN","{'type': 'Point', 'coordinates': [11.23602374951678, 46.078278042126705]}","Pissol, Pergine Valsugana, TN, Trentino",POINT
+Brazzanighe,Pergine Valsugana,Madrano Oltrefersina,"Brazzaniga, Pergine Valsugana, TN","{'type': 'Point', 'coordinates': [11.239230000000077, 46.07325000000003]}","Brazzanighe, Pergine Valsugana, TN, Trentino",POINT
+Costa,Pergine Valsugana,Madrano Oltrefersina,"Località Costa, 38057, Pergine Valsugana, TN","{'type': 'Point', 'coordinates': [11.233097902956503, 46.08215735894429]}","Costa, Pergine Valsugana, TN, Trentino",POINT
+Vigalzano,Pergine Valsugana,Madrano Oltrefersina,"Vigalzano, Pergine Valsugana, TN","{'type': 'Point', 'coordinates': [11.227160000000026, 46.07592000000005]}","Vigalzano, Pergine Valsugana, TN, Trentino",POINT
+Maso Grillo,Pergine Valsugana,Madrano Oltrefersina,"Maso Grillo, Pergine Valsugana, TN","{'type': 'Point', 'coordinates': [11.22327000000007, 46.07155000000006]}","Maso Grillo, Pergine Valsugana, TN, Trentino",POINT
+Casalino,Pergine Valsugana,Madrano Oltrefersina,"Casalino, Pergine Valsugana, TN","{'type': 'Point', 'coordinates': [11.228920000000073, 46.07443000000006]}","Casalino, Pergine Valsugana, TN, Trentino",POINT
+Maso Casot,Pergine Valsugana,Maso Casot,"Via al Caset, 38057, Pergine Valsugana, TN","{'type': 'Point', 'coordinates': [11.217117365698789, 46.05753794457802]}","Maso Casot, Pergine Valsugana, TN, Trentino",POINT
+Nogare',Pergine Valsugana,Nogare',"Nogaré, Pergine Valsugana, TN","{'type': 'Point', 'coordinates': [11.211340000000064, 46.10405000000003]}","Nogare', Pergine Valsugana, TN, Trentino",POINT
+Rifugio Panarotta,Pergine Valsugana,Panarotta,"Via per La Panarotta, 38057, Pergine Valsugana, TN","{'type': 'Point', 'coordinates': [11.259262852404687, 46.05048335301272]}","Rifugio Panarotta, Pergine Valsugana, TN, Trentino",POINT
+Maso Toldi,Pergine Valsugana,"San Vito, Pianezza, Puller","Località Maso Toldi, 38057, Pergine Valsugana, TN","{'type': 'Point', 'coordinates': [11.215883216790246, 46.032081311266204]}","Maso Toldi, Pergine Valsugana, TN, Trentino",POINT
+Maso Ungherle,Pergine Valsugana,"San Vito, Pianezza, Puller","Località Maso Ungherle, 38057, Pergine Valsugana, TN","{'type': 'Point', 'coordinates': [11.216887123307338, 46.03649274887155]}","Maso Ungherle, Pergine Valsugana, TN, Trentino",POINT
+Maso Pianezza,Pergine Valsugana,"San Vito, Pianezza, Puller","Località Maso Pianezza, 38057, Pergine Valsugana, TN","{'type': 'Point', 'coordinates': [11.227646737894814, 46.032092999999996]}","Maso Pianezza, Pergine Valsugana, TN, Trentino",POINT
+Maso Sercher,Pergine Valsugana,"San Vito, Pianezza, Puller","Località Maso Sercer, 38057, Pergine Valsugana, TN","{'type': 'Point', 'coordinates': [11.22049591449009, 46.03945939191489]}","Maso Sercher, Pergine Valsugana, TN, Trentino",POINT
+Maso Puller,Pergine Valsugana,"San Vito, Pianezza, Puller","Maso Puller, Pergine Valsugana, TN","{'type': 'Point', 'coordinates': [11.226370000000031, 46.03809000000007]}","Maso Puller, Pergine Valsugana, TN, Trentino",POINT
+San Vito,Pergine Valsugana,"San Vito, Pianezza, Puller","San Vito, Pergine Valsugana, TN","{'type': 'Point', 'coordinates': [11.220250000000021, 46.035240000000044]}","San Vito, Pergine Valsugana, TN, Trentino",POINT
+Santa Caterina,Pergine Valsugana,Santa Caterina,"Santa Caterina, Pergine Valsugana, TN","{'type': 'Point', 'coordinates': [11.226750000000038, 46.01789000000008]}","Santa Caterina, Pergine Valsugana, TN, Trentino",POINT
+Tot Ziens,Pergine Valsugana,Santa Caterina,"Pergine Valsugana, TN","{'type': 'Point', 'coordinates': [11.241860000000031, 46.06368000000003]}","Tot Ziens, Pergine Valsugana, TN, Trentino",POINT
+Maso Vigabona,Pergine Valsugana,Santa Caterina,"Località Maso Vigabona, 38057, Pergine Valsugana, TN","{'type': 'Point', 'coordinates': [11.228845427073425, 46.02028588978247]}","Maso Vigabona, Pergine Valsugana, TN, Trentino",POINT
+Susa',Pergine Valsugana,Susa',"Susà, Pergine Valsugana, TN","{'type': 'Point', 'coordinates': [11.222100000000069, 46.051000000000045]}","Susa', Pergine Valsugana, TN, Trentino",POINT
+Valar,Pergine Valsugana,Valar,"Pergine Valsugana, TN","{'type': 'Point', 'coordinates': [11.241860000000031, 46.06368000000003]}","Valar, Pergine Valsugana, TN, Trentino",POINT
+Viarago,Pergine Valsugana,"Viarago, Cittadella, Portolo","Viarago, Pergine Valsugana, TN","{'type': 'Point', 'coordinates': [11.26424000000003, 46.08051000000006]}","Viarago, Pergine Valsugana, TN, Trentino",POINT
+Cittadella,Pergine Valsugana,"Viarago, Cittadella, Portolo","Frazione Cittadella, 38057, Pergine Valsugana, TN","{'type': 'Point', 'coordinates': [11.270325076631533, 46.08112700240341]}","Cittadella, Pergine Valsugana, TN, Trentino",POINT
+Toffolazzi,Pergine Valsugana,"Viarago, Cittadella, Portolo","Pergine Valsugana, TN","{'type': 'Point', 'coordinates': [11.241860000000031, 46.06368000000003]}","Toffolazzi, Pergine Valsugana, TN, Trentino",POINT
+Canezza (Portolo),Pergine Valsugana,"Viarago, Cittadella, Portolo","Portolo, Pergine Valsugana, TN","{'type': 'Point', 'coordinates': [11.28174000000007, 46.08526000000006]}","Canezza (Portolo), Pergine Valsugana, TN, Trentino",POINT
+maso Girardi,Pergine Valsugana,"Viarago, Cittadella, Portolo","Maso Girardi, 38057, Pergine Valsugana, TN","{'type': 'Point', 'coordinates': [11.279418750000001, 46.08525150000001]}","maso Girardi, Pergine Valsugana, TN, Trentino",POINT
+Palaori,Pergine Valsugana,"Viarago, Cittadella, Portolo","Maso Pallaori, 38057, Pergine Valsugana, TN","{'type': 'Point', 'coordinates': [11.280806154937403, 46.08467044587326]}","Palaori, Pergine Valsugana, TN, Trentino",POINT
+Drazzeri,Pergine Valsugana,"Viarago, Cittadella, Portolo","Via Drazeri, 38057, Pergine Valsugana, TN","{'type': 'Point', 'coordinates': [11.279111128964853, 46.085473479310835]}","Drazzeri, Pergine Valsugana, TN, Trentino",POINT
+Visintainer,Pergine Valsugana,Visintainer,"Visintainer, 38057, Pergine Valsugana, TN","{'type': 'Point', 'coordinates': [11.263704750000006, 46.03239899999999]}","Visintainer, Pergine Valsugana, TN, Trentino",POINT
+Fornaselle,Pergine Valsugana,Visintainer,"Formaselle, Pergine Valsugana, TN","{'type': 'Point', 'coordinates': [11.266930000000059, 46.032380000000046]}","Fornaselle, Pergine Valsugana, TN, Trentino",POINT
+Zava,Pergine Valsugana,"Zava, Ischia, Assizzi Alta","Zava, Pergine Valsugana, TN","{'type': 'Point', 'coordinates': [11.250960000000077, 46.042320000000075]}","Zava, Pergine Valsugana, TN, Trentino",POINT
+Pozza,Pergine Valsugana,"Zava, Ischia, Assizzi Alta","Pozza, Pergine Valsugana, TN","{'type': 'Point', 'coordinates': [11.24726000000004, 46.04600000000005]}","Pozza, Pergine Valsugana, TN, Trentino",POINT
+Ischia,Pergine Valsugana,"Zava, Ischia, Assizzi Alta","Ischia, Pergine Valsugana, TN","{'type': 'Point', 'coordinates': [11.24759000000006, 46.03346000000005]}","Ischia, Pergine Valsugana, TN, Trentino",POINT
+Maso Braito,Pergine Valsugana,"Zava, Ischia, Assizzi Alta","Pergine Valsugana, TN","{'type': 'Point', 'coordinates': [11.241860000000031, 46.06368000000003]}","Maso Braito, Pergine Valsugana, TN, Trentino",POINT
+Assizzi (alta),Pergine Valsugana,"Zava, Ischia, Assizzi Alta","Assizzi, Pergine Valsugana, TN","{'type': 'Point', 'coordinates': [11.256460000000061, 46.05026000000004]}","Assizzi (alta), Pergine Valsugana, TN, Trentino",POINT
+Doss dei Masetti,Pergine Valsugana,"Zava, Ischia, Assizzi Alta","Via Dos dei Masetti, 38057, Pergine Valsugana, TN","{'type': 'Point', 'coordinates': [11.24993249206434, 46.05114923658117]}","Doss dei Masetti, Pergine Valsugana, TN, Trentino",POINT
+Castello di Pergine,Pergine Valsugana,"Zava, Ischia, Assizzi Alta",Castello di Pergine,"{'type': 'Point', 'coordinates': [11.249330000000043, 46.05972000000003]}","Castello di Pergine, Pergine Valsugana, TN, Trentino",POINT
+Barco,Levico Terme,Barco,"Barco, Levico Terme, TN","{'type': 'Point', 'coordinates': [11.335560000000044, 46.004500000000064]}","Barco, Levico Terme, TN, Trentino",POINT
+Campiello,Levico Terme,Campiello,"Campiello, Levico Terme, TN","{'type': 'Point', 'coordinates': [11.351230000000044, 46.02199000000007]}","Campiello, Levico Terme, TN, Trentino",POINT
+Levico Nord/Est - Selva - Gocciadoro - Valdrana,Levico Terme,Levico Nord / Est - Selva,"Selva, Levico Terme, TN","{'type': 'Point', 'coordinates': [11.318920000000048, 46.015130000000056]}","Levico Nord/Est - Selva - Gocciadoro - Valdrana, Levico Terme, TN, Trentino",POINT
+Castagneto,Levico Terme,Levico zona Castagneto,"Salita al Castagneto, 38056, Levico Terme, TN","{'type': 'Point', 'coordinates': [11.294346505633264, 46.01887746990887]}","Castagneto, Levico Terme, TN, Trentino",POINT
+San Biagio,Levico Terme,Levico zona Castagneto,"Via San Biagio, 38056, Levico Terme, TN","{'type': 'Point', 'coordinates': [11.292154514485816, 46.01805476774505]}","San Biagio, Levico Terme, TN, Trentino",POINT
+Quaere,Levico Terme,Quaere,"Quaere, Levico Terme, TN","{'type': 'Point', 'coordinates': [11.302580000000034, 45.99108000000007]}","Quaere, Levico Terme, TN, Trentino",POINT
+Santa Giuliana,Levico Terme,Santa Giuliana,"Santa Giuliana, Levico Terme, TN","{'type': 'Point', 'coordinates': [11.315070000000048, 45.99078000000003]}","Santa Giuliana, Levico Terme, TN, Trentino",POINT
+Levico Centro / Sud (Lido,Levico Terme,Sorgente Fontanelle Levico Centro / Sud,Levico,"{'type': 'Point', 'coordinates': [11.331770000000063, 46.00097000000005]}","Levico Centro / Sud (Lido, Levico Terme, TN, Trentino",POINT
+Borba,Levico Terme,Sorgente Fontanelle Levico Centro / Sud,"Via per La Borba, 38056, Levico Terme, TN","{'type': 'Point', 'coordinates': [11.320504407492132, 46.01393629625394]}","Borba, Levico Terme, TN, Trentino",POINT
+Somearo),Levico Terme,Sorgente Fontanelle Levico Centro / Sud,"Levico Terme, TN","{'type': 'Point', 'coordinates': [11.299290000000042, 46.01001000000008]}","Somearo), Levico Terme, TN, Trentino",POINT
+Vetriolo,Levico Terme,Vetriolo,"Vetriolo, Levico Terme, TN","{'type': 'Point', 'coordinates': [11.307010000000048, 46.04147000000006]}","Vetriolo, Levico Terme, TN, Trentino",POINT
+Basson di Sopra - Basson di Sotto,Levico Terme,Vezzena,"Levico Terme, TN","{'type': 'Point', 'coordinates': [11.299290000000042, 46.01001000000008]}","Basson di Sopra - Basson di Sotto, Levico Terme, TN, Trentino",POINT
+Vezzena,Levico Terme,Vezzena,Vezzena,"{'type': 'Point', 'coordinates': [11.350000000000023, 45.950000000000045]}","Vezzena, Levico Terme, TN, Trentino",POINT
+Caldonazzo,Caldonazzo,Caldonazzo,"Caldonazzo, TN","{'type': 'Point', 'coordinates': [11.261840000000063, 45.99184000000008]}","Caldonazzo, Caldonazzo, TN, Trentino",POINT
+Brenta,Caldonazzo,Caldonazzo,"Brenta, Caldonazzo, TN","{'type': 'Point', 'coordinates': [11.272610000000043, 46.00538000000006]}","Brenta, Caldonazzo, TN, Trentino",POINT
+Lochere,Caldonazzo,Lochere,"Lochere, 38052, Caldonazzo, TN","{'type': 'Point', 'coordinates': [11.300937284863007, 45.98862820953439]}","Lochere, Caldonazzo, TN, Trentino",POINT
+Monterovere,Caldonazzo,Monterovere,"Via Monte Rovere, 38052, Caldonazzo, TN","{'type': 'Point', 'coordinates': [11.270811529076749, 45.98931885961232]}","Monterovere, Caldonazzo, TN, Trentino",POINT
+Tenna centro,Tenna,Tenna,"Tenna, TN","{'type': 'Point', 'coordinates': [11.268520000000024, 46.012830000000065]}","Tenna centro, Tenna, TN, Trentino",POINT
+Maso Roveri,Tenna,Tenna,"Via Maso Rovera, 38050, Tenna, TN","{'type': 'Point', 'coordinates': [11.257722917430623, 46.02864953612411]}","Maso Roveri, Tenna, TN, Trentino",POINT
+Alberè,Tenna,Tenna,"Via Alberé, 38050, Tenna, TN","{'type': 'Point', 'coordinates': [11.265711865530356, 46.01553259801128]}","Alberè, Tenna, TN, Trentino",POINT
+Valdagni,Tenna,Tenna,"Via Valdagni, 38050, Tenna, TN","{'type': 'Point', 'coordinates': [11.251591104282726, 46.02421873718575]}","Valdagni, Tenna, TN, Trentino",POINT
+Serafini,Tenna,Tenna,"Serafini, Grigno, TN","{'type': 'Point', 'coordinates': [11.660270000000025, 46.00422000000003]}","Serafini, Tenna, TN, Trentino",POINT
+Feghini,Tenna,Tenna,"Tenna, TN","{'type': 'Point', 'coordinates': [11.268520000000024, 46.012830000000065]}","Feghini, Tenna, TN, Trentino",POINT
+Campolongo,Tenna,Tenna,"Campolongo, Tenna, TN","{'type': 'Point', 'coordinates': [11.252590000000055, 46.02243000000004]}","Campolongo, Tenna, TN, Trentino",POINT
+Terrazze,Tenna,Tenna,"Tenna, TN","{'type': 'Point', 'coordinates': [11.268520000000024, 46.012830000000065]}","Terrazze, Tenna, TN, Trentino",POINT
+Borgo Valsugana centro,Borgo Valsugana,Borgo Valsugana,Borgo Valsugana Centro,"{'type': 'Point', 'coordinates': [11.454340000000059, 46.051420000000064]}","Borgo Valsugana centro, Borgo Valsugana, TN, Trentino",POINT
+Val di Sella,Borgo Valsugana,Borgo Valsugana,"Strada Provinciale della Valle di Sella, 38051, Borgo Valsugana, TN","{'type': 'Point', 'coordinates': [11.451376560873062, 46.03518347928102]}","Val di Sella, Borgo Valsugana, TN, Trentino",POINT
+Località Cave',Borgo Valsugana,Intercomunale Val Cave',"Borgo Valsugana, TN","{'type': 'Point', 'coordinates': [11.454510000000028, 46.053450000000055]}","Località Cave', Borgo Valsugana, TN, Trentino",POINT
+Località Prae,Borgo Valsugana,Loc.Prae,"Pra', 38051, Borgo Valsugana, TN","{'type': 'Point', 'coordinates': [11.437417615117866, 46.06111746779831]}","Località Prae, Borgo Valsugana, TN, Trentino",POINT
+Malga Costa,Borgo Valsugana,Malga Costa,"Borgo Valsugana, TN","{'type': 'Point', 'coordinates': [11.454510000000028, 46.053450000000055]}","Malga Costa, Borgo Valsugana, TN, Trentino",POINT
+Olle,Borgo Valsugana,Olle,"Olle, Borgo Valsugana, TN","{'type': 'Point', 'coordinates': [11.465560000000039, 46.04072000000008]}","Olle, Borgo Valsugana, TN, Trentino",POINT
+Barricata,Grigno,Barricata,"Grigno, TN","{'type': 'Point', 'coordinates': [11.631340000000023, 46.01538000000005]}","Barricata, Grigno, TN, Trentino",POINT
+Grigno,Grigno,Grigno,"Grigno, TN","{'type': 'Point', 'coordinates': [11.631340000000023, 46.01538000000005]}","Grigno, Grigno, TN, Trentino",POINT
+Selva,Grigno,Grigno,"Selva, Grigno, TN","{'type': 'Point', 'coordinates': [11.595500000000072, 46.01523000000003]}","Selva, Grigno, TN, Trentino",POINT
+Palù,Grigno,Grigno,"Palu, Grigno, TN","{'type': 'Point', 'coordinates': [11.655290000000036, 46.00688000000008]}","Palù, Grigno, TN, Trentino",POINT
+Martincelli,Grigno,Martincelli,"Martincelli, Grigno, TN","{'type': 'Point', 'coordinates': [11.679620000000057, 45.97901000000007]}","Martincelli, Grigno, TN, Trentino",POINT
+Pianello di Sopra,Grigno,Martincelli,"Pianello di Sopra, Grigno, TN","{'type': 'Point', 'coordinates': [11.680570000000046, 45.97271000000006]}","Pianello di Sopra, Grigno, TN, Trentino",POINT
+Pianello - Vallon,Grigno,Martincelli,"Grigno, TN","{'type': 'Point', 'coordinates': [11.631340000000023, 46.01538000000005]}","Pianello - Vallon, Grigno, TN, Trentino",POINT
+Puele,Grigno,Puele,"Località Puele, 38055, Grigno, TN","{'type': 'Point', 'coordinates': [11.594378083914926, 46.02503780081261]}","Puele, Grigno, TN, Trentino",POINT
+Tezze,Grigno,Tezze,"Tezze, Grigno, TN","{'type': 'Point', 'coordinates': [11.668310000000076, 45.991910000000075]}","Tezze, Grigno, TN, Trentino",POINT
+Masi Ornè,Grigno,Tezze,"Masi Orné, Grigno, TN","{'type': 'Point', 'coordinates': [11.661160000000052, 45.994800000000055]}","Masi Ornè, Grigno, TN, Trentino",POINT
+Laghetto,Grigno,Tezze,"Via Laghetto, 38055, Grigno, TN","{'type': 'Point', 'coordinates': [11.670479184780758, 45.99018309113917]}","Laghetto, Grigno, TN, Trentino",POINT
+Borghetto,Grigno,Tezze,"Via Borghetto, 38055, Grigno, TN","{'type': 'Point', 'coordinates': [11.671990761001377, 45.98952820185707]}","Borghetto, Grigno, TN, Trentino",POINT
+Valcoperta,Grigno,Valcoperta,"Grigno, TN","{'type': 'Point', 'coordinates': [11.631340000000023, 46.01538000000005]}","Valcoperta, Grigno, TN, Trentino",POINT
+Albiano,Albiano,Albiano,"Albiano, TN","{'type': 'Point', 'coordinates': [11.193470000000048, 46.14470000000006]}","Albiano, Albiano, TN, Trentino",POINT
+Zona cave,Albiano,Zona cave,"Albiano, TN","{'type': 'Point', 'coordinates': [11.193470000000048, 46.14470000000006]}","Zona cave, Albiano, TN, Trentino",POINT
+Novaledo centro,Novaledo,Novaledo,"Novaledo, TN","{'type': 'Point', 'coordinates': [11.363720000000058, 46.02119000000005]}","Novaledo centro, Novaledo, TN, Trentino",POINT
+Oltrebrenta,Novaledo,Novaledo,"Via Oltrebrenta, 38050, Novaledo, TN","{'type': 'Point', 'coordinates': [11.376276658650331, 46.0194158653828]}","Oltrebrenta, Novaledo, TN, Trentino",POINT
+Malga Masi,Novaledo,Novaledo,"Novaledo, TN","{'type': 'Point', 'coordinates': [11.363720000000058, 46.02119000000005]}","Malga Masi, Novaledo, TN, Trentino",POINT
+Malga Broi,Novaledo,Novaledo,"Novaledo, TN","{'type': 'Point', 'coordinates': [11.363720000000058, 46.02119000000005]}","Malga Broi, Novaledo, TN, Trentino",POINT

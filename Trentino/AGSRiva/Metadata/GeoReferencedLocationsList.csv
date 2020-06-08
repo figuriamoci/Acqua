@@ -1,0 +1,14 @@
+alias_address,alias_city,geocode,geometry,georeferencingString,type
+Rione Degasperi,Riva del Garda,"Largo Caduti delle Foibe, 38066, Riva del Garda, TN","{'type': 'Point', 'coordinates': [10.848802813881267, 45.89342416062145]}","LARGO CADUTI DELLE FOIBE, Riva del Garda, TN, Trentino",POINT
+Varone,Riva del Garda,"Piazza della Chiesa, 38066, Riva del Garda, TN","{'type': 'Point', 'coordinates': [10.841445565577056, 45.90763991140011]}","PIAZZA DELLA CHIESA, Riva del Garda, TN, Trentino",POINT
+Roma,Riva del Garda,"Viale Roma, 38066, Riva del Garda, TN","{'type': 'Point', 'coordinates': [10.842456247041198, 45.887442475853526]}","Viale Roma, Riva del Garda, TN, Trentino",POINT
+Pregasina,Riva del Garda,"Pregasina, Riva del Garda, TN","{'type': 'Point', 'coordinates': [10.824940000000026, 45.85130000000004]}","Pregasina, Riva del Garda, TN, Trentino",POINT
+Campi,Riva del Garda,"Campi, Riva del Garda, TN","{'type': 'Point', 'coordinates': [10.81615000000005, 45.913200000000074]}","Campi, Riva del Garda, TN, Trentino",POINT
+Porto San Nicolò,Riva del Garda,"Porto di San Nicolò, 38066, Riva del Garda, TN","{'type': 'Point', 'coordinates': [10.856611097060775, 45.878805000000014]}","Porto San Nicolò, Riva del Garda, TN, Trentino",POINT
+Piazza Cavour,Riva del Garda,"Piazza Camillo Benso di Cavour, 38066, Riva del Garda, TN","{'type': 'Point', 'coordinates': [10.841703668951649, 45.88570051826617]}","Piazza Cavour, Riva del Garda, TN, Trentino",POINT
+Fangolino,Riva del Garda,"Località Fangolino, 38066, Riva del Garda, TN","{'type': 'Point', 'coordinates': [10.856023539564452, 45.90530416227061]}","Fangolino, Riva del Garda, TN, Trentino",POINT
+Via Virgilio,Riva del Garda,"Via Virgilio, 38066, Riva del Garda, TN","{'type': 'Point', 'coordinates': [10.847804244243354, 45.89855633753203]}","Via Virgilio, Riva del Garda, TN, Trentino",POINT
+S. Alessandro,Riva del Garda,"Via Sant'Alessandro, 38066, Riva del Garda, TN","{'type': 'Point', 'coordinates': [10.860815607176082, 45.888564770592914]}","S. Alessandro, Riva del Garda, TN, Trentino",POINT
+Piazza Catena,Riva del Garda,"Piazza Catena, 38066, Riva del Garda, TN","{'type': 'Point', 'coordinates': [10.838936047498827, 45.88434308493234]}","Piazza Catena, Riva del Garda, TN, Trentino",POINT
+Viale Damiano Chiesa,Riva del Garda,"Viale Damiano Chiesa, 38066, Riva del Garda, TN","{'type': 'Point', 'coordinates': [10.846216910989469, 45.888307767031584]}","Viale Damiano Chiesa, Riva del Garda, TN, Trentino",POINT
+Viale dei Tigli,Riva del Garda,"Viale dei Tigli, 38066, Riva del Garda, TN","{'type': 'Point', 'coordinates': [10.843182431825756, 45.893901475224524]}","Viale dei Tigli, Riva del Garda, TN, Trentino",POINT

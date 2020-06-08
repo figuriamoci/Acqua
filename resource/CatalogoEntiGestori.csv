@@ -22,9 +22,7 @@ Emilia Romagna,BO,Ferrara,C.A.D.F. s.p.a.,CADFFerrra,http://www.cadf.it/,http://
 Emilia Romagna,PR,Parma,EmiliAmbiente S.p.A.,EmiliAmbiente,https://www.emiliambiente.it,https://www.emiliambiente.it/chi-siamo/qualita/la-qualita-dellacqua/,PDF,PER_COMUNE,SEMESTRALE,2019,BASSO,,1
 Emilia Romagna,PR,Parma,Montagna 2000,Montagna2000,http://www.montagna2000.com,http://www.montagna2000.com/servizio-idrico-integrato/analisi-acqua-online/,HTML,PER_ZONA,SEMESTRALE,2019,MEDIO,,2
 Emilia Romagna,MO,Modena,AIMAG S.p.A.,AIMAGModena,https://www.aimag.it,https://www.aimag.it/cosa-facciamo/ciclo-idrico-integrato/controlli-acqua/,PDF,PER_COMUNE,ANNUALE,2019,MEDIO,,2
-
 Emilia Romagna,MO,Modena,SorgeAqua s.r.l.,SorgeaModena,http://www.sorgeaqua.it/qualita_dell_acqua/,http://www.sorgeaqua.it/qualita_dell_acqua/,SCANNER,PER_COMUNE,ANNUALE,2019,,,F
-
 Friuli Venezia Giulia,UD,Udine,CAFC S.p.A.,CACF,https://www.cafcspa.com,https://www.cafcspa.com/solud/it-_qualita_acqua.cfm,,,,,,,
 Friuli Venezia Giulia,GO,Gorizia,IRIS Acque,IRISAcque,http://www.irisacqua.it,http://www.irisacqua.it/it/20617/Qualita-dell-acqua-erogata,,,,,,,
 Friuli Venezia Giulia,TS,Trieste,AcegasApsAmga S.p.A.,AceGasAmgaTrieste,http://www.acegasapsamga.it,http://www.acegasapsamga.it/attivita_servizi/acqua_ciclo_idrico/qualita_controllo/,,,,,,,
@@ -49,6 +47,8 @@ Lombardia,SO,Sondrio,S.EC.AM. S.p.A.,SECAMSondrio,http://www.secam.net/,http://w
 Lombardia,MI,Milano,CAP Holding S.p.A.,GruppoCAP,https://www.gruppocap.it,https://www.gruppocap.it/attivita/servizio-idrico-integrato/qualita-dell-acqua,,,,,BASSO,,1
 Lombardia,MI,Milano,MM S.p.A.,MilanoBlu,https://www.milanoblu.com,https://www.milanoblu.com/la-tua-acqua/controlla-le-analisi/,HTML,,,,MEDIO,,3
 Lombardia,BG,Bergamo,Uniacque S.p.a.,UniacqueBergamo,https://www.uniacque.bg.it,https://www.uniacque.bg.it/qualita-dellacqua/i-parametri-del-tuo-comune/,HTML,PER_ZONA,SEMESTRALE,2019,MEDIO,,3
+Lombardia,BG,Bergamo,Cogeide S.p.a.,CogeideBergamo,https://www.cogeide.it/,https://www.cogeide.it/qualita-dellacqua/,PDF,PER_COMUNE,SEMESTRALE,2020,MEDIO,,3
+Lombardia,BG,Bergamo,Hidrogest S.p.a.,HidrogestBergamo,http://www.hidrogest.it/,http://www.hidrogest.it/index.php?pagina=ANALISI&menu=5&open=77,PDF,PER_ZONA,SEMESTRALE,2020,ALTO,,3
 Lombardia,BS,Brescia,A2A Ciclo Idrico S.p.A.,A2ABrescia,https://www.a2acicloidrico.eu,https://qualitaacqua.a2acicloidrico.eu/QualitaH2oWeb/,HTML,PER_ZONA,SEMESTRALE,2019,MEDIO,,3
 Lombardia,BS,Brescia,Acque Bresciane S.p.A.,AcqueBresciane,https://www.acquebresciane.it,https://www.acquebresciane.it/public/acquebresciane-portal/it/home/qualita-acqua,HTML,PER_COMUNE,SEMESTRALE,2019,ELEVATO,,4
 Lombardia,BS,Brescia,Azienda Servizi Valtrompia S.p.A.,ASVTValtrompia,https://www.asvt-spa.it,https://qualitaacqua.asvt-spa.it/QualitaH2oWeb/,HTML,PER_ZONA,SEMESTRALE,2019,ELEVATO,,3
@@ -120,11 +120,11 @@ Toscana,AR,Arezzo,Nuove Acque,,https://www.nuoveacque.it,https://www.nuoveacque.
 Toscana,SI,Siena,Acquedotto del Fiora,,https://www.fiora.it,https://www.fiora.it/azienda.html#AF,HTML,PER_ZONA,SEMESTRALE,2019,ELEVATO,Serve stradario,3
 Toscana,GR,Grosseto,Acquedotto del Fiora,,https://www.fiora.it,https://www.fiora.it/azienda.html#AF,HTML,PER_ZONA,SEMESTRALE,2019,ELEVATO,Serve stradario,3
 Toscana,PO,Prato,Publiacqua S.p.A,,https://www.publiacqua.it/,https://www.publiacqua.it/acqua-territorio/intorno-a-te/qualita,HTML,PER_ZONA,SEMESTRALE,2018,ELEVATO,Serve stradario,2
-Trentino Alto Adige,BZ,Bolzano - Bozen,Provincia Autonoma BZ,,https://ambiente.provincia.bz.it/acqua/qualita-acqua-nostri-acquedotti-dettaglio.asp,https://ambiente.provincia.bz.it/acqua/qualita-acqua-nostri-acquedotti-dettaglio.asp,XLS,PER_PUNTO_PRELIEVO,ANNUALE,FACILE,,2,
-Trentino Alto Adige,TN,Trento,Alto Garda Servizi SpA,,https://www.altogardaservizi.com,https://www.altogardaservizi.com/acqua-fognatura/qualita-servizio,PDF,SEMESTRALE,04/2020,MEDIO,,3,
+Trentino Alto Adige,BZ,Bolzano - Bozen,Provincia Autonoma BZ,ProvinciaBZ,https://ambiente.provincia.bz.it/acqua/qualita-acqua-nostri-acquedotti-dettaglio.asp,https://ambiente.provincia.bz.it/acqua/qualita-acqua-nostri-acquedotti-dettaglio.asp,XLS,PER_PUNTO_PRELIEVO,ANNUALE,FACILE,,2,
+Trentino Alto Adige,TN,Trento,Alto Garda Servizi SpA,AGSRiva,https://www.altogardaservizi.com,https://www.altogardaservizi.com/acqua-fognatura/qualita-servizio,PDF,SEMESTRALE,04/2020,MEDIO,,3,
 Trentino Alto Adige,TN,Trento,Azienda Intercommunale Rotaliana S.p.A.,,https://www.airspa.it,https://www.airspa.it/Servizi/Acquedotto/Analisi-acqua,SCANNER,SEMESTRALE,01/2020,BASSO,,2,
 Trentino Alto Adige,TN,Trento,Dolomiti Energia Holding SpA,GruppoDolomiti,https://www.gruppodolomitienergia.it,https://www.gruppodolomitienergia.it/content/l-acqua-che-beviamo,HTML,ANNUALE,01/2019,ELEVATO,,4,
-Trentino Alto Adige,TN,Trento,STET S.p.A.,,https://www.stetspa.it,https://www.stetspa.it/attivita/acquedotto/qualita-dellacqua#main-content,PDF,SEMESTRALE,2019,ELEVATO,,3,
+Trentino Alto Adige,TN,Trento,STET S.p.A.,STETTrentinoEst,https://www.stetspa.it,https://www.stetspa.it/attivita/acquedotto/qualita-dellacqua#main-content,PDF,SEMESTRALE,2019,ELEVATO,,3,
 Umbria,PG,Perugia,Arpa Umbria,,http://www.lacquachebevo.it/,http://www.lacquachebevo.it/,HTML,PER_PUNTO_PRELIEVO,SEMESTRALE,2020,ELEVATO,,5
 Umbria,TR,Terni,Arpa Umbria,,http://www.lacquachebevo.it/,http://www.lacquachebevo.it/,HTML,PER_PUNTO_PRELIEVO,SEMESTRALE,2020,ELEVATO,,5
 Valle D'Aosta,AO,Aosta,Città di Aosta,,http://www.comune.aosta.it/it/aree_tematiche/ambiente_e_igiene_urbana/acquedotto/,http://www.comune.aosta.it/it/aree_tematiche/ambiente_e_igiene_urbana/acquedotto/qualita_acqua/,HTML,PER_POZZO,SEMESTRALE,2019,ELEVATO,DISEGNARE IL TERRITORIO (http://www.comune.aosta.it/download/file/265.pdf),

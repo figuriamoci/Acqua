@@ -1,0 +1,73 @@
+acquedotto,alias_address,alias_city,geocode,geometry,georeferencingString,type
+zona nord,Comune,Cappella Maggiore,"Cappella Maggiore, TV","{'type': 'Point', 'coordinates': [12.360670000000027, 45.96972000000005]}",", Cappella Maggiore, TV, Veneto",POINT
+zona nord,Comune,Codognè,"Codognè, TV","{'type': 'Point', 'coordinates': [12.429760000000044, 45.87018000000006]}",", Codognè, TV, Veneto",POINT
+zona nord,Comune,Colle Umberto,"Colle Umberto, TV","{'type': 'Point', 'coordinates': [12.34215000000006, 45.94193000000007]}",", Colle Umberto, TV, Veneto",POINT
+zona nord,Villa di Villa,Cordignano,"Villa di Villa, Cordignano, TV","{'type': 'Point', 'coordinates': [12.414750000000026, 45.966120000000046]}","Villa di Villa, Cordignano, TV, Veneto",POINT
+zona nord,Via Piave,Cordignano,"Via Piave, 31016, Cordignano, TV","{'type': 'Point', 'coordinates': [12.408685759626652, 45.93914897348415]}","Via Piave, Cordignano, TV, Veneto",POINT
+zona nord,Comune,Gaiarine,"Gaiarine, TV","{'type': 'Point', 'coordinates': [12.482680000000073, 45.87916000000007]}",", Gaiarine, TV, Veneto",POINT
+zona nord,Comune,Godega di Sant’Urbano,"Godega di Sant'Urbano, TV","{'type': 'Point', 'coordinates': [12.396890000000042, 45.92853000000008]}",", Godega di Sant’Urbano, TV, Veneto",POINT
+zona nord,Comune,Mareno di Piave,"Mareno di Piave, TV","{'type': 'Point', 'coordinates': [12.347390000000075, 45.84409000000005]}",", Mareno di Piave, TV, Veneto",POINT
+zona nord,Comune,Orsago,"Orsago, TV","{'type': 'Point', 'coordinates': [12.417210000000068, 45.93531000000007]}",", Orsago, TV, Veneto",POINT
+zona nord,Comune,Sarmede,"Sarmede, TV","{'type': 'Point', 'coordinates': [12.385970000000043, 45.97872000000007]}",", Sarmede, TV, Veneto",POINT
+zona nord,Comune,San Fior,"San Fior, TV","{'type': 'Point', 'coordinates': [12.361500000000035, 45.92217000000005]}",", San Fior, TV, Veneto",POINT
+zona nord,Comune,San Vendemiano,"San Vendemiano, TV","{'type': 'Point', 'coordinates': [12.335140000000024, 45.893770000000075]}",", San Vendemiano, TV, Veneto",POINT
+zona nord,Comune,Vazzola,"Vazzola, TV","{'type': 'Point', 'coordinates': [12.380780000000073, 45.839590000000044]}",", Vazzola, TV, Veneto",POINT
+zona sud,Comune,Chiarano,"Chiarano, TV",,", Chiarano, TV, Veneto",POINT
+zona sud,Comune,Fontanelle,"Fontanelle, TV","{'type': 'Point', 'coordinates': [12.471140000000048, 45.83352000000008]}",", Fontanelle, TV, Veneto",POINT
+zona sud,Comune,Gorgo al Monticano,"Gorgo al Monticano, TV","{'type': 'Point', 'coordinates': [12.551050000000032, 45.78777000000008]}",", Gorgo al Monticano, TV, Veneto",POINT
+zona sud,Comune,Mansuè,"Mansuè, TV","{'type': 'Point', 'coordinates': [12.537020000000041, 45.821300000000065]}",", Mansuè, TV, Veneto",POINT
+zona sud,Comune,Motta di Livenza,"Motta di Livenza, TV","{'type': 'Point', 'coordinates': [12.602310000000045, 45.774830000000065]}",", Motta di Livenza, TV, Veneto",POINT
+zona sud,Comune,Oderzo,"Oderzo, TV","{'type': 'Point', 'coordinates': [12.488120000000038, 45.783250000000066]}",", Oderzo, TV, Veneto",POINT
+zona sud,Comune,Ormelle,"Ormelle, TV","{'type': 'Point', 'coordinates': [12.420110000000022, 45.77910000000003]}",", Ormelle, TV, Veneto",POINT
+zona sud,Comune,Portobuffolè,"Portobuffolè, TV","{'type': 'Point', 'coordinates': [12.538080000000036, 45.858190000000036]}",", Portobuffolè, TV, Veneto",POINT
+zona sud,Comune,Ponte di Piave,"Ponte di Piave, TV","{'type': 'Point', 'coordinates': [12.465980000000059, 45.720390000000066]}",", Ponte di Piave, TV, Veneto",POINT
+zona sud,Comune,Salgareda,"Salgareda, TV","{'type': 'Point', 'coordinates': [12.487720000000024, 45.706090000000074]}",", Salgareda, TV, Veneto",POINT
+zona sud,Comune,San Polo di Piave,"San Polo di Piave, TV","{'type': 'Point', 'coordinates': [12.396810000000073, 45.789120000000025]}",", San Polo di Piave, TV, Veneto",POINT
+zona destra Piave,Comune,Casale sul Sile,"Casale sul Sile, TV","{'type': 'Point', 'coordinates': [12.325930000000028, 45.59878000000003]}",", Casale sul Sile, TV, Veneto",POINT
+zona destra Piave,Comune,Casier,"Casier, TV","{'type': 'Point', 'coordinates': [12.294880000000035, 45.64220000000006]}",", Casier, TV, Veneto",POINT
+zona destra Piave,Comune,Marcon,Marcon,"{'type': 'Point', 'coordinates': [12.299040000000048, 45.563810000000046]}",", Marcon, TV, Veneto",POINT
+zona destra Piave,Comune,Meolo,"Via Meolo, 31030, Breda di Piave, TV","{'type': 'Point', 'coordinates': [12.37181413032847, 45.72255661530734]}",", Meolo, TV, Veneto",POINT
+zona destra Piave,Comune,Monastier di Treviso,"Monastier di Treviso, TV","{'type': 'Point', 'coordinates': [12.436650000000043, 45.65324000000004]}",", Monastier di Treviso, TV, Veneto",POINT
+zona destra Piave,Comune,Quarto d’Altino,"Svincolo Quarto d'Altino, 31021, Mogliano Veneto, TV","{'type': 'Point', 'coordinates': [12.332448373075268, 45.565757999999995]}",", Quarto d’Altino, TV, Veneto",POINT
+zona destra Piave,Comune,Roncade,"Roncade, TV","{'type': 'Point', 'coordinates': [12.373990000000049, 45.63037000000003]}",", Roncade, TV, Veneto",POINT
+zona destra Piave,Comune,San Biagio di Callalta,"San Biagio di Callalta, TV","{'type': 'Point', 'coordinates': [12.375650000000064, 45.68422000000004]}",", San Biagio di Callalta, TV, Veneto",POINT
+zona destra Piave,Comune,Silea,"Silea, TV","{'type': 'Point', 'coordinates': [12.29293000000007, 45.659710000000075]}",", Silea, TV, Veneto",POINT
+Comune di Cimadolmo,Comune,Cimadolmo,"Cimadolmo, TV","{'type': 'Point', 'coordinates': [12.362930000000063, 45.78574000000003]}",", Cimadolmo, TV, Veneto",POINT
+Comune di Conegliano,Centro,Conegliano,Centro di Medicina Conegliano,"{'type': 'Point', 'coordinates': [12.27906001947576, 45.87189996277938]}","Centro, Conegliano, TV, Veneto",POINT
+Comune di Conegliano,Via Lourdes,Conegliano,"Conegliano, TV","{'type': 'Point', 'coordinates': [12.303260000000023, 45.89056000000005]}","Via Lourdes, Conegliano, TV, Veneto",POINT
+Comune di Conegliano,Parè,Conegliano,"Parè, Conegliano, TV","{'type': 'Point', 'coordinates': [12.265500000000031, 45.86969000000005]}","Parè, Conegliano, TV, Veneto",POINT
+Comune di Conegliano,Via Cettolini,Conegliano,"Via Fratelli Cettolin, 31020, San Pietro di Feletto, TV","{'type': 'Point', 'coordinates': [12.272322495276095, 45.90946486839387]}","Via Cettolini, Conegliano, TV, Veneto",POINT
+Comune di Conegliano,Costa Alta,Conegliano,"Via Costa Alta, 31015, Conegliano, TV","{'type': 'Point', 'coordinates': [12.275986651449077, 45.903023757681495]}","Costa Alta, Conegliano, TV, Veneto",POINT
+Comune di Conegliano,Monticella,Conegliano,"Conegliano, TV","{'type': 'Point', 'coordinates': [12.303260000000023, 45.89056000000005]}","Monticella, Conegliano, TV, Veneto",POINT
+Comune di Conegliano,Campolongo,Conegliano,"Via Campolongo, 31010, Mareno di Piave, TV","{'type': 'Point', 'coordinates': [12.333381853527854, 45.86653153872682]}","Campolongo, Conegliano, TV, Veneto",POINT
+Comune di Conegliano,Ogliano,Conegliano,"Ogliano, Conegliano, TV","{'type': 'Point', 'coordinates': [12.303160000000048, 45.92581000000007]}","Ogliano, Conegliano, TV, Veneto",POINT
+Comune di Conegliano,Scomigo,Conegliano,"Scomigo, Conegliano, TV","{'type': 'Point', 'coordinates': [12.308550000000025, 45.93667000000005]}","Scomigo, Conegliano, TV, Veneto",POINT
+Comune di Fregona,Borgo Luca,Fregona,"Via Borgo Luca, 31010, Fregona, TV","{'type': 'Point', 'coordinates': [12.362304773252477, 46.008942837207925]}","Borgo Luca, Fregona, TV, Veneto",POINT
+Comune di Fregona,Sonego,Fregona,"Sonego, Fregona, TV","{'type': 'Point', 'coordinates': [12.336130000000026, 46.016940000000034]}","Sonego, Fregona, TV, Veneto",POINT
+Comune di Fregona,Mezzavilla,Fregona,"Località Mezzavilla, 31010, Fregona, TV","{'type': 'Point', 'coordinates': [12.342085442176067, 46.00733756052315]}","Mezzavilla, Fregona, TV, Veneto",POINT
+Comune di Fregona,Breda,Fregona,"Breda, Fregona, TV","{'type': 'Point', 'coordinates': [12.329930000000047, 46.00646000000006]}","Breda, Fregona, TV, Veneto",POINT
+Comune di Fregona,Caglieron,Fregona,"Via Grotte del Caglieron, 31010, Fregona, TV","{'type': 'Point', 'coordinates': [12.331704249226176, 46.00896739662424]}","Caglieron, Fregona, TV, Veneto",POINT
+Comune di Fregona,Osigo,Fregona,"Osigo, Fregona, TV","{'type': 'Point', 'coordinates': [12.349190000000021, 46.01356000000004]}","Osigo, Fregona, TV, Veneto",POINT
+Comune di Fregona,Crosetta,Fregona,"Passo Crosetta, 31010, Fregona, TV","{'type': 'Point', 'coordinates': [12.406630538230317, 46.03489903682953]}","Crosetta, Fregona, TV, Veneto",POINT
+Comune di Fregona,Valsalega,Fregona,"Località Valsalega, 31010, Fregona, TV","{'type': 'Point', 'coordinates': [12.392930162513531, 46.020629236574436]}","Valsalega, Fregona, TV, Veneto",POINT
+Comune di San Pietro di Feletto,Comune,San Pietro di Feletto,"San Pietro di Feletto, TV","{'type': 'Point', 'coordinates': [12.24105000000003, 45.92955000000006]}",", San Pietro di Feletto, TV, Veneto",POINT
+Comune di San Pietro di Feletto,Crevada,San Pietro di Feletto,"Via Crevada, 31020, San Pietro di Feletto, TV","{'type': 'Point', 'coordinates': [12.253908936059092, 45.86915459558006]}","Crevada, San Pietro di Feletto, TV, Veneto",POINT
+Comune di San Pietro di Feletto,San Michele di Feletto,San Pietro di Feletto,"San Michele, San Pietro di Feletto, TV","{'type': 'Point', 'coordinates': [12.249870000000044, 45.882570000000044]}","San Michele di Feletto, San Pietro di Feletto, TV, Veneto",POINT
+Comune di San Pietro di Feletto,Santa Maria di Feletto,San Pietro di Feletto,"Santa Maria, San Pietro di Feletto, TV","{'type': 'Point', 'coordinates': [12.23518000000007, 45.898100000000056]}","Santa Maria di Feletto, San Pietro di Feletto, TV, Veneto",POINT
+Comune di San Pietro di Feletto,Bagnolo,San Pietro di Feletto,"Bagnolo, San Pietro di Feletto, TV","{'type': 'Point', 'coordinates': [12.27395000000007, 45.91133000000008]}","Bagnolo, San Pietro di Feletto, TV, Veneto",POINT
+Comune di Santa Lucia di Piave,Comune,Santa Lucia di Piave,"Santa Lucia di Piave, TV","{'type': 'Point', 'coordinates': [12.289300000000026, 45.851410000000044]}",", Santa Lucia di Piave, TV, Veneto",POINT
+frazione di Santa Maria del Piave,Santa Maria del Piave,Mareno di Piave,"Santa Maria del Piave, Mareno di Piave, TV","{'type': 'Point', 'coordinates': [12.304380000000037, 45.81976000000003]}","Santa Maria del Piave, Mareno di Piave, TV, Veneto",POINT
+Comune di Susegana,Crevada,Susegana,"Crevada, Susegana, TV","{'type': 'Point', 'coordinates': [12.238260000000025, 45.87518000000006]}","Crevada, Susegana, TV, Veneto",POINT
+Comune di Susegana,Comune,Susegana,"Susegana, TV","{'type': 'Point', 'coordinates': [12.248560000000055, 45.85101000000003]}",", Susegana, TV, Veneto",POINT
+Comune di Susegana,Ponte della Priula,Susegana,"Ponte della Priula, Susegana, TV","{'type': 'Point', 'coordinates': [12.248880000000042, 45.82427000000007]}","Ponte della Priula, Susegana, TV, Veneto",POINT
+Comune di Susegana,Colfosco,Susegana,"Colfosco, Susegana, TV","{'type': 'Point', 'coordinates': [12.221420000000023, 45.83388000000008]}","Colfosco, Susegana, TV, Veneto",POINT
+Comune di Susegana,Collalto,Susegana,"Collalto, Susegana, TV","{'type': 'Point', 'coordinates': [12.197950000000048, 45.87244000000004]}","Collalto, Susegana, TV, Veneto",POINT
+Comune di Vittorio Veneto,via Dalmazia,Vittorio Veneto,"Via Dalmazia, 31029, Vittorio Veneto, TV","{'type': 'Point', 'coordinates': [12.308612818911122, 45.988340318572064]}","via Dalmazia, Vittorio Veneto, TV, Veneto",POINT
+Comune di Vittorio Veneto,San Giacomo di Veglia,Vittorio Veneto,"San Giacomo di Veglia, Vittorio Veneto, TV","{'type': 'Point', 'coordinates': [12.32069000000007, 45.96466000000004]}","San Giacomo di Veglia, Vittorio Veneto, TV, Veneto",POINT
+Comune di Vittorio Veneto,Fadalto Basso,Vittorio Veneto,"Via Fadalto Basso, 31029, Vittorio Veneto, TV","{'type': 'Point', 'coordinates': [12.335531811356299, 46.068606870412495]}","Fadalto Basso, Vittorio Veneto, TV, Veneto",POINT
+Comune di Vittorio Veneto,Nove,Vittorio Veneto,"Nove, Vittorio Veneto, TV","{'type': 'Point', 'coordinates': [12.310320000000047, 46.047780000000046]}","Nove, Vittorio Veneto, TV, Veneto",POINT
+Comune di Vittorio Veneto,Maren,Vittorio Veneto,"Maren, Vittorio Veneto, TV","{'type': 'Point', 'coordinates': [12.303770000000043, 46.02206000000007]}","Maren, Vittorio Veneto, TV, Veneto",POINT
+Comune di Vittorio Veneto,Forcal,Vittorio Veneto,"Via Forcal, 31029, Vittorio Veneto, TV","{'type': 'Point', 'coordinates': [12.28536632093706, 46.01509461927273]}","Forcal, Vittorio Veneto, TV, Veneto",POINT
+Comune di Vittorio Veneto,Longhere,Vittorio Veneto,"Longhere, Vittorio Veneto, TV","{'type': 'Point', 'coordinates': [12.272800000000075, 46.00621000000007]}","Longhere, Vittorio Veneto, TV, Veneto",POINT
+Comune di Vittorio Veneto,Bibanel,Vittorio Veneto,"Via Bibanel, 31029, Vittorio Veneto, TV","{'type': 'Point', 'coordinates': [12.321787500000017, 45.99054450000001]}","Bibanel, Vittorio Veneto, TV, Veneto",POINT
+Comune di Vittorio Veneto,Borgo Masotto,Cappella Maggiore,"Borgo Masotto, 31012, Cappella Maggiore, TV","{'type': 'Point', 'coordinates': [12.329024681707438, 45.987939249497906]}","Borgo MasottoComune di Vittorio Veneto, Cappella Maggiore, TV, Veneto",POINT

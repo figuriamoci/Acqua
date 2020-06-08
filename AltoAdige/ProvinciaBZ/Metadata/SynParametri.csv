@@ -1,0 +1,21 @@
+parametro,syn0,syn1,syn2,syn3,syn4,syn5,syn6,syn7,syn8,syn9
+residuo_fisso,
+durezza,Durezza totale F°
+ph,pH
+calcio,
+sodio,Sodiomg/L
+magnesio,
+potassio,
+solfato,Solfati mg/L
+nitrato,Nitrati NO3 mg/L
+nitrito,Nitriti NO2 mg/L
+cloruro,Cloruri mg/L
+conducibilita,Conduc. Elettr. Spec.µS/cm
+fluoruri,Fluoruri mg/L
+ammoniaca,Ammonio NH4 mg/L
+manganese,
+arsenico,Arsenico µg/L
+bicarbonato,
+cloro_residuo,
+ferro,Ferro µg/L
+cromo,Cromo µg/L
